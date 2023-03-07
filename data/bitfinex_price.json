@@ -1,0 +1,282 @@
+[
+    {
+        "symbol": "USTUSDT",
+        "ask_price": 1.0005,
+        "bid_price": 1.0004,
+        "volume": 13223210.992039876,
+        "link": "https://trading.bitfinex.com/t/UST:UST?type=exchange"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "ask_price": 22255,
+        "bid_price": 22251,
+        "volume": 3789236.8685646,
+        "link": "https://trading.bitfinex.com/t/BTC:UST?type=exchange"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "ask_price": 1554,
+        "bid_price": 1553.5,
+        "volume": 1308765.17987376,
+        "link": "https://trading.bitfinex.com/t/ETH:UST?type=exchange"
+    },
+    {
+        "symbol": "LTCUSDT",
+        "ask_price": 85.788,
+        "bid_price": 85.76,
+        "volume": 360168.23601572216,
+        "link": "https://trading.bitfinex.com/t/LTC:UST?type=exchange"
+    },
+    {
+        "symbol": "UDCUSDT",
+        "ask_price": 1.0001,
+        "bid_price": 0.99986,
+        "volume": 394101.03016425023,
+        "link": "https://trading.bitfinex.com/t/UDC:UST?type=exchange"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "ask_price": 0.32607,
+        "bid_price": 0.32595,
+        "volume": 239813.59750048813,
+        "link": "https://trading.bitfinex.com/t/ADA:UST?type=exchange"
+    },
+    {
+        "symbol": "XMRUSDT",
+        "ask_price": 150.66,
+        "bid_price": 150.43,
+        "volume": 528037.818806403,
+        "link": "https://trading.bitfinex.com/t/XMR:UST?type=exchange"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "ask_price": 0.37608,
+        "bid_price": 0.37575,
+        "volume": 216212.25757542922,
+        "link": "https://trading.bitfinex.com/t/XRP:UST?type=exchange"
+    },
+    {
+        "symbol": "SOLUSDT",
+        "ask_price": 20.198,
+        "bid_price": 20.179,
+        "volume": 114949.3242153053,
+        "link": "https://trading.bitfinex.com/t/SOL:UST?type=exchange"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "ask_price": 0.073478,
+        "bid_price": 0.073441,
+        "volume": 895205.1337243,
+        "link": "https://trading.bitfinex.com/t/DOGE:UST?type=exchange"
+    },
+    {
+        "symbol": "PLANETSUSDT",
+        "ask_price": 0.0036358,
+        "bid_price": 0.0036265,
+        "volume": 492428.54863616,
+        "link": "https://trading.bitfinex.com/t/PLANETS:UST?type=exchange"
+    },
+    {
+        "symbol": "REEFUSDT",
+        "ask_price": 0.0028161,
+        "bid_price": 0.0028094,
+        "volume": 2480114.78494049,
+        "link": "https://trading.bitfinex.com/t/REEF:UST?type=exchange"
+    },
+    {
+        "symbol": "EURUSDT",
+        "ask_price": 1.0574,
+        "bid_price": 1.0572,
+        "volume": 4327460.081591996,
+        "link": "https://trading.bitfinex.com/t/EUR:UST?type=exchange"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "ask_price": 1.1326,
+        "bid_price": 1.1316,
+        "volume": 138902.38997129,
+        "link": "https://trading.bitfinex.com/t/MATIC:UST?type=exchange"
+    },
+    {
+        "symbol": "JASMYUSDT",
+        "ask_price": 0.005255,
+        "bid_price": 0.0052426,
+        "volume": 1642234.28789897,
+        "link": "https://trading.bitfinex.com/t/JASMY:UST?type=exchange"
+    },
+    {
+        "symbol": "SHIBUSDT",
+        "ask_price": 1.073e-05,
+        "bid_price": 1.071e-05,
+        "volume": 1946618743.3867788,
+        "link": "https://trading.bitfinex.com/t/SHIB:UST?type=exchange"
+    },
+    {
+        "symbol": "CCDUSDT",
+        "ask_price": 0.010902,
+        "bid_price": 0.010897,
+        "volume": 109472.02744923158,
+        "link": "https://trading.bitfinex.com/t/CCD:UST?type=exchange"
+    },
+    {
+        "symbol": "GBPUSDT",
+        "ask_price": 1.1865,
+        "bid_price": 1.1856,
+        "volume": 375574.5327076409,
+        "link": "https://trading.bitfinex.com/t/GBP:UST?type=exchange"
+    },
+    {
+        "symbol": "GALAUSDT",
+        "ask_price": 0.037235,
+        "bid_price": 0.037195,
+        "volume": 2066148.05751806,
+        "link": "https://trading.bitfinex.com/t/GALA:UST?type=exchange"
+    },
+    {
+        "symbol": "CONVUSDT",
+        "ask_price": 0.00071341,
+        "bid_price": 0.00070309,
+        "volume": 304897.7538082,
+        "link": "https://trading.bitfinex.com/t/CONV:UST?type=exchange"
+    },
+    {
+        "symbol": "APENFTUSDT",
+        "ask_price": 4.6e-07,
+        "bid_price": 4.4e-07,
+        "volume": 15657636.61119489,
+        "link": "https://trading.bitfinex.com/t/APENFT:UST?type=exchange"
+    },
+    {
+        "symbol": "SWEATUSDT",
+        "ask_price": 0.010472,
+        "bid_price": 0.010386,
+        "volume": 535809.98418027,
+        "link": "https://trading.bitfinex.com/t/SWEAT:UST?type=exchange"
+    },
+    {
+        "symbol": "SMRUSDT",
+        "ask_price": 0.075709,
+        "bid_price": 0.075382,
+        "volume": 476550.05651148065,
+        "link": "https://trading.bitfinex.com/t/SMR:UST?type=exchange"
+    },
+    {
+        "symbol": "TREEBUSDT",
+        "ask_price": 0.01917,
+        "bid_price": 0.01896,
+        "volume": 475444.02489626,
+        "link": "https://trading.bitfinex.com/t/TREEB:UST?type=exchange"
+    },
+    {
+        "symbol": "APTUSDT",
+        "ask_price": 11.001,
+        "bid_price": 10.979,
+        "volume": 141882.87492427576,
+        "link": "https://trading.bitfinex.com/t/APT:UST?type=exchange"
+    },
+    {
+        "symbol": "EOSUSDT",
+        "ask_price": 1.1736,
+        "bid_price": 1.1732,
+        "volume": 308933.93192991,
+        "link": "https://trading.bitfinex.com/t/EOS:UST?type=exchange"
+    },
+    {
+        "symbol": "IOTUSDT",
+        "ask_price": 0.20602,
+        "bid_price": 0.20583,
+        "volume": 375924.49331993,
+        "link": "https://trading.bitfinex.com/t/IOT:UST?type=exchange"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "ask_price": 0.32601,
+        "bid_price": 0.32595,
+        "volume": 2682868.79134785,
+        "link": "https://trading.bitfinex.com/t/ADA:UST?type=exchange"
+    },
+    {
+        "symbol": "XLMUSDT",
+        "ask_price": 0.08217,
+        "bid_price": 0.082108,
+        "volume": 317557.03732038,
+        "link": "https://trading.bitfinex.com/t/XLM:UST?type=exchange"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "ask_price": 0.073504,
+        "bid_price": 0.073458,
+        "volume": 477363.49208375,
+        "link": "https://trading.bitfinex.com/t/DOGE:UST?type=exchange"
+    },
+    {
+        "symbol": "SUSHIUSDT",
+        "ask_price": 1.1812,
+        "bid_price": 1.1802,
+        "volume": 109601.10548788,
+        "link": "https://trading.bitfinex.com/t/SUSHI:UST?type=exchange"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "ask_price": 0.376,
+        "bid_price": 0.37591,
+        "volume": 1037339.00701966,
+        "link": "https://trading.bitfinex.com/t/XRP:UST?type=exchange"
+    },
+    {
+        "symbol": "ALGUSDT",
+        "ask_price": 0.21433,
+        "bid_price": 0.21409,
+        "volume": 365991.35827793,
+        "link": "https://trading.bitfinex.com/t/ALG:UST?type=exchange"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "ask_price": 1.1322,
+        "bid_price": 1.1316,
+        "volume": 175856.8759361,
+        "link": "https://trading.bitfinex.com/t/MATIC:UST?type=exchange"
+    },
+    {
+        "symbol": "FTMUSDT",
+        "ask_price": 0.39907,
+        "bid_price": 0.3989,
+        "volume": 520652.38669956,
+        "link": "https://trading.bitfinex.com/t/FTM:UST?type=exchange"
+    },
+    {
+        "symbol": "TRXUSDT",
+        "ask_price": 0.066305,
+        "bid_price": 0.066236,
+        "volume": 545536.95375997,
+        "link": "https://trading.bitfinex.com/t/TRX:UST?type=exchange"
+    },
+    {
+        "symbol": "SHIBUSDT",
+        "ask_price": 1.072e-05,
+        "bid_price": 1.071e-05,
+        "volume": 1252536805.6247332,
+        "link": "https://trading.bitfinex.com/t/SHIB:UST?type=exchange"
+    },
+    {
+        "symbol": "CRVUSDT",
+        "ask_price": 0.9713,
+        "bid_price": 0.96964,
+        "volume": 176128.833465,
+        "link": "https://trading.bitfinex.com/t/CRV:UST?type=exchange"
+    },
+    {
+        "symbol": "GALAUSDT",
+        "ask_price": 0.037222,
+        "bid_price": 0.037185,
+        "volume": 2762055.24130472,
+        "link": "https://trading.bitfinex.com/t/GALA:UST?type=exchange"
+    },
+    {
+        "symbol": "JASMYUSDT",
+        "ask_price": 0.0052523,
+        "bid_price": 0.0052476,
+        "volume": 3403645.51983153,
+        "link": "https://trading.bitfinex.com/t/JASMY:UST?type=exchange"
+    }
+]

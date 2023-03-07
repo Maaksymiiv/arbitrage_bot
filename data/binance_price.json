@@ -1,0 +1,2403 @@
+[
+    {
+        "symbol": "BTCUSDT",
+        "bid_price": "22249.07000000",
+        "ask_price": "22249.64000000",
+        "volume": 5874998787.450975,
+        "link": "https://www.binance.com/ru/trade/BTCUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "bid_price": "1553.83000000",
+        "ask_price": "1553.84000000",
+        "volume": 616504359.5942459,
+        "link": "https://www.binance.com/ru/trade/ETHUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "bid_price": "287.20000000",
+        "ask_price": "287.30000000",
+        "volume": 56958659.98,
+        "link": "https://www.binance.com/ru/trade/BNBUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "NEOUSDT",
+        "bid_price": "11.64000000",
+        "ask_price": "11.65000000",
+        "volume": 10162803.0565,
+        "link": "https://www.binance.com/ru/trade/NEOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LTCUSDT",
+        "bid_price": "85.78000000",
+        "ask_price": "85.79000000",
+        "volume": 54347571.91022,
+        "link": "https://www.binance.com/ru/trade/LTCUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "QTUMUSDT",
+        "bid_price": "2.93200000",
+        "ask_price": "2.93400000",
+        "volume": 1808469.7926,
+        "link": "https://www.binance.com/ru/trade/QTUMUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "bid_price": "0.32590000",
+        "ask_price": "0.32600000",
+        "volume": 29012898.8372,
+        "link": "https://www.binance.com/ru/trade/ADAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "bid_price": "0.37580000",
+        "ask_price": "0.37590000",
+        "volume": 196353089.2533,
+        "link": "https://www.binance.com/ru/trade/XRPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "EOSUSDT",
+        "bid_price": "1.17300000",
+        "ask_price": "1.17400000",
+        "volume": 16137581.2922,
+        "link": "https://www.binance.com/ru/trade/EOSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "IOTAUSDT",
+        "bid_price": "0.20590000",
+        "ask_price": "0.20600000",
+        "volume": 2571639.3191,
+        "link": "https://www.binance.com/ru/trade/IOTAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "XLMUSDT",
+        "bid_price": "0.08210000",
+        "ask_price": "0.08220000",
+        "volume": 3514471.2842,
+        "link": "https://www.binance.com/ru/trade/XLMUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ONTUSDT",
+        "bid_price": "0.21490000",
+        "ask_price": "0.21500000",
+        "volume": 2924834.7737000003,
+        "link": "https://www.binance.com/ru/trade/ONTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "TRXUSDT",
+        "bid_price": "0.06625000",
+        "ask_price": "0.06626000",
+        "volume": 21901284.094875,
+        "link": "https://www.binance.com/ru/trade/TRXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ETCUSDT",
+        "bid_price": "19.26000000",
+        "ask_price": "19.27000000",
+        "volume": 7827262.4592,
+        "link": "https://www.binance.com/ru/trade/ETCUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ICXUSDT",
+        "bid_price": "0.21500000",
+        "ask_price": "0.21510000",
+        "volume": 1345263.4263199999,
+        "link": "https://www.binance.com/ru/trade/ICXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "NULSUSDT",
+        "bid_price": "0.23880000",
+        "ask_price": "0.23940000",
+        "volume": 238915.4544,
+        "link": "https://www.binance.com/ru/trade/NULSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "VETUSDT",
+        "bid_price": "0.02354000",
+        "ask_price": "0.02356000",
+        "volume": 6780196.859744,
+        "link": "https://www.binance.com/ru/trade/VETUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LINKUSDT",
+        "bid_price": "6.73700000",
+        "ask_price": "6.73800000",
+        "volume": 22657149.986399997,
+        "link": "https://www.binance.com/ru/trade/LINKUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "WAVESUSDT",
+        "bid_price": "2.26300000",
+        "ask_price": "2.26400000",
+        "volume": 6252872.62474,
+        "link": "https://www.binance.com/ru/trade/WAVESUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ONGUSDT",
+        "bid_price": "0.28870000",
+        "ask_price": "0.28920000",
+        "volume": 473579.46,
+        "link": "https://www.binance.com/ru/trade/ONGUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "HOTUSDT",
+        "bid_price": "0.00175200",
+        "ask_price": "0.00175300",
+        "volume": 2796361.804778,
+        "link": "https://www.binance.com/ru/trade/HOTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ZILUSDT",
+        "bid_price": "0.02635000",
+        "ask_price": "0.02636000",
+        "volume": 4562450.99629,
+        "link": "https://www.binance.com/ru/trade/ZILUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ZRXUSDT",
+        "bid_price": "0.23130000",
+        "ask_price": "0.23140000",
+        "volume": 1002092.1980000001,
+        "link": "https://www.binance.com/ru/trade/ZRXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FETUSDT",
+        "bid_price": "0.39400000",
+        "ask_price": "0.39420000",
+        "volume": 22181441.2449,
+        "link": "https://www.binance.com/ru/trade/FETUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BATUSDT",
+        "bid_price": "0.24620000",
+        "ask_price": "0.24640000",
+        "volume": 2431681.088,
+        "link": "https://www.binance.com/ru/trade/BATUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "XMRUSDT",
+        "bid_price": "150.80000000",
+        "ask_price": "150.90000000",
+        "volume": 11216654.284500001,
+        "link": "https://www.binance.com/ru/trade/XMRUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ZECUSDT",
+        "bid_price": "37.00000000",
+        "ask_price": "37.10000000",
+        "volume": 3554828.9903,
+        "link": "https://www.binance.com/ru/trade/ZECUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "IOSTUSDT",
+        "bid_price": "0.01005000",
+        "ask_price": "0.01006000",
+        "volume": 2215697.9483,
+        "link": "https://www.binance.com/ru/trade/IOSTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CELRUSDT",
+        "bid_price": "0.01686000",
+        "ask_price": "0.01688000",
+        "volume": 1442785.398381,
+        "link": "https://www.binance.com/ru/trade/CELRUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DASHUSDT",
+        "bid_price": "61.19000000",
+        "ask_price": "61.21000000",
+        "volume": 8409750.36412,
+        "link": "https://www.binance.com/ru/trade/DASHUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "OMGUSDT",
+        "bid_price": "1.44900000",
+        "ask_price": "1.45100000",
+        "volume": 1188512.3843999999,
+        "link": "https://www.binance.com/ru/trade/OMGUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "THETAUSDT",
+        "bid_price": "0.98800000",
+        "ask_price": "0.98900000",
+        "volume": 3063726.6725,
+        "link": "https://www.binance.com/ru/trade/THETAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ENJUSDT",
+        "bid_price": "0.43420000",
+        "ask_price": "0.43430000",
+        "volume": 6284754.94083,
+        "link": "https://www.binance.com/ru/trade/ENJUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "bid_price": "1.13180000",
+        "ask_price": "1.13190000",
+        "volume": 79804537.67879999,
+        "link": "https://www.binance.com/ru/trade/MATICUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ATOMUSDT",
+        "bid_price": "11.63000000",
+        "ask_price": "11.63100000",
+        "volume": 11961899.27487,
+        "link": "https://www.binance.com/ru/trade/ATOMUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "TFUELUSDT",
+        "bid_price": "0.05120000",
+        "ask_price": "0.05140000",
+        "volume": 1397266.5132,
+        "link": "https://www.binance.com/ru/trade/TFUELUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ONEUSDT",
+        "bid_price": "0.01864000",
+        "ask_price": "0.01865000",
+        "volume": 3107945.898855,
+        "link": "https://www.binance.com/ru/trade/ONEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FTMUSDT",
+        "bid_price": "0.39890000",
+        "ask_price": "0.39900000",
+        "volume": 44650423.535299994,
+        "link": "https://www.binance.com/ru/trade/FTMUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ALGOUSDT",
+        "bid_price": "0.21410000",
+        "ask_price": "0.21420000",
+        "volume": 8298123.5285,
+        "link": "https://www.binance.com/ru/trade/ALGOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "bid_price": "0.07346000",
+        "ask_price": "0.07347000",
+        "volume": 49016888.7468,
+        "link": "https://www.binance.com/ru/trade/DOGEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DUSKUSDT",
+        "bid_price": "0.17840000",
+        "ask_price": "0.17850000",
+        "volume": 3895916.148,
+        "link": "https://www.binance.com/ru/trade/DUSKUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ANKRUSDT",
+        "bid_price": "0.03214000",
+        "ask_price": "0.03216000",
+        "volume": 7479740.86392,
+        "link": "https://www.binance.com/ru/trade/ANKRUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "WINUSDT",
+        "bid_price": "0.00009000",
+        "ask_price": "0.00009010",
+        "volume": 2250250.2312013,
+        "link": "https://www.binance.com/ru/trade/WINUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "COSUSDT",
+        "bid_price": "0.00647000",
+        "ask_price": "0.00648000",
+        "volume": 638305.782867,
+        "link": "https://www.binance.com/ru/trade/COSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "COCOSUSDT",
+        "bid_price": "1.49120000",
+        "ask_price": "1.49150000",
+        "volume": 6744074.2434,
+        "link": "https://www.binance.com/ru/trade/COCOSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "MTLUSDT",
+        "bid_price": "1.11200000",
+        "ask_price": "1.11400000",
+        "volume": 1338566.7015,
+        "link": "https://www.binance.com/ru/trade/MTLUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "TOMOUSDT",
+        "bid_price": "0.36160000",
+        "ask_price": "0.36200000",
+        "volume": 698853.3803999999,
+        "link": "https://www.binance.com/ru/trade/TOMOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "PERLUSDT",
+        "bid_price": "0.03635000",
+        "ask_price": "0.03638000",
+        "volume": 27732331.3108,
+        "link": "https://www.binance.com/ru/trade/PERLUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DENTUSDT",
+        "bid_price": "0.00100900",
+        "ask_price": "0.00101000",
+        "volume": 2623103.6139100003,
+        "link": "https://www.binance.com/ru/trade/DENTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "KEYUSDT",
+        "bid_price": "0.00000000",
+        "ask_price": "0.00000000",
+        "volume": 3697090.2863180004,
+        "link": "https://www.binance.com/ru/trade/KEYUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DOCKUSDT",
+        "bid_price": "0.02412000",
+        "ask_price": "0.02417000",
+        "volume": 602660.8208400001,
+        "link": "https://www.binance.com/ru/trade/DOCKUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "WANUSDT",
+        "bid_price": "0.25200000",
+        "ask_price": "0.25210000",
+        "volume": 480194.78589999996,
+        "link": "https://www.binance.com/ru/trade/WANUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FUNUSDT",
+        "bid_price": "0.00665000",
+        "ask_price": "0.00667000",
+        "volume": 167402.95705,
+        "link": "https://www.binance.com/ru/trade/FUNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CHZUSDT",
+        "bid_price": "0.11980000",
+        "ask_price": "0.11990000",
+        "volume": 7054254.2018,
+        "link": "https://www.binance.com/ru/trade/CHZUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BANDUSDT",
+        "bid_price": "1.66800000",
+        "ask_price": "1.66900000",
+        "volume": 2929165.9325,
+        "link": "https://www.binance.com/ru/trade/BANDUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BUSDUSDT",
+        "bid_price": "1.00000000",
+        "ask_price": "1.00010000",
+        "volume": 588209468.0653,
+        "link": "https://www.binance.com/ru/trade/BUSDUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BEAMUSDT",
+        "bid_price": "0.00000000",
+        "ask_price": "0.00000000",
+        "volume": 3297914.6476,
+        "link": "https://www.binance.com/ru/trade/BEAMUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "XTZUSDT",
+        "bid_price": "1.09400000",
+        "ask_price": "1.09500000",
+        "volume": 2047235.433,
+        "link": "https://www.binance.com/ru/trade/XTZUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "RENUSDT",
+        "bid_price": "0.11905400",
+        "ask_price": "0.11919900",
+        "volume": 19146226.69344,
+        "link": "https://www.binance.com/ru/trade/RENUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "RVNUSDT",
+        "bid_price": "0.02527000",
+        "ask_price": "0.02528000",
+        "volume": 2675541.7272,
+        "link": "https://www.binance.com/ru/trade/RVNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "HBARUSDT",
+        "bid_price": "0.06270000",
+        "ask_price": "0.06280000",
+        "volume": 3718628.7123999996,
+        "link": "https://www.binance.com/ru/trade/HBARUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "NKNUSDT",
+        "bid_price": "0.10320000",
+        "ask_price": "0.10330000",
+        "volume": 700533.2422000001,
+        "link": "https://www.binance.com/ru/trade/NKNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "STXUSDT",
+        "bid_price": "0.67050000",
+        "ask_price": "0.67070000",
+        "volume": 23712449.496839996,
+        "link": "https://www.binance.com/ru/trade/STXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "KAVAUSDT",
+        "bid_price": "0.78600000",
+        "ask_price": "0.78700000",
+        "volume": 4841019.2736,
+        "link": "https://www.binance.com/ru/trade/KAVAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ARPAUSDT",
+        "bid_price": "0.03711000",
+        "ask_price": "0.03713000",
+        "volume": 1412712.7075840002,
+        "link": "https://www.binance.com/ru/trade/ARPAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "IOTXUSDT",
+        "bid_price": "0.02401000",
+        "ask_price": "0.02402000",
+        "volume": 2506631.92297,
+        "link": "https://www.binance.com/ru/trade/IOTXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "RLCUSDT",
+        "bid_price": "1.64000000",
+        "ask_price": "1.64100000",
+        "volume": 1724419.164,
+        "link": "https://www.binance.com/ru/trade/RLCUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CTXCUSDT",
+        "bid_price": "0.22970000",
+        "ask_price": "0.23000000",
+        "volume": 1142503.9131,
+        "link": "https://www.binance.com/ru/trade/CTXCUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BCHUSDT",
+        "bid_price": "122.20000000",
+        "ask_price": "122.30000000",
+        "volume": 2943177.5067,
+        "link": "https://www.binance.com/ru/trade/BCHUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "TROYUSDT",
+        "bid_price": "0.00380700",
+        "ask_price": "0.00381100",
+        "volume": 3138185.429109,
+        "link": "https://www.binance.com/ru/trade/TROYUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "VITEUSDT",
+        "bid_price": "0.02341000",
+        "ask_price": "0.02345000",
+        "volume": 398221.31892399996,
+        "link": "https://www.binance.com/ru/trade/VITEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BUSDTRY",
+        "bid_price": "19.36000000",
+        "ask_price": "19.37000000",
+        "volume": 271070733.83000004,
+        "link": "https://www.binance.com/ru/trade/BUSDTRY?theme=dark&type=spot"
+    },
+    {
+        "symbol": "USDTTRY",
+        "bid_price": "19.36000000",
+        "ask_price": "19.37000000",
+        "volume": 1168272514.3700001,
+        "link": "https://www.binance.com/ru/trade/USDTTRY?theme=dark&type=spot"
+    },
+    {
+        "symbol": "USDTRUB",
+        "bid_price": "77.11000000",
+        "ask_price": "77.12000000",
+        "volume": 52366485.120000005,
+        "link": "https://www.binance.com/ru/trade/USDTRUB?theme=dark&type=spot"
+    },
+    {
+        "symbol": "EURUSDT",
+        "bid_price": "1.05390000",
+        "ask_price": "1.05400000",
+        "volume": 25866130.9448,
+        "link": "https://www.binance.com/ru/trade/EURUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "OGNUSDT",
+        "bid_price": "0.11900000",
+        "ask_price": "0.11910000",
+        "volume": 1418653.695,
+        "link": "https://www.binance.com/ru/trade/OGNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DREPUSDT",
+        "bid_price": "0.48860000",
+        "ask_price": "0.49030000",
+        "volume": 961006.285,
+        "link": "https://www.binance.com/ru/trade/DREPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "WRXUSDT",
+        "bid_price": "0.16310000",
+        "ask_price": "0.16330000",
+        "volume": 510558.16032,
+        "link": "https://www.binance.com/ru/trade/WRXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BTSUSDT",
+        "bid_price": "0.01113000",
+        "ask_price": "0.01114000",
+        "volume": 406765.936385,
+        "link": "https://www.binance.com/ru/trade/BTSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LSKUSDT",
+        "bid_price": "1.00800000",
+        "ask_price": "1.01100000",
+        "volume": 196701.035,
+        "link": "https://www.binance.com/ru/trade/LSKUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BNTUSDT",
+        "bid_price": "0.43200000",
+        "ask_price": "0.43300000",
+        "volume": 302646.8448,
+        "link": "https://www.binance.com/ru/trade/BNTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LTOUSDT",
+        "bid_price": "0.11410000",
+        "ask_price": "0.11420000",
+        "volume": 2326543.5816,
+        "link": "https://www.binance.com/ru/trade/LTOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "AIONUSDT",
+        "bid_price": "0.00000000",
+        "ask_price": "0.00000000",
+        "volume": 4331543.29873,
+        "link": "https://www.binance.com/ru/trade/AIONUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "MBLUSDT",
+        "bid_price": "0.00332800",
+        "ask_price": "0.00333300",
+        "volume": 416156.389801,
+        "link": "https://www.binance.com/ru/trade/MBLUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "COTIUSDT",
+        "bid_price": "0.07890000",
+        "ask_price": "0.07900000",
+        "volume": 1396325.1756,
+        "link": "https://www.binance.com/ru/trade/COTIUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "STPTUSDT",
+        "bid_price": "0.04513000",
+        "ask_price": "0.04519000",
+        "volume": 468594.43158599996,
+        "link": "https://www.binance.com/ru/trade/STPTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "WTCUSDT",
+        "bid_price": "0.21860000",
+        "ask_price": "0.21900000",
+        "volume": 604765.6068,
+        "link": "https://www.binance.com/ru/trade/WTCUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DATAUSDT",
+        "bid_price": "0.03805000",
+        "ask_price": "0.03810000",
+        "volume": 989739.42084,
+        "link": "https://www.binance.com/ru/trade/DATAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SOLUSDT",
+        "bid_price": "20.18000000",
+        "ask_price": "20.19000000",
+        "volume": 56873884.336500004,
+        "link": "https://www.binance.com/ru/trade/SOLUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "USDTIDRT",
+        "bid_price": "15397.00",
+        "ask_price": "15400.00",
+        "volume": 1035227040.0,
+        "link": "https://www.binance.com/ru/trade/USDTIDRT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CTSIUSDT",
+        "bid_price": "0.13970000",
+        "ask_price": "0.13980000",
+        "volume": 762554.0586,
+        "link": "https://www.binance.com/ru/trade/CTSIUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "HIVEUSDT",
+        "bid_price": "0.38990000",
+        "ask_price": "0.39040000",
+        "volume": 451873.4353,
+        "link": "https://www.binance.com/ru/trade/HIVEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BTCUPUSDT",
+        "bid_price": "4.09300000",
+        "ask_price": "4.10000000",
+        "volume": 242324.3277,
+        "link": "https://www.binance.com/ru/trade/BTCUPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BTCDOWNUSDT",
+        "bid_price": "0.01717900",
+        "ask_price": "0.01718700",
+        "volume": 656890.43915957,
+        "link": "https://www.binance.com/ru/trade/BTCDOWNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ARDRUSDT",
+        "bid_price": "0.09250000",
+        "ask_price": "0.09270000",
+        "volume": 656751.2025,
+        "link": "https://www.binance.com/ru/trade/ARDRUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "MDTUSDT",
+        "bid_price": "0.07722000",
+        "ask_price": "0.07727000",
+        "volume": 43084400.669512,
+        "link": "https://www.binance.com/ru/trade/MDTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "STMXUSDT",
+        "bid_price": "0.00601700",
+        "ask_price": "0.00602500",
+        "volume": 1825515.31635,
+        "link": "https://www.binance.com/ru/trade/STMXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "KNCUSDT",
+        "bid_price": "0.71300000",
+        "ask_price": "0.71400000",
+        "volume": 2204342.8386,
+        "link": "https://www.binance.com/ru/trade/KNCUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LRCUSDT",
+        "bid_price": "0.31880000",
+        "ask_price": "0.31890000",
+        "volume": 3856911.5796,
+        "link": "https://www.binance.com/ru/trade/LRCUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "PNTUSDT",
+        "bid_price": "0.26050000",
+        "ask_price": "0.26130000",
+        "volume": 6397784.8224,
+        "link": "https://www.binance.com/ru/trade/PNTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "USDTUAH",
+        "bid_price": "38.48000000",
+        "ask_price": "38.49000000",
+        "volume": 20244135.599999998,
+        "link": "https://www.binance.com/ru/trade/USDTUAH?theme=dark&type=spot"
+    },
+    {
+        "symbol": "COMPUSDT",
+        "bid_price": "45.07000000",
+        "ask_price": "45.10000000",
+        "volume": 2345554.79367,
+        "link": "https://www.binance.com/ru/trade/COMPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "USDTBIDR",
+        "bid_price": "15417.00",
+        "ask_price": "15418.00",
+        "volume": 98690747511.20001,
+        "link": "https://www.binance.com/ru/trade/USDTBIDR?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SCUSDT",
+        "bid_price": "0.00374000",
+        "ask_price": "0.00375000",
+        "volume": 529892.7075,
+        "link": "https://www.binance.com/ru/trade/SCUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ZENUSDT",
+        "bid_price": "10.70000000",
+        "ask_price": "10.71000000",
+        "volume": 2199100.4721000004,
+        "link": "https://www.binance.com/ru/trade/ZENUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SNXUSDT",
+        "bid_price": "2.92800000",
+        "ask_price": "2.92900000",
+        "volume": 19068825.976200003,
+        "link": "https://www.binance.com/ru/trade/SNXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ETHUPUSDT",
+        "bid_price": "4.02200000",
+        "ask_price": "4.03000000",
+        "volume": 459492.50240999996,
+        "link": "https://www.binance.com/ru/trade/ETHUPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ETHDOWNUSDT",
+        "bid_price": "0.45740000",
+        "ask_price": "0.45780000",
+        "volume": 1428634.5563059999,
+        "link": "https://www.binance.com/ru/trade/ETHDOWNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ADAUPUSDT",
+        "bid_price": "0.34900000",
+        "ask_price": "0.35000000",
+        "volume": 403785.62639999995,
+        "link": "https://www.binance.com/ru/trade/ADAUPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ADADOWNUSDT",
+        "bid_price": "0.00352400",
+        "ask_price": "0.00352700",
+        "volume": 1052010.54620685,
+        "link": "https://www.binance.com/ru/trade/ADADOWNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LINKUPUSDT",
+        "bid_price": "0.00676000",
+        "ask_price": "0.00678000",
+        "volume": 452744.010645,
+        "link": "https://www.binance.com/ru/trade/LINKUPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LINKDOWNUSDT",
+        "bid_price": "0.00171900",
+        "ask_price": "0.00172100",
+        "volume": 682637.44871312,
+        "link": "https://www.binance.com/ru/trade/LINKDOWNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "VTHOUSDT",
+        "bid_price": "0.00140000",
+        "ask_price": "0.00140300",
+        "volume": 703030.1552929999,
+        "link": "https://www.binance.com/ru/trade/VTHOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DGBUSDT",
+        "bid_price": "0.01014000",
+        "ask_price": "0.01015000",
+        "volume": 622675.040286,
+        "link": "https://www.binance.com/ru/trade/DGBUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "GBPUSDT",
+        "bid_price": "1.18400000",
+        "ask_price": "1.18500000",
+        "volume": 4188308.2399999998,
+        "link": "https://www.binance.com/ru/trade/GBPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SXPUSDT",
+        "bid_price": "0.27390000",
+        "ask_price": "0.27400000",
+        "volume": 1652064.9982,
+        "link": "https://www.binance.com/ru/trade/SXPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "MKRUSDT",
+        "bid_price": "908.00000000",
+        "ask_price": "909.00000000",
+        "volume": 11340537.651,
+        "link": "https://www.binance.com/ru/trade/MKRUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DCRUSDT",
+        "bid_price": "21.20000000",
+        "ask_price": "21.23000000",
+        "volume": 114581.63001000002,
+        "link": "https://www.binance.com/ru/trade/DCRUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "STORJUSDT",
+        "bid_price": "0.36240000",
+        "ask_price": "0.36270000",
+        "volume": 855284.9256,
+        "link": "https://www.binance.com/ru/trade/STORJUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BNBUPUSDT",
+        "bid_price": "40.82000000",
+        "ask_price": "40.94000000",
+        "volume": 71352.5922,
+        "link": "https://www.binance.com/ru/trade/BNBUPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BNBDOWNUSDT",
+        "bid_price": "0.01607000",
+        "ask_price": "0.01612000",
+        "volume": 213946.8438364,
+        "link": "https://www.binance.com/ru/trade/BNBDOWNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "MANAUSDT",
+        "bid_price": "0.58910000",
+        "ask_price": "0.58920000",
+        "volume": 12763003.525199998,
+        "link": "https://www.binance.com/ru/trade/MANAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "AUDUSDT",
+        "bid_price": "0.66300000",
+        "ask_price": "0.66310000",
+        "volume": 8451135.8959,
+        "link": "https://www.binance.com/ru/trade/AUDUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "YFIUSDT",
+        "bid_price": "9630.00000000",
+        "ask_price": "9634.00000000",
+        "volume": 9883330.36275,
+        "link": "https://www.binance.com/ru/trade/YFIUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BALUSDT",
+        "bid_price": "6.28800000",
+        "ask_price": "6.29200000",
+        "volume": 877317.5311999999,
+        "link": "https://www.binance.com/ru/trade/BALUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BLZUSDT",
+        "bid_price": "0.08580000",
+        "ask_price": "0.08590000",
+        "volume": 2883228.4319,
+        "link": "https://www.binance.com/ru/trade/BLZUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "IRISUSDT",
+        "bid_price": "0.03103000",
+        "ask_price": "0.03108000",
+        "volume": 3892355.64432,
+        "link": "https://www.binance.com/ru/trade/IRISUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "KMDUSDT",
+        "bid_price": "0.24100000",
+        "ask_price": "0.24140000",
+        "volume": 158085.6156,
+        "link": "https://www.binance.com/ru/trade/KMDUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "USDTDAI",
+        "bid_price": "0.99980000",
+        "ask_price": "0.99990000",
+        "volume": 2100946.18437,
+        "link": "https://www.binance.com/ru/trade/USDTDAI?theme=dark&type=spot"
+    },
+    {
+        "symbol": "JSTUSDT",
+        "bid_price": "0.02654000",
+        "ask_price": "0.02657000",
+        "volume": 842183.2816799999,
+        "link": "https://www.binance.com/ru/trade/JSTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ANTUSDT",
+        "bid_price": "2.33500000",
+        "ask_price": "2.33600000",
+        "volume": 675327.7888,
+        "link": "https://www.binance.com/ru/trade/ANTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CRVUSDT",
+        "bid_price": "0.97000000",
+        "ask_price": "0.97100000",
+        "volume": 13308401.94,
+        "link": "https://www.binance.com/ru/trade/CRVUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SANDUSDT",
+        "bid_price": "0.60430000",
+        "ask_price": "0.60440000",
+        "volume": 19544459.8328,
+        "link": "https://www.binance.com/ru/trade/SANDUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "OCEANUSDT",
+        "bid_price": "0.37740000",
+        "ask_price": "0.37760000",
+        "volume": 5351285.98,
+        "link": "https://www.binance.com/ru/trade/OCEANUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "NMRUSDT",
+        "bid_price": "17.71000000",
+        "ask_price": "17.73000000",
+        "volume": 872906.8117999999,
+        "link": "https://www.binance.com/ru/trade/NMRUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DOTUSDT",
+        "bid_price": "5.82800000",
+        "ask_price": "5.82900000",
+        "volume": 25339058.789100002,
+        "link": "https://www.binance.com/ru/trade/DOTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LUNAUSDT",
+        "bid_price": "1.48240000",
+        "ask_price": "1.48310000",
+        "volume": 3297189.9378090003,
+        "link": "https://www.binance.com/ru/trade/LUNAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "RSRUSDT",
+        "bid_price": "0.00417600",
+        "ask_price": "0.00417900",
+        "volume": 1928350.8216410002,
+        "link": "https://www.binance.com/ru/trade/RSRUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "PAXGUSDT",
+        "bid_price": "1816.00000000",
+        "ask_price": "1817.00000000",
+        "volume": 1070990.1768,
+        "link": "https://www.binance.com/ru/trade/PAXGUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "WNXMUSDT",
+        "bid_price": "20.87000000",
+        "ask_price": "20.95000000",
+        "volume": 49801.0236,
+        "link": "https://www.binance.com/ru/trade/WNXMUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "TRBUSDT",
+        "bid_price": "14.63000000",
+        "ask_price": "14.65000000",
+        "volume": 1452411.2062000001,
+        "link": "https://www.binance.com/ru/trade/TRBUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SUSHIUSDT",
+        "bid_price": "1.18000000",
+        "ask_price": "1.18100000",
+        "volume": 6287950.842,
+        "link": "https://www.binance.com/ru/trade/SUSHIUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "YFIIUSDT",
+        "bid_price": "1217.30000000",
+        "ask_price": "1218.20000000",
+        "volume": 1757394.28319,
+        "link": "https://www.binance.com/ru/trade/YFIIUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "KSMUSDT",
+        "bid_price": "33.35000000",
+        "ask_price": "33.36000000",
+        "volume": 1714229.82096,
+        "link": "https://www.binance.com/ru/trade/KSMUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "EGLDUSDT",
+        "bid_price": "42.21000000",
+        "ask_price": "42.22000000",
+        "volume": 8770814.6337,
+        "link": "https://www.binance.com/ru/trade/EGLDUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DIAUSDT",
+        "bid_price": "0.36200000",
+        "ask_price": "0.36300000",
+        "volume": 230972.9778,
+        "link": "https://www.binance.com/ru/trade/DIAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "RUNEUSDT",
+        "bid_price": "1.46300000",
+        "ask_price": "1.46400000",
+        "volume": 5023677.204,
+        "link": "https://www.binance.com/ru/trade/RUNEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FIOUSDT",
+        "bid_price": "0.03490000",
+        "ask_price": "0.03500000",
+        "volume": 183602.475,
+        "link": "https://www.binance.com/ru/trade/FIOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "UMAUSDT",
+        "bid_price": "1.99000000",
+        "ask_price": "1.99200000",
+        "volume": 512904.3432,
+        "link": "https://www.binance.com/ru/trade/UMAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "XRPUPUSDT",
+        "bid_price": "0.10160000",
+        "ask_price": "0.10180000",
+        "volume": 328293.62267400004,
+        "link": "https://www.binance.com/ru/trade/XRPUPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "XRPDOWNUSDT",
+        "bid_price": "0.00019960",
+        "ask_price": "0.00020000",
+        "volume": 751403.880784,
+        "link": "https://www.binance.com/ru/trade/XRPDOWNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "USDTNGN",
+        "bid_price": "735.30000000",
+        "ask_price": "737.60000000",
+        "volume": 199414168.82999998,
+        "link": "https://www.binance.com/ru/trade/USDTNGN?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BELUSDT",
+        "bid_price": "0.62860000",
+        "ask_price": "0.62880000",
+        "volume": 2009392.9367999998,
+        "link": "https://www.binance.com/ru/trade/BELUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "WINGUSDT",
+        "bid_price": "6.80000000",
+        "ask_price": "6.81000000",
+        "volume": 1121031.6911999998,
+        "link": "https://www.binance.com/ru/trade/WINGUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "UNIUSDT",
+        "bid_price": "6.38100000",
+        "ask_price": "6.38200000",
+        "volume": 10408959.41692,
+        "link": "https://www.binance.com/ru/trade/UNIUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "OXTUSDT",
+        "bid_price": "0.08910000",
+        "ask_price": "0.08920000",
+        "volume": 768460.3245,
+        "link": "https://www.binance.com/ru/trade/OXTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SUNUSDT",
+        "bid_price": "0.00655000",
+        "ask_price": "0.00656000",
+        "volume": 637984.35072,
+        "link": "https://www.binance.com/ru/trade/SUNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "AVAXUSDT",
+        "bid_price": "16.05000000",
+        "ask_price": "16.06000000",
+        "volume": 23239808.332399998,
+        "link": "https://www.binance.com/ru/trade/AVAXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FLMUSDT",
+        "bid_price": "0.09380000",
+        "ask_price": "0.09400000",
+        "volume": 969370.3972,
+        "link": "https://www.binance.com/ru/trade/FLMUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ORNUSDT",
+        "bid_price": "0.97200000",
+        "ask_price": "0.97500000",
+        "volume": 463823.76739999995,
+        "link": "https://www.binance.com/ru/trade/ORNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "UTKUSDT",
+        "bid_price": "0.10370000",
+        "ask_price": "0.10390000",
+        "volume": 360794.1007,
+        "link": "https://www.binance.com/ru/trade/UTKUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "XVSUSDT",
+        "bid_price": "5.00000000",
+        "ask_price": "5.01000000",
+        "volume": 263242.85,
+        "link": "https://www.binance.com/ru/trade/XVSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ALPHAUSDT",
+        "bid_price": "0.10560000",
+        "ask_price": "0.10570000",
+        "volume": 1204686.0483000001,
+        "link": "https://www.binance.com/ru/trade/ALPHAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "USDTBRL",
+        "bid_price": "5.22300000",
+        "ask_price": "5.22400000",
+        "volume": 50331484.94009999,
+        "link": "https://www.binance.com/ru/trade/USDTBRL?theme=dark&type=spot"
+    },
+    {
+        "symbol": "AAVEUSDT",
+        "bid_price": "74.90000000",
+        "ask_price": "75.00000000",
+        "volume": 5320358.475,
+        "link": "https://www.binance.com/ru/trade/AAVEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "NEARUSDT",
+        "bid_price": "1.97300000",
+        "ask_price": "1.97400000",
+        "volume": 18764112.522900004,
+        "link": "https://www.binance.com/ru/trade/NEARUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FILUSDT",
+        "bid_price": "5.87600000",
+        "ask_price": "5.87700000",
+        "volume": 44500507.43164,
+        "link": "https://www.binance.com/ru/trade/FILUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "INJUSDT",
+        "bid_price": "3.11600000",
+        "ask_price": "3.11700000",
+        "volume": 8545142.346,
+        "link": "https://www.binance.com/ru/trade/INJUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "AUDIOUSDT",
+        "bid_price": "0.25920000",
+        "ask_price": "0.25940000",
+        "volume": 2548617.97863,
+        "link": "https://www.binance.com/ru/trade/AUDIOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CTKUSDT",
+        "bid_price": "0.72600000",
+        "ask_price": "0.72700000",
+        "volume": 1908579.6505,
+        "link": "https://www.binance.com/ru/trade/CTKUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "AKROUSDT",
+        "bid_price": "0.00532000",
+        "ask_price": "0.00533000",
+        "volume": 3168194.4098,
+        "link": "https://www.binance.com/ru/trade/AKROUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "AXSUSDT",
+        "bid_price": "8.55000000",
+        "ask_price": "8.56000000",
+        "volume": 7904878.376,
+        "link": "https://www.binance.com/ru/trade/AXSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "HARDUSDT",
+        "bid_price": "0.17710000",
+        "ask_price": "0.17740000",
+        "volume": 526418.0614,
+        "link": "https://www.binance.com/ru/trade/HARDUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "STRAXUSDT",
+        "bid_price": "0.51800000",
+        "ask_price": "0.52000000",
+        "volume": 274049.454,
+        "link": "https://www.binance.com/ru/trade/STRAXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "UNFIUSDT",
+        "bid_price": "5.01300000",
+        "ask_price": "5.01400000",
+        "volume": 1873857.4904,
+        "link": "https://www.binance.com/ru/trade/UNFIUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ROSEUSDT",
+        "bid_price": "0.05548000",
+        "ask_price": "0.05550000",
+        "volume": 6819809.0976,
+        "link": "https://www.binance.com/ru/trade/ROSEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "AVAUSDT",
+        "bid_price": "0.63900000",
+        "ask_price": "0.64000000",
+        "volume": 600677.4447,
+        "link": "https://www.binance.com/ru/trade/AVAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SKLUSDT",
+        "bid_price": "0.04049000",
+        "ask_price": "0.04052000",
+        "volume": 2687260.83188,
+        "link": "https://www.binance.com/ru/trade/SKLUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "GRTUSDT",
+        "bid_price": "0.13690000",
+        "ask_price": "0.13700000",
+        "volume": 12378437.309,
+        "link": "https://www.binance.com/ru/trade/GRTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "JUVUSDT",
+        "bid_price": "2.63000000",
+        "ask_price": "2.64000000",
+        "volume": 130391.3761,
+        "link": "https://www.binance.com/ru/trade/JUVUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "PSGUSDT",
+        "bid_price": "5.97000000",
+        "ask_price": "5.98000000",
+        "volume": 292982.8642,
+        "link": "https://www.binance.com/ru/trade/PSGUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "1INCHUSDT",
+        "bid_price": "0.50300000",
+        "ask_price": "0.50400000",
+        "volume": 1921648.2264,
+        "link": "https://www.binance.com/ru/trade/1INCHUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "REEFUSDT",
+        "bid_price": "0.00281000",
+        "ask_price": "0.00281200",
+        "volume": 1245048.3215319999,
+        "link": "https://www.binance.com/ru/trade/REEFUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "OGUSDT",
+        "bid_price": "2.55200000",
+        "ask_price": "2.55900000",
+        "volume": 430426.60919999995,
+        "link": "https://www.binance.com/ru/trade/OGUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ATMUSDT",
+        "bid_price": "2.88000000",
+        "ask_price": "2.89000000",
+        "volume": 271686.9926,
+        "link": "https://www.binance.com/ru/trade/ATMUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ASRUSDT",
+        "bid_price": "2.65100000",
+        "ask_price": "2.65600000",
+        "volume": 973454.4127000001,
+        "link": "https://www.binance.com/ru/trade/ASRUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CELOUSDT",
+        "bid_price": "0.63900000",
+        "ask_price": "0.64000000",
+        "volume": 2143688.704,
+        "link": "https://www.binance.com/ru/trade/CELOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "RIFUSDT",
+        "bid_price": "0.13830000",
+        "ask_price": "0.13850000",
+        "volume": 6972018.4704,
+        "link": "https://www.binance.com/ru/trade/RIFUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "TRUUSDT",
+        "bid_price": "0.12960000",
+        "ask_price": "0.12970000",
+        "volume": 57372126.6559,
+        "link": "https://www.binance.com/ru/trade/TRUUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CKBUSDT",
+        "bid_price": "0.00421000",
+        "ask_price": "0.00422000",
+        "volume": 2837116.52031,
+        "link": "https://www.binance.com/ru/trade/CKBUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "TWTUSDT",
+        "bid_price": "1.24040000",
+        "ask_price": "1.24100000",
+        "volume": 6950575.198,
+        "link": "https://www.binance.com/ru/trade/TWTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FIROUSDT",
+        "bid_price": "2.12700000",
+        "ask_price": "2.12800000",
+        "volume": 466721.6544,
+        "link": "https://www.binance.com/ru/trade/FIROUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LITUSDT",
+        "bid_price": "1.05300000",
+        "ask_price": "1.05400000",
+        "volume": 2640147.5252,
+        "link": "https://www.binance.com/ru/trade/LITUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SFPUSDT",
+        "bid_price": "0.44020000",
+        "ask_price": "0.44030000",
+        "volume": 1989403.0656,
+        "link": "https://www.binance.com/ru/trade/SFPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DODOUSDT",
+        "bid_price": "0.18870000",
+        "ask_price": "0.18880000",
+        "volume": 4479977.408319999,
+        "link": "https://www.binance.com/ru/trade/DODOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CAKEUSDT",
+        "bid_price": "3.73600000",
+        "ask_price": "3.73800000",
+        "volume": 1903048.6488800002,
+        "link": "https://www.binance.com/ru/trade/CAKEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ACMUSDT",
+        "bid_price": "2.55300000",
+        "ask_price": "2.56100000",
+        "volume": 245398.4448,
+        "link": "https://www.binance.com/ru/trade/ACMUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BADGERUSDT",
+        "bid_price": "3.03400000",
+        "ask_price": "3.03600000",
+        "volume": 1080402.5778,
+        "link": "https://www.binance.com/ru/trade/BADGERUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FISUSDT",
+        "bid_price": "0.58150000",
+        "ask_price": "0.58190000",
+        "volume": 2352384.8666999997,
+        "link": "https://www.binance.com/ru/trade/FISUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "OMUSDT",
+        "bid_price": "0.03660000",
+        "ask_price": "0.03670000",
+        "volume": 252862.30270000003,
+        "link": "https://www.binance.com/ru/trade/OMUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "PONDUSDT",
+        "bid_price": "0.00979000",
+        "ask_price": "0.00980000",
+        "volume": 485514.792448,
+        "link": "https://www.binance.com/ru/trade/PONDUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DEGOUSDT",
+        "bid_price": "2.15900000",
+        "ask_price": "2.16200000",
+        "volume": 1731819.8066099999,
+        "link": "https://www.binance.com/ru/trade/DEGOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ALICEUSDT",
+        "bid_price": "1.57500000",
+        "ask_price": "1.57600000",
+        "volume": 2393165.20384,
+        "link": "https://www.binance.com/ru/trade/ALICEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LINAUSDT",
+        "bid_price": "0.00810000",
+        "ask_price": "0.00810600",
+        "volume": 5992198.776616411,
+        "link": "https://www.binance.com/ru/trade/LINAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "PERPUSDT",
+        "bid_price": "1.00136000",
+        "ask_price": "1.00177000",
+        "volume": 13550917.922504999,
+        "link": "https://www.binance.com/ru/trade/PERPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SUPERUSDT",
+        "bid_price": "0.12510000",
+        "ask_price": "0.12530000",
+        "volume": 295534.0992,
+        "link": "https://www.binance.com/ru/trade/SUPERUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CFXUSDT",
+        "bid_price": "0.20060000",
+        "ask_price": "0.20070000",
+        "volume": 44987668.663499996,
+        "link": "https://www.binance.com/ru/trade/CFXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "AUTOUSDT",
+        "bid_price": "262.70000000",
+        "ask_price": "263.20000000",
+        "volume": 628002.9720000001,
+        "link": "https://www.binance.com/ru/trade/AUTOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "TKOUSDT",
+        "bid_price": "0.32020000",
+        "ask_price": "0.32040000",
+        "volume": 1066330.04,
+        "link": "https://www.binance.com/ru/trade/TKOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "PUNDIXUSDT",
+        "bid_price": "0.44200000",
+        "ask_price": "0.44300000",
+        "volume": 513109.181,
+        "link": "https://www.binance.com/ru/trade/PUNDIXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "TLMUSDT",
+        "bid_price": "0.01838000",
+        "ask_price": "0.01840000",
+        "volume": 1699470.96903,
+        "link": "https://www.binance.com/ru/trade/TLMUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BARUSDT",
+        "bid_price": "3.86000000",
+        "ask_price": "3.88000000",
+        "volume": 238902.348,
+        "link": "https://www.binance.com/ru/trade/BARUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FORTHUSDT",
+        "bid_price": "3.71000000",
+        "ask_price": "3.72000000",
+        "volume": 233253.56040000002,
+        "link": "https://www.binance.com/ru/trade/FORTHUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BAKEUSDT",
+        "bid_price": "0.18670000",
+        "ask_price": "0.18680000",
+        "volume": 2895240.42958,
+        "link": "https://www.binance.com/ru/trade/BAKEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BURGERUSDT",
+        "bid_price": "0.66070000",
+        "ask_price": "0.66080000",
+        "volume": 1385218.7968899999,
+        "link": "https://www.binance.com/ru/trade/BURGERUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SLPUSDT",
+        "bid_price": "0.00278600",
+        "ask_price": "0.00278900",
+        "volume": 2037070.924208,
+        "link": "https://www.binance.com/ru/trade/SLPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SHIBUSDT",
+        "bid_price": "0.00001071",
+        "ask_price": "0.00001072",
+        "volume": 31000660.39775168,
+        "link": "https://www.binance.com/ru/trade/SHIBUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ICPUSDT",
+        "bid_price": "5.27600000",
+        "ask_price": "5.27700000",
+        "volume": 8604606.49083,
+        "link": "https://www.binance.com/ru/trade/ICPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ARUSDT",
+        "bid_price": "8.44000000",
+        "ask_price": "8.45000000",
+        "volume": 10277306.1625,
+        "link": "https://www.binance.com/ru/trade/ARUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "POLSUSDT",
+        "bid_price": "0.42900000",
+        "ask_price": "0.43100000",
+        "volume": 525013.445,
+        "link": "https://www.binance.com/ru/trade/POLSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "MASKUSDT",
+        "bid_price": "3.78000000",
+        "ask_price": "3.78100000",
+        "volume": 121893358.734,
+        "link": "https://www.binance.com/ru/trade/MASKUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LPTUSDT",
+        "bid_price": "5.91000000",
+        "ask_price": "5.92000000",
+        "volume": 1589589.4737,
+        "link": "https://www.binance.com/ru/trade/LPTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "XVGUSDT",
+        "bid_price": "0.00296300",
+        "ask_price": "0.00297000",
+        "volume": 208427.940372,
+        "link": "https://www.binance.com/ru/trade/XVGUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ATAUSDT",
+        "bid_price": "0.16020000",
+        "ask_price": "0.16030000",
+        "volume": 3592950.5412000003,
+        "link": "https://www.binance.com/ru/trade/ATAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "GTCUSDT",
+        "bid_price": "1.73500000",
+        "ask_price": "1.73600000",
+        "volume": 4198965.9712000005,
+        "link": "https://www.binance.com/ru/trade/GTCUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ERNUSDT",
+        "bid_price": "1.95800000",
+        "ask_price": "1.96100000",
+        "volume": 349368.2896,
+        "link": "https://www.binance.com/ru/trade/ERNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "KLAYUSDT",
+        "bid_price": "0.21940000",
+        "ask_price": "0.21950000",
+        "volume": 8358990.395599999,
+        "link": "https://www.binance.com/ru/trade/KLAYUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "PHAUSDT",
+        "bid_price": "0.16470000",
+        "ask_price": "0.16490000",
+        "volume": 886465.6335000001,
+        "link": "https://www.binance.com/ru/trade/PHAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BONDUSDT",
+        "bid_price": "4.41400000",
+        "ask_price": "4.42000000",
+        "volume": 1799706.45114,
+        "link": "https://www.binance.com/ru/trade/BONDUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "MLNUSDT",
+        "bid_price": "21.99000000",
+        "ask_price": "22.03000000",
+        "volume": 200709.78972,
+        "link": "https://www.binance.com/ru/trade/MLNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DEXEUSDT",
+        "bid_price": "2.82500000",
+        "ask_price": "2.83500000",
+        "volume": 240022.9188,
+        "link": "https://www.binance.com/ru/trade/DEXEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "C98USDT",
+        "bid_price": "0.23730000",
+        "ask_price": "0.23750000",
+        "volume": 1919329.9074600001,
+        "link": "https://www.binance.com/ru/trade/C98USDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CLVUSDT",
+        "bid_price": "0.06868000",
+        "ask_price": "0.06876000",
+        "volume": 451407.273748,
+        "link": "https://www.binance.com/ru/trade/CLVUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "QNTUSDT",
+        "bid_price": "122.10000000",
+        "ask_price": "122.30000000",
+        "volume": 2906762.235,
+        "link": "https://www.binance.com/ru/trade/QNTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FLOWUSDT",
+        "bid_price": "1.01100000",
+        "ask_price": "1.01200000",
+        "volume": 4173732.1670399997,
+        "link": "https://www.binance.com/ru/trade/FLOWUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "TVKUSDT",
+        "bid_price": "0.04390000",
+        "ask_price": "0.04410000",
+        "volume": 934782.2,
+        "link": "https://www.binance.com/ru/trade/TVKUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "MINAUSDT",
+        "bid_price": "0.78200000",
+        "ask_price": "0.78300000",
+        "volume": 9025171.8264,
+        "link": "https://www.binance.com/ru/trade/MINAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "RAYUSDT",
+        "bid_price": "0.24830000",
+        "ask_price": "0.24850000",
+        "volume": 1030006.3081,
+        "link": "https://www.binance.com/ru/trade/RAYUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FARMUSDT",
+        "bid_price": "35.30000000",
+        "ask_price": "35.40000000",
+        "volume": 375187.82039999997,
+        "link": "https://www.binance.com/ru/trade/FARMUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ALPACAUSDT",
+        "bid_price": "0.32960000",
+        "ask_price": "0.33010000",
+        "volume": 5473237.80547,
+        "link": "https://www.binance.com/ru/trade/ALPACAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "QUICKUSDT",
+        "bid_price": "98.90000000",
+        "ask_price": "99.00000000",
+        "volume": 2763413.9544,
+        "link": "https://www.binance.com/ru/trade/QUICKUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "MBOXUSDT",
+        "bid_price": "0.48400000",
+        "ask_price": "0.48600000",
+        "volume": 455692.614,
+        "link": "https://www.binance.com/ru/trade/MBOXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FORUSDT",
+        "bid_price": "0.02278000",
+        "ask_price": "0.02283000",
+        "volume": 492290.2653,
+        "link": "https://www.binance.com/ru/trade/FORUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "REQUSDT",
+        "bid_price": "0.09790000",
+        "ask_price": "0.09800000",
+        "volume": 288183.798,
+        "link": "https://www.binance.com/ru/trade/REQUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "GHSTUSDT",
+        "bid_price": "1.58300000",
+        "ask_price": "1.58500000",
+        "volume": 8616828.052800002,
+        "link": "https://www.binance.com/ru/trade/GHSTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "WAXPUSDT",
+        "bid_price": "0.06780000",
+        "ask_price": "0.06800000",
+        "volume": 882421.2705,
+        "link": "https://www.binance.com/ru/trade/WAXPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "GNOUSDT",
+        "bid_price": "103.00000000",
+        "ask_price": "103.10000000",
+        "volume": 138819.795,
+        "link": "https://www.binance.com/ru/trade/GNOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "XECUSDT",
+        "bid_price": "0.00003012",
+        "ask_price": "0.00003015",
+        "volume": 879495.28386408,
+        "link": "https://www.binance.com/ru/trade/XECUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ELFUSDT",
+        "bid_price": "0.27300000",
+        "ask_price": "0.27340000",
+        "volume": 1861500.0854399998,
+        "link": "https://www.binance.com/ru/trade/ELFUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DYDXUSDT",
+        "bid_price": "2.24100000",
+        "ask_price": "2.24200000",
+        "volume": 32785756.47076,
+        "link": "https://www.binance.com/ru/trade/DYDXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "IDEXUSDT",
+        "bid_price": "0.05637000",
+        "ask_price": "0.05642000",
+        "volume": 601017.528177,
+        "link": "https://www.binance.com/ru/trade/IDEXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "VIDTUSDT",
+        "bid_price": "0.03856000",
+        "ask_price": "0.03862000",
+        "volume": 1475605.12671,
+        "link": "https://www.binance.com/ru/trade/VIDTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "GALAUSDT",
+        "bid_price": "0.03718000",
+        "ask_price": "0.03719000",
+        "volume": 36488955.33474,
+        "link": "https://www.binance.com/ru/trade/GALAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ILVUSDT",
+        "bid_price": "75.81000000",
+        "ask_price": "75.85000000",
+        "volume": 5427092.5466,
+        "link": "https://www.binance.com/ru/trade/ILVUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "YGGUSDT",
+        "bid_price": "0.26620000",
+        "ask_price": "0.26640000",
+        "volume": 1054065.19968,
+        "link": "https://www.binance.com/ru/trade/YGGUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SYSUSDT",
+        "bid_price": "0.15850000",
+        "ask_price": "0.15870000",
+        "volume": 475044.645,
+        "link": "https://www.binance.com/ru/trade/SYSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DFUSDT",
+        "bid_price": "0.06000000",
+        "ask_price": "0.06020000",
+        "volume": 8083648.8362,
+        "link": "https://www.binance.com/ru/trade/DFUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FIDAUSDT",
+        "bid_price": "0.41350000",
+        "ask_price": "0.41360000",
+        "volume": 1177491.6556499999,
+        "link": "https://www.binance.com/ru/trade/FIDAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FRONTUSDT",
+        "bid_price": "0.21860000",
+        "ask_price": "0.21880000",
+        "volume": 374962.1754,
+        "link": "https://www.binance.com/ru/trade/FRONTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CVPUSDT",
+        "bid_price": "0.54510000",
+        "ask_price": "0.54580000",
+        "volume": 5093372.274,
+        "link": "https://www.binance.com/ru/trade/CVPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "AGLDUSDT",
+        "bid_price": "0.43100000",
+        "ask_price": "0.43200000",
+        "volume": 1156008.1104000001,
+        "link": "https://www.binance.com/ru/trade/AGLDUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "RADUSDT",
+        "bid_price": "1.71800000",
+        "ask_price": "1.72000000",
+        "volume": 673281.1871,
+        "link": "https://www.binance.com/ru/trade/RADUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BETAUSDT",
+        "bid_price": "0.09435000",
+        "ask_price": "0.09448000",
+        "volume": 830961.1233000001,
+        "link": "https://www.binance.com/ru/trade/BETAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "RAREUSDT",
+        "bid_price": "0.13410000",
+        "ask_price": "0.13420000",
+        "volume": 460952.83232999995,
+        "link": "https://www.binance.com/ru/trade/RAREUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LAZIOUSDT",
+        "bid_price": "2.84450000",
+        "ask_price": "2.84660000",
+        "volume": 993670.64472,
+        "link": "https://www.binance.com/ru/trade/LAZIOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CHESSUSDT",
+        "bid_price": "0.24820000",
+        "ask_price": "0.24870000",
+        "volume": 2602736.12628,
+        "link": "https://www.binance.com/ru/trade/CHESSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ADXUSDT",
+        "bid_price": "0.17880000",
+        "ask_price": "0.17900000",
+        "volume": 885142.0988,
+        "link": "https://www.binance.com/ru/trade/ADXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "AUCTIONUSDT",
+        "bid_price": "5.44000000",
+        "ask_price": "5.45000000",
+        "volume": 518797.70800000004,
+        "link": "https://www.binance.com/ru/trade/AUCTIONUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "DARUSDT",
+        "bid_price": "0.17011000",
+        "ask_price": "0.17018000",
+        "volume": 2232961.42626,
+        "link": "https://www.binance.com/ru/trade/DARUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BNXUSDT",
+        "bid_price": "0.72000000",
+        "ask_price": "0.72100000",
+        "volume": 12857356.1515,
+        "link": "https://www.binance.com/ru/trade/BNXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "MOVRUSDT",
+        "bid_price": "8.82000000",
+        "ask_price": "8.83000000",
+        "volume": 507363.64108000003,
+        "link": "https://www.binance.com/ru/trade/MOVRUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CITYUSDT",
+        "bid_price": "4.41000000",
+        "ask_price": "4.43000000",
+        "volume": 224491.04739999998,
+        "link": "https://www.binance.com/ru/trade/CITYUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ENSUSDT",
+        "bid_price": "13.67000000",
+        "ask_price": "13.68000000",
+        "volume": 4033377.1368,
+        "link": "https://www.binance.com/ru/trade/ENSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "KP3RUSDT",
+        "bid_price": "86.08000000",
+        "ask_price": "86.22000000",
+        "volume": 1010732.3919,
+        "link": "https://www.binance.com/ru/trade/KP3RUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "QIUSDT",
+        "bid_price": "0.00904000",
+        "ask_price": "0.00905000",
+        "volume": 750553.5935999999,
+        "link": "https://www.binance.com/ru/trade/QIUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "PORTOUSDT",
+        "bid_price": "2.54470000",
+        "ask_price": "2.54670000",
+        "volume": 1008450.7362409999,
+        "link": "https://www.binance.com/ru/trade/PORTOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "POWRUSDT",
+        "bid_price": "0.18600000",
+        "ask_price": "0.18640000",
+        "volume": 1646287.86,
+        "link": "https://www.binance.com/ru/trade/POWRUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "VGXUSDT",
+        "bid_price": "0.37700000",
+        "ask_price": "0.37800000",
+        "volume": 11087054.9426,
+        "link": "https://www.binance.com/ru/trade/VGXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "JASMYUSDT",
+        "bid_price": "0.00524800",
+        "ask_price": "0.00524900",
+        "volume": 5691264.0256093005,
+        "link": "https://www.binance.com/ru/trade/JASMYUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "AMPUSDT",
+        "bid_price": "0.00471000",
+        "ask_price": "0.00472000",
+        "volume": 1106423.4316800002,
+        "link": "https://www.binance.com/ru/trade/AMPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "PLAUSDT",
+        "bid_price": "0.21270000",
+        "ask_price": "0.21310000",
+        "volume": 227317.43958200002,
+        "link": "https://www.binance.com/ru/trade/PLAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "PYRUSDT",
+        "bid_price": "3.39000000",
+        "ask_price": "3.40000000",
+        "volume": 1083105.9822,
+        "link": "https://www.binance.com/ru/trade/PYRUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "RNDRUSDT",
+        "bid_price": "1.17900000",
+        "ask_price": "1.18000000",
+        "volume": 11639227.595999999,
+        "link": "https://www.binance.com/ru/trade/RNDRUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ALCXUSDT",
+        "bid_price": "25.85000000",
+        "ask_price": "25.88000000",
+        "volume": 6062604.620252,
+        "link": "https://www.binance.com/ru/trade/ALCXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SANTOSUSDT",
+        "bid_price": "4.48200000",
+        "ask_price": "4.48600000",
+        "volume": 1915649.36728,
+        "link": "https://www.binance.com/ru/trade/SANTOSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BICOUSDT",
+        "bid_price": "0.38100000",
+        "ask_price": "0.38200000",
+        "volume": 1208496.47588,
+        "link": "https://www.binance.com/ru/trade/BICOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FLUXUSDT",
+        "bid_price": "0.66600000",
+        "ask_price": "0.66700000",
+        "volume": 1416124.458,
+        "link": "https://www.binance.com/ru/trade/FLUXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "FXSUSDT",
+        "bid_price": "9.35200000",
+        "ask_price": "9.35500000",
+        "volume": 9211772.1435,
+        "link": "https://www.binance.com/ru/trade/FXSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "VOXELUSDT",
+        "bid_price": "0.27420000",
+        "ask_price": "0.27450000",
+        "volume": 6880484.152079999,
+        "link": "https://www.binance.com/ru/trade/VOXELUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "HIGHUSDT",
+        "bid_price": "2.23600000",
+        "ask_price": "2.23700000",
+        "volume": 7869326.360153001,
+        "link": "https://www.binance.com/ru/trade/HIGHUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "CVXUSDT",
+        "bid_price": "5.94900000",
+        "ask_price": "5.95500000",
+        "volume": 1994519.765184,
+        "link": "https://www.binance.com/ru/trade/CVXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "PEOPLEUSDT",
+        "bid_price": "0.02129000",
+        "ask_price": "0.02130000",
+        "volume": 5069814.776883,
+        "link": "https://www.binance.com/ru/trade/PEOPLEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "OOKIUSDT",
+        "bid_price": "0.00425000",
+        "ask_price": "0.00426000",
+        "volume": 602832.0827500001,
+        "link": "https://www.binance.com/ru/trade/OOKIUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SPELLUSDT",
+        "bid_price": "0.00071900",
+        "ask_price": "0.00071940",
+        "volume": 1153520.1795978,
+        "link": "https://www.binance.com/ru/trade/SPELLUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "JOEUSDT",
+        "bid_price": "0.23770000",
+        "ask_price": "0.23800000",
+        "volume": 993420.755028,
+        "link": "https://www.binance.com/ru/trade/JOEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ACHUSDT",
+        "bid_price": "0.02985000",
+        "ask_price": "0.02986000",
+        "volume": 13570042.60356,
+        "link": "https://www.binance.com/ru/trade/ACHUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "IMXUSDT",
+        "bid_price": "1.07500000",
+        "ask_price": "1.07600000",
+        "volume": 14058765.12875,
+        "link": "https://www.binance.com/ru/trade/IMXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "GLMRUSDT",
+        "bid_price": "0.38900000",
+        "ask_price": "0.38910000",
+        "volume": 1953018.7293000002,
+        "link": "https://www.binance.com/ru/trade/GLMRUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LOKAUSDT",
+        "bid_price": "0.50960000",
+        "ask_price": "0.51010000",
+        "volume": 4269930.85792,
+        "link": "https://www.binance.com/ru/trade/LOKAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SCRTUSDT",
+        "bid_price": "0.72200000",
+        "ask_price": "0.72400000",
+        "volume": 900657.7375999999,
+        "link": "https://www.binance.com/ru/trade/SCRTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "API3USDT",
+        "bid_price": "1.37700000",
+        "ask_price": "1.37800000",
+        "volume": 1745661.53424,
+        "link": "https://www.binance.com/ru/trade/API3USDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BTTCUSDT",
+        "bid_price": "0.00000068",
+        "ask_price": "0.00000069",
+        "volume": 608674.04772312,
+        "link": "https://www.binance.com/ru/trade/BTTCUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "XNOUSDT",
+        "bid_price": "0.82800000",
+        "ask_price": "0.82900000",
+        "volume": 302147.08074999996,
+        "link": "https://www.binance.com/ru/trade/XNOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "WOOUSDT",
+        "bid_price": "0.18220000",
+        "ask_price": "0.18230000",
+        "volume": 2111581.0093799997,
+        "link": "https://www.binance.com/ru/trade/WOOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "ALPINEUSDT",
+        "bid_price": "2.49270000",
+        "ask_price": "2.49430000",
+        "volume": 1027944.3526650001,
+        "link": "https://www.binance.com/ru/trade/ALPINEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "TUSDT",
+        "bid_price": "0.03798000",
+        "ask_price": "0.03800000",
+        "volume": 4561127.822212,
+        "link": "https://www.binance.com/ru/trade/TUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "NBTUSDT",
+        "bid_price": "0.00366000",
+        "ask_price": "0.00369000",
+        "volume": 26653.0716,
+        "link": "https://www.binance.com/ru/trade/NBTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "GMTUSDT",
+        "bid_price": "0.35070000",
+        "ask_price": "0.35080000",
+        "volume": 12616719.21976,
+        "link": "https://www.binance.com/ru/trade/GMTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "KDAUSDT",
+        "bid_price": "1.03500000",
+        "ask_price": "1.03700000",
+        "volume": 2568091.0796999997,
+        "link": "https://www.binance.com/ru/trade/KDAUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "APEUSDT",
+        "bid_price": "4.62400000",
+        "ask_price": "4.62500000",
+        "volume": 9498362.50336,
+        "link": "https://www.binance.com/ru/trade/APEUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BSWUSDT",
+        "bid_price": "0.19620000",
+        "ask_price": "0.19640000",
+        "volume": 790104.39472,
+        "link": "https://www.binance.com/ru/trade/BSWUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "MULTIUSDT",
+        "bid_price": "9.40000000",
+        "ask_price": "9.43000000",
+        "volume": 168640.17468,
+        "link": "https://www.binance.com/ru/trade/MULTIUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "STEEMUSDT",
+        "bid_price": "0.20230000",
+        "ask_price": "0.20260000",
+        "volume": 225751.72865,
+        "link": "https://www.binance.com/ru/trade/STEEMUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "MOBUSDT",
+        "bid_price": "1.61700000",
+        "ask_price": "1.62000000",
+        "volume": 900384.0868599999,
+        "link": "https://www.binance.com/ru/trade/MOBUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "NEXOUSDT",
+        "bid_price": "0.64400000",
+        "ask_price": "0.64500000",
+        "volume": 576893.21805,
+        "link": "https://www.binance.com/ru/trade/NEXOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "REIUSDT",
+        "bid_price": "0.02980000",
+        "ask_price": "0.02990000",
+        "volume": 488941.75372000004,
+        "link": "https://www.binance.com/ru/trade/REIUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "GALUSDT",
+        "bid_price": "1.62300000",
+        "ask_price": "1.62500000",
+        "volume": 3118920.449232,
+        "link": "https://www.binance.com/ru/trade/GALUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LDOUSDT",
+        "bid_price": "2.55000000",
+        "ask_price": "2.55100000",
+        "volume": 40647638.158130005,
+        "link": "https://www.binance.com/ru/trade/LDOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "EPXUSDT",
+        "bid_price": "0.00032000",
+        "ask_price": "0.00032100",
+        "volume": 255107.94624000002,
+        "link": "https://www.binance.com/ru/trade/EPXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "OPUSDT",
+        "bid_price": "2.39200000",
+        "ask_price": "2.39300000",
+        "volume": 50661895.83452,
+        "link": "https://www.binance.com/ru/trade/OPUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LEVERUSDT",
+        "bid_price": "0.00214600",
+        "ask_price": "0.00214700",
+        "volume": 1377646.570636,
+        "link": "https://www.binance.com/ru/trade/LEVERUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "STGUSDT",
+        "bid_price": "0.76000000",
+        "ask_price": "0.76030000",
+        "volume": 14969840.3767,
+        "link": "https://www.binance.com/ru/trade/STGUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LUNCUSDT",
+        "bid_price": "0.00014131",
+        "ask_price": "0.00014132",
+        "volume": 8562473.371465884,
+        "link": "https://www.binance.com/ru/trade/LUNCUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "GMXUSDT",
+        "bid_price": "70.14000000",
+        "ask_price": "70.17000000",
+        "volume": 11616226.56872,
+        "link": "https://www.binance.com/ru/trade/GMXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "NEBLUSDT",
+        "bid_price": "1.32900000",
+        "ask_price": "1.33100000",
+        "volume": 208226.9226,
+        "link": "https://www.binance.com/ru/trade/NEBLUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "POLYXUSDT",
+        "bid_price": "0.16650000",
+        "ask_price": "0.16670000",
+        "volume": 531551.6224,
+        "link": "https://www.binance.com/ru/trade/POLYXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "APTUSDT",
+        "bid_price": "10.98700000",
+        "ask_price": "10.98920000",
+        "volume": 47623782.34810001,
+        "link": "https://www.binance.com/ru/trade/APTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "OSMOUSDT",
+        "bid_price": "0.83900000",
+        "ask_price": "0.84000000",
+        "volume": 627365.70668,
+        "link": "https://www.binance.com/ru/trade/OSMOUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "HFTUSDT",
+        "bid_price": "0.62380000",
+        "ask_price": "0.62430000",
+        "volume": 19499480.52,
+        "link": "https://www.binance.com/ru/trade/HFTUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "PHBUSDT",
+        "bid_price": "1.15140000",
+        "ask_price": "1.15230000",
+        "volume": 8578194.055599999,
+        "link": "https://www.binance.com/ru/trade/PHBUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "HOOKUSDT",
+        "bid_price": "1.89210000",
+        "ask_price": "1.89270000",
+        "volume": 17781581.57776,
+        "link": "https://www.binance.com/ru/trade/HOOKUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "MAGICUSDT",
+        "bid_price": "1.33080000",
+        "ask_price": "1.33130000",
+        "volume": 37809544.77909,
+        "link": "https://www.binance.com/ru/trade/MAGICUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "HIFIUSDT",
+        "bid_price": "0.43120000",
+        "ask_price": "0.43210000",
+        "volume": 497014.48720000003,
+        "link": "https://www.binance.com/ru/trade/HIFIUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "RPLUSDT",
+        "bid_price": "36.76000000",
+        "ask_price": "36.80000000",
+        "volume": 1478468.704,
+        "link": "https://www.binance.com/ru/trade/RPLUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "PROSUSDT",
+        "bid_price": "0.57390000",
+        "ask_price": "0.57520000",
+        "volume": 564571.358,
+        "link": "https://www.binance.com/ru/trade/PROSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "AGIXUSDT",
+        "bid_price": "0.41117000",
+        "ask_price": "0.41130000",
+        "volume": 30453708.8512,
+        "link": "https://www.binance.com/ru/trade/AGIXUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "GNSUSDT",
+        "bid_price": "7.60600000",
+        "ask_price": "7.61700000",
+        "volume": 13640295.83168,
+        "link": "https://www.binance.com/ru/trade/GNSUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SYNUSDT",
+        "bid_price": "1.06030000",
+        "ask_price": "1.06160000",
+        "volume": 5254056.45292,
+        "link": "https://www.binance.com/ru/trade/SYNUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "VIBUSDT",
+        "bid_price": "0.09821000",
+        "ask_price": "0.09843000",
+        "volume": 1186676.3942,
+        "link": "https://www.binance.com/ru/trade/VIBUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "SSVUSDT",
+        "bid_price": "38.85000000",
+        "ask_price": "38.87000000",
+        "volume": 18437997.1182,
+        "link": "https://www.binance.com/ru/trade/SSVUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "LQTYUSDT",
+        "bid_price": "1.94300000",
+        "ask_price": "1.94500000",
+        "volume": 19394800.8336,
+        "link": "https://www.binance.com/ru/trade/LQTYUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "AMBUSDT",
+        "bid_price": "0.01863000",
+        "ask_price": "0.01868000",
+        "volume": 2951458.19472,
+        "link": "https://www.binance.com/ru/trade/AMBUSDT?theme=dark&type=spot"
+    },
+    {
+        "symbol": "BETHUSDT",
+        "bid_price": "1524.43000000",
+        "ask_price": "1529.04000000",
+        "volume": 259657.423347,
+        "link": "https://www.binance.com/ru/trade/BETHUSDT?theme=dark&type=spot"
+    }
+]

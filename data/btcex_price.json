@@ -1,0 +1,737 @@
+[
+    {
+        "symbol": "BTCUSDT",
+        "ask_price": "21714.999",
+        "bid_price": "21714.944",
+        "volume": 223422651.74442482,
+        "link": "https://www.btcex.com/en-us/spot/BTC-USDT-SPOT"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "ask_price": "1505.556",
+        "bid_price": "1505.554",
+        "volume": 101367436.15465614,
+        "link": "https://www.btcex.com/en-us/spot/ETH-USDT-SPOT"
+    },
+    {
+        "symbol": "SHIBUSDT",
+        "ask_price": "0.00001261",
+        "bid_price": "0.0000126",
+        "volume": 2251519.33869776,
+        "link": "https://www.btcex.com/en-us/spot/SHIB-USDT-SPOT"
+    },
+    {
+        "symbol": "UNIUSDT",
+        "ask_price": "6.25",
+        "bid_price": "6.24",
+        "volume": 579736.1798,
+        "link": "https://www.btcex.com/en-us/spot/UNI-USDT-SPOT"
+    },
+    {
+        "symbol": "GODSUSDT",
+        "ask_price": "0.2671",
+        "bid_price": "0.267",
+        "volume": 683124.6377,
+        "link": "https://www.btcex.com/en-us/spot/GODS-USDT-SPOT"
+    },
+    {
+        "symbol": "CRVUSDT",
+        "ask_price": "0.921",
+        "bid_price": "0.92",
+        "volume": 1483036.954,
+        "link": "https://www.btcex.com/en-us/spot/CRV-USDT-SPOT"
+    },
+    {
+        "symbol": "AXSUSDT",
+        "ask_price": "9.39",
+        "bid_price": "9.38",
+        "volume": 1856005.0013,
+        "link": "https://www.btcex.com/en-us/spot/AXS-USDT-SPOT"
+    },
+    {
+        "symbol": "ILVUSDT",
+        "ask_price": "73.7",
+        "bid_price": "73.6",
+        "volume": 662045.775,
+        "link": "https://www.btcex.com/en-us/spot/ILV-USDT-SPOT"
+    },
+    {
+        "symbol": "SLPUSDT",
+        "ask_price": "0.00291",
+        "bid_price": "0.0029",
+        "volume": 357301.22523,
+        "link": "https://www.btcex.com/en-us/spot/SLP-USDT-SPOT"
+    },
+    {
+        "symbol": "DARUSDT",
+        "ask_price": "0.21389",
+        "bid_price": "0.21388",
+        "volume": 488450.33995,
+        "link": "https://www.btcex.com/en-us/spot/DAR-USDT-SPOT"
+    },
+    {
+        "symbol": "IMXUSDT",
+        "ask_price": "0.964",
+        "bid_price": "0.9639",
+        "volume": 2046892.7607213,
+        "link": "https://www.btcex.com/en-us/spot/IMX-USDT-SPOT"
+    },
+    {
+        "symbol": "ENSUSDT",
+        "ask_price": "13.7906",
+        "bid_price": "13.7904",
+        "volume": 771913.5268171,
+        "link": "https://www.btcex.com/en-us/spot/ENS-USDT-SPOT"
+    },
+    {
+        "symbol": "CEREUSDT",
+        "ask_price": "0.008835",
+        "bid_price": "0.008834",
+        "volume": 326864.1310128,
+        "link": "https://www.btcex.com/en-us/spot/CERE-USDT-SPOT"
+    },
+    {
+        "symbol": "ALICEUSDT",
+        "ask_price": "1.7",
+        "bid_price": "1.69",
+        "volume": 472608.1365,
+        "link": "https://www.btcex.com/en-us/spot/ALICE-USDT-SPOT"
+    },
+    {
+        "symbol": "MASKUSDT",
+        "ask_price": "3.465",
+        "bid_price": "3.464",
+        "volume": 1569188.07969,
+        "link": "https://www.btcex.com/en-us/spot/MASK-USDT-SPOT"
+    },
+    {
+        "symbol": "YGGUSDT",
+        "ask_price": "0.276",
+        "bid_price": "0.275",
+        "volume": 230132.0856,
+        "link": "https://www.btcex.com/en-us/spot/YGG-USDT-SPOT"
+    },
+    {
+        "symbol": "1INCHUSDT",
+        "ask_price": "0.525",
+        "bid_price": "0.524",
+        "volume": 437515.8113,
+        "link": "https://www.btcex.com/en-us/spot/1INCH-USDT-SPOT"
+    },
+    {
+        "symbol": "AAVEUSDT",
+        "ask_price": "75.3",
+        "bid_price": "75.2",
+        "volume": 648187.0079,
+        "link": "https://www.btcex.com/en-us/spot/AAVE-USDT-SPOT"
+    },
+    {
+        "symbol": "GRTUSDT",
+        "ask_price": "0.1479",
+        "bid_price": "0.1478",
+        "volume": 1796563.3445572,
+        "link": "https://www.btcex.com/en-us/spot/GRT-USDT-SPOT"
+    },
+    {
+        "symbol": "STPTUSDT",
+        "ask_price": "0.04248",
+        "bid_price": "0.04247",
+        "volume": 255283.497572,
+        "link": "https://www.btcex.com/en-us/spot/STPT-USDT-SPOT"
+    },
+    {
+        "symbol": "WOOUSDT",
+        "ask_price": "0.20314",
+        "bid_price": "0.20312",
+        "volume": 975553.8521563,
+        "link": "https://www.btcex.com/en-us/spot/WOO-USDT-SPOT"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "ask_price": "297.6",
+        "bid_price": "297.1",
+        "volume": 1754222.5435,
+        "link": "https://www.btcex.com/en-us/spot/BNB-USDT-SPOT"
+    },
+    {
+        "symbol": "CAKEUSDT",
+        "ask_price": "4.03",
+        "bid_price": "4.02",
+        "volume": 794516.8119,
+        "link": "https://www.btcex.com/en-us/spot/CAKE-USDT-SPOT"
+    },
+    {
+        "symbol": "XVSUSDT",
+        "ask_price": "5.47",
+        "bid_price": "5.45",
+        "volume": 133595.2545,
+        "link": "https://www.btcex.com/en-us/spot/XVS-USDT-SPOT"
+    },
+    {
+        "symbol": "SUSHIUSDT",
+        "ask_price": "1.245",
+        "bid_price": "1.244",
+        "volume": 692144.5162,
+        "link": "https://www.btcex.com/en-us/spot/SUSHI-USDT-SPOT"
+    },
+    {
+        "symbol": "MBOXUSDT",
+        "ask_price": "0.501",
+        "bid_price": "0.5",
+        "volume": 160376.579,
+        "link": "https://www.btcex.com/en-us/spot/MBOX-USDT-SPOT"
+    },
+    {
+        "symbol": "BOBAUSDT",
+        "ask_price": "0.257",
+        "bid_price": "0.256",
+        "volume": 264990.6255,
+        "link": "https://www.btcex.com/en-us/spot/BOBA-USDT-SPOT"
+    },
+    {
+        "symbol": "SANDUSDT",
+        "ask_price": "0.6731",
+        "bid_price": "0.6728",
+        "volume": 7121859.26090001,
+        "link": "https://www.btcex.com/en-us/spot/SAND-USDT-SPOT"
+    },
+    {
+        "symbol": "LRCUSDT",
+        "ask_price": "0.3854",
+        "bid_price": "0.3853",
+        "volume": 4262041.9363,
+        "link": "https://www.btcex.com/en-us/spot/LRC-USDT-SPOT"
+    },
+    {
+        "symbol": "MANAUSDT",
+        "ask_price": "0.6311",
+        "bid_price": "0.631",
+        "volume": 2092494.0817,
+        "link": "https://www.btcex.com/en-us/spot/MANA-USDT-SPOT"
+    },
+    {
+        "symbol": "PEOPLEUSDT",
+        "ask_price": "0.027331",
+        "bid_price": "0.027329",
+        "volume": 1002626.438625,
+        "link": "https://www.btcex.com/en-us/spot/PEOPLE-USDT-SPOT"
+    },
+    {
+        "symbol": "ENJUSDT",
+        "ask_price": "0.428",
+        "bid_price": "0.427",
+        "volume": 598261.7704,
+        "link": "https://www.btcex.com/en-us/spot/ENJ-USDT-SPOT"
+    },
+    {
+        "symbol": "WILDUSDT",
+        "ask_price": "0.422",
+        "bid_price": "0.4219",
+        "volume": 151835.6294801,
+        "link": "https://www.btcex.com/en-us/spot/WILD-USDT-SPOT"
+    },
+    {
+        "symbol": "API3USDT",
+        "ask_price": "1.554",
+        "bid_price": "1.552",
+        "volume": 159486.570896,
+        "link": "https://www.btcex.com/en-us/spot/API3-USDT-SPOT"
+    },
+    {
+        "symbol": "LINKUSDT",
+        "ask_price": "6.64",
+        "bid_price": "6.63",
+        "volume": 1200176.2801,
+        "link": "https://www.btcex.com/en-us/spot/LINK-USDT-SPOT"
+    },
+    {
+        "symbol": "ASMUSDT",
+        "ask_price": "0.012869",
+        "bid_price": "0.012868",
+        "volume": 138779.04460571,
+        "link": "https://www.btcex.com/en-us/spot/ASM-USDT-SPOT"
+    },
+    {
+        "symbol": "TRXUSDT",
+        "ask_price": "0.06422",
+        "bid_price": "0.06416",
+        "volume": 2722586.626214,
+        "link": "https://www.btcex.com/en-us/spot/TRX-USDT-SPOT"
+    },
+    {
+        "symbol": "SUKUUSDT",
+        "ask_price": "0.0734",
+        "bid_price": "0.0733",
+        "volume": 238261.1451891,
+        "link": "https://www.btcex.com/en-us/spot/SUKU-USDT-SPOT"
+    },
+    {
+        "symbol": "CFGUSDT",
+        "ask_price": "0.251",
+        "bid_price": "0.2508",
+        "volume": 121476.4512671,
+        "link": "https://www.btcex.com/en-us/spot/CFG-USDT-SPOT"
+    },
+    {
+        "symbol": "BUSDUSDT",
+        "ask_price": "0.999",
+        "bid_price": "0.9989",
+        "volume": 4563629.9622,
+        "link": "https://www.btcex.com/en-us/spot/BUSD-USDT-SPOT"
+    },
+    {
+        "symbol": "ANGLEUSDT",
+        "ask_price": "0.0623",
+        "bid_price": "0.06229",
+        "volume": 200219.67646659,
+        "link": "https://www.btcex.com/en-us/spot/ANGLE-USDT-SPOT"
+    },
+    {
+        "symbol": "EFIUSDT",
+        "ask_price": "0.0936",
+        "bid_price": "0.0934",
+        "volume": 166264.65839515,
+        "link": "https://www.btcex.com/en-us/spot/EFI-USDT-SPOT"
+    },
+    {
+        "symbol": "GOGUSDT",
+        "ask_price": "0.0829",
+        "bid_price": "0.0828",
+        "volume": 387202.73888413,
+        "link": "https://www.btcex.com/en-us/spot/GOG-USDT-SPOT"
+    },
+    {
+        "symbol": "SSSUSDT",
+        "ask_price": "0.228",
+        "bid_price": "0.2279",
+        "volume": 154580.366417,
+        "link": "https://www.btcex.com/en-us/spot/SSS-USDT-SPOT"
+    },
+    {
+        "symbol": "LOOKSUSDT",
+        "ask_price": "0.2841",
+        "bid_price": "0.284",
+        "volume": 2166626.015258,
+        "link": "https://www.btcex.com/en-us/spot/LOOKS-USDT-SPOT"
+    },
+    {
+        "symbol": "SOLUSDT",
+        "ask_price": "20.66",
+        "bid_price": "20.65",
+        "volume": 2463936.1833,
+        "link": "https://www.btcex.com/en-us/spot/SOL-USDT-SPOT"
+    },
+    {
+        "symbol": "AGLDUSDT",
+        "ask_price": "0.45",
+        "bid_price": "0.449",
+        "volume": 110816.0788,
+        "link": "https://www.btcex.com/en-us/spot/AGLD-USDT-SPOT"
+    },
+    {
+        "symbol": "GARIUSDT",
+        "ask_price": "0.060726",
+        "bid_price": "0.060724",
+        "volume": 216414.36280298,
+        "link": "https://www.btcex.com/en-us/spot/GARI-USDT-SPOT"
+    },
+    {
+        "symbol": "LOKAUSDT",
+        "ask_price": "0.5651",
+        "bid_price": "0.565",
+        "volume": 279793.6289287,
+        "link": "https://www.btcex.com/en-us/spot/LOKA-USDT-SPOT"
+    },
+    {
+        "symbol": "POKTUSDT",
+        "ask_price": "0.0855",
+        "bid_price": "0.0854",
+        "volume": 2737291.5303932,
+        "link": "https://www.btcex.com/en-us/spot/POKT-USDT-SPOT"
+    },
+    {
+        "symbol": "ADPUSDT",
+        "ask_price": "0.00869",
+        "bid_price": "0.00868",
+        "volume": 282013.8170874,
+        "link": "https://www.btcex.com/en-us/spot/ADP-USDT-SPOT"
+    },
+    {
+        "symbol": "JASMYUSDT",
+        "ask_price": "0.006126",
+        "bid_price": "0.00612",
+        "volume": 895935.4188895,
+        "link": "https://www.btcex.com/en-us/spot/JASMY-USDT-SPOT"
+    },
+    {
+        "symbol": "GALAUSDT",
+        "ask_price": "0.04247",
+        "bid_price": "0.04246",
+        "volume": 1086702.94962,
+        "link": "https://www.btcex.com/en-us/spot/GALA-USDT-SPOT"
+    },
+    {
+        "symbol": "UMEEUSDT",
+        "ask_price": "0.00883",
+        "bid_price": "0.00882",
+        "volume": 184582.91743663,
+        "link": "https://www.btcex.com/en-us/spot/UMEE-USDT-SPOT"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "ask_price": "0.3708",
+        "bid_price": "0.3707",
+        "volume": 2038028.6973,
+        "link": "https://www.btcex.com/en-us/spot/XRP-USDT-SPOT"
+    },
+    {
+        "symbol": "WITCHUSDT",
+        "ask_price": "0.197",
+        "bid_price": "0.196",
+        "volume": 126031.28271,
+        "link": "https://www.btcex.com/en-us/spot/WITCH-USDT-SPOT"
+    },
+    {
+        "symbol": "GMTUSDT",
+        "ask_price": "0.40572",
+        "bid_price": "0.40569",
+        "volume": 895421.262771,
+        "link": "https://www.btcex.com/en-us/spot/GMT-USDT-SPOT"
+    },
+    {
+        "symbol": "ATOMUSDT",
+        "ask_price": "13.12",
+        "bid_price": "13.11",
+        "volume": 817341.7756,
+        "link": "https://www.btcex.com/en-us/spot/ATOM-USDT-SPOT"
+    },
+    {
+        "symbol": "LUNCUSDT",
+        "ask_price": "0.00016488",
+        "bid_price": "0.00016476",
+        "volume": 958543.10249524,
+        "link": "https://www.btcex.com/en-us/spot/LUNC-USDT-SPOT"
+    },
+    {
+        "symbol": "USTCUSDT",
+        "ask_price": "0.02768449",
+        "bid_price": "0.02768272",
+        "volume": 683414.9576878,
+        "link": "https://www.btcex.com/en-us/spot/USTC-USDT-SPOT"
+    },
+    {
+        "symbol": "APEUSDT",
+        "ask_price": "5.0619",
+        "bid_price": "5.0618",
+        "volume": 1419826.57758665,
+        "link": "https://www.btcex.com/en-us/spot/APE-USDT-SPOT"
+    },
+    {
+        "symbol": "STGUSDT",
+        "ask_price": "0.717",
+        "bid_price": "0.716",
+        "volume": 546504.67467,
+        "link": "https://www.btcex.com/en-us/spot/STG-USDT-SPOT"
+    },
+    {
+        "symbol": "SYNUSDT",
+        "ask_price": "1.282",
+        "bid_price": "1.28",
+        "volume": 339592.08781,
+        "link": "https://www.btcex.com/en-us/spot/SYN-USDT-SPOT"
+    },
+    {
+        "symbol": "NYMUSDT",
+        "ask_price": "0.2933",
+        "bid_price": "0.2932",
+        "volume": 143267.8262737,
+        "link": "https://www.btcex.com/en-us/spot/NYM-USDT-SPOT"
+    },
+    {
+        "symbol": "HIGHUSDT",
+        "ask_price": "2.899",
+        "bid_price": "2.896",
+        "volume": 3900547.17219401,
+        "link": "https://www.btcex.com/en-us/spot/HIGH-USDT-SPOT"
+    },
+    {
+        "symbol": "FLOWUSDT",
+        "ask_price": "1.01",
+        "bid_price": "1",
+        "volume": 665025.1243,
+        "link": "https://www.btcex.com/en-us/spot/FLOW-USDT-SPOT"
+    },
+    {
+        "symbol": "MATTERUSDT",
+        "ask_price": "0.0847",
+        "bid_price": "0.0846",
+        "volume": 133178.5856934,
+        "link": "https://www.btcex.com/en-us/spot/MATTER-USDT-SPOT"
+    },
+    {
+        "symbol": "GALUSDT",
+        "ask_price": "1.984",
+        "bid_price": "1.983",
+        "volume": 439611.26606,
+        "link": "https://www.btcex.com/en-us/spot/GAL-USDT-SPOT"
+    },
+    {
+        "symbol": "AVAXUSDT",
+        "ask_price": "17.39",
+        "bid_price": "17.35",
+        "volume": 2678169.0395,
+        "link": "https://www.btcex.com/en-us/spot/AVAX-USDT-SPOT"
+    },
+    {
+        "symbol": "LTCUSDT",
+        "ask_price": "92",
+        "bid_price": "91.9",
+        "volume": 1607177.549,
+        "link": "https://www.btcex.com/en-us/spot/LTC-USDT-SPOT"
+    },
+    {
+        "symbol": "LUNAUSDT",
+        "ask_price": "1.7508",
+        "bid_price": "1.7506",
+        "volume": 453470.535182,
+        "link": "https://www.btcex.com/en-us/spot/LUNA-USDT-SPOT"
+    },
+    {
+        "symbol": "BONEUSDT",
+        "ask_price": "1.4747",
+        "bid_price": "1.4712",
+        "volume": 763044.014614,
+        "link": "https://www.btcex.com/en-us/spot/BONE-USDT-SPOT"
+    },
+    {
+        "symbol": "OPUSDT",
+        "ask_price": "2.179",
+        "bid_price": "2.178",
+        "volume": 2995116.45373,
+        "link": "https://www.btcex.com/en-us/spot/OP-USDT-SPOT"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "ask_price": "0.3556",
+        "bid_price": "0.3555",
+        "volume": 1293484.99045,
+        "link": "https://www.btcex.com/en-us/spot/ADA-USDT-SPOT"
+    },
+    {
+        "symbol": "LDOUSDT",
+        "ask_price": "2.286",
+        "bid_price": "2.285",
+        "volume": 6898858.70112,
+        "link": "https://www.btcex.com/en-us/spot/LDO-USDT-SPOT"
+    },
+    {
+        "symbol": "INJUSDT",
+        "ask_price": "3.168",
+        "bid_price": "3.167",
+        "volume": 1793301.5261,
+        "link": "https://www.btcex.com/en-us/spot/INJ-USDT-SPOT"
+    },
+    {
+        "symbol": "ETHWUSDT",
+        "ask_price": "3.61",
+        "bid_price": "3.609",
+        "volume": 998857.861458,
+        "link": "https://www.btcex.com/en-us/spot/ETHW-USDT-SPOT"
+    },
+    {
+        "symbol": "CHZUSDT",
+        "ask_price": "0.1282",
+        "bid_price": "0.1281",
+        "volume": 737557.7054,
+        "link": "https://www.btcex.com/en-us/spot/CHZ-USDT-SPOT"
+    },
+    {
+        "symbol": "XENUSDT",
+        "ask_price": "0.00000116",
+        "bid_price": "0.00000114",
+        "volume": 372827.4680719,
+        "link": "https://www.btcex.com/en-us/spot/XEN-USDT-SPOT"
+    },
+    {
+        "symbol": "GXEUSDT",
+        "ask_price": "0.07962",
+        "bid_price": "0.0796",
+        "volume": 330317.3955179,
+        "link": "https://www.btcex.com/en-us/spot/GXE-USDT-SPOT"
+    },
+    {
+        "symbol": "GMXUSDT",
+        "ask_price": "62.6713",
+        "bid_price": "62.6711",
+        "volume": 1730093.7325262008,
+        "link": "https://www.btcex.com/en-us/spot/GMX-USDT-SPOT"
+    },
+    {
+        "symbol": "APTUSDT",
+        "ask_price": "12.8083",
+        "bid_price": "12.7953",
+        "volume": 4505572.144837995,
+        "link": "https://www.btcex.com/en-us/spot/APT-USDT-SPOT"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "ask_price": "0.08202",
+        "bid_price": "0.08198",
+        "volume": 2292436.4839999983,
+        "link": "https://www.btcex.com/en-us/spot/DOGE-USDT-SPOT"
+    },
+    {
+        "symbol": "EGLDUSDT",
+        "ask_price": "42.78",
+        "bid_price": "42.77",
+        "volume": 675107.8881000011,
+        "link": "https://www.btcex.com/en-us/spot/EGLD-USDT-SPOT"
+    },
+    {
+        "symbol": "C98USDT",
+        "ask_price": "0.2512",
+        "bid_price": "0.2509",
+        "volume": 656095.7392099993,
+        "link": "https://www.btcex.com/en-us/spot/C98-USDT-SPOT"
+    },
+    {
+        "symbol": "SFPUSDT",
+        "ask_price": "0.4711",
+        "bid_price": "0.4709",
+        "volume": 245145.1415999998,
+        "link": "https://www.btcex.com/en-us/spot/SFP-USDT-SPOT"
+    },
+    {
+        "symbol": "SANTOSUSDT",
+        "ask_price": "5.832",
+        "bid_price": "5.831",
+        "volume": 223905.2815100001,
+        "link": "https://www.btcex.com/en-us/spot/SANTOS-USDT-SPOT"
+    },
+    {
+        "symbol": "ALPINEUSDT",
+        "ask_price": "3.0594",
+        "bid_price": "3.0592",
+        "volume": 249970.0251650001,
+        "link": "https://www.btcex.com/en-us/spot/ALPINE-USDT-SPOT"
+    },
+    {
+        "symbol": "PORTOUSDT",
+        "ask_price": "2.9906",
+        "bid_price": "2.9904",
+        "volume": 117803.189715,
+        "link": "https://www.btcex.com/en-us/spot/PORTO-USDT-SPOT"
+    },
+    {
+        "symbol": "LAZIOUSDT",
+        "ask_price": "3.3068",
+        "bid_price": "3.3066",
+        "volume": 121437.1948070001,
+        "link": "https://www.btcex.com/en-us/spot/LAZIO-USDT-SPOT"
+    },
+    {
+        "symbol": "ALTUSDT",
+        "ask_price": "0.6736",
+        "bid_price": "0.6735",
+        "volume": 744357.7853048801,
+        "link": "https://www.btcex.com/en-us/spot/ALT-USDT-SPOT"
+    },
+    {
+        "symbol": "MAGICUSDT",
+        "ask_price": "1.431",
+        "bid_price": "1.428",
+        "volume": 2220221.9656200027,
+        "link": "https://www.btcex.com/en-us/spot/MAGIC-USDT-SPOT"
+    },
+    {
+        "symbol": "VOLTUSDT",
+        "ask_price": "0.0000015076",
+        "bid_price": "0.0000015074",
+        "volume": 3708439.3278554324,
+        "link": "https://www.btcex.com/en-us/spot/VOLT-USDT-SPOT"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "ask_price": "1.1897",
+        "bid_price": "1.1896",
+        "volume": 13884065.689020006,
+        "link": "https://www.btcex.com/en-us/spot/MATIC-USDT-SPOT"
+    },
+    {
+        "symbol": "TRBUSDT",
+        "ask_price": "15.5",
+        "bid_price": "15.49",
+        "volume": 196355.9348,
+        "link": "https://www.btcex.com/en-us/spot/TRB-USDT-SPOT"
+    },
+    {
+        "symbol": "FXSUSDT",
+        "ask_price": "9.676",
+        "bid_price": "9.669",
+        "volume": 1825314.8258000002,
+        "link": "https://www.btcex.com/en-us/spot/FXS-USDT-SPOT"
+    },
+    {
+        "symbol": "IOTXUSDT",
+        "ask_price": "0.02875",
+        "bid_price": "0.02874",
+        "volume": 286864.22742,
+        "link": "https://www.btcex.com/en-us/spot/IOTX-USDT-SPOT"
+    },
+    {
+        "symbol": "RPLUSDT",
+        "ask_price": "42.48",
+        "bid_price": "42.45",
+        "volume": 255288.593,
+        "link": "https://www.btcex.com/en-us/spot/RPL-USDT-SPOT"
+    },
+    {
+        "symbol": "TUSDT",
+        "ask_price": "0.03652",
+        "bid_price": "0.03651",
+        "volume": 348740.8681390004,
+        "link": "https://www.btcex.com/en-us/spot/T-USDT-SPOT"
+    },
+    {
+        "symbol": "NMRUSDT",
+        "ask_price": "18.4",
+        "bid_price": "18.39",
+        "volume": 480678.6655000005,
+        "link": "https://www.btcex.com/en-us/spot/NMR-USDT-SPOT"
+    },
+    {
+        "symbol": "HIFIUSDT",
+        "ask_price": "0.4619",
+        "bid_price": "0.4618",
+        "volume": 183999.46299,
+        "link": "https://www.btcex.com/en-us/spot/HIFI-USDT-SPOT"
+    },
+    {
+        "symbol": "RNDRUSDT",
+        "ask_price": "1.521",
+        "bid_price": "1.52",
+        "volume": 6344386.587480007,
+        "link": "https://www.btcex.com/en-us/spot/RNDR-USDT-SPOT"
+    },
+    {
+        "symbol": "FMBUSDT",
+        "ask_price": "0.0000006168",
+        "bid_price": "0.0000006",
+        "volume": 148215.4991680401,
+        "link": "https://www.btcex.com/en-us/spot/FMB-USDT-SPOT"
+    },
+    {
+        "symbol": "CREUSDT",
+        "ask_price": "0.004555",
+        "bid_price": "0.004554",
+        "volume": 132155.4663121498,
+        "link": "https://www.btcex.com/en-us/spot/CRE-USDT-SPOT"
+    },
+    {
+        "symbol": "PSIUSDT",
+        "ask_price": "4.795",
+        "bid_price": "4.73",
+        "volume": 519756.3012699996,
+        "link": "https://www.btcex.com/en-us/spot/PSI-USDT-SPOT"
+    }
+]

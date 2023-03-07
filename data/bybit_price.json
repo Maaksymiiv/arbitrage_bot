@@ -1,0 +1,1360 @@
+[
+    {
+        "symbol": "10000NFTUSDT",
+        "bid_price": "0.004490",
+        "ask_price": "0.004500",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/10000NFT/USDT"
+    },
+    {
+        "symbol": "1000BONKUSDT",
+        "bid_price": "0.000555",
+        "ask_price": "0.000558",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/1000BONK/USDT"
+    },
+    {
+        "symbol": "1000BTTUSDT",
+        "bid_price": "0.0006831",
+        "ask_price": "0.0006833",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/1000BTT/USDT"
+    },
+    {
+        "symbol": "1000FLOKIUSDT",
+        "bid_price": "0.04361",
+        "ask_price": "0.04362",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/1000FLOKI/USDT"
+    },
+    {
+        "symbol": "1000LUNCUSDT",
+        "bid_price": "0.1412",
+        "ask_price": "0.1414",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/1000LUNC/USDT"
+    },
+    {
+        "symbol": "1000XECUSDT",
+        "bid_price": "0.03011",
+        "ask_price": "0.03012",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/1000XEC/USDT"
+    },
+    {
+        "symbol": "1INCHUSDT",
+        "bid_price": "0.5025",
+        "ask_price": "0.5030",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/1INCH/USDT"
+    },
+    {
+        "symbol": "AAVEUSDT",
+        "bid_price": "74.91",
+        "ask_price": "74.92",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/AAVE/USDT"
+    },
+    {
+        "symbol": "ACHUSDT",
+        "bid_price": "0.029834",
+        "ask_price": "0.029836",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ACH/USDT"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "bid_price": "0.3258",
+        "ask_price": "0.3259",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ADA/USDT"
+    },
+    {
+        "symbol": "AGIXUSDT",
+        "bid_price": "0.41090",
+        "ask_price": "0.41095",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/AGIX/USDT"
+    },
+    {
+        "symbol": "AGLDUSDT",
+        "bid_price": "0.4318",
+        "ask_price": "0.4320",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/AGLD/USDT"
+    },
+    {
+        "symbol": "AKROUSDT",
+        "bid_price": "0.005459",
+        "ask_price": "0.005460",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/AKRO/USDT"
+    },
+    {
+        "symbol": "ALGOUSDT",
+        "bid_price": "0.2140",
+        "ask_price": "0.2141",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ALGO/USDT"
+    },
+    {
+        "symbol": "ALICEUSDT",
+        "bid_price": "1.570",
+        "ask_price": "1.575",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ALICE/USDT"
+    },
+    {
+        "symbol": "ALPHAUSDT",
+        "bid_price": "0.10560",
+        "ask_price": "0.10570",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ALPHA/USDT"
+    },
+    {
+        "symbol": "ANKRUSDT",
+        "bid_price": "0.03213",
+        "ask_price": "0.03214",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ANKR/USDT"
+    },
+    {
+        "symbol": "ANTUSDT",
+        "bid_price": "2.330",
+        "ask_price": "2.335",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ANT/USDT"
+    },
+    {
+        "symbol": "APEUSDT",
+        "bid_price": "4.616",
+        "ask_price": "4.617",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/APE/USDT"
+    },
+    {
+        "symbol": "API3USDT",
+        "bid_price": "1.375",
+        "ask_price": "1.376",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/API3/USDT"
+    },
+    {
+        "symbol": "APTUSDT",
+        "bid_price": "10.9850",
+        "ask_price": "10.9855",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/APT/USDT"
+    },
+    {
+        "symbol": "ARPAUSDT",
+        "bid_price": "0.03708",
+        "ask_price": "0.03710",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ARPA/USDT"
+    },
+    {
+        "symbol": "ARUSDT",
+        "bid_price": "8.441",
+        "ask_price": "8.443",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/AR/USDT"
+    },
+    {
+        "symbol": "ASTRUSDT",
+        "bid_price": "0.063735",
+        "ask_price": "0.063805",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ASTR/USDT"
+    },
+    {
+        "symbol": "ATOMUSDT",
+        "bid_price": "11.621",
+        "ask_price": "11.623",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ATOM/USDT"
+    },
+    {
+        "symbol": "AVAXUSDT",
+        "bid_price": "16.045",
+        "ask_price": "16.050",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/AVAX/USDT"
+    },
+    {
+        "symbol": "AXSUSDT",
+        "bid_price": "8.542",
+        "ask_price": "8.544",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/AXS/USDT"
+    },
+    {
+        "symbol": "BAKEUSDT",
+        "bid_price": "0.1865",
+        "ask_price": "0.1870",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BAKE/USDT"
+    },
+    {
+        "symbol": "BALUSDT",
+        "bid_price": "6.285",
+        "ask_price": "6.290",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BAL/USDT"
+    },
+    {
+        "symbol": "BANDUSDT",
+        "bid_price": "1.665",
+        "ask_price": "1.667",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BAND/USDT"
+    },
+    {
+        "symbol": "BATUSDT",
+        "bid_price": "0.2460",
+        "ask_price": "0.2465",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BAT/USDT"
+    },
+    {
+        "symbol": "BCHUSDT",
+        "bid_price": "129.35",
+        "ask_price": "129.40",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BCH/USDT"
+    },
+    {
+        "symbol": "BELUSDT",
+        "bid_price": "0.6285",
+        "ask_price": "0.6287",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BEL/USDT"
+    },
+    {
+        "symbol": "BICOUSDT",
+        "bid_price": "0.3810",
+        "ask_price": "0.3820",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BICO/USDT"
+    },
+    {
+        "symbol": "BITUSDT",
+        "bid_price": "0.5190",
+        "ask_price": "0.5203",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BIT/USDT"
+    },
+    {
+        "symbol": "BLURUSDT",
+        "bid_price": "0.6394",
+        "ask_price": "0.6395",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BLUR/USDT"
+    },
+    {
+        "symbol": "BLZUSDT",
+        "bid_price": "0.08579",
+        "ask_price": "0.08581",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BLZ/USDT"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "bid_price": "287.10",
+        "ask_price": "287.15",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BNB/USDT"
+    },
+    {
+        "symbol": "BNXUSDT",
+        "bid_price": "0.7190",
+        "ask_price": "0.7200",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BNX/USDT"
+    },
+    {
+        "symbol": "BOBAUSDT",
+        "bid_price": "0.24075",
+        "ask_price": "0.24080",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BOBA/USDT"
+    },
+    {
+        "symbol": "BSVUSDT",
+        "bid_price": "37.30",
+        "ask_price": "37.35",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BSV/USDT"
+    },
+    {
+        "symbol": "BSWUSDT",
+        "bid_price": "0.1962",
+        "ask_price": "0.1964",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BSW/USDT"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "bid_price": "22233.30",
+        "ask_price": "22249.10",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BTC/USDT"
+    },
+    {
+        "symbol": "BUSDUSDT",
+        "bid_price": "0.9999",
+        "ask_price": "1.0001",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/BUSD/USDT"
+    },
+    {
+        "symbol": "C98USDT",
+        "bid_price": "0.2370",
+        "ask_price": "0.2375",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/C98/USDT"
+    },
+    {
+        "symbol": "CEEKUSDT",
+        "bid_price": "0.09450",
+        "ask_price": "0.09465",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CEEK/USDT"
+    },
+    {
+        "symbol": "CELOUSDT",
+        "bid_price": "0.639",
+        "ask_price": "0.640",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CELO/USDT"
+    },
+    {
+        "symbol": "CELRUSDT",
+        "bid_price": "0.01685",
+        "ask_price": "0.01690",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CELR/USDT"
+    },
+    {
+        "symbol": "CELUSDT",
+        "bid_price": "0.3837",
+        "ask_price": "0.3841",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CEL/USDT"
+    },
+    {
+        "symbol": "CFXUSDT",
+        "bid_price": "0.20056",
+        "ask_price": "0.20057",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CFX/USDT"
+    },
+    {
+        "symbol": "CHRUSDT",
+        "bid_price": "0.1478",
+        "ask_price": "0.1479",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CHR/USDT"
+    },
+    {
+        "symbol": "CHZUSDT",
+        "bid_price": "0.11970",
+        "ask_price": "0.11980",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CHZ/USDT"
+    },
+    {
+        "symbol": "CKBUSDT",
+        "bid_price": "0.004210",
+        "ask_price": "0.004220",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CKB/USDT"
+    },
+    {
+        "symbol": "COCOSUSDT",
+        "bid_price": "1.4905",
+        "ask_price": "1.4915",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/COCOS/USDT"
+    },
+    {
+        "symbol": "COMPUSDT",
+        "bid_price": "45.00",
+        "ask_price": "45.05",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/COMP/USDT"
+    },
+    {
+        "symbol": "COREUSDT",
+        "bid_price": "2.8045",
+        "ask_price": "2.8055",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CORE/USDT"
+    },
+    {
+        "symbol": "COTIUSDT",
+        "bid_price": "0.07885",
+        "ask_price": "0.07886",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/COTI/USDT"
+    },
+    {
+        "symbol": "CREAMUSDT",
+        "bid_price": "10.949",
+        "ask_price": "11.008",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CREAM/USDT"
+    },
+    {
+        "symbol": "CROUSDT",
+        "bid_price": "0.07060",
+        "ask_price": "0.07070",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CRO/USDT"
+    },
+    {
+        "symbol": "CRVUSDT",
+        "bid_price": "0.969",
+        "ask_price": "0.971",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CRV/USDT"
+    },
+    {
+        "symbol": "CTCUSDT",
+        "bid_price": "0.44400",
+        "ask_price": "0.44700",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CTC/USDT"
+    },
+    {
+        "symbol": "CTKUSDT",
+        "bid_price": "0.7254",
+        "ask_price": "0.7255",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CTK/USDT"
+    },
+    {
+        "symbol": "CTSIUSDT",
+        "bid_price": "0.13960",
+        "ask_price": "0.13965",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CTSI/USDT"
+    },
+    {
+        "symbol": "CVCUSDT",
+        "bid_price": "0.10550",
+        "ask_price": "0.10560",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CVC/USDT"
+    },
+    {
+        "symbol": "CVXUSDT",
+        "bid_price": "5.945",
+        "ask_price": "5.950",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/CVX/USDT"
+    },
+    {
+        "symbol": "DARUSDT",
+        "bid_price": "0.1700",
+        "ask_price": "0.1705",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/DAR/USDT"
+    },
+    {
+        "symbol": "DASHUSDT",
+        "bid_price": "61.15",
+        "ask_price": "61.20",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/DASH/USDT"
+    },
+    {
+        "symbol": "DENTUSDT",
+        "bid_price": "0.001009",
+        "ask_price": "0.001010",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/DENT/USDT"
+    },
+    {
+        "symbol": "DGBUSDT",
+        "bid_price": "0.01013",
+        "ask_price": "0.01015",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/DGB/USDT"
+    },
+    {
+        "symbol": "DODOUSDT",
+        "bid_price": "0.18870",
+        "ask_price": "0.18880",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/DODO/USDT"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "bid_price": "0.07343",
+        "ask_price": "0.07344",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/DOGE/USDT"
+    },
+    {
+        "symbol": "DOTUSDT",
+        "bid_price": "5.824",
+        "ask_price": "5.825",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/DOT/USDT"
+    },
+    {
+        "symbol": "DUSKUSDT",
+        "bid_price": "0.17826",
+        "ask_price": "0.17827",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/DUSK/USDT"
+    },
+    {
+        "symbol": "DYDXUSDT",
+        "bid_price": "2.240",
+        "ask_price": "2.242",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/DYDX/USDT"
+    },
+    {
+        "symbol": "EGLDUSDT",
+        "bid_price": "42.15",
+        "ask_price": "42.20",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/EGLD/USDT"
+    },
+    {
+        "symbol": "ENJUSDT",
+        "bid_price": "0.4335",
+        "ask_price": "0.4345",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ENJ/USDT"
+    },
+    {
+        "symbol": "ENSUSDT",
+        "bid_price": "13.66",
+        "ask_price": "13.67",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ENS/USDT"
+    },
+    {
+        "symbol": "EOSUSDT",
+        "bid_price": "1.172",
+        "ask_price": "1.174",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/EOS/USDT"
+    },
+    {
+        "symbol": "ETCUSDT",
+        "bid_price": "19.255",
+        "ask_price": "19.260",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ETC/USDT"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "bid_price": "1554.00",
+        "ask_price": "1554.05",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ETH/USDT"
+    },
+    {
+        "symbol": "ETHWUSDT",
+        "bid_price": "3.420",
+        "ask_price": "3.422",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ETHW/USDT"
+    },
+    {
+        "symbol": "FETUSDT",
+        "bid_price": "0.39345",
+        "ask_price": "0.39350",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/FET/USDT"
+    },
+    {
+        "symbol": "FILUSDT",
+        "bid_price": "5.875",
+        "ask_price": "5.876",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/FIL/USDT"
+    },
+    {
+        "symbol": "FITFIUSDT",
+        "bid_price": "0.01820",
+        "ask_price": "0.01830",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/FITFI/USDT"
+    },
+    {
+        "symbol": "FLMUSDT",
+        "bid_price": "0.09380",
+        "ask_price": "0.09390",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/FLM/USDT"
+    },
+    {
+        "symbol": "FLOWUSDT",
+        "bid_price": "1.0110",
+        "ask_price": "1.0115",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/FLOW/USDT"
+    },
+    {
+        "symbol": "FTMUSDT",
+        "bid_price": "0.3986",
+        "ask_price": "0.3987",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/FTM/USDT"
+    },
+    {
+        "symbol": "FXSUSDT",
+        "bid_price": "9.3545",
+        "ask_price": "9.3550",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/FXS/USDT"
+    },
+    {
+        "symbol": "GALAUSDT",
+        "bid_price": "0.03716",
+        "ask_price": "0.03718",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/GALA/USDT"
+    },
+    {
+        "symbol": "GALUSDT",
+        "bid_price": "1.6225",
+        "ask_price": "1.6230",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/GAL/USDT"
+    },
+    {
+        "symbol": "GFTUSDT",
+        "bid_price": "0.05825",
+        "ask_price": "0.05835",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/GFT/USDT"
+    },
+    {
+        "symbol": "GLMRUSDT",
+        "bid_price": "0.38900",
+        "ask_price": "0.38910",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/GLMR/USDT"
+    },
+    {
+        "symbol": "GMTUSDT",
+        "bid_price": "0.3503",
+        "ask_price": "0.3505",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/GMT/USDT"
+    },
+    {
+        "symbol": "GMXUSDT",
+        "bid_price": "70.115",
+        "ask_price": "70.120",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/GMX/USDT"
+    },
+    {
+        "symbol": "GRTUSDT",
+        "bid_price": "0.13695",
+        "ask_price": "0.13696",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/GRT/USDT"
+    },
+    {
+        "symbol": "GTCUSDT",
+        "bid_price": "1.735",
+        "ask_price": "1.740",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/GTC/USDT"
+    },
+    {
+        "symbol": "HBARUSDT",
+        "bid_price": "0.06271",
+        "ask_price": "0.06272",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/HBAR/USDT"
+    },
+    {
+        "symbol": "HIGHUSDT",
+        "bid_price": "2.2360",
+        "ask_price": "2.2365",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/HIGH/USDT"
+    },
+    {
+        "symbol": "HNTUSDT",
+        "bid_price": "2.316",
+        "ask_price": "2.317",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/HNT/USDT"
+    },
+    {
+        "symbol": "HOOKUSDT",
+        "bid_price": "1.8915",
+        "ask_price": "1.8925",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/HOOK/USDT"
+    },
+    {
+        "symbol": "HOTUSDT",
+        "bid_price": "0.001751",
+        "ask_price": "0.001752",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/HOT/USDT"
+    },
+    {
+        "symbol": "ICPUSDT",
+        "bid_price": "5.272",
+        "ask_price": "5.273",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ICP/USDT"
+    },
+    {
+        "symbol": "ICXUSDT",
+        "bid_price": "0.2148",
+        "ask_price": "0.2149",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ICX/USDT"
+    },
+    {
+        "symbol": "ILVUSDT",
+        "bid_price": "75.810",
+        "ask_price": "75.850",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ILV/USDT"
+    },
+    {
+        "symbol": "IMXUSDT",
+        "bid_price": "1.0738",
+        "ask_price": "1.0739",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/IMX/USDT"
+    },
+    {
+        "symbol": "INJUSDT",
+        "bid_price": "3.1165",
+        "ask_price": "3.1170",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/INJ/USDT"
+    },
+    {
+        "symbol": "IOSTUSDT",
+        "bid_price": "0.010042",
+        "ask_price": "0.010044",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/IOST/USDT"
+    },
+    {
+        "symbol": "IOTAUSDT",
+        "bid_price": "0.2055",
+        "ask_price": "0.2060",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/IOTA/USDT"
+    },
+    {
+        "symbol": "IOTXUSDT",
+        "bid_price": "0.02395",
+        "ask_price": "0.02400",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/IOTX/USDT"
+    },
+    {
+        "symbol": "JASMYUSDT",
+        "bid_price": "0.005246",
+        "ask_price": "0.005248",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/JASMY/USDT"
+    },
+    {
+        "symbol": "JSTUSDT",
+        "bid_price": "0.02653",
+        "ask_price": "0.02655",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/JST/USDT"
+    },
+    {
+        "symbol": "KAVAUSDT",
+        "bid_price": "0.7853",
+        "ask_price": "0.7855",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/KAVA/USDT"
+    },
+    {
+        "symbol": "KDAUSDT",
+        "bid_price": "1.0341",
+        "ask_price": "1.0356",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/KDA/USDT"
+    },
+    {
+        "symbol": "KLAYUSDT",
+        "bid_price": "0.2190",
+        "ask_price": "0.2200",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/KLAY/USDT"
+    },
+    {
+        "symbol": "KNCUSDT",
+        "bid_price": "0.7129",
+        "ask_price": "0.7131",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/KNC/USDT"
+    },
+    {
+        "symbol": "KSMUSDT",
+        "bid_price": "33.30",
+        "ask_price": "33.35",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/KSM/USDT"
+    },
+    {
+        "symbol": "LDOUSDT",
+        "bid_price": "2.5480",
+        "ask_price": "2.5485",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/LDO/USDT"
+    },
+    {
+        "symbol": "LINAUSDT",
+        "bid_price": "0.00810",
+        "ask_price": "0.00811",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/LINA/USDT"
+    },
+    {
+        "symbol": "LINKUSDT",
+        "bid_price": "6.734",
+        "ask_price": "6.735",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/LINK/USDT"
+    },
+    {
+        "symbol": "LITUSDT",
+        "bid_price": "1.052",
+        "ask_price": "1.053",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/LIT/USDT"
+    },
+    {
+        "symbol": "LOOKSUSDT",
+        "bid_price": "0.16070",
+        "ask_price": "0.16075",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/LOOKS/USDT"
+    },
+    {
+        "symbol": "LPTUSDT",
+        "bid_price": "5.906",
+        "ask_price": "5.907",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/LPT/USDT"
+    },
+    {
+        "symbol": "LRCUSDT",
+        "bid_price": "0.3185",
+        "ask_price": "0.3186",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/LRC/USDT"
+    },
+    {
+        "symbol": "LTCUSDT",
+        "bid_price": "85.77",
+        "ask_price": "85.78",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/LTC/USDT"
+    },
+    {
+        "symbol": "LUNA2USDT",
+        "bid_price": "1.481",
+        "ask_price": "1.483",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/LUNA2/USDT"
+    },
+    {
+        "symbol": "MANAUSDT",
+        "bid_price": "0.5886",
+        "ask_price": "0.5887",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/MANA/USDT"
+    },
+    {
+        "symbol": "MASKUSDT",
+        "bid_price": "3.777",
+        "ask_price": "3.779",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/MASK/USDT"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "bid_price": "1.1315",
+        "ask_price": "1.1316",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/MATIC/USDT"
+    },
+    {
+        "symbol": "MINAUSDT",
+        "bid_price": "0.7823",
+        "ask_price": "0.7830",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/MINA/USDT"
+    },
+    {
+        "symbol": "MKRUSDT",
+        "bid_price": "907.5",
+        "ask_price": "908.5",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/MKR/USDT"
+    },
+    {
+        "symbol": "MTLUSDT",
+        "bid_price": "1.1119",
+        "ask_price": "1.1121",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/MTL/USDT"
+    },
+    {
+        "symbol": "NEARUSDT",
+        "bid_price": "1.971",
+        "ask_price": "1.972",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/NEAR/USDT"
+    },
+    {
+        "symbol": "NEOUSDT",
+        "bid_price": "11.646",
+        "ask_price": "11.647",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/NEO/USDT"
+    },
+    {
+        "symbol": "NKNUSDT",
+        "bid_price": "0.10326",
+        "ask_price": "0.10327",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/NKN/USDT"
+    },
+    {
+        "symbol": "OCEANUSDT",
+        "bid_price": "0.3771",
+        "ask_price": "0.3772",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/OCEAN/USDT"
+    },
+    {
+        "symbol": "OGNUSDT",
+        "bid_price": "0.1189",
+        "ask_price": "0.1190",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/OGN/USDT"
+    },
+    {
+        "symbol": "OMGUSDT",
+        "bid_price": "1.448",
+        "ask_price": "1.449",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/OMG/USDT"
+    },
+    {
+        "symbol": "ONEUSDT",
+        "bid_price": "0.01861",
+        "ask_price": "0.01864",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ONE/USDT"
+    },
+    {
+        "symbol": "ONTUSDT",
+        "bid_price": "0.21480",
+        "ask_price": "0.21485",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ONT/USDT"
+    },
+    {
+        "symbol": "OPUSDT",
+        "bid_price": "2.3942",
+        "ask_price": "2.3943",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/OP/USDT"
+    },
+    {
+        "symbol": "PAXGUSDT",
+        "bid_price": "1816",
+        "ask_price": "1817",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/PAXG/USDT"
+    },
+    {
+        "symbol": "PEOPLEUSDT",
+        "bid_price": "0.02125",
+        "ask_price": "0.02135",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/PEOPLE/USDT"
+    },
+    {
+        "symbol": "QNTUSDT",
+        "bid_price": "122.16",
+        "ask_price": "122.20",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/QNT/USDT"
+    },
+    {
+        "symbol": "QTUMUSDT",
+        "bid_price": "2.925",
+        "ask_price": "2.930",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/QTUM/USDT"
+    },
+    {
+        "symbol": "RENUSDT",
+        "bid_price": "0.11918",
+        "ask_price": "0.11919",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/REN/USDT"
+    },
+    {
+        "symbol": "REQUSDT",
+        "bid_price": "0.09790",
+        "ask_price": "0.09796",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/REQ/USDT"
+    },
+    {
+        "symbol": "ROSEUSDT",
+        "bid_price": "0.05551",
+        "ask_price": "0.05552",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ROSE/USDT"
+    },
+    {
+        "symbol": "RPLUSDT",
+        "bid_price": "36.785",
+        "ask_price": "36.890",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/RPL/USDT"
+    },
+    {
+        "symbol": "RSRUSDT",
+        "bid_price": "0.004175",
+        "ask_price": "0.004177",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/RSR/USDT"
+    },
+    {
+        "symbol": "RSS3USDT",
+        "bid_price": "0.14450",
+        "ask_price": "0.14470",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/RSS3/USDT"
+    },
+    {
+        "symbol": "RUNEUSDT",
+        "bid_price": "1.462",
+        "ask_price": "1.463",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/RUNE/USDT"
+    },
+    {
+        "symbol": "RVNUSDT",
+        "bid_price": "0.02525",
+        "ask_price": "0.02530",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/RVN/USDT"
+    },
+    {
+        "symbol": "SANDUSDT",
+        "bid_price": "0.6040",
+        "ask_price": "0.6041",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/SAND/USDT"
+    },
+    {
+        "symbol": "SCRTUSDT",
+        "bid_price": "0.7220",
+        "ask_price": "0.7240",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/SCRT/USDT"
+    },
+    {
+        "symbol": "SCUSDT",
+        "bid_price": "0.003740",
+        "ask_price": "0.003750",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/SC/USDT"
+    },
+    {
+        "symbol": "SFPUSDT",
+        "bid_price": "0.4400",
+        "ask_price": "0.4402",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/SFP/USDT"
+    },
+    {
+        "symbol": "SHIB1000USDT",
+        "bid_price": "0.010715",
+        "ask_price": "0.010720",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/SHIB1000/USDT"
+    },
+    {
+        "symbol": "SKLUSDT",
+        "bid_price": "0.04048",
+        "ask_price": "0.04050",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/SKL/USDT"
+    },
+    {
+        "symbol": "SLPUSDT",
+        "bid_price": "0.00278",
+        "ask_price": "0.00279",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/SLP/USDT"
+    },
+    {
+        "symbol": "SNXUSDT",
+        "bid_price": "2.925",
+        "ask_price": "2.926",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/SNX/USDT"
+    },
+    {
+        "symbol": "SOLUSDT",
+        "bid_price": "20.179",
+        "ask_price": "20.181",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/SOL/USDT"
+    },
+    {
+        "symbol": "SSVUSDT",
+        "bid_price": "38.870",
+        "ask_price": "38.955",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/SSV/USDT"
+    },
+    {
+        "symbol": "STGUSDT",
+        "bid_price": "0.7596",
+        "ask_price": "0.7598",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/STG/USDT"
+    },
+    {
+        "symbol": "STMXUSDT",
+        "bid_price": "0.006010",
+        "ask_price": "0.006020",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/STMX/USDT"
+    },
+    {
+        "symbol": "STORJUSDT",
+        "bid_price": "0.3625",
+        "ask_price": "0.3630",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/STORJ/USDT"
+    },
+    {
+        "symbol": "STXUSDT",
+        "bid_price": "0.67060",
+        "ask_price": "0.67070",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/STX/USDT"
+    },
+    {
+        "symbol": "SUNUSDT",
+        "bid_price": "0.006550",
+        "ask_price": "0.006560",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/SUN/USDT"
+    },
+    {
+        "symbol": "SUSHIUSDT",
+        "bid_price": "1.179",
+        "ask_price": "1.180",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/SUSHI/USDT"
+    },
+    {
+        "symbol": "SWEATUSDT",
+        "bid_price": "0.01032",
+        "ask_price": "0.01035",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/SWEAT/USDT"
+    },
+    {
+        "symbol": "SXPUSDT",
+        "bid_price": "0.2735",
+        "ask_price": "0.2740",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/SXP/USDT"
+    },
+    {
+        "symbol": "THETAUSDT",
+        "bid_price": "0.9873",
+        "ask_price": "0.9874",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/THETA/USDT"
+    },
+    {
+        "symbol": "TLMUSDT",
+        "bid_price": "0.018380",
+        "ask_price": "0.018390",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/TLM/USDT"
+    },
+    {
+        "symbol": "TOMOUSDT",
+        "bid_price": "0.3615",
+        "ask_price": "0.3620",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/TOMO/USDT"
+    },
+    {
+        "symbol": "TRBUSDT",
+        "bid_price": "14.625",
+        "ask_price": "14.635",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/TRB/USDT"
+    },
+    {
+        "symbol": "TRXUSDT",
+        "bid_price": "0.06622",
+        "ask_price": "0.06623",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/TRX/USDT"
+    },
+    {
+        "symbol": "TUSDT",
+        "bid_price": "0.03759",
+        "ask_price": "0.03801",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/T/USDT"
+    },
+    {
+        "symbol": "TWTUSDT",
+        "bid_price": "1.2405",
+        "ask_price": "1.2415",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/TWT/USDT"
+    },
+    {
+        "symbol": "UNIUSDT",
+        "bid_price": "6.378",
+        "ask_price": "6.379",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/UNI/USDT"
+    },
+    {
+        "symbol": "USDCUSDT",
+        "bid_price": "0.9999",
+        "ask_price": "1.0000",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/USDC/USDT"
+    },
+    {
+        "symbol": "VETUSDT",
+        "bid_price": "0.02350",
+        "ask_price": "0.02355",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/VET/USDT"
+    },
+    {
+        "symbol": "WAVESUSDT",
+        "bid_price": "2.2615",
+        "ask_price": "2.2625",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/WAVES/USDT"
+    },
+    {
+        "symbol": "WOOUSDT",
+        "bid_price": "0.1819",
+        "ask_price": "0.1821",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/WOO/USDT"
+    },
+    {
+        "symbol": "XEMUSDT",
+        "bid_price": "0.0391",
+        "ask_price": "0.0392",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/XEM/USDT"
+    },
+    {
+        "symbol": "XLMUSDT",
+        "bid_price": "0.08205",
+        "ask_price": "0.08210",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/XLM/USDT"
+    },
+    {
+        "symbol": "XMRUSDT",
+        "bid_price": "150.70",
+        "ask_price": "150.75",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/XMR/USDT"
+    },
+    {
+        "symbol": "XNOUSDT",
+        "bid_price": "0.8280",
+        "ask_price": "0.8290",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/XNO/USDT"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "bid_price": "0.3760",
+        "ask_price": "0.3761",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/XRP/USDT"
+    },
+    {
+        "symbol": "XTZUSDT",
+        "bid_price": "1.094",
+        "ask_price": "1.095",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/XTZ/USDT"
+    },
+    {
+        "symbol": "YFIUSDT",
+        "bid_price": "9625",
+        "ask_price": "9630",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/YFI/USDT"
+    },
+    {
+        "symbol": "YGGUSDT",
+        "bid_price": "0.2663",
+        "ask_price": "0.2664",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/YGG/USDT"
+    },
+    {
+        "symbol": "ZECUSDT",
+        "bid_price": "37.05",
+        "ask_price": "37.10",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ZEC/USDT"
+    },
+    {
+        "symbol": "ZENUSDT",
+        "bid_price": "10.702",
+        "ask_price": "10.703",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ZEN/USDT"
+    },
+    {
+        "symbol": "ZILUSDT",
+        "bid_price": "0.02634",
+        "ask_price": "0.02635",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ZIL/USDT"
+    },
+    {
+        "symbol": "ZRXUSDT",
+        "bid_price": "0.2313",
+        "ask_price": "0.2315",
+        "volume": "-",
+        "link": "https://www.bybit.com/uk-UA/trade/spot/ZRX/USDT"
+    }
+]

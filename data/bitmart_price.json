@@ -1,0 +1,3271 @@
+[
+    {
+        "symbol": "SOLARUSDT",
+        "ask_price": "0.008349",
+        "bid_price": "0.008346",
+        "volume": 137576.047132,
+        "link": "https://www.bitmart.com/trade?symbol=SOLAR_USDT"
+    },
+    {
+        "symbol": "VINAUSDT",
+        "ask_price": "0.05834",
+        "bid_price": "0.05833",
+        "volume": 43138.21576,
+        "link": "https://www.bitmart.com/trade?symbol=VINA_USDT"
+    },
+    {
+        "symbol": "QNTUSDT",
+        "ask_price": "122.33",
+        "bid_price": "122.00",
+        "volume": 64189.15,
+        "link": "https://www.bitmart.com/trade?symbol=QNT_USDT"
+    },
+    {
+        "symbol": "KOMUSDT",
+        "ask_price": "0.00159628",
+        "bid_price": "0.00158832",
+        "volume": 89052.91049092,
+        "link": "https://www.bitmart.com/trade?symbol=KOM_USDT"
+    },
+    {
+        "symbol": "HAMUSDT",
+        "ask_price": "0.000000004189",
+        "bid_price": "0.000000004107",
+        "volume": 335055.2311090079,
+        "link": "https://www.bitmart.com/trade?symbol=HAM_USDT"
+    },
+    {
+        "symbol": "GMMTUSDT",
+        "ask_price": "2.6025",
+        "bid_price": "2.5750",
+        "volume": 49954.1219,
+        "link": "https://www.bitmart.com/trade?symbol=GMMT_USDT"
+    },
+    {
+        "symbol": "DOGGOUSDT",
+        "ask_price": "0.00000000528",
+        "bid_price": "0.00000000493",
+        "volume": 189297.80525257625,
+        "link": "https://www.bitmart.com/trade?symbol=DOGGO_USDT"
+    },
+    {
+        "symbol": "REPUSDT",
+        "ask_price": "7.85319",
+        "bid_price": "7.70338",
+        "volume": 37637.13218,
+        "link": "https://www.bitmart.com/trade?symbol=REP_USDT"
+    },
+    {
+        "symbol": "TWTUSDT",
+        "ask_price": "1.246990",
+        "bid_price": "1.234200",
+        "volume": 58539.036525,
+        "link": "https://www.bitmart.com/trade?symbol=TWT_USDT"
+    },
+    {
+        "symbol": "$PRIMEUSDT",
+        "ask_price": "3.171",
+        "bid_price": "3.157",
+        "volume": 507768.613,
+        "link": "https://www.bitmart.com/trade?symbol=$PRIME_USDT"
+    },
+    {
+        "symbol": "AMPLIFIUSDT",
+        "ask_price": "20.76",
+        "bid_price": "20.43",
+        "volume": 179898.93,
+        "link": "https://www.bitmart.com/trade?symbol=AMPLIFI_USDT"
+    },
+    {
+        "symbol": "HFTUSDT",
+        "ask_price": "0.6257",
+        "bid_price": "0.6223",
+        "volume": 141895.627,
+        "link": "https://www.bitmart.com/trade?symbol=HFT_USDT"
+    },
+    {
+        "symbol": "KATAUSDT",
+        "ask_price": "0.00067917",
+        "bid_price": "0.00067615",
+        "volume": 368929.67871636,
+        "link": "https://www.bitmart.com/trade?symbol=KATA_USDT"
+    },
+    {
+        "symbol": "MCUSDT",
+        "ask_price": "0.316",
+        "bid_price": "0.313",
+        "volume": 44347.052,
+        "link": "https://www.bitmart.com/trade?symbol=MC_USDT"
+    },
+    {
+        "symbol": "VETUSDT",
+        "ask_price": "0.023572",
+        "bid_price": "0.023537",
+        "volume": 99735.545114,
+        "link": "https://www.bitmart.com/trade?symbol=VET_USDT"
+    },
+    {
+        "symbol": "QUINTUSDT",
+        "ask_price": "1.182",
+        "bid_price": "1.132",
+        "volume": 2329325.51,
+        "link": "https://www.bitmart.com/trade?symbol=QUINT_USDT"
+    },
+    {
+        "symbol": "IUXUSDT",
+        "ask_price": "0.01671299",
+        "bid_price": "0.01620987",
+        "volume": 294291.18580077,
+        "link": "https://www.bitmart.com/trade?symbol=IUX_USDT"
+    },
+    {
+        "symbol": "FETUSDT",
+        "ask_price": "0.4047",
+        "bid_price": "0.3940",
+        "volume": 35680.3422,
+        "link": "https://www.bitmart.com/trade?symbol=FET_USDT"
+    },
+    {
+        "symbol": "ARGUSDT",
+        "ask_price": "0.076999",
+        "bid_price": "0.075923",
+        "volume": 31044.822612,
+        "link": "https://www.bitmart.com/trade?symbol=ARG_USDT"
+    },
+    {
+        "symbol": "UNIUSDT",
+        "ask_price": "6.3841",
+        "bid_price": "6.3778",
+        "volume": 1316281.524,
+        "link": "https://www.bitmart.com/trade?symbol=UNI_USDT"
+    },
+    {
+        "symbol": "SOMUSDT",
+        "ask_price": "0.0002487",
+        "bid_price": "0.0002447",
+        "volume": 30832.5623695,
+        "link": "https://www.bitmart.com/trade?symbol=SOM_USDT"
+    },
+    {
+        "symbol": "VTSUSDT",
+        "ask_price": "0.1784",
+        "bid_price": "0.1733",
+        "volume": 165491.3411,
+        "link": "https://www.bitmart.com/trade?symbol=VTS_USDT"
+    },
+    {
+        "symbol": "WEBAIUSDT",
+        "ask_price": "0.000751",
+        "bid_price": "0.000740",
+        "volume": 104307.63795,
+        "link": "https://www.bitmart.com/trade?symbol=WEBAI_USDT"
+    },
+    {
+        "symbol": "WMTUSDT",
+        "ask_price": "0.192583",
+        "bid_price": "0.191874",
+        "volume": 36644.343934,
+        "link": "https://www.bitmart.com/trade?symbol=WMT_USDT"
+    },
+    {
+        "symbol": "GMTUSDT",
+        "ask_price": "0.35077",
+        "bid_price": "0.35073",
+        "volume": 1471400.65552,
+        "link": "https://www.bitmart.com/trade?symbol=GMT_USDT"
+    },
+    {
+        "symbol": "CSPRUSDT",
+        "ask_price": "0.039023",
+        "bid_price": "0.038757",
+        "volume": 41822.750291,
+        "link": "https://www.bitmart.com/trade?symbol=CSPR_USDT"
+    },
+    {
+        "symbol": "BFICUSDT",
+        "ask_price": "20.5675",
+        "bid_price": "20.3437",
+        "volume": 162541.4236,
+        "link": "https://www.bitmart.com/trade?symbol=BFIC_USDT"
+    },
+    {
+        "symbol": "MMAIUSDT",
+        "ask_price": "0.00032246",
+        "bid_price": "0.00032110",
+        "volume": 155314.3298607,
+        "link": "https://www.bitmart.com/trade?symbol=MMAI_USDT"
+    },
+    {
+        "symbol": "KSNUSDT",
+        "ask_price": "0.46232",
+        "bid_price": "0.46032",
+        "volume": 132180.62387,
+        "link": "https://www.bitmart.com/trade?symbol=KSN_USDT"
+    },
+    {
+        "symbol": "ALGOBLKUSDT",
+        "ask_price": "0.006941",
+        "bid_price": "0.006786",
+        "volume": 36298.730002,
+        "link": "https://www.bitmart.com/trade?symbol=ALGOBLK_USDT"
+    },
+    {
+        "symbol": "GRTUSDT",
+        "ask_price": "0.137511",
+        "bid_price": "0.136590",
+        "volume": 98483.662628,
+        "link": "https://www.bitmart.com/trade?symbol=GRT_USDT"
+    },
+    {
+        "symbol": "RDNTUSDT",
+        "ask_price": "0.29151",
+        "bid_price": "0.28900",
+        "volume": 243732.22967,
+        "link": "https://www.bitmart.com/trade?symbol=RDNT_USDT"
+    },
+    {
+        "symbol": "PAFUSDT",
+        "ask_price": "0.0005063",
+        "bid_price": "0.0004937",
+        "volume": 47692.7716764,
+        "link": "https://www.bitmart.com/trade?symbol=PAF_USDT"
+    },
+    {
+        "symbol": "DAIUSDT",
+        "ask_price": "1.00016",
+        "bid_price": "1.00014",
+        "volume": 861045.56915,
+        "link": "https://www.bitmart.com/trade?symbol=DAI_USDT"
+    },
+    {
+        "symbol": "LOKAUSDT",
+        "ask_price": "0.5117",
+        "bid_price": "0.5083",
+        "volume": 118250.7332,
+        "link": "https://www.bitmart.com/trade?symbol=LOKA_USDT"
+    },
+    {
+        "symbol": "CREOUSDT",
+        "ask_price": "0.002393",
+        "bid_price": "0.002366",
+        "volume": 99315.024709,
+        "link": "https://www.bitmart.com/trade?symbol=CREO_USDT"
+    },
+    {
+        "symbol": "SSVUSDT",
+        "ask_price": "38.9672",
+        "bid_price": "38.7711",
+        "volume": 208402.3852,
+        "link": "https://www.bitmart.com/trade?symbol=SSV_USDT"
+    },
+    {
+        "symbol": "DTRUSDT",
+        "ask_price": "1.14000004",
+        "bid_price": "1.10031541",
+        "volume": 627893.65320486,
+        "link": "https://www.bitmart.com/trade?symbol=DTR_USDT"
+    },
+    {
+        "symbol": "ATOZUSDT",
+        "ask_price": "0.148689",
+        "bid_price": "0.147430",
+        "volume": 101419.726428,
+        "link": "https://www.bitmart.com/trade?symbol=ATOZ_USDT"
+    },
+    {
+        "symbol": "QDTUSDT",
+        "ask_price": "0.00289238",
+        "bid_price": "0.00280001",
+        "volume": 38620.64307654,
+        "link": "https://www.bitmart.com/trade?symbol=QDT_USDT"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "ask_price": "0.37635",
+        "bid_price": "0.37509",
+        "volume": 1561375.6001,
+        "link": "https://www.bitmart.com/trade?symbol=XRP_USDT"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "ask_price": "1.133327",
+        "bid_price": "1.130918",
+        "volume": 1470563.384706,
+        "link": "https://www.bitmart.com/trade?symbol=MATIC_USDT"
+    },
+    {
+        "symbol": "$HMTUSDT",
+        "ask_price": "0.004011",
+        "bid_price": "0.003980",
+        "volume": 112482.534326,
+        "link": "https://www.bitmart.com/trade?symbol=$HMT_USDT"
+    },
+    {
+        "symbol": "ASSAUSDT",
+        "ask_price": "0.007000",
+        "bid_price": "0.006870",
+        "volume": 50824.236592,
+        "link": "https://www.bitmart.com/trade?symbol=ASSA_USDT"
+    },
+    {
+        "symbol": "BBTUSDT",
+        "ask_price": "0.000658",
+        "bid_price": "0.000652",
+        "volume": 231197.589237,
+        "link": "https://www.bitmart.com/trade?symbol=BBT_USDT"
+    },
+    {
+        "symbol": "ASTUSDT",
+        "ask_price": "0.09949",
+        "bid_price": "0.09745",
+        "volume": 41264.24524,
+        "link": "https://www.bitmart.com/trade?symbol=AST_USDT"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "ask_price": "287.34",
+        "bid_price": "287.21",
+        "volume": 3601984.16,
+        "link": "https://www.bitmart.com/trade?symbol=BNB_USDT"
+    },
+    {
+        "symbol": "GRAILUSDT",
+        "ask_price": "1869.83",
+        "bid_price": "1862.12",
+        "volume": 217239.83,
+        "link": "https://www.bitmart.com/trade?symbol=GRAIL_USDT"
+    },
+    {
+        "symbol": "USDPUSDT",
+        "ask_price": "1.00092",
+        "bid_price": "0.99929",
+        "volume": 310488.70319,
+        "link": "https://www.bitmart.com/trade?symbol=USDP_USDT"
+    },
+    {
+        "symbol": "SPXCUSDT",
+        "ask_price": "0.0000000003464",
+        "bid_price": "0.0000000003451",
+        "volume": 70606.5667510022,
+        "link": "https://www.bitmart.com/trade?symbol=SPXC_USDT"
+    },
+    {
+        "symbol": "ALPINEUSDT",
+        "ask_price": "2.4993",
+        "bid_price": "2.4892",
+        "volume": 99268.5751,
+        "link": "https://www.bitmart.com/trade?symbol=ALPINE_USDT"
+    },
+    {
+        "symbol": "DINOUSDT",
+        "ask_price": "0.01726",
+        "bid_price": "0.01716",
+        "volume": 252744.82448,
+        "link": "https://www.bitmart.com/trade?symbol=DINO_USDT"
+    },
+    {
+        "symbol": "PKTUSDT",
+        "ask_price": "0.0020445",
+        "bid_price": "0.0020267",
+        "volume": 73220.6412126,
+        "link": "https://www.bitmart.com/trade?symbol=PKT_USDT"
+    },
+    {
+        "symbol": "YFIUSDT",
+        "ask_price": "9631.39",
+        "bid_price": "9621.19",
+        "volume": 4059056.71,
+        "link": "https://www.bitmart.com/trade?symbol=YFI_USDT"
+    },
+    {
+        "symbol": "KLXUSDT",
+        "ask_price": "0.00011680",
+        "bid_price": "0.00011650",
+        "volume": 128803.04990136,
+        "link": "https://www.bitmart.com/trade?symbol=KLX_USDT"
+    },
+    {
+        "symbol": "FORTUSDT",
+        "ask_price": "0.1532",
+        "bid_price": "0.1486",
+        "volume": 30277.616,
+        "link": "https://www.bitmart.com/trade?symbol=FORT_USDT"
+    },
+    {
+        "symbol": "COREUSDT",
+        "ask_price": "2.809",
+        "bid_price": "2.805",
+        "volume": 1646835.99,
+        "link": "https://www.bitmart.com/trade?symbol=CORE_USDT"
+    },
+    {
+        "symbol": "SRXUSDT",
+        "ask_price": "0.017409",
+        "bid_price": "0.017408",
+        "volume": 55848.409792,
+        "link": "https://www.bitmart.com/trade?symbol=SRX_USDT"
+    },
+    {
+        "symbol": "FRAUSDT",
+        "ask_price": "0.002587",
+        "bid_price": "0.002545",
+        "volume": 175593.669998,
+        "link": "https://www.bitmart.com/trade?symbol=FRA_USDT"
+    },
+    {
+        "symbol": "NEARUSDT",
+        "ask_price": "1.9745",
+        "bid_price": "1.9725",
+        "volume": 886737.814,
+        "link": "https://www.bitmart.com/trade?symbol=NEAR_USDT"
+    },
+    {
+        "symbol": "LNRUSDT",
+        "ask_price": "0.0222",
+        "bid_price": "0.0214",
+        "volume": 223841.5522,
+        "link": "https://www.bitmart.com/trade?symbol=LNR_USDT"
+    },
+    {
+        "symbol": "WECUSDT",
+        "ask_price": "0.05720",
+        "bid_price": "0.05625",
+        "volume": 43820.83672,
+        "link": "https://www.bitmart.com/trade?symbol=WEC_USDT"
+    },
+    {
+        "symbol": "THGUSDT",
+        "ask_price": "0.0658",
+        "bid_price": "0.0646",
+        "volume": 37328.1636,
+        "link": "https://www.bitmart.com/trade?symbol=THG_USDT"
+    },
+    {
+        "symbol": "KKTUSDT",
+        "ask_price": "0.0006734",
+        "bid_price": "0.0006710",
+        "volume": 62597.4865326,
+        "link": "https://www.bitmart.com/trade?symbol=KKT_USDT"
+    },
+    {
+        "symbol": "SOLUSDT",
+        "ask_price": "20.2254",
+        "bid_price": "20.1444",
+        "volume": 300781.3191,
+        "link": "https://www.bitmart.com/trade?symbol=SOL_USDT"
+    },
+    {
+        "symbol": "AXSUSDT",
+        "ask_price": "8.5723",
+        "bid_price": "8.5379",
+        "volume": 100120.5352,
+        "link": "https://www.bitmart.com/trade?symbol=AXS_USDT"
+    },
+    {
+        "symbol": "FTMUSDT",
+        "ask_price": "0.399010",
+        "bid_price": "0.398690",
+        "volume": 603059.49463,
+        "link": "https://www.bitmart.com/trade?symbol=FTM_USDT"
+    },
+    {
+        "symbol": "TSUKAUSDT",
+        "ask_price": "0.078971",
+        "bid_price": "0.078000",
+        "volume": 72904.69247,
+        "link": "https://www.bitmart.com/trade?symbol=TSUKA_USDT"
+    },
+    {
+        "symbol": "LITUSDT",
+        "ask_price": "1.0562",
+        "bid_price": "1.0508",
+        "volume": 124258.1266,
+        "link": "https://www.bitmart.com/trade?symbol=LIT_USDT"
+    },
+    {
+        "symbol": "PIGUSDT",
+        "ask_price": "0.000000016496",
+        "bid_price": "0.000000016148",
+        "volume": 44842.13627420573,
+        "link": "https://www.bitmart.com/trade?symbol=PIG_USDT"
+    },
+    {
+        "symbol": "LUFFYUSDT",
+        "ask_price": "0.0000000001718",
+        "bid_price": "0.0000000001656",
+        "volume": 41379.09014370714,
+        "link": "https://www.bitmart.com/trade?symbol=LUFFY_USDT"
+    },
+    {
+        "symbol": "OSMOUSDT",
+        "ask_price": "0.8407",
+        "bid_price": "0.8383",
+        "volume": 237033.2482,
+        "link": "https://www.bitmart.com/trade?symbol=OSMO_USDT"
+    },
+    {
+        "symbol": "TABOOUSDT",
+        "ask_price": "0.0014637",
+        "bid_price": "0.0013503",
+        "volume": 298975.0681513,
+        "link": "https://www.bitmart.com/trade?symbol=TABOO_USDT"
+    },
+    {
+        "symbol": "WAVESUSDT",
+        "ask_price": "2.2703",
+        "bid_price": "2.2567",
+        "volume": 119099.7188,
+        "link": "https://www.bitmart.com/trade?symbol=WAVES_USDT"
+    },
+    {
+        "symbol": "SOSUSDT",
+        "ask_price": "0.0000001469",
+        "bid_price": "0.0000001442",
+        "volume": 35799.437789053,
+        "link": "https://www.bitmart.com/trade?symbol=SOS_USDT"
+    },
+    {
+        "symbol": "SHIBDOGE(1M)USDT",
+        "ask_price": "0.0000000000705",
+        "bid_price": "0.0000000000694",
+        "volume": 43095.51838017483,
+        "link": "https://www.bitmart.com/trade?symbol=SHIBDOGE(1M)_USDT"
+    },
+    {
+        "symbol": "PEOPLEUSDT",
+        "ask_price": "0.021317",
+        "bid_price": "0.021276",
+        "volume": 87391.625136,
+        "link": "https://www.bitmart.com/trade?symbol=PEOPLE_USDT"
+    },
+    {
+        "symbol": "HELLOUSDT",
+        "ask_price": "0.037233",
+        "bid_price": "0.036649",
+        "volume": 428165.47141,
+        "link": "https://www.bitmart.com/trade?symbol=HELLO_USDT"
+    },
+    {
+        "symbol": "RITEUSDT",
+        "ask_price": "0.002541",
+        "bid_price": "0.002496",
+        "volume": 59503.027328,
+        "link": "https://www.bitmart.com/trade?symbol=RITE_USDT"
+    },
+    {
+        "symbol": "$BUYUSDT",
+        "ask_price": "0.020474",
+        "bid_price": "0.020260",
+        "volume": 106082.264748,
+        "link": "https://www.bitmart.com/trade?symbol=$BUY_USDT"
+    },
+    {
+        "symbol": "PROSUSDT",
+        "ask_price": "0.5793",
+        "bid_price": "0.5722",
+        "volume": 30848.9512,
+        "link": "https://www.bitmart.com/trade?symbol=PROS_USDT"
+    },
+    {
+        "symbol": "ICWUSDT",
+        "ask_price": "0.01759094",
+        "bid_price": "0.01739104",
+        "volume": 100024.77418546,
+        "link": "https://www.bitmart.com/trade?symbol=ICW_USDT"
+    },
+    {
+        "symbol": "CEMUSDT",
+        "ask_price": "0.640151",
+        "bid_price": "0.640000",
+        "volume": 101846.477612,
+        "link": "https://www.bitmart.com/trade?symbol=CEM_USDT"
+    },
+    {
+        "symbol": "IMPTUSDT",
+        "ask_price": "0.008355",
+        "bid_price": "0.007968",
+        "volume": 72490.024539,
+        "link": "https://www.bitmart.com/trade?symbol=IMPT_USDT"
+    },
+    {
+        "symbol": "PIASUSDT",
+        "ask_price": "0.0321",
+        "bid_price": "0.0313",
+        "volume": 100654.2084,
+        "link": "https://www.bitmart.com/trade?symbol=PIAS_USDT"
+    },
+    {
+        "symbol": "AUDIOUSDT",
+        "ask_price": "0.25965",
+        "bid_price": "0.25904",
+        "volume": 158445.25809,
+        "link": "https://www.bitmart.com/trade?symbol=AUDIO_USDT"
+    },
+    {
+        "symbol": "MANAUSDT",
+        "ask_price": "0.5896",
+        "bid_price": "0.5887",
+        "volume": 338888.0557,
+        "link": "https://www.bitmart.com/trade?symbol=MANA_USDT"
+    },
+    {
+        "symbol": "DHLTUSDT",
+        "ask_price": "0.003054",
+        "bid_price": "0.003032",
+        "volume": 90476.7517,
+        "link": "https://www.bitmart.com/trade?symbol=DHLT_USDT"
+    },
+    {
+        "symbol": "OKBUSDT",
+        "ask_price": "44.0136",
+        "bid_price": "43.7352",
+        "volume": 85299.3765,
+        "link": "https://www.bitmart.com/trade?symbol=OKB_USDT"
+    },
+    {
+        "symbol": "SLPUSDT",
+        "ask_price": "0.002808",
+        "bid_price": "0.002783",
+        "volume": 41088.574667,
+        "link": "https://www.bitmart.com/trade?symbol=SLP_USDT"
+    },
+    {
+        "symbol": "LUNAUSDT",
+        "ask_price": "1.4872",
+        "bid_price": "1.4775",
+        "volume": 60467.3964,
+        "link": "https://www.bitmart.com/trade?symbol=LUNA_USDT"
+    },
+    {
+        "symbol": "MGTUSDT",
+        "ask_price": "0.001787",
+        "bid_price": "0.001774",
+        "volume": 128665.62906,
+        "link": "https://www.bitmart.com/trade?symbol=MGT_USDT"
+    },
+    {
+        "symbol": "RFUELUSDT",
+        "ask_price": "0.005848",
+        "bid_price": "0.005795",
+        "volume": 35283.81553,
+        "link": "https://www.bitmart.com/trade?symbol=RFUEL_USDT"
+    },
+    {
+        "symbol": "DARUSDT",
+        "ask_price": "0.17052",
+        "bid_price": "0.16979",
+        "volume": 52354.33201,
+        "link": "https://www.bitmart.com/trade?symbol=DAR_USDT"
+    },
+    {
+        "symbol": "KSMUSDT",
+        "ask_price": "33.38",
+        "bid_price": "33.33",
+        "volume": 88535.08,
+        "link": "https://www.bitmart.com/trade?symbol=KSM_USDT"
+    },
+    {
+        "symbol": "STORJUSDT",
+        "ask_price": "0.3632",
+        "bid_price": "0.3620",
+        "volume": 106445.1421,
+        "link": "https://www.bitmart.com/trade?symbol=STORJ_USDT"
+    },
+    {
+        "symbol": "VRGWUSDT",
+        "ask_price": "0.0005484",
+        "bid_price": "0.0005340",
+        "volume": 79735.7236334,
+        "link": "https://www.bitmart.com/trade?symbol=VRGW_USDT"
+    },
+    {
+        "symbol": "QTUMUSDT",
+        "ask_price": "2.9335",
+        "bid_price": "2.9293",
+        "volume": 85465.7819,
+        "link": "https://www.bitmart.com/trade?symbol=QTUM_USDT"
+    },
+    {
+        "symbol": "LOVELYUSDT",
+        "ask_price": "0.00000008099",
+        "bid_price": "0.00000008050",
+        "volume": 998433.8831413324,
+        "link": "https://www.bitmart.com/trade?symbol=LOVELY_USDT"
+    },
+    {
+        "symbol": "CVXUSDT",
+        "ask_price": "5.97",
+        "bid_price": "5.93",
+        "volume": 109918.5,
+        "link": "https://www.bitmart.com/trade?symbol=CVX_USDT"
+    },
+    {
+        "symbol": "LUNCUSDT",
+        "ask_price": "0.00014169",
+        "bid_price": "0.00014098",
+        "volume": 70337.11158963,
+        "link": "https://www.bitmart.com/trade?symbol=LUNC_USDT"
+    },
+    {
+        "symbol": "GMMUSDT",
+        "ask_price": "0.002179",
+        "bid_price": "0.002164",
+        "volume": 91992.95247,
+        "link": "https://www.bitmart.com/trade?symbol=GMM_USDT"
+    },
+    {
+        "symbol": "NEXOUSDT",
+        "ask_price": "0.6460",
+        "bid_price": "0.6174",
+        "volume": 37022.6617,
+        "link": "https://www.bitmart.com/trade?symbol=NEXO_USDT"
+    },
+    {
+        "symbol": "STABLZUSDT",
+        "ask_price": "0.258984",
+        "bid_price": "0.258819",
+        "volume": 357716.503965,
+        "link": "https://www.bitmart.com/trade?symbol=STABLZ_USDT"
+    },
+    {
+        "symbol": "MONSTERUSDT",
+        "ask_price": "0.3200",
+        "bid_price": "0.3100",
+        "volume": 40196.6176,
+        "link": "https://www.bitmart.com/trade?symbol=MONSTER_USDT"
+    },
+    {
+        "symbol": "CAUSEUSDT",
+        "ask_price": "0.41487",
+        "bid_price": "0.41477",
+        "volume": 187331.57557,
+        "link": "https://www.bitmart.com/trade?symbol=CAUSE_USDT"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "ask_price": "1553.84",
+        "bid_price": "1553.83",
+        "volume": 199132080.25,
+        "link": "https://www.bitmart.com/trade?symbol=ETH_USDT"
+    },
+    {
+        "symbol": "STOREUSDT",
+        "ask_price": "0.037212",
+        "bid_price": "0.036808",
+        "volume": 180793.143546,
+        "link": "https://www.bitmart.com/trade?symbol=STORE_USDT"
+    },
+    {
+        "symbol": "FLOKIUSDT",
+        "ask_price": "0.00004357",
+        "bid_price": "0.00004346",
+        "volume": 84004.312005,
+        "link": "https://www.bitmart.com/trade?symbol=FLOKI_USDT"
+    },
+    {
+        "symbol": "XRUNUSDT",
+        "ask_price": "0.325068",
+        "bid_price": "0.320833",
+        "volume": 36037.488108,
+        "link": "https://www.bitmart.com/trade?symbol=XRUN_USDT"
+    },
+    {
+        "symbol": "BITCONEYUSDT",
+        "ask_price": "1.701",
+        "bid_price": "1.700",
+        "volume": 233365.252,
+        "link": "https://www.bitmart.com/trade?symbol=BITCONEY_USDT"
+    },
+    {
+        "symbol": "CASTUSDT",
+        "ask_price": "0.10473",
+        "bid_price": "0.10295",
+        "volume": 48690.09355,
+        "link": "https://www.bitmart.com/trade?symbol=CAST_USDT"
+    },
+    {
+        "symbol": "PENUSDT",
+        "ask_price": "0.048640",
+        "bid_price": "0.048429",
+        "volume": 105767.137725,
+        "link": "https://www.bitmart.com/trade?symbol=PEN_USDT"
+    },
+    {
+        "symbol": "ENJUSDT",
+        "ask_price": "0.4349",
+        "bid_price": "0.4330",
+        "volume": 84238.5728,
+        "link": "https://www.bitmart.com/trade?symbol=ENJ_USDT"
+    },
+    {
+        "symbol": "WAITUSDT",
+        "ask_price": "0.28000",
+        "bid_price": "0.27327",
+        "volume": 86340.7841,
+        "link": "https://www.bitmart.com/trade?symbol=WAIT_USDT"
+    },
+    {
+        "symbol": "VRUSDT",
+        "ask_price": "0.009274",
+        "bid_price": "0.009099",
+        "volume": 35022.78367,
+        "link": "https://www.bitmart.com/trade?symbol=VR_USDT"
+    },
+    {
+        "symbol": "SYNOPTIUSDT",
+        "ask_price": "0.003567",
+        "bid_price": "0.003533",
+        "volume": 115217.877188,
+        "link": "https://www.bitmart.com/trade?symbol=SYNOPTI_USDT"
+    },
+    {
+        "symbol": "SHINJAUSDT",
+        "ask_price": "0.000047830",
+        "bid_price": "0.000046544",
+        "volume": 69492.675228588,
+        "link": "https://www.bitmart.com/trade?symbol=SHINJA_USDT"
+    },
+    {
+        "symbol": "RECRUITUSDT",
+        "ask_price": "0.1263",
+        "bid_price": "0.1257",
+        "volume": 68006.8706,
+        "link": "https://www.bitmart.com/trade?symbol=RECRUIT_USDT"
+    },
+    {
+        "symbol": "CMCXUSDT",
+        "ask_price": "0.002014",
+        "bid_price": "0.001950",
+        "volume": 53522.986363,
+        "link": "https://www.bitmart.com/trade?symbol=CMCX_USDT"
+    },
+    {
+        "symbol": "DOMEUSDT",
+        "ask_price": "0.00176365",
+        "bid_price": "0.00174722",
+        "volume": 110492.7358266,
+        "link": "https://www.bitmart.com/trade?symbol=DOME_USDT"
+    },
+    {
+        "symbol": "LTRBTUSDT",
+        "ask_price": "0.000000002199",
+        "bid_price": "0.000000002192",
+        "volume": 32204.905775210776,
+        "link": "https://www.bitmart.com/trade?symbol=LTRBT_USDT"
+    },
+    {
+        "symbol": "ANKRUSDT",
+        "ask_price": "0.03222",
+        "bid_price": "0.03208",
+        "volume": 81905.88963,
+        "link": "https://www.bitmart.com/trade?symbol=ANKR_USDT"
+    },
+    {
+        "symbol": "FILUSDT",
+        "ask_price": "5.8824",
+        "bid_price": "5.8705",
+        "volume": 631043.2721,
+        "link": "https://www.bitmart.com/trade?symbol=FIL_USDT"
+    },
+    {
+        "symbol": "TRAVAUSDT",
+        "ask_price": "0.0007998",
+        "bid_price": "0.0007787",
+        "volume": 31514.7837306,
+        "link": "https://www.bitmart.com/trade?symbol=TRAVA_USDT"
+    },
+    {
+        "symbol": "RSS3USDT",
+        "ask_price": "0.145086",
+        "bid_price": "0.143716",
+        "volume": 111146.177686,
+        "link": "https://www.bitmart.com/trade?symbol=RSS3_USDT"
+    },
+    {
+        "symbol": "XCHUSDT",
+        "ask_price": "36.42",
+        "bid_price": "36.23",
+        "volume": 91655.32,
+        "link": "https://www.bitmart.com/trade?symbol=XCH_USDT"
+    },
+    {
+        "symbol": "EXNUSDT",
+        "ask_price": "0.243659",
+        "bid_price": "0.239342",
+        "volume": 186247.155568,
+        "link": "https://www.bitmart.com/trade?symbol=EXN_USDT"
+    },
+    {
+        "symbol": "PLASTIKUSDT",
+        "ask_price": "0.028240",
+        "bid_price": "0.027902",
+        "volume": 174496.465862,
+        "link": "https://www.bitmart.com/trade?symbol=PLASTIK_USDT"
+    },
+    {
+        "symbol": "DEBTUSDT",
+        "ask_price": "20.33886480",
+        "bid_price": "20.13648814",
+        "volume": 125413.78408898,
+        "link": "https://www.bitmart.com/trade?symbol=DEBT_USDT"
+    },
+    {
+        "symbol": "GEARUSDT",
+        "ask_price": "0.01544",
+        "bid_price": "0.01528",
+        "volume": 222332.27174,
+        "link": "https://www.bitmart.com/trade?symbol=GEAR_USDT"
+    },
+    {
+        "symbol": "BAKEUSDT",
+        "ask_price": "0.1871",
+        "bid_price": "0.1865",
+        "volume": 42880.0071,
+        "link": "https://www.bitmart.com/trade?symbol=BAKE_USDT"
+    },
+    {
+        "symbol": "SHIBUSDT",
+        "ask_price": "0.0000107174",
+        "bid_price": "0.0000107129",
+        "volume": 5197983.835563295,
+        "link": "https://www.bitmart.com/trade?symbol=SHIB_USDT"
+    },
+    {
+        "symbol": "CYOPUSDT",
+        "ask_price": "0.0000000301",
+        "bid_price": "0.0000000300",
+        "volume": 326552.4522617086,
+        "link": "https://www.bitmart.com/trade?symbol=CYOP_USDT"
+    },
+    {
+        "symbol": "ACMUSDT",
+        "ask_price": "2.564",
+        "bid_price": "2.553",
+        "volume": 39362.475,
+        "link": "https://www.bitmart.com/trade?symbol=ACM_USDT"
+    },
+    {
+        "symbol": "MONSUSDT",
+        "ask_price": "0.01528",
+        "bid_price": "0.01508",
+        "volume": 51094.32016,
+        "link": "https://www.bitmart.com/trade?symbol=MONS_USDT"
+    },
+    {
+        "symbol": "MCONTENTUSDT",
+        "ask_price": "0.000000001001",
+        "bid_price": "0.000000000972",
+        "volume": 352366.3330269588,
+        "link": "https://www.bitmart.com/trade?symbol=MCONTENT_USDT"
+    },
+    {
+        "symbol": "BETUUSDT",
+        "ask_price": "0.031367",
+        "bid_price": "0.030437",
+        "volume": 94081.399276,
+        "link": "https://www.bitmart.com/trade?symbol=BETU_USDT"
+    },
+    {
+        "symbol": "TRAXXUSDT",
+        "ask_price": "0.02818293",
+        "bid_price": "0.02762484",
+        "volume": 74692.41821243,
+        "link": "https://www.bitmart.com/trade?symbol=TRAXX_USDT"
+    },
+    {
+        "symbol": "PLIUSDT",
+        "ask_price": "0.05828",
+        "bid_price": "0.05736",
+        "volume": 82724.11166,
+        "link": "https://www.bitmart.com/trade?symbol=PLI_USDT"
+    },
+    {
+        "symbol": "WTKUSDT",
+        "ask_price": "0.0111",
+        "bid_price": "0.0110",
+        "volume": 364432.2693,
+        "link": "https://www.bitmart.com/trade?symbol=WTK_USDT"
+    },
+    {
+        "symbol": "RPLUSDT",
+        "ask_price": "36.87",
+        "bid_price": "36.71",
+        "volume": 290939.3,
+        "link": "https://www.bitmart.com/trade?symbol=RPL_USDT"
+    },
+    {
+        "symbol": "ZENUSDT",
+        "ask_price": "10.73",
+        "bid_price": "10.69",
+        "volume": 93813.22,
+        "link": "https://www.bitmart.com/trade?symbol=ZEN_USDT"
+    },
+    {
+        "symbol": "ALGOUSDT",
+        "ask_price": "0.214379",
+        "bid_price": "0.214121",
+        "volume": 438933.839057,
+        "link": "https://www.bitmart.com/trade?symbol=ALGO_USDT"
+    },
+    {
+        "symbol": "BVCUSDT",
+        "ask_price": "0.001374",
+        "bid_price": "0.001324",
+        "volume": 65129.457344,
+        "link": "https://www.bitmart.com/trade?symbol=BVC_USDT"
+    },
+    {
+        "symbol": "GSTUSDT",
+        "ask_price": "0.0212",
+        "bid_price": "0.0209",
+        "volume": 44501.26,
+        "link": "https://www.bitmart.com/trade?symbol=GST_USDT"
+    },
+    {
+        "symbol": "CHESSUSDT",
+        "ask_price": "0.2492",
+        "bid_price": "0.2478",
+        "volume": 95514.6157,
+        "link": "https://www.bitmart.com/trade?symbol=CHESS_USDT"
+    },
+    {
+        "symbol": "GSXUSDT",
+        "ask_price": "0.0088",
+        "bid_price": "0.0084",
+        "volume": 210707.8484,
+        "link": "https://www.bitmart.com/trade?symbol=GSX_USDT"
+    },
+    {
+        "symbol": "STCUSDT",
+        "ask_price": "0.444",
+        "bid_price": "0.441",
+        "volume": 75548.264,
+        "link": "https://www.bitmart.com/trade?symbol=STC_USDT"
+    },
+    {
+        "symbol": "DOTUSDT",
+        "ask_price": "5.8294",
+        "bid_price": "5.8276",
+        "volume": 143364.0933,
+        "link": "https://www.bitmart.com/trade?symbol=DOT_USDT"
+    },
+    {
+        "symbol": "CRUUSDT",
+        "ask_price": "1.3790",
+        "bid_price": "1.3650",
+        "volume": 35792.5189,
+        "link": "https://www.bitmart.com/trade?symbol=CRU_USDT"
+    },
+    {
+        "symbol": "WOOFUSDT",
+        "ask_price": "0.001456",
+        "bid_price": "0.001443",
+        "volume": 228161.889566,
+        "link": "https://www.bitmart.com/trade?symbol=WOOF_USDT"
+    },
+    {
+        "symbol": "HIGHUSDT",
+        "ask_price": "2.239",
+        "bid_price": "2.235",
+        "volume": 137878.621,
+        "link": "https://www.bitmart.com/trade?symbol=HIGH_USDT"
+    },
+    {
+        "symbol": "WOOUSDT",
+        "ask_price": "0.18290",
+        "bid_price": "0.18149",
+        "volume": 37958.94286,
+        "link": "https://www.bitmart.com/trade?symbol=WOO_USDT"
+    },
+    {
+        "symbol": "VTHOUSDT",
+        "ask_price": "0.001404",
+        "bid_price": "0.001398",
+        "volume": 103032.850848,
+        "link": "https://www.bitmart.com/trade?symbol=VTHO_USDT"
+    },
+    {
+        "symbol": "CHZUSDT",
+        "ask_price": "0.120454",
+        "bid_price": "0.119250",
+        "volume": 126967.538058,
+        "link": "https://www.bitmart.com/trade?symbol=CHZ_USDT"
+    },
+    {
+        "symbol": "POSSUSDT",
+        "ask_price": "0.00504",
+        "bid_price": "0.00500",
+        "volume": 38256.15671,
+        "link": "https://www.bitmart.com/trade?symbol=POSS_USDT"
+    },
+    {
+        "symbol": "DBCUSDT",
+        "ask_price": "0.00798736",
+        "bid_price": "0.00781543",
+        "volume": 46847.11195882,
+        "link": "https://www.bitmart.com/trade?symbol=DBC_USDT"
+    },
+    {
+        "symbol": "ATOMUSDT",
+        "ask_price": "11.7659",
+        "bid_price": "11.6257",
+        "volume": 111733.0594,
+        "link": "https://www.bitmart.com/trade?symbol=ATOM_USDT"
+    },
+    {
+        "symbol": "VOLRUSDT",
+        "ask_price": "0.6288",
+        "bid_price": "0.6250",
+        "volume": 40143.9233,
+        "link": "https://www.bitmart.com/trade?symbol=VOLR_USDT"
+    },
+    {
+        "symbol": "ZINUUSDT",
+        "ask_price": "0.002722",
+        "bid_price": "0.002718",
+        "volume": 64318.386268,
+        "link": "https://www.bitmart.com/trade?symbol=ZINU_USDT"
+    },
+    {
+        "symbol": "MEANUSDT",
+        "ask_price": "0.02169",
+        "bid_price": "0.02135",
+        "volume": 84256.09388,
+        "link": "https://www.bitmart.com/trade?symbol=MEAN_USDT"
+    },
+    {
+        "symbol": "GODSUSDT",
+        "ask_price": "0.2528",
+        "bid_price": "0.2500",
+        "volume": 40913.9197,
+        "link": "https://www.bitmart.com/trade?symbol=GODS_USDT"
+    },
+    {
+        "symbol": "SIDUSUSDT",
+        "ask_price": "0.0023120",
+        "bid_price": "0.0022863",
+        "volume": 115423.8188495,
+        "link": "https://www.bitmart.com/trade?symbol=SIDUS_USDT"
+    },
+    {
+        "symbol": "XLMUSDT",
+        "ask_price": "0.08219929",
+        "bid_price": "0.08210071",
+        "volume": 4349011.42876716,
+        "link": "https://www.bitmart.com/trade?symbol=XLM_USDT"
+    },
+    {
+        "symbol": "GBEXUSDT",
+        "ask_price": "0.0000001349",
+        "bid_price": "0.0000001301",
+        "volume": 123305.0316745704,
+        "link": "https://www.bitmart.com/trade?symbol=GBEX_USDT"
+    },
+    {
+        "symbol": "SNXUSDT",
+        "ask_price": "2.9332",
+        "bid_price": "2.9237",
+        "volume": 1554405.6663,
+        "link": "https://www.bitmart.com/trade?symbol=SNX_USDT"
+    },
+    {
+        "symbol": "$CCXUSDT",
+        "ask_price": "0.06039",
+        "bid_price": "0.06001",
+        "volume": 35737.65396,
+        "link": "https://www.bitmart.com/trade?symbol=$CCX_USDT"
+    },
+    {
+        "symbol": "BNTUSDT",
+        "ask_price": "0.433739",
+        "bid_price": "0.431195",
+        "volume": 94363.521387,
+        "link": "https://www.bitmart.com/trade?symbol=BNT_USDT"
+    },
+    {
+        "symbol": "RSRUSDT",
+        "ask_price": "0.00418376",
+        "bid_price": "0.00417304",
+        "volume": 152842.06982578,
+        "link": "https://www.bitmart.com/trade?symbol=RSR_USDT"
+    },
+    {
+        "symbol": "INJUSDT",
+        "ask_price": "3.1220",
+        "bid_price": "3.1148",
+        "volume": 427553.8046,
+        "link": "https://www.bitmart.com/trade?symbol=INJ_USDT"
+    },
+    {
+        "symbol": "KXAUSDT",
+        "ask_price": "0.011049",
+        "bid_price": "0.010871",
+        "volume": 52221.813532,
+        "link": "https://www.bitmart.com/trade?symbol=KXA_USDT"
+    },
+    {
+        "symbol": "CRVUSDT",
+        "ask_price": "0.972520",
+        "bid_price": "0.970528",
+        "volume": 241755.363538,
+        "link": "https://www.bitmart.com/trade?symbol=CRV_USDT"
+    },
+    {
+        "symbol": "LUXYUSDT",
+        "ask_price": "0.017192",
+        "bid_price": "0.016773",
+        "volume": 56231.33025,
+        "link": "https://www.bitmart.com/trade?symbol=LUXY_USDT"
+    },
+    {
+        "symbol": "EFKUSDT",
+        "ask_price": "0.2269",
+        "bid_price": "0.2248",
+        "volume": 123569.54,
+        "link": "https://www.bitmart.com/trade?symbol=EFK_USDT"
+    },
+    {
+        "symbol": "LIAIPADUSDT",
+        "ask_price": "0.00021",
+        "bid_price": "0.00020",
+        "volume": 357378.18756,
+        "link": "https://www.bitmart.com/trade?symbol=LIAIPAD_USDT"
+    },
+    {
+        "symbol": "GODEUSDT",
+        "ask_price": "0.021171",
+        "bid_price": "0.021021",
+        "volume": 137576.36148,
+        "link": "https://www.bitmart.com/trade?symbol=GODE_USDT"
+    },
+    {
+        "symbol": "CROUSDT",
+        "ask_price": "0.070771",
+        "bid_price": "0.070542",
+        "volume": 88889.96628,
+        "link": "https://www.bitmart.com/trade?symbol=CRO_USDT"
+    },
+    {
+        "symbol": "AZYUSDT",
+        "ask_price": "0.01655",
+        "bid_price": "0.01643",
+        "volume": 44349.22284,
+        "link": "https://www.bitmart.com/trade?symbol=AZY_USDT"
+    },
+    {
+        "symbol": "ASSUSDT",
+        "ask_price": "0.0000000005508",
+        "bid_price": "0.0000000005390",
+        "volume": 51102.94683098,
+        "link": "https://www.bitmart.com/trade?symbol=ASS_USDT"
+    },
+    {
+        "symbol": "ADPUSDT",
+        "ask_price": "0.00968",
+        "bid_price": "0.00949",
+        "volume": 59455.9603,
+        "link": "https://www.bitmart.com/trade?symbol=ADP_USDT"
+    },
+    {
+        "symbol": "MSTRUSDT",
+        "ask_price": "0.1356",
+        "bid_price": "0.1330",
+        "volume": 43016.434,
+        "link": "https://www.bitmart.com/trade?symbol=MSTR_USDT"
+    },
+    {
+        "symbol": "USHAUSDT",
+        "ask_price": "0.0104551",
+        "bid_price": "0.0090712",
+        "volume": 64133.1086846,
+        "link": "https://www.bitmart.com/trade?symbol=USHA_USDT"
+    },
+    {
+        "symbol": "MFIUSDT",
+        "ask_price": "4010.00",
+        "bid_price": "3982.98",
+        "volume": 150981.72,
+        "link": "https://www.bitmart.com/trade?symbol=MFI_USDT"
+    },
+    {
+        "symbol": "DRACUSDT",
+        "ask_price": "0.00646",
+        "bid_price": "0.00643",
+        "volume": 503634.19921,
+        "link": "https://www.bitmart.com/trade?symbol=DRAC_USDT"
+    },
+    {
+        "symbol": "MTHUSDT",
+        "ask_price": "0.00670",
+        "bid_price": "0.00666",
+        "volume": 226064.23572,
+        "link": "https://www.bitmart.com/trade?symbol=MTH_USDT"
+    },
+    {
+        "symbol": "PANDAIUSDT",
+        "ask_price": "0.00000013707",
+        "bid_price": "0.00000013705",
+        "volume": 97640.61344441534,
+        "link": "https://www.bitmart.com/trade?symbol=PANDAI_USDT"
+    },
+    {
+        "symbol": "WILDUSDT",
+        "ask_price": "0.3313",
+        "bid_price": "0.3289",
+        "volume": 38625.4096,
+        "link": "https://www.bitmart.com/trade?symbol=WILD_USDT"
+    },
+    {
+        "symbol": "BNXUSDT",
+        "ask_price": "0.723",
+        "bid_price": "0.719",
+        "volume": 1951343.289,
+        "link": "https://www.bitmart.com/trade?symbol=BNX_USDT"
+    },
+    {
+        "symbol": "BLXMUSDT",
+        "ask_price": "0.209",
+        "bid_price": "0.205",
+        "volume": 99489.651,
+        "link": "https://www.bitmart.com/trade?symbol=BLXM_USDT"
+    },
+    {
+        "symbol": "RACAUSDT",
+        "ask_price": "0.00019963",
+        "bid_price": "0.00019861",
+        "volume": 36822.43933068,
+        "link": "https://www.bitmart.com/trade?symbol=RACA_USDT"
+    },
+    {
+        "symbol": "SWEATUSDT",
+        "ask_price": "0.0103650",
+        "bid_price": "0.0103035",
+        "volume": 38580.556947,
+        "link": "https://www.bitmart.com/trade?symbol=SWEAT_USDT"
+    },
+    {
+        "symbol": "NVIRUSDT",
+        "ask_price": "0.044968",
+        "bid_price": "0.044574",
+        "volume": 444315.3501,
+        "link": "https://www.bitmart.com/trade?symbol=NVIR_USDT"
+    },
+    {
+        "symbol": "GULFUSDT",
+        "ask_price": "0.05098",
+        "bid_price": "0.05030",
+        "volume": 144902.27482,
+        "link": "https://www.bitmart.com/trade?symbol=GULF_USDT"
+    },
+    {
+        "symbol": "APEUSDT",
+        "ask_price": "4.6255",
+        "bid_price": "4.6236",
+        "volume": 2844425.577,
+        "link": "https://www.bitmart.com/trade?symbol=APE_USDT"
+    },
+    {
+        "symbol": "TUSDUSDT",
+        "ask_price": "1.00046",
+        "bid_price": "0.99953",
+        "volume": 1982541.83265,
+        "link": "https://www.bitmart.com/trade?symbol=TUSD_USDT"
+    },
+    {
+        "symbol": "TFUELUSDT",
+        "ask_price": "0.051428",
+        "bid_price": "0.051148",
+        "volume": 114084.647888,
+        "link": "https://www.bitmart.com/trade?symbol=TFUEL_USDT"
+    },
+    {
+        "symbol": "API3USDT",
+        "ask_price": "1.3808",
+        "bid_price": "1.3742",
+        "volume": 104405.2539,
+        "link": "https://www.bitmart.com/trade?symbol=API3_USDT"
+    },
+    {
+        "symbol": "LRCUSDT",
+        "ask_price": "0.3189",
+        "bid_price": "0.3184",
+        "volume": 103256.6587,
+        "link": "https://www.bitmart.com/trade?symbol=LRC_USDT"
+    },
+    {
+        "symbol": "APLUSDT",
+        "ask_price": "0.0004435",
+        "bid_price": "0.0004303",
+        "volume": 459470.404648,
+        "link": "https://www.bitmart.com/trade?symbol=APL_USDT"
+    },
+    {
+        "symbol": "BGVTUSDT",
+        "ask_price": "0.0001911",
+        "bid_price": "0.0001878",
+        "volume": 165177.2392242,
+        "link": "https://www.bitmart.com/trade?symbol=BGVT_USDT"
+    },
+    {
+        "symbol": "PARADOXUSDT",
+        "ask_price": "0.017665",
+        "bid_price": "0.017663",
+        "volume": 70071.7555,
+        "link": "https://www.bitmart.com/trade?symbol=PARADOX_USDT"
+    },
+    {
+        "symbol": "ALTRUUSDT",
+        "ask_price": "0.2755",
+        "bid_price": "0.2730",
+        "volume": 63391.8888,
+        "link": "https://www.bitmart.com/trade?symbol=ALTRU_USDT"
+    },
+    {
+        "symbol": "TORUSDT",
+        "ask_price": "1.0003",
+        "bid_price": "0.9998",
+        "volume": 114311.5105,
+        "link": "https://www.bitmart.com/trade?symbol=TOR_USDT"
+    },
+    {
+        "symbol": "DBXUSDT",
+        "ask_price": "0.00020996",
+        "bid_price": "0.00020875",
+        "volume": 265987.83006314,
+        "link": "https://www.bitmart.com/trade?symbol=DBX_USDT"
+    },
+    {
+        "symbol": "ABELUSDT",
+        "ask_price": "0.061369",
+        "bid_price": "0.061000",
+        "volume": 65312.822939,
+        "link": "https://www.bitmart.com/trade?symbol=ABEL_USDT"
+    },
+    {
+        "symbol": "FIX00USDT",
+        "ask_price": "0.01301853",
+        "bid_price": "0.01294495",
+        "volume": 179112.305409,
+        "link": "https://www.bitmart.com/trade?symbol=FIX00_USDT"
+    },
+    {
+        "symbol": "FTRBUSDT",
+        "ask_price": "0.005925",
+        "bid_price": "0.005837",
+        "volume": 86036.058712,
+        "link": "https://www.bitmart.com/trade?symbol=FTRB_USDT"
+    },
+    {
+        "symbol": "SGUSDT",
+        "ask_price": "0.0245",
+        "bid_price": "0.0237",
+        "volume": 141214.2282,
+        "link": "https://www.bitmart.com/trade?symbol=SG_USDT"
+    },
+    {
+        "symbol": "OASUSDT",
+        "ask_price": "0.085191",
+        "bid_price": "0.084978",
+        "volume": 229027.254106,
+        "link": "https://www.bitmart.com/trade?symbol=OAS_USDT"
+    },
+    {
+        "symbol": "BMXUSDT",
+        "ask_price": "0.1023",
+        "bid_price": "0.1022",
+        "volume": 818098.4419,
+        "link": "https://www.bitmart.com/trade?symbol=BMX_USDT"
+    },
+    {
+        "symbol": "CUBIXUSDT",
+        "ask_price": "0.00284993",
+        "bid_price": "0.00280000",
+        "volume": 89076.88996162,
+        "link": "https://www.bitmart.com/trade?symbol=CUBIX_USDT"
+    },
+    {
+        "symbol": "MINAUSDT",
+        "ask_price": "0.7855",
+        "bid_price": "0.7800",
+        "volume": 56444.9314,
+        "link": "https://www.bitmart.com/trade?symbol=MINA_USDT"
+    },
+    {
+        "symbol": "ARTEQUSDT",
+        "ask_price": "0.011576",
+        "bid_price": "0.011282",
+        "volume": 203449.201208,
+        "link": "https://www.bitmart.com/trade?symbol=ARTEQ_USDT"
+    },
+    {
+        "symbol": "BTCBANKUSDT",
+        "ask_price": "0.0780",
+        "bid_price": "0.0705",
+        "volume": 187534.132,
+        "link": "https://www.bitmart.com/trade?symbol=BTCBANK_USDT"
+    },
+    {
+        "symbol": "BONKUSDT",
+        "ask_price": "0.0000005576",
+        "bid_price": "0.0000005549",
+        "volume": 269782.5467184816,
+        "link": "https://www.bitmart.com/trade?symbol=BONK_USDT"
+    },
+    {
+        "symbol": "BARUSDT",
+        "ask_price": "3.89",
+        "bid_price": "3.83",
+        "volume": 44136.24,
+        "link": "https://www.bitmart.com/trade?symbol=BAR_USDT"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "ask_price": "22253.80",
+        "bid_price": "22253.77",
+        "volume": 159245195.34,
+        "link": "https://www.bitmart.com/trade?symbol=BTC_USDT"
+    },
+    {
+        "symbol": "ALCAZARUSDT",
+        "ask_price": "0.002293",
+        "bid_price": "0.002277",
+        "volume": 31477.958398,
+        "link": "https://www.bitmart.com/trade?symbol=ALCAZAR_USDT"
+    },
+    {
+        "symbol": "LTCUSDT",
+        "ask_price": "85.8479",
+        "bid_price": "85.7606",
+        "volume": 2904532.1672,
+        "link": "https://www.bitmart.com/trade?symbol=LTC_USDT"
+    },
+    {
+        "symbol": "WWYUSDT",
+        "ask_price": "0.006198",
+        "bid_price": "0.006099",
+        "volume": 65067.3353,
+        "link": "https://www.bitmart.com/trade?symbol=WWY_USDT"
+    },
+    {
+        "symbol": "GAMEXUSDT",
+        "ask_price": "0.000886",
+        "bid_price": "0.000868",
+        "volume": 124260.294658,
+        "link": "https://www.bitmart.com/trade?symbol=GAMEX_USDT"
+    },
+    {
+        "symbol": "POLSUSDT",
+        "ask_price": "0.4314",
+        "bid_price": "0.4285",
+        "volume": 65264.5042,
+        "link": "https://www.bitmart.com/trade?symbol=POLS_USDT"
+    },
+    {
+        "symbol": "LWCUSDT",
+        "ask_price": "0.0315",
+        "bid_price": "0.0294",
+        "volume": 62512.0352,
+        "link": "https://www.bitmart.com/trade?symbol=LWC_USDT"
+    },
+    {
+        "symbol": "PRSUSDT",
+        "ask_price": "0.06691",
+        "bid_price": "0.06471",
+        "volume": 32099.38086,
+        "link": "https://www.bitmart.com/trade?symbol=PRS_USDT"
+    },
+    {
+        "symbol": "HNTRUSDT",
+        "ask_price": "0.004719",
+        "bid_price": "0.004500",
+        "volume": 56720.078834,
+        "link": "https://www.bitmart.com/trade?symbol=HNTR_USDT"
+    },
+    {
+        "symbol": "QLINDOUSDT",
+        "ask_price": "0.050959",
+        "bid_price": "0.050232",
+        "volume": 498176.914222,
+        "link": "https://www.bitmart.com/trade?symbol=QLINDO_USDT"
+    },
+    {
+        "symbol": "NLCUSDT",
+        "ask_price": "0.06140",
+        "bid_price": "0.06093",
+        "volume": 98970.71988,
+        "link": "https://www.bitmart.com/trade?symbol=NLC_USDT"
+    },
+    {
+        "symbol": "MCRTUSDT",
+        "ask_price": "0.003806",
+        "bid_price": "0.003773",
+        "volume": 87846.673006,
+        "link": "https://www.bitmart.com/trade?symbol=MCRT_USDT"
+    },
+    {
+        "symbol": "BTTUSDT",
+        "ask_price": "0.000000691",
+        "bid_price": "0.000000685",
+        "volume": 99810.240624174,
+        "link": "https://www.bitmart.com/trade?symbol=BTT_USDT"
+    },
+    {
+        "symbol": "GMXUSDT",
+        "ask_price": "70.33299",
+        "bid_price": "70.02030",
+        "volume": 349583.8806,
+        "link": "https://www.bitmart.com/trade?symbol=GMX_USDT"
+    },
+    {
+        "symbol": "XENUSDT",
+        "ask_price": "0.000000877",
+        "bid_price": "0.000000871",
+        "volume": 47798.518073502,
+        "link": "https://www.bitmart.com/trade?symbol=XEN_USDT"
+    },
+    {
+        "symbol": "LOCUSUSDT",
+        "ask_price": "0.04774",
+        "bid_price": "0.04601",
+        "volume": 33914.39662,
+        "link": "https://www.bitmart.com/trade?symbol=LOCUS_USDT"
+    },
+    {
+        "symbol": "GTCUSDT",
+        "ask_price": "1.740",
+        "bid_price": "1.733",
+        "volume": 95489.828,
+        "link": "https://www.bitmart.com/trade?symbol=GTC_USDT"
+    },
+    {
+        "symbol": "SXPUSDT",
+        "ask_price": "0.2748",
+        "bid_price": "0.2719",
+        "volume": 36192.4659,
+        "link": "https://www.bitmart.com/trade?symbol=SXP_USDT"
+    },
+    {
+        "symbol": "CITYUSDT",
+        "ask_price": "4.431",
+        "bid_price": "4.402",
+        "volume": 38679.612,
+        "link": "https://www.bitmart.com/trade?symbol=CITY_USDT"
+    },
+    {
+        "symbol": "IMTUSDT",
+        "ask_price": "0.009866",
+        "bid_price": "0.009693",
+        "volume": 193928.433598,
+        "link": "https://www.bitmart.com/trade?symbol=IMT_USDT"
+    },
+    {
+        "symbol": "SRMUSDT",
+        "ask_price": "0.2768",
+        "bid_price": "0.2757",
+        "volume": 80106.3402,
+        "link": "https://www.bitmart.com/trade?symbol=SRM_USDT"
+    },
+    {
+        "symbol": "JASMYUSDT",
+        "ask_price": "0.005372",
+        "bid_price": "0.005300",
+        "volume": 352015.5574,
+        "link": "https://www.bitmart.com/trade?symbol=JASMY_USDT"
+    },
+    {
+        "symbol": "DODIUSDT",
+        "ask_price": "0.00068",
+        "bid_price": "0.00067",
+        "volume": 108285.89056,
+        "link": "https://www.bitmart.com/trade?symbol=DODI_USDT"
+    },
+    {
+        "symbol": "REDUXUSDT",
+        "ask_price": "1.7425",
+        "bid_price": "1.7000",
+        "volume": 740392.8708,
+        "link": "https://www.bitmart.com/trade?symbol=REDUX_USDT"
+    },
+    {
+        "symbol": "TUSDT",
+        "ask_price": "0.03805",
+        "bid_price": "0.03788",
+        "volume": 497686.81108,
+        "link": "https://www.bitmart.com/trade?symbol=T_USDT"
+    },
+    {
+        "symbol": "SEONUSDT",
+        "ask_price": "0.00519",
+        "bid_price": "0.00506",
+        "volume": 106924.4648,
+        "link": "https://www.bitmart.com/trade?symbol=SEON_USDT"
+    },
+    {
+        "symbol": "REBUSUSDT",
+        "ask_price": "0.03366",
+        "bid_price": "0.03325",
+        "volume": 86235.72084,
+        "link": "https://www.bitmart.com/trade?symbol=REBUS_USDT"
+    },
+    {
+        "symbol": "TRXUSDT",
+        "ask_price": "0.066265",
+        "bid_price": "0.066245",
+        "volume": 3066533.046146,
+        "link": "https://www.bitmart.com/trade?symbol=TRX_USDT"
+    },
+    {
+        "symbol": "STREETHUSDT",
+        "ask_price": "0.004621",
+        "bid_price": "0.004502",
+        "volume": 65376.40068,
+        "link": "https://www.bitmart.com/trade?symbol=STREETH_USDT"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "ask_price": "0.073483",
+        "bid_price": "0.073446",
+        "volume": 3714075.194758,
+        "link": "https://www.bitmart.com/trade?symbol=DOGE_USDT"
+    },
+    {
+        "symbol": "ISPUSDT",
+        "ask_price": "0.001211",
+        "bid_price": "0.001183",
+        "volume": 173433.038252,
+        "link": "https://www.bitmart.com/trade?symbol=ISP_USDT"
+    },
+    {
+        "symbol": "QUACKUSDT",
+        "ask_price": "0.000000001316",
+        "bid_price": "0.000000001216",
+        "volume": 93585.36881402468,
+        "link": "https://www.bitmart.com/trade?symbol=QUACK_USDT"
+    },
+    {
+        "symbol": "QUICKUSDT",
+        "ask_price": "99.21",
+        "bid_price": "98.51",
+        "volume": 138014.63,
+        "link": "https://www.bitmart.com/trade?symbol=QUICK_USDT"
+    },
+    {
+        "symbol": "LAZIOUSDT",
+        "ask_price": "2.8521",
+        "bid_price": "2.8392",
+        "volume": 88051.846,
+        "link": "https://www.bitmart.com/trade?symbol=LAZIO_USDT"
+    },
+    {
+        "symbol": "BICOUSDT",
+        "ask_price": "0.3837",
+        "bid_price": "0.3790",
+        "volume": 37018.8601,
+        "link": "https://www.bitmart.com/trade?symbol=BICO_USDT"
+    },
+    {
+        "symbol": "TAMAUSDT",
+        "ask_price": "0.01380",
+        "bid_price": "0.01370",
+        "volume": 47361.5761,
+        "link": "https://www.bitmart.com/trade?symbol=TAMA_USDT"
+    },
+    {
+        "symbol": "PLCUCUSDT",
+        "ask_price": "133.55",
+        "bid_price": "130.40",
+        "volume": 41900.99,
+        "link": "https://www.bitmart.com/trade?symbol=PLCUC_USDT"
+    },
+    {
+        "symbol": "KLAYUSDT",
+        "ask_price": "0.2199",
+        "bid_price": "0.2191",
+        "volume": 175974.4393,
+        "link": "https://www.bitmart.com/trade?symbol=KLAY_USDT"
+    },
+    {
+        "symbol": "DOGBOSSUSDT",
+        "ask_price": "4.1500",
+        "bid_price": "4.0000",
+        "volume": 75744.6474,
+        "link": "https://www.bitmart.com/trade?symbol=DOGBOSS_USDT"
+    },
+    {
+        "symbol": "BCHUSDT",
+        "ask_price": "122.36",
+        "bid_price": "122.15",
+        "volume": 58187.61,
+        "link": "https://www.bitmart.com/trade?symbol=BCH_USDT"
+    },
+    {
+        "symbol": "MLXCUSDT",
+        "ask_price": "0.10991",
+        "bid_price": "0.09583",
+        "volume": 57554.00822,
+        "link": "https://www.bitmart.com/trade?symbol=MLXC_USDT"
+    },
+    {
+        "symbol": "METANOUSDT",
+        "ask_price": "0.00044650",
+        "bid_price": "0.00044091",
+        "volume": 161907.77965896,
+        "link": "https://www.bitmart.com/trade?symbol=METANO_USDT"
+    },
+    {
+        "symbol": "BLOKUSDT",
+        "ask_price": "0.0027659",
+        "bid_price": "0.0027556",
+        "volume": 32149.0683828,
+        "link": "https://www.bitmart.com/trade?symbol=BLOK_USDT"
+    },
+    {
+        "symbol": "TONUSDT",
+        "ask_price": "2.331",
+        "bid_price": "2.282",
+        "volume": 31617.998,
+        "link": "https://www.bitmart.com/trade?symbol=TON_USDT"
+    },
+    {
+        "symbol": "MEVRUSDT",
+        "ask_price": "0.030854",
+        "bid_price": "0.030780",
+        "volume": 32267.298652,
+        "link": "https://www.bitmart.com/trade?symbol=MEVR_USDT"
+    },
+    {
+        "symbol": "IMCUSDT",
+        "ask_price": "0.0155",
+        "bid_price": "0.0147",
+        "volume": 33267.5527,
+        "link": "https://www.bitmart.com/trade?symbol=IMC_USDT"
+    },
+    {
+        "symbol": "LATUSDT",
+        "ask_price": "0.021374",
+        "bid_price": "0.021145",
+        "volume": 40771.559029,
+        "link": "https://www.bitmart.com/trade?symbol=LAT_USDT"
+    },
+    {
+        "symbol": "BENXUSDT",
+        "ask_price": "0.0379858",
+        "bid_price": "0.0336300",
+        "volume": 91841.9471108,
+        "link": "https://www.bitmart.com/trade?symbol=BENX_USDT"
+    },
+    {
+        "symbol": "RBXUSDT",
+        "ask_price": "0.1949",
+        "bid_price": "0.1845",
+        "volume": 204369.2258,
+        "link": "https://www.bitmart.com/trade?symbol=RBX_USDT"
+    },
+    {
+        "symbol": "CELOUSDT",
+        "ask_price": "0.6405",
+        "bid_price": "0.6384",
+        "volume": 117321.9572,
+        "link": "https://www.bitmart.com/trade?symbol=CELO_USDT"
+    },
+    {
+        "symbol": "TRIUSDT",
+        "ask_price": "0.54",
+        "bid_price": "0.51",
+        "volume": 144327.85,
+        "link": "https://www.bitmart.com/trade?symbol=TRI_USDT"
+    },
+    {
+        "symbol": "DIAUSDT",
+        "ask_price": "0.3634",
+        "bid_price": "0.3616",
+        "volume": 61291.5456,
+        "link": "https://www.bitmart.com/trade?symbol=DIA_USDT"
+    },
+    {
+        "symbol": "HECUSDT",
+        "ask_price": "2.840",
+        "bid_price": "2.813",
+        "volume": 76422.726,
+        "link": "https://www.bitmart.com/trade?symbol=HEC_USDT"
+    },
+    {
+        "symbol": "PORUSDT",
+        "ask_price": "0.000369",
+        "bid_price": "0.000364",
+        "volume": 103338.296627,
+        "link": "https://www.bitmart.com/trade?symbol=POR_USDT"
+    },
+    {
+        "symbol": "EOSUSDT",
+        "ask_price": "1.175847",
+        "bid_price": "1.171153",
+        "volume": 657695.353669,
+        "link": "https://www.bitmart.com/trade?symbol=EOS_USDT"
+    },
+    {
+        "symbol": "GNOUSDT",
+        "ask_price": "103.3219",
+        "bid_price": "102.8123",
+        "volume": 36345.5921,
+        "link": "https://www.bitmart.com/trade?symbol=GNO_USDT"
+    },
+    {
+        "symbol": "CHEELUSDT",
+        "ask_price": "6.8455",
+        "bid_price": "6.8364",
+        "volume": 1381558.6912,
+        "link": "https://www.bitmart.com/trade?symbol=CHEEL_USDT"
+    },
+    {
+        "symbol": "LOOKSUSDT",
+        "ask_price": "0.1612",
+        "bid_price": "0.1601",
+        "volume": 69172.0142,
+        "link": "https://www.bitmart.com/trade?symbol=LOOKS_USDT"
+    },
+    {
+        "symbol": "3ULLUSDT",
+        "ask_price": "0.00048701",
+        "bid_price": "0.00048692",
+        "volume": 207339.68375688,
+        "link": "https://www.bitmart.com/trade?symbol=3ULL_USDT"
+    },
+    {
+        "symbol": "BRGUSDT",
+        "ask_price": "0.00107760",
+        "bid_price": "0.00107407",
+        "volume": 408612.54988044,
+        "link": "https://www.bitmart.com/trade?symbol=BRG_USDT"
+    },
+    {
+        "symbol": "ZENIQUSDT",
+        "ask_price": "0.04996",
+        "bid_price": "0.04963",
+        "volume": 113106.2853,
+        "link": "https://www.bitmart.com/trade?symbol=ZENIQ_USDT"
+    },
+    {
+        "symbol": "SFITUSDT",
+        "ask_price": "0.012831",
+        "bid_price": "0.012737",
+        "volume": 33805.128799,
+        "link": "https://www.bitmart.com/trade?symbol=SFIT_USDT"
+    },
+    {
+        "symbol": "HMTUSDT",
+        "ask_price": "0.0514",
+        "bid_price": "0.0508",
+        "volume": 44019.9537,
+        "link": "https://www.bitmart.com/trade?symbol=HMT_USDT"
+    },
+    {
+        "symbol": "PORTOUSDT",
+        "ask_price": "2.5522",
+        "bid_price": "2.5396",
+        "volume": 111575.1081,
+        "link": "https://www.bitmart.com/trade?symbol=PORTO_USDT"
+    },
+    {
+        "symbol": "LPTUSDT",
+        "ask_price": "5.9299",
+        "bid_price": "5.9012",
+        "volume": 52349.4588,
+        "link": "https://www.bitmart.com/trade?symbol=LPT_USDT"
+    },
+    {
+        "symbol": "WBTCUSDT",
+        "ask_price": "22321.90",
+        "bid_price": "22185.23",
+        "volume": 64559.75,
+        "link": "https://www.bitmart.com/trade?symbol=WBTC_USDT"
+    },
+    {
+        "symbol": "SPELLUSDT",
+        "ask_price": "0.0007212",
+        "bid_price": "0.0007165",
+        "volume": 91800.8535566,
+        "link": "https://www.bitmart.com/trade?symbol=SPELL_USDT"
+    },
+    {
+        "symbol": "XLNUSDT",
+        "ask_price": "0.02919",
+        "bid_price": "0.02888",
+        "volume": 476708.00324,
+        "link": "https://www.bitmart.com/trade?symbol=XLN_USDT"
+    },
+    {
+        "symbol": "PLNUSDT",
+        "ask_price": "0.015635",
+        "bid_price": "0.015368",
+        "volume": 200016.985354,
+        "link": "https://www.bitmart.com/trade?symbol=PLN_USDT"
+    },
+    {
+        "symbol": "NMRUSDT",
+        "ask_price": "17.75",
+        "bid_price": "17.69",
+        "volume": 254777.99,
+        "link": "https://www.bitmart.com/trade?symbol=NMR_USDT"
+    },
+    {
+        "symbol": "MVPUSDT",
+        "ask_price": "0.00360",
+        "bid_price": "0.00358",
+        "volume": 35024.14274,
+        "link": "https://www.bitmart.com/trade?symbol=MVP_USDT"
+    },
+    {
+        "symbol": "PUNCHUSDT",
+        "ask_price": "0.00291100",
+        "bid_price": "0.00286200",
+        "volume": 177406.22907207,
+        "link": "https://www.bitmart.com/trade?symbol=PUNCH_USDT"
+    },
+    {
+        "symbol": "IDNAUSDT",
+        "ask_price": "0.024218",
+        "bid_price": "0.024025",
+        "volume": 59303.616212,
+        "link": "https://www.bitmart.com/trade?symbol=IDNA_USDT"
+    },
+    {
+        "symbol": "CGOUSDT",
+        "ask_price": "58.81",
+        "bid_price": "58.68",
+        "volume": 50660.18,
+        "link": "https://www.bitmart.com/trade?symbol=CGO_USDT"
+    },
+    {
+        "symbol": "OVRUSDT",
+        "ask_price": "0.3217",
+        "bid_price": "0.3206",
+        "volume": 656045.1703,
+        "link": "https://www.bitmart.com/trade?symbol=OVR_USDT"
+    },
+    {
+        "symbol": "VSPUSDT",
+        "ask_price": "0.5118",
+        "bid_price": "0.5015",
+        "volume": 41475.3422,
+        "link": "https://www.bitmart.com/trade?symbol=VSP_USDT"
+    },
+    {
+        "symbol": "BOBAUSDT",
+        "ask_price": "0.241",
+        "bid_price": "0.239",
+        "volume": 48425.798,
+        "link": "https://www.bitmart.com/trade?symbol=BOBA_USDT"
+    },
+    {
+        "symbol": "RBIFUSDT",
+        "ask_price": "0.00000000017165",
+        "bid_price": "0.00000000017000",
+        "volume": 1856868.9190825108,
+        "link": "https://www.bitmart.com/trade?symbol=RBIF_USDT"
+    },
+    {
+        "symbol": "SNSUSDT",
+        "ask_price": "0.00706749",
+        "bid_price": "0.00706068",
+        "volume": 128168.48392066,
+        "link": "https://www.bitmart.com/trade?symbol=SNS_USDT"
+    },
+    {
+        "symbol": "AAVEUSDT",
+        "ask_price": "74.9575",
+        "bid_price": "74.9425",
+        "volume": 168169.6208,
+        "link": "https://www.bitmart.com/trade?symbol=AAVE_USDT"
+    },
+    {
+        "symbol": "BONEUSDT",
+        "ask_price": "1.519999",
+        "bid_price": "1.420199",
+        "volume": 54594.183498,
+        "link": "https://www.bitmart.com/trade?symbol=BONE_USDT"
+    },
+    {
+        "symbol": "LDOUSDT",
+        "ask_price": "2.55564",
+        "bid_price": "2.54491",
+        "volume": 1969261.99065,
+        "link": "https://www.bitmart.com/trade?symbol=LDO_USDT"
+    },
+    {
+        "symbol": "LITHUSDT",
+        "ask_price": "0.0009481",
+        "bid_price": "0.0009321",
+        "volume": 38582.3936648,
+        "link": "https://www.bitmart.com/trade?symbol=LITH_USDT"
+    },
+    {
+        "symbol": "DUETUSDT",
+        "ask_price": "0.001380",
+        "bid_price": "0.001336",
+        "volume": 54844.954246,
+        "link": "https://www.bitmart.com/trade?symbol=DUET_USDT"
+    },
+    {
+        "symbol": "JSTUSDT",
+        "ask_price": "0.02670",
+        "bid_price": "0.02643",
+        "volume": 61224.43251,
+        "link": "https://www.bitmart.com/trade?symbol=JST_USDT"
+    },
+    {
+        "symbol": "ARUSDT",
+        "ask_price": "8.4624",
+        "bid_price": "8.4281",
+        "volume": 441238.1931,
+        "link": "https://www.bitmart.com/trade?symbol=AR_USDT"
+    },
+    {
+        "symbol": "VHCUSDT",
+        "ask_price": "0.00380",
+        "bid_price": "0.00378",
+        "volume": 36531.4349,
+        "link": "https://www.bitmart.com/trade?symbol=VHC_USDT"
+    },
+    {
+        "symbol": "XRPAYNETUSDT",
+        "ask_price": "0.001580",
+        "bid_price": "0.001568",
+        "volume": 161047.269233,
+        "link": "https://www.bitmart.com/trade?symbol=XRPAYNET_USDT"
+    },
+    {
+        "symbol": "EWTUSDT",
+        "ask_price": "3.84",
+        "bid_price": "3.79",
+        "volume": 168121.91,
+        "link": "https://www.bitmart.com/trade?symbol=EWT_USDT"
+    },
+    {
+        "symbol": "FOXV2USDT",
+        "ask_price": "0.000524",
+        "bid_price": "0.000509",
+        "volume": 35342.532438,
+        "link": "https://www.bitmart.com/trade?symbol=FOXV2_USDT"
+    },
+    {
+        "symbol": "BLPUSDT",
+        "ask_price": "0.080321",
+        "bid_price": "0.066570",
+        "volume": 83180.119214,
+        "link": "https://www.bitmart.com/trade?symbol=BLP_USDT"
+    },
+    {
+        "symbol": "COMPUSDT",
+        "ask_price": "45.125",
+        "bid_price": "45.054",
+        "volume": 308043.384,
+        "link": "https://www.bitmart.com/trade?symbol=COMP_USDT"
+    },
+    {
+        "symbol": "BALUSDT",
+        "ask_price": "6.3121",
+        "bid_price": "6.2714",
+        "volume": 83914.3459,
+        "link": "https://www.bitmart.com/trade?symbol=BAL_USDT"
+    },
+    {
+        "symbol": "IMXUSDT",
+        "ask_price": "1.0781",
+        "bid_price": "1.0730",
+        "volume": 146001.1739,
+        "link": "https://www.bitmart.com/trade?symbol=IMX_USDT"
+    },
+    {
+        "symbol": "DEXOUSDT",
+        "ask_price": "0.00751877",
+        "bid_price": "0.00751051",
+        "volume": 165998.2721791,
+        "link": "https://www.bitmart.com/trade?symbol=DEXO_USDT"
+    },
+    {
+        "symbol": "ETCUSDT",
+        "ask_price": "19.2750",
+        "bid_price": "19.2554",
+        "volume": 113622.7845,
+        "link": "https://www.bitmart.com/trade?symbol=ETC_USDT"
+    },
+    {
+        "symbol": "APTUSDT",
+        "ask_price": "11.0063",
+        "bid_price": "10.9710",
+        "volume": 2886238.7657,
+        "link": "https://www.bitmart.com/trade?symbol=APT_USDT"
+    },
+    {
+        "symbol": "WELTUSDT",
+        "ask_price": "0.005800",
+        "bid_price": "0.005775",
+        "volume": 114503.2708,
+        "link": "https://www.bitmart.com/trade?symbol=WELT_USDT"
+    },
+    {
+        "symbol": "GFTUSDT",
+        "ask_price": "0.05844",
+        "bid_price": "0.05815",
+        "volume": 267004.02261,
+        "link": "https://www.bitmart.com/trade?symbol=GFT_USDT"
+    },
+    {
+        "symbol": "MTVTUSDT",
+        "ask_price": "0.008835",
+        "bid_price": "0.008764",
+        "volume": 196037.365318,
+        "link": "https://www.bitmart.com/trade?symbol=MTVT_USDT"
+    },
+    {
+        "symbol": "$DOSAUSDT",
+        "ask_price": "0.0005591",
+        "bid_price": "0.0005550",
+        "volume": 67361.4963456,
+        "link": "https://www.bitmart.com/trade?symbol=$DOSA_USDT"
+    },
+    {
+        "symbol": "XTZUSDT",
+        "ask_price": "1.095102",
+        "bid_price": "1.093912",
+        "volume": 212250.759585,
+        "link": "https://www.bitmart.com/trade?symbol=XTZ_USDT"
+    },
+    {
+        "symbol": "PHLUSDT",
+        "ask_price": "0.02175",
+        "bid_price": "0.02155",
+        "volume": 62679.26852,
+        "link": "https://www.bitmart.com/trade?symbol=PHL_USDT"
+    },
+    {
+        "symbol": "FYNUSDT",
+        "ask_price": "0.033143",
+        "bid_price": "0.030915",
+        "volume": 142843.689767,
+        "link": "https://www.bitmart.com/trade?symbol=FYN_USDT"
+    },
+    {
+        "symbol": "VENICEUSDT",
+        "ask_price": "6.000016",
+        "bid_price": "5.929712",
+        "volume": 284240.731505,
+        "link": "https://www.bitmart.com/trade?symbol=VENICE_USDT"
+    },
+    {
+        "symbol": "TUPANUSDT",
+        "ask_price": "0.01384",
+        "bid_price": "0.01373",
+        "volume": 110852.47566,
+        "link": "https://www.bitmart.com/trade?symbol=TUPAN_USDT"
+    },
+    {
+        "symbol": "EAIUSDT",
+        "ask_price": "0.03045",
+        "bid_price": "0.02991",
+        "volume": 35097.61788,
+        "link": "https://www.bitmart.com/trade?symbol=EAI_USDT"
+    },
+    {
+        "symbol": "KALIUSDT",
+        "ask_price": "0.0025134",
+        "bid_price": "0.0025076",
+        "volume": 54583.8379314,
+        "link": "https://www.bitmart.com/trade?symbol=KALI_USDT"
+    },
+    {
+        "symbol": "COCOSUSDT",
+        "ask_price": "1.4952",
+        "bid_price": "1.4884",
+        "volume": 582264.4682,
+        "link": "https://www.bitmart.com/trade?symbol=COCOS_USDT"
+    },
+    {
+        "symbol": "ATHENASUSDT",
+        "ask_price": "0.00710",
+        "bid_price": "0.00703",
+        "volume": 64407.73982,
+        "link": "https://www.bitmart.com/trade?symbol=ATHENAS_USDT"
+    },
+    {
+        "symbol": "BITUSDT",
+        "ask_price": "0.5206",
+        "bid_price": "0.5182",
+        "volume": 60045.2771,
+        "link": "https://www.bitmart.com/trade?symbol=BIT_USDT"
+    },
+    {
+        "symbol": "CHEQUSDT",
+        "ask_price": "0.058498",
+        "bid_price": "0.057377",
+        "volume": 126209.331114,
+        "link": "https://www.bitmart.com/trade?symbol=CHEQ_USDT"
+    },
+    {
+        "symbol": "PERPUSDT",
+        "ask_price": "1.0037",
+        "bid_price": "1.0001",
+        "volume": 94077.7688,
+        "link": "https://www.bitmart.com/trade?symbol=PERP_USDT"
+    },
+    {
+        "symbol": "ACSUSDT",
+        "ask_price": "0.011296",
+        "bid_price": "0.011239",
+        "volume": 2660551.340692,
+        "link": "https://www.bitmart.com/trade?symbol=ACS_USDT"
+    },
+    {
+        "symbol": "PRMXUSDT",
+        "ask_price": "0.006758",
+        "bid_price": "0.006661",
+        "volume": 153851.72034,
+        "link": "https://www.bitmart.com/trade?symbol=PRMX_USDT"
+    },
+    {
+        "symbol": "GALAUSDT",
+        "ask_price": "0.037243",
+        "bid_price": "0.037167",
+        "volume": 346624.338406,
+        "link": "https://www.bitmart.com/trade?symbol=GALA_USDT"
+    },
+    {
+        "symbol": "PCUSDT",
+        "ask_price": "0.00283429",
+        "bid_price": "0.00280428",
+        "volume": 184012.36037656,
+        "link": "https://www.bitmart.com/trade?symbol=PC_USDT"
+    },
+    {
+        "symbol": "BERRYUSDT",
+        "ask_price": "0.001731",
+        "bid_price": "0.001709",
+        "volume": 43624.598362,
+        "link": "https://www.bitmart.com/trade?symbol=BERRY_USDT"
+    },
+    {
+        "symbol": "TROJANIXUSDT",
+        "ask_price": "0.000000122",
+        "bid_price": "0.000000120",
+        "volume": 235843.925725376,
+        "link": "https://www.bitmart.com/trade?symbol=TROJANIX_USDT"
+    },
+    {
+        "symbol": "1INCHUSDT",
+        "ask_price": "0.5042",
+        "bid_price": "0.5028",
+        "volume": 79909.2537,
+        "link": "https://www.bitmart.com/trade?symbol=1INCH_USDT"
+    },
+    {
+        "symbol": "GALUSDT",
+        "ask_price": "1.627",
+        "bid_price": "1.620",
+        "volume": 75642.905,
+        "link": "https://www.bitmart.com/trade?symbol=GAL_USDT"
+    },
+    {
+        "symbol": "RVLTUSDT",
+        "ask_price": "0.00000006012",
+        "bid_price": "0.00000006001",
+        "volume": 126906.89476732182,
+        "link": "https://www.bitmart.com/trade?symbol=RVLT_USDT"
+    },
+    {
+        "symbol": "MASKUSDT",
+        "ask_price": "3.7825",
+        "bid_price": "3.7782",
+        "volume": 704157.5519,
+        "link": "https://www.bitmart.com/trade?symbol=MASK_USDT"
+    },
+    {
+        "symbol": "AVAXUSDT",
+        "ask_price": "16.0585",
+        "bid_price": "16.0515",
+        "volume": 1851938.8171,
+        "link": "https://www.bitmart.com/trade?symbol=AVAX_USDT"
+    },
+    {
+        "symbol": "QOMUSDT",
+        "ask_price": "0.000000071210",
+        "bid_price": "0.000000070722",
+        "volume": 36619.44429954353,
+        "link": "https://www.bitmart.com/trade?symbol=QOM_USDT"
+    },
+    {
+        "symbol": "CCTUSDT",
+        "ask_price": "0.25766745",
+        "bid_price": "0.25245000",
+        "volume": 37510.93996588,
+        "link": "https://www.bitmart.com/trade?symbol=CCT_USDT"
+    },
+    {
+        "symbol": "DODOUSDT",
+        "ask_price": "0.1891",
+        "bid_price": "0.1884",
+        "volume": 96178.8768,
+        "link": "https://www.bitmart.com/trade?symbol=DODO_USDT"
+    },
+    {
+        "symbol": "CAKEUSDT",
+        "ask_price": "3.7397",
+        "bid_price": "3.7343",
+        "volume": 160884.9365,
+        "link": "https://www.bitmart.com/trade?symbol=CAKE_USDT"
+    },
+    {
+        "symbol": "RNDRUSDT",
+        "ask_price": "1.1823",
+        "bid_price": "1.1766",
+        "volume": 897563.5942,
+        "link": "https://www.bitmart.com/trade?symbol=RNDR_USDT"
+    },
+    {
+        "symbol": "$PORUSDT",
+        "ask_price": "1.0552",
+        "bid_price": "1.0403",
+        "volume": 44721.3871,
+        "link": "https://www.bitmart.com/trade?symbol=$POR_USDT"
+    },
+    {
+        "symbol": "MATHUSDT",
+        "ask_price": "0.1379",
+        "bid_price": "0.1334",
+        "volume": 114995.2279,
+        "link": "https://www.bitmart.com/trade?symbol=MATH_USDT"
+    },
+    {
+        "symbol": "LUNGUSDT",
+        "ask_price": "0.00116973",
+        "bid_price": "0.00114000",
+        "volume": 56623.20200182,
+        "link": "https://www.bitmart.com/trade?symbol=LUNG_USDT"
+    },
+    {
+        "symbol": "PKRUSDT",
+        "ask_price": "0.003500",
+        "bid_price": "0.003154",
+        "volume": 55185.854578,
+        "link": "https://www.bitmart.com/trade?symbol=PKR_USDT"
+    },
+    {
+        "symbol": "ZRXUSDT",
+        "ask_price": "0.2320",
+        "bid_price": "0.2310",
+        "volume": 81071.1862,
+        "link": "https://www.bitmart.com/trade?symbol=ZRX_USDT"
+    },
+    {
+        "symbol": "BANDUSDT",
+        "ask_price": "1.6703",
+        "bid_price": "1.6627",
+        "volume": 105250.0279,
+        "link": "https://www.bitmart.com/trade?symbol=BAND_USDT"
+    },
+    {
+        "symbol": "UPOUSDT",
+        "ask_price": "0.02079",
+        "bid_price": "0.02046",
+        "volume": 48234.32264,
+        "link": "https://www.bitmart.com/trade?symbol=UPO_USDT"
+    },
+    {
+        "symbol": "LAYERUSDT",
+        "ask_price": "0.0936",
+        "bid_price": "0.0926",
+        "volume": 37224.4023,
+        "link": "https://www.bitmart.com/trade?symbol=LAYER_USDT"
+    },
+    {
+        "symbol": "GUSDT",
+        "ask_price": "0.0163",
+        "bid_price": "0.0160",
+        "volume": 68011.9914,
+        "link": "https://www.bitmart.com/trade?symbol=G_USDT"
+    },
+    {
+        "symbol": "THETAUSDT",
+        "ask_price": "0.989044",
+        "bid_price": "0.987966",
+        "volume": 499576.089981,
+        "link": "https://www.bitmart.com/trade?symbol=THETA_USDT"
+    },
+    {
+        "symbol": "$ARGUSDT",
+        "ask_price": "1.2493",
+        "bid_price": "1.2314",
+        "volume": 43311.7056,
+        "link": "https://www.bitmart.com/trade?symbol=$ARG_USDT"
+    },
+    {
+        "symbol": "GOMTUSDT",
+        "ask_price": "0.634",
+        "bid_price": "0.632",
+        "volume": 243416.388,
+        "link": "https://www.bitmart.com/trade?symbol=GOMT_USDT"
+    },
+    {
+        "symbol": "CIXUSDT",
+        "ask_price": "0.02000",
+        "bid_price": "0.01974",
+        "volume": 252355.78124,
+        "link": "https://www.bitmart.com/trade?symbol=CIX_USDT"
+    },
+    {
+        "symbol": "DEPUSDT",
+        "ask_price": "0.0041",
+        "bid_price": "0.0040",
+        "volume": 351232.909,
+        "link": "https://www.bitmart.com/trade?symbol=DEP_USDT"
+    },
+    {
+        "symbol": "REDLCUSDT",
+        "ask_price": "0.1686",
+        "bid_price": "0.1602",
+        "volume": 197936.1354,
+        "link": "https://www.bitmart.com/trade?symbol=REDLC_USDT"
+    },
+    {
+        "symbol": "MULTIUSDT",
+        "ask_price": "9.47",
+        "bid_price": "9.36",
+        "volume": 94452.7,
+        "link": "https://www.bitmart.com/trade?symbol=MULTI_USDT"
+    },
+    {
+        "symbol": "NULSUSDT",
+        "ask_price": "0.2400",
+        "bid_price": "0.2382",
+        "volume": 49401.463,
+        "link": "https://www.bitmart.com/trade?symbol=NULS_USDT"
+    },
+    {
+        "symbol": "NEPTUSDT",
+        "ask_price": "0.0000677",
+        "bid_price": "0.0000672",
+        "volume": 238416.8424446,
+        "link": "https://www.bitmart.com/trade?symbol=NEPT_USDT"
+    },
+    {
+        "symbol": "ZGDUSDT",
+        "ask_price": "0.496",
+        "bid_price": "0.486",
+        "volume": 157920.228,
+        "link": "https://www.bitmart.com/trade?symbol=ZGD_USDT"
+    },
+    {
+        "symbol": "ROCKUSDT",
+        "ask_price": "0.00395846",
+        "bid_price": "0.00390392",
+        "volume": 85228.7879406,
+        "link": "https://www.bitmart.com/trade?symbol=ROCK_USDT"
+    },
+    {
+        "symbol": "BUSDUSDT",
+        "ask_price": "1.00005",
+        "bid_price": "1.00004",
+        "volume": 26454233.09242,
+        "link": "https://www.bitmart.com/trade?symbol=BUSD_USDT"
+    },
+    {
+        "symbol": "XWGUSDT",
+        "ask_price": "0.0012410",
+        "bid_price": "0.0012390",
+        "volume": 84518.6570841,
+        "link": "https://www.bitmart.com/trade?symbol=XWG_USDT"
+    },
+    {
+        "symbol": "RENUSDT",
+        "ask_price": "0.1195",
+        "bid_price": "0.1189",
+        "volume": 252062.4059,
+        "link": "https://www.bitmart.com/trade?symbol=REN_USDT"
+    },
+    {
+        "symbol": "KRUUSDT",
+        "ask_price": "0.2667",
+        "bid_price": "0.2652",
+        "volume": 194187.001,
+        "link": "https://www.bitmart.com/trade?symbol=KRU_USDT"
+    },
+    {
+        "symbol": "MOVEZUSDT",
+        "ask_price": "0.00302",
+        "bid_price": "0.00298",
+        "volume": 35940.19768,
+        "link": "https://www.bitmart.com/trade?symbol=MOVEZ_USDT"
+    },
+    {
+        "symbol": "FLOWUSDT",
+        "ask_price": "1.0139",
+        "bid_price": "1.0090",
+        "volume": 118011.154,
+        "link": "https://www.bitmart.com/trade?symbol=FLOW_USDT"
+    },
+    {
+        "symbol": "RARIUSDT",
+        "ask_price": "1.7763",
+        "bid_price": "1.7648",
+        "volume": 37622.9874,
+        "link": "https://www.bitmart.com/trade?symbol=RARI_USDT"
+    },
+    {
+        "symbol": "ATXUSDT",
+        "ask_price": "0.0002308",
+        "bid_price": "0.0002280",
+        "volume": 530367.9036746,
+        "link": "https://www.bitmart.com/trade?symbol=ATX_USDT"
+    },
+    {
+        "symbol": "SYNUSDT",
+        "ask_price": "1.0637",
+        "bid_price": "1.0582",
+        "volume": 570294.0879,
+        "link": "https://www.bitmart.com/trade?symbol=SYN_USDT"
+    },
+    {
+        "symbol": "DYDXUSDT",
+        "ask_price": "2.2437",
+        "bid_price": "2.2413",
+        "volume": 822028.6931,
+        "link": "https://www.bitmart.com/trade?symbol=DYDX_USDT"
+    },
+    {
+        "symbol": "ATLASUSDT",
+        "ask_price": "0.00308503",
+        "bid_price": "0.00306448",
+        "volume": 53867.36122332,
+        "link": "https://www.bitmart.com/trade?symbol=ATLAS_USDT"
+    },
+    {
+        "symbol": "HTUSDT",
+        "ask_price": "4.9303",
+        "bid_price": "4.9081",
+        "volume": 47441.7457,
+        "link": "https://www.bitmart.com/trade?symbol=HT_USDT"
+    },
+    {
+        "symbol": "LYOUSDT",
+        "ask_price": "0.70674030",
+        "bid_price": "0.69790056",
+        "volume": 388604.30041034,
+        "link": "https://www.bitmart.com/trade?symbol=LYO_USDT"
+    },
+    {
+        "symbol": "BATUSDT",
+        "ask_price": "0.2467",
+        "bid_price": "0.2462",
+        "volume": 131244.7678,
+        "link": "https://www.bitmart.com/trade?symbol=BAT_USDT"
+    },
+    {
+        "symbol": "USDCUSDT",
+        "ask_price": "1.00006",
+        "bid_price": "1.00004",
+        "volume": 541029.10003,
+        "link": "https://www.bitmart.com/trade?symbol=USDC_USDT"
+    },
+    {
+        "symbol": "ICPUSDT",
+        "ask_price": "5.29",
+        "bid_price": "5.26",
+        "volume": 174395.63,
+        "link": "https://www.bitmart.com/trade?symbol=ICP_USDT"
+    },
+    {
+        "symbol": "YGGUSDT",
+        "ask_price": "0.2669",
+        "bid_price": "0.2659",
+        "volume": 115523.3039,
+        "link": "https://www.bitmart.com/trade?symbol=YGG_USDT"
+    },
+    {
+        "symbol": "HIUSDT",
+        "ask_price": "0.013703",
+        "bid_price": "0.013237",
+        "volume": 56180.531982,
+        "link": "https://www.bitmart.com/trade?symbol=HI_USDT"
+    },
+    {
+        "symbol": "PLANETSUSDT",
+        "ask_price": "0.003608",
+        "bid_price": "0.003415",
+        "volume": 42054.357088,
+        "link": "https://www.bitmart.com/trade?symbol=PLANETS_USDT"
+    },
+    {
+        "symbol": "SINGHUSDT",
+        "ask_price": "0.039727",
+        "bid_price": "0.039137",
+        "volume": 78737.630682,
+        "link": "https://www.bitmart.com/trade?symbol=SINGH_USDT"
+    },
+    {
+        "symbol": "ANCUSDT",
+        "ask_price": "0.0229",
+        "bid_price": "0.0227",
+        "volume": 38332.7038,
+        "link": "https://www.bitmart.com/trade?symbol=ANC_USDT"
+    },
+    {
+        "symbol": "FNDUSDT",
+        "ask_price": "0.004300",
+        "bid_price": "0.003742",
+        "volume": 161707.272568,
+        "link": "https://www.bitmart.com/trade?symbol=FND_USDT"
+    },
+    {
+        "symbol": "BLURUSDT",
+        "ask_price": "0.639870",
+        "bid_price": "0.638519",
+        "volume": 2575488.04432,
+        "link": "https://www.bitmart.com/trade?symbol=BLUR_USDT"
+    },
+    {
+        "symbol": "OMUSDT",
+        "ask_price": "0.036768",
+        "bid_price": "0.036545",
+        "volume": 41308.027414,
+        "link": "https://www.bitmart.com/trade?symbol=OM_USDT"
+    },
+    {
+        "symbol": "OMAXUSDT",
+        "ask_price": "0.0003062",
+        "bid_price": "0.0003056",
+        "volume": 123413.2050378,
+        "link": "https://www.bitmart.com/trade?symbol=OMAX_USDT"
+    },
+    {
+        "symbol": "NEOUSDT",
+        "ask_price": "11.6632",
+        "bid_price": "11.6463",
+        "volume": 315879.5196,
+        "link": "https://www.bitmart.com/trade?symbol=NEO_USDT"
+    },
+    {
+        "symbol": "CIRUSUSDT",
+        "ask_price": "0.1330",
+        "bid_price": "0.1283",
+        "volume": 50293.2652,
+        "link": "https://www.bitmart.com/trade?symbol=CIRUS_USDT"
+    },
+    {
+        "symbol": "MHUNTUSDT",
+        "ask_price": "0.01088",
+        "bid_price": "0.01076",
+        "volume": 120265.48622,
+        "link": "https://www.bitmart.com/trade?symbol=MHUNT_USDT"
+    },
+    {
+        "symbol": "UMAUSDT",
+        "ask_price": "1.9957",
+        "bid_price": "1.9873",
+        "volume": 64092.5536,
+        "link": "https://www.bitmart.com/trade?symbol=UMA_USDT"
+    },
+    {
+        "symbol": "FTNUSDT",
+        "ask_price": "0.64760",
+        "bid_price": "0.64308",
+        "volume": 653330.13377,
+        "link": "https://www.bitmart.com/trade?symbol=FTN_USDT"
+    },
+    {
+        "symbol": "ENSUSDT",
+        "ask_price": "13.69",
+        "bid_price": "13.66",
+        "volume": 120110.35,
+        "link": "https://www.bitmart.com/trade?symbol=ENS_USDT"
+    },
+    {
+        "symbol": "VXLUSDT",
+        "ask_price": "0.015199",
+        "bid_price": "0.014864",
+        "volume": 100141.782936,
+        "link": "https://www.bitmart.com/trade?symbol=VXL_USDT"
+    },
+    {
+        "symbol": "CONEUSDT",
+        "ask_price": "0.1949",
+        "bid_price": "0.1931",
+        "volume": 117359.628,
+        "link": "https://www.bitmart.com/trade?symbol=CONE_USDT"
+    },
+    {
+        "symbol": "CAREUSDT",
+        "ask_price": "0.006648",
+        "bid_price": "0.006482",
+        "volume": 180988.391758,
+        "link": "https://www.bitmart.com/trade?symbol=CARE_USDT"
+    },
+    {
+        "symbol": "HOOPOEUSDT",
+        "ask_price": "3.238727",
+        "bid_price": "3.200000",
+        "volume": 47315.447256,
+        "link": "https://www.bitmart.com/trade?symbol=HOOPOE_USDT"
+    },
+    {
+        "symbol": "TBCUSDT",
+        "ask_price": "2428.88",
+        "bid_price": "2388.38",
+        "volume": 98411.23,
+        "link": "https://www.bitmart.com/trade?symbol=TBC_USDT"
+    },
+    {
+        "symbol": "PKNUSDT",
+        "ask_price": "0.00158439",
+        "bid_price": "0.00155854",
+        "volume": 38686.98655896,
+        "link": "https://www.bitmart.com/trade?symbol=PKN_USDT"
+    },
+    {
+        "symbol": "FLRUSDT",
+        "ask_price": "0.035311",
+        "bid_price": "0.035159",
+        "volume": 237262.43457,
+        "link": "https://www.bitmart.com/trade?symbol=FLR_USDT"
+    },
+    {
+        "symbol": "BTNTV2USDT",
+        "ask_price": "0.07000",
+        "bid_price": "0.06934",
+        "volume": 63719.42209,
+        "link": "https://www.bitmart.com/trade?symbol=BTNTV2_USDT"
+    },
+    {
+        "symbol": "WQTUSDT",
+        "ask_price": "0.001906",
+        "bid_price": "0.001874",
+        "volume": 61580.847628,
+        "link": "https://www.bitmart.com/trade?symbol=WQT_USDT"
+    },
+    {
+        "symbol": "SUDOUSDT",
+        "ask_price": "1.396",
+        "bid_price": "1.380",
+        "volume": 688553.268,
+        "link": "https://www.bitmart.com/trade?symbol=SUDO_USDT"
+    },
+    {
+        "symbol": "RAYUSDT",
+        "ask_price": "0.2520",
+        "bid_price": "0.2483",
+        "volume": 38139.6365,
+        "link": "https://www.bitmart.com/trade?symbol=RAY_USDT"
+    },
+    {
+        "symbol": "LEASHUSDT",
+        "ask_price": "500.08",
+        "bid_price": "492.47",
+        "volume": 38950.45,
+        "link": "https://www.bitmart.com/trade?symbol=LEASH_USDT"
+    },
+    {
+        "symbol": "DVDXUSDT",
+        "ask_price": "0.0001480",
+        "bid_price": "0.0001467",
+        "volume": 108829.3835096,
+        "link": "https://www.bitmart.com/trade?symbol=DVDX_USDT"
+    },
+    {
+        "symbol": "DOGECOLAUSDT",
+        "ask_price": "0.008215",
+        "bid_price": "0.008115",
+        "volume": 180230.546664,
+        "link": "https://www.bitmart.com/trade?symbol=DOGECOLA_USDT"
+    },
+    {
+        "symbol": "D2TUSDT",
+        "ask_price": "0.040122",
+        "bid_price": "0.039882",
+        "volume": 460882.468135,
+        "link": "https://www.bitmart.com/trade?symbol=D2T_USDT"
+    },
+    {
+        "symbol": "ETHFUSDT",
+        "ask_price": "0.3033",
+        "bid_price": "0.3024",
+        "volume": 36499.6904,
+        "link": "https://www.bitmart.com/trade?symbol=ETHF_USDT"
+    },
+    {
+        "symbol": "PLCUUSDT",
+        "ask_price": "6834.00",
+        "bid_price": "6681.94",
+        "volume": 94229.48,
+        "link": "https://www.bitmart.com/trade?symbol=PLCU_USDT"
+    },
+    {
+        "symbol": "ACAUSDT",
+        "ask_price": "0.1127",
+        "bid_price": "0.1120",
+        "volume": 104546.5386,
+        "link": "https://www.bitmart.com/trade?symbol=ACA_USDT"
+    },
+    {
+        "symbol": "NTICUSDT",
+        "ask_price": "0.04035",
+        "bid_price": "0.03996",
+        "volume": 78571.33967,
+        "link": "https://www.bitmart.com/trade?symbol=NTIC_USDT"
+    },
+    {
+        "symbol": "DESUSDT",
+        "ask_price": "0.001635",
+        "bid_price": "0.001619",
+        "volume": 110127.342268,
+        "link": "https://www.bitmart.com/trade?symbol=DES_USDT"
+    },
+    {
+        "symbol": "LBTUSDT",
+        "ask_price": "0.152994",
+        "bid_price": "0.152882",
+        "volume": 38601.882138,
+        "link": "https://www.bitmart.com/trade?symbol=LBT_USDT"
+    },
+    {
+        "symbol": "GMEXUSDT",
+        "ask_price": "0.00048525",
+        "bid_price": "0.00045001",
+        "volume": 46182.6255981,
+        "link": "https://www.bitmart.com/trade?symbol=GMEX_USDT"
+    },
+    {
+        "symbol": "EULUSDT",
+        "ask_price": "7.5251",
+        "bid_price": "7.3480",
+        "volume": 30498.8609,
+        "link": "https://www.bitmart.com/trade?symbol=EUL_USDT"
+    },
+    {
+        "symbol": "ACHUSDT",
+        "ask_price": "0.03028",
+        "bid_price": "0.02959",
+        "volume": 218682.1497,
+        "link": "https://www.bitmart.com/trade?symbol=ACH_USDT"
+    },
+    {
+        "symbol": "$DFIUSDT",
+        "ask_price": "0.511226",
+        "bid_price": "0.508645",
+        "volume": 48418.541637,
+        "link": "https://www.bitmart.com/trade?symbol=$DFI_USDT"
+    },
+    {
+        "symbol": "OCEANUSDT",
+        "ask_price": "0.3789",
+        "bid_price": "0.3764",
+        "volume": 106230.1096,
+        "link": "https://www.bitmart.com/trade?symbol=OCEAN_USDT"
+    },
+    {
+        "symbol": "BCBUSDT",
+        "ask_price": "0.008111",
+        "bid_price": "0.008044",
+        "volume": 2201697.986688,
+        "link": "https://www.bitmart.com/trade?symbol=BCB_USDT"
+    },
+    {
+        "symbol": "LQTYUSDT",
+        "ask_price": "1.9499",
+        "bid_price": "1.9401",
+        "volume": 670226.967,
+        "link": "https://www.bitmart.com/trade?symbol=LQTY_USDT"
+    },
+    {
+        "symbol": "BSVUSDT",
+        "ask_price": "37.5384",
+        "bid_price": "37.1555",
+        "volume": 40332.5915,
+        "link": "https://www.bitmart.com/trade?symbol=BSV_USDT"
+    },
+    {
+        "symbol": "GNSUSDT",
+        "ask_price": "7.621",
+        "bid_price": "7.591",
+        "volume": 1835885.565,
+        "link": "https://www.bitmart.com/trade?symbol=GNS_USDT"
+    },
+    {
+        "symbol": "CELRUSDT",
+        "ask_price": "0.016908",
+        "bid_price": "0.016846",
+        "volume": 80074.521007,
+        "link": "https://www.bitmart.com/trade?symbol=CELR_USDT"
+    },
+    {
+        "symbol": "SANDUSDT",
+        "ask_price": "0.6047",
+        "bid_price": "0.6042",
+        "volume": 201735.0454,
+        "link": "https://www.bitmart.com/trade?symbol=SAND_USDT"
+    },
+    {
+        "symbol": "MAGICUSDT",
+        "ask_price": "1.3386",
+        "bid_price": "1.3246",
+        "volume": 342206.1984,
+        "link": "https://www.bitmart.com/trade?symbol=MAGIC_USDT"
+    },
+    {
+        "symbol": "ILVUSDT",
+        "ask_price": "75.98",
+        "bid_price": "75.77",
+        "volume": 312823.98,
+        "link": "https://www.bitmart.com/trade?symbol=ILV_USDT"
+    },
+    {
+        "symbol": "HOOKUSDT",
+        "ask_price": "1.8963",
+        "bid_price": "1.8885",
+        "volume": 432975.876,
+        "link": "https://www.bitmart.com/trade?symbol=HOOK_USDT"
+    },
+    {
+        "symbol": "MEGUSDT",
+        "ask_price": "0.0004368",
+        "bid_price": "0.0004294",
+        "volume": 187670.1249222,
+        "link": "https://www.bitmart.com/trade?symbol=MEG_USDT"
+    },
+    {
+        "symbol": "G1XUSDT",
+        "ask_price": "0.00534882",
+        "bid_price": "0.00530557",
+        "volume": 62520.2519011,
+        "link": "https://www.bitmart.com/trade?symbol=G1X_USDT"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "ask_price": "0.326080",
+        "bid_price": "0.325810",
+        "volume": 6638883.874032,
+        "link": "https://www.bitmart.com/trade?symbol=ADA_USDT"
+    },
+    {
+        "symbol": "FEARUSDT",
+        "ask_price": "0.1919",
+        "bid_price": "0.1902",
+        "volume": 128221.8791,
+        "link": "https://www.bitmart.com/trade?symbol=FEAR_USDT"
+    },
+    {
+        "symbol": "KAVAUSDT",
+        "ask_price": "0.7885",
+        "bid_price": "0.7842",
+        "volume": 2044537.0606,
+        "link": "https://www.bitmart.com/trade?symbol=KAVA_USDT"
+    },
+    {
+        "symbol": "SKEYUSDT",
+        "ask_price": "0.019136",
+        "bid_price": "0.018797",
+        "volume": 413937.128808,
+        "link": "https://www.bitmart.com/trade?symbol=SKEY_USDT"
+    },
+    {
+        "symbol": "FRONTUSDT",
+        "ask_price": "0.2190",
+        "bid_price": "0.2182",
+        "volume": 129966.1574,
+        "link": "https://www.bitmart.com/trade?symbol=FRONT_USDT"
+    },
+    {
+        "symbol": "SANTOSUSDT",
+        "ask_price": "4.494",
+        "bid_price": "4.474",
+        "volume": 155501.761,
+        "link": "https://www.bitmart.com/trade?symbol=SANTOS_USDT"
+    },
+    {
+        "symbol": "HOTUSDT",
+        "ask_price": "0.001756",
+        "bid_price": "0.001749",
+        "volume": 56099.779274,
+        "link": "https://www.bitmart.com/trade?symbol=HOT_USDT"
+    },
+    {
+        "symbol": "ETHWUSDT",
+        "ask_price": "3.44",
+        "bid_price": "3.42",
+        "volume": 101916.22,
+        "link": "https://www.bitmart.com/trade?symbol=ETHW_USDT"
+    },
+    {
+        "symbol": "ALICEUSDT",
+        "ask_price": "1.5763",
+        "bid_price": "1.5747",
+        "volume": 238230.1158,
+        "link": "https://www.bitmart.com/trade?symbol=ALICE_USDT"
+    },
+    {
+        "symbol": "FREEUSDT",
+        "ask_price": "0.0000001727",
+        "bid_price": "0.0000001719",
+        "volume": 128700.0270272996,
+        "link": "https://www.bitmart.com/trade?symbol=FREE_USDT"
+    },
+    {
+        "symbol": "DCUSDT",
+        "ask_price": "0.001365",
+        "bid_price": "0.001356",
+        "volume": 47721.778088,
+        "link": "https://www.bitmart.com/trade?symbol=DC_USDT"
+    },
+    {
+        "symbol": "CANTOUSDT",
+        "ask_price": "0.34017",
+        "bid_price": "0.33688",
+        "volume": 233335.2055,
+        "link": "https://www.bitmart.com/trade?symbol=CANTO_USDT"
+    },
+    {
+        "symbol": "OPUSDT",
+        "ask_price": "2.3965",
+        "bid_price": "2.3905",
+        "volume": 307745.6253,
+        "link": "https://www.bitmart.com/trade?symbol=OP_USDT"
+    },
+    {
+        "symbol": "WEMIXUSDT",
+        "ask_price": "1.896001",
+        "bid_price": "1.888297",
+        "volume": 1222886.560316,
+        "link": "https://www.bitmart.com/trade?symbol=WEMIX_USDT"
+    },
+    {
+        "symbol": "KTXUSDT",
+        "ask_price": "0.03139",
+        "bid_price": "0.03101",
+        "volume": 99926.67869,
+        "link": "https://www.bitmart.com/trade?symbol=KTX_USDT"
+    },
+    {
+        "symbol": "BTHUSDT",
+        "ask_price": "0.00213255",
+        "bid_price": "0.00203759",
+        "volume": 42471.13078868,
+        "link": "https://www.bitmart.com/trade?symbol=BTH_USDT"
+    },
+    {
+        "symbol": "STARLUSDT",
+        "ask_price": "0.00000262",
+        "bid_price": "0.00000259",
+        "volume": 37214.28548454,
+        "link": "https://www.bitmart.com/trade?symbol=STARL_USDT"
+    },
+    {
+        "symbol": "PIUSDT",
+        "ask_price": "44.95",
+        "bid_price": "43.83",
+        "volume": 193132.85,
+        "link": "https://www.bitmart.com/trade?symbol=PI_USDT"
+    },
+    {
+        "symbol": "HBARUSDT",
+        "ask_price": "0.062772",
+        "bid_price": "0.062731",
+        "volume": 1072201.142626,
+        "link": "https://www.bitmart.com/trade?symbol=HBAR_USDT"
+    },
+    {
+        "symbol": "LINKUSDT",
+        "ask_price": "6.7402",
+        "bid_price": "6.7348",
+        "volume": 10105931.0036,
+        "link": "https://www.bitmart.com/trade?symbol=LINK_USDT"
+    },
+    {
+        "symbol": "UTEDUSDT",
+        "ask_price": "0.00266",
+        "bid_price": "0.00246",
+        "volume": 445426.7526,
+        "link": "https://www.bitmart.com/trade?symbol=UTED_USDT"
+    },
+    {
+        "symbol": "TLMUSDT",
+        "ask_price": "0.0185",
+        "bid_price": "0.0182",
+        "volume": 34265.0738,
+        "link": "https://www.bitmart.com/trade?symbol=TLM_USDT"
+    },
+    {
+        "symbol": "RAREUSDT",
+        "ask_price": "0.1346",
+        "bid_price": "0.1338",
+        "volume": 42125.9273,
+        "link": "https://www.bitmart.com/trade?symbol=RARE_USDT"
+    },
+    {
+        "symbol": "OMMIUSDT",
+        "ask_price": "1.2750",
+        "bid_price": "1.2677",
+        "volume": 211694.9019,
+        "link": "https://www.bitmart.com/trade?symbol=OMMI_USDT"
+    },
+    {
+        "symbol": "AGIXUSDT",
+        "ask_price": "0.41212",
+        "bid_price": "0.41042",
+        "volume": 1535967.59402,
+        "link": "https://www.bitmart.com/trade?symbol=AGIX_USDT"
+    },
+    {
+        "symbol": "BLUESPARROWUSDT",
+        "ask_price": "0.0477",
+        "bid_price": "0.0473",
+        "volume": 106136.336,
+        "link": "https://www.bitmart.com/trade?symbol=BLUESPARROW_USDT"
+    },
+    {
+        "symbol": "SUSHIUSDT",
+        "ask_price": "1.183",
+        "bid_price": "1.178",
+        "volume": 73532.043,
+        "link": "https://www.bitmart.com/trade?symbol=SUSHI_USDT"
+    },
+    {
+        "symbol": "PSGUSDT",
+        "ask_price": "5.997",
+        "bid_price": "5.957",
+        "volume": 45288.864,
+        "link": "https://www.bitmart.com/trade?symbol=PSG_USDT"
+    },
+    {
+        "symbol": "KEYUSDT",
+        "ask_price": "0.009833",
+        "bid_price": "0.009788",
+        "volume": 747482.136928,
+        "link": "https://www.bitmart.com/trade?symbol=KEY_USDT"
+    },
+    {
+        "symbol": "PLEXUSDT",
+        "ask_price": "0.1384",
+        "bid_price": "0.1362",
+        "volume": 80174.1704,
+        "link": "https://www.bitmart.com/trade?symbol=PLEX_USDT"
+    },
+    {
+        "symbol": "HYPERUSDT",
+        "ask_price": "0.0030150",
+        "bid_price": "0.0030000",
+        "volume": 107667.014469,
+        "link": "https://www.bitmart.com/trade?symbol=HYPER_USDT"
+    },
+    {
+        "symbol": "MRHBUSDT",
+        "ask_price": "0.007215",
+        "bid_price": "0.007106",
+        "volume": 69956.759086,
+        "link": "https://www.bitmart.com/trade?symbol=MRHB_USDT"
+    },
+    {
+        "symbol": "GRVUSDT",
+        "ask_price": "0.6755",
+        "bid_price": "0.6521",
+        "volume": 3284757.1753,
+        "link": "https://www.bitmart.com/trade?symbol=GRV_USDT"
+    }
+]

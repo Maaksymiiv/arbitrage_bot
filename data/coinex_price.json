@@ -1,0 +1,198 @@
+[
+    {
+        "symbol": "ELONUSDT",
+        "ask_price": "0.000000387494",
+        "bid_price": "0.000000385100",
+        "volume": 109348.95801672833,
+        "link": "https://www.coinex.com/exchange/elon-usdt"
+    },
+    {
+        "symbol": "BABYDOGEUSDT",
+        "ask_price": "0.000000004030",
+        "bid_price": "0.000000004025",
+        "volume": 2735853.650113152,
+        "link": "https://www.coinex.com/exchange/babydoge-usdt"
+    },
+    {
+        "symbol": "ETCUSDT",
+        "ask_price": "20.6931",
+        "bid_price": "20.6683",
+        "volume": 229278.69879969486,
+        "link": "https://www.coinex.com/exchange/etc-usdt"
+    },
+    {
+        "symbol": "SHIBUSDT",
+        "ask_price": "0.0000126238",
+        "bid_price": "0.0000126199",
+        "volume": 3737525.0475340383,
+        "link": "https://www.coinex.com/exchange/shib-usdt"
+    },
+    {
+        "symbol": "GRTUSDT",
+        "ask_price": "0.148563",
+        "bid_price": "0.147170",
+        "volume": 151454.4486135954,
+        "link": "https://www.coinex.com/exchange/grt-usdt"
+    },
+    {
+        "symbol": "DOTUSDT",
+        "ask_price": "6.1011",
+        "bid_price": "6.0955",
+        "volume": 102873.023051853,
+        "link": "https://www.coinex.com/exchange/dot-usdt"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "ask_price": "0.082062",
+        "bid_price": "0.082023",
+        "volume": 1661784.9389485833,
+        "link": "https://www.coinex.com/exchange/doge-usdt"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "ask_price": "1.1913",
+        "bid_price": "1.1912",
+        "volume": 534846.7730825378,
+        "link": "https://www.coinex.com/exchange/matic-usdt"
+    },
+    {
+        "symbol": "USDCUSDT",
+        "ask_price": "0.9992",
+        "bid_price": "0.9990",
+        "volume": 101119.36967646326,
+        "link": "https://www.coinex.com/exchange/usdc-usdt"
+    },
+    {
+        "symbol": "TORNUSDT",
+        "ask_price": "12.3838",
+        "bid_price": "12.3404",
+        "volume": 118882.63699162309,
+        "link": "https://www.coinex.com/exchange/torn-usdt"
+    },
+    {
+        "symbol": "DYDXUSDT",
+        "ask_price": "2.4405",
+        "bid_price": "2.4370",
+        "volume": 172275.32276127118,
+        "link": "https://www.coinex.com/exchange/dydx-usdt"
+    },
+    {
+        "symbol": "LUNCUSDT",
+        "ask_price": "0.00016461",
+        "bid_price": "0.00016429",
+        "volume": 140696.7070335426,
+        "link": "https://www.coinex.com/exchange/lunc-usdt"
+    },
+    {
+        "symbol": "LTCUSDT",
+        "ask_price": "91.93",
+        "bid_price": "91.85",
+        "volume": 240414.03052106,
+        "link": "https://www.coinex.com/exchange/ltc-usdt"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "ask_price": "0.3711",
+        "bid_price": "0.3709",
+        "volume": 177007.26436992752,
+        "link": "https://www.coinex.com/exchange/xrp-usdt"
+    },
+    {
+        "symbol": "SOLUSDT",
+        "ask_price": "20.7014",
+        "bid_price": "20.6916",
+        "volume": 945148.6896189649,
+        "link": "https://www.coinex.com/exchange/sol-usdt"
+    },
+    {
+        "symbol": "FTMUSDT",
+        "ask_price": "0.428631",
+        "bid_price": "0.427393",
+        "volume": 510709.393355977,
+        "link": "https://www.coinex.com/exchange/ftm-usdt"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "ask_price": "21710.35",
+        "bid_price": "21710.34",
+        "volume": 11474462.49680536,
+        "link": "https://www.coinex.com/exchange/btc-usdt"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "ask_price": "1505.83",
+        "bid_price": "1505.82",
+        "volume": 1561398.0105260634,
+        "link": "https://www.coinex.com/exchange/eth-usdt"
+    },
+    {
+        "symbol": "ICPUSDT",
+        "ask_price": "5.3892",
+        "bid_price": "5.3812",
+        "volume": 111511.32768476993,
+        "link": "https://www.coinex.com/exchange/icp-usdt"
+    },
+    {
+        "symbol": "ROSEUSDT",
+        "ask_price": "0.073702",
+        "bid_price": "0.073627",
+        "volume": 133133.2362840247,
+        "link": "https://www.coinex.com/exchange/rose-usdt"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "ask_price": "297.52",
+        "bid_price": "297.40",
+        "volume": 937667.8922809839,
+        "link": "https://www.coinex.com/exchange/bnb-usdt"
+    },
+    {
+        "symbol": "AGIXUSDT",
+        "ask_price": "0.366549",
+        "bid_price": "0.365078",
+        "volume": 159944.73484040328,
+        "link": "https://www.coinex.com/exchange/agix-usdt"
+    },
+    {
+        "symbol": "BRGUSDT",
+        "ask_price": "0.00088556",
+        "bid_price": "0.00088349",
+        "volume": 147497.3988663135,
+        "link": "https://www.coinex.com/exchange/brg-usdt"
+    },
+    {
+        "symbol": "CETUSDT",
+        "ask_price": "0.038259",
+        "bid_price": "0.038220",
+        "volume": 179208.5544085069,
+        "link": "https://www.coinex.com/exchange/cet-usdt"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "ask_price": "0.3559",
+        "bid_price": "0.3557",
+        "volume": 179829.3495259676,
+        "link": "https://www.coinex.com/exchange/ada-usdt"
+    },
+    {
+        "symbol": "TRXUSDT",
+        "ask_price": "0.064254",
+        "bid_price": "0.064226",
+        "volume": 222270.2343383079,
+        "link": "https://www.coinex.com/exchange/trx-usdt"
+    },
+    {
+        "symbol": "FLOKIUSDT",
+        "ask_price": "0.0000216582",
+        "bid_price": "0.0000215932",
+        "volume": 196567.6112472943,
+        "link": "https://www.coinex.com/exchange/floki-usdt"
+    },
+    {
+        "symbol": "LDOUSDT",
+        "ask_price": "2.2935",
+        "bid_price": "2.2821",
+        "volume": 147138.39648996535,
+        "link": "https://www.coinex.com/exchange/ldo-usdt"
+    }
+]

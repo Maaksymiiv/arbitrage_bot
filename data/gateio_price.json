@@ -1,0 +1,4076 @@
+[
+    {
+        "symbol": "ROSNUSDT",
+        "ask_price": "0.12938",
+        "bid_price": "0.12872",
+        "volume": 157917.36331145,
+        "link": "https://www.gate.io/ru/trade/ROSN_USDT"
+    },
+    {
+        "symbol": "NVIRUSDT",
+        "ask_price": "0.044414",
+        "bid_price": "0.04436",
+        "volume": 338487.65520992,
+        "link": "https://www.gate.io/ru/trade/NVIR_USDT"
+    },
+    {
+        "symbol": "ELONUSDT",
+        "ask_price": "0.00000034196",
+        "bid_price": "0.00000034061",
+        "volume": 162698.60224063,
+        "link": "https://www.gate.io/ru/trade/ELON_USDT"
+    },
+    {
+        "symbol": "GHSTUSDT",
+        "ask_price": "1.5963",
+        "bid_price": "1.5813",
+        "volume": 45304.694648552,
+        "link": "https://www.gate.io/ru/trade/GHST_USDT"
+    },
+    {
+        "symbol": "VMTUSDT",
+        "ask_price": "0.008512",
+        "bid_price": "0.008489",
+        "volume": 124867.87830894,
+        "link": "https://www.gate.io/ru/trade/VMT_USDT"
+    },
+    {
+        "symbol": "SPAUSDT",
+        "ask_price": "0.005451",
+        "bid_price": "0.005435",
+        "volume": 524255.82746746,
+        "link": "https://www.gate.io/ru/trade/SPA_USDT"
+    },
+    {
+        "symbol": "SINUSDT",
+        "ask_price": "0.006873",
+        "bid_price": "0.006821",
+        "volume": 646147.5617961,
+        "link": "https://www.gate.io/ru/trade/SIN_USDT"
+    },
+    {
+        "symbol": "VGXUSDT",
+        "ask_price": "0.3786",
+        "bid_price": "0.37751",
+        "volume": 2925814.559254,
+        "link": "https://www.gate.io/ru/trade/VGX_USDT"
+    },
+    {
+        "symbol": "JAMUSDT",
+        "ask_price": "0.0028957",
+        "bid_price": "0.002885",
+        "volume": 246547.48973411,
+        "link": "https://www.gate.io/ru/trade/JAM_USDT"
+    },
+    {
+        "symbol": "STRONGUSDT",
+        "ask_price": "11.211",
+        "bid_price": "11.1946",
+        "volume": 520359.61671293,
+        "link": "https://www.gate.io/ru/trade/STRONG_USDT"
+    },
+    {
+        "symbol": "RBCUSDT",
+        "ask_price": "0.019164",
+        "bid_price": "0.018993",
+        "volume": 101217.04497483,
+        "link": "https://www.gate.io/ru/trade/RBC_USDT"
+    },
+    {
+        "symbol": "KFCUSDT",
+        "ask_price": "10.1806",
+        "bid_price": "10.1136",
+        "volume": 34028.344768887,
+        "link": "https://www.gate.io/ru/trade/KFC_USDT"
+    },
+    {
+        "symbol": "METISUSDT",
+        "ask_price": "29.448",
+        "bid_price": "29.341",
+        "volume": 606688.25878803,
+        "link": "https://www.gate.io/ru/trade/METIS_USDT"
+    },
+    {
+        "symbol": "MEANUSDT",
+        "ask_price": "0.02159",
+        "bid_price": "0.0215",
+        "volume": 33104.91404309,
+        "link": "https://www.gate.io/ru/trade/MEAN_USDT"
+    },
+    {
+        "symbol": "SMARTUSDT",
+        "ask_price": "7.8023",
+        "bid_price": "7.7228",
+        "volume": 355853.68301633,
+        "link": "https://www.gate.io/ru/trade/SMART_USDT"
+    },
+    {
+        "symbol": "DUSKUSDT",
+        "ask_price": "0.1784",
+        "bid_price": "0.1781",
+        "volume": 88152.420321602,
+        "link": "https://www.gate.io/ru/trade/DUSK_USDT"
+    },
+    {
+        "symbol": "WAVESUSDT",
+        "ask_price": "2.27",
+        "bid_price": "2.267",
+        "volume": 475177.96778693,
+        "link": "https://www.gate.io/ru/trade/WAVES_USDT"
+    },
+    {
+        "symbol": "WSIUSDT",
+        "ask_price": "0.0699",
+        "bid_price": "0.06984",
+        "volume": 98016.608267426,
+        "link": "https://www.gate.io/ru/trade/WSI_USDT"
+    },
+    {
+        "symbol": "LEMNUSDT",
+        "ask_price": "0.02358",
+        "bid_price": "0.02355",
+        "volume": 197132.04283045,
+        "link": "https://www.gate.io/ru/trade/LEMN_USDT"
+    },
+    {
+        "symbol": "GRTUSDT",
+        "ask_price": "0.137243",
+        "bid_price": "0.137048",
+        "volume": 395876.98636991,
+        "link": "https://www.gate.io/ru/trade/GRT_USDT"
+    },
+    {
+        "symbol": "BUYUSDT",
+        "ask_price": "0.020473",
+        "bid_price": "0.020425",
+        "volume": 68352.869049182,
+        "link": "https://www.gate.io/ru/trade/BUY_USDT"
+    },
+    {
+        "symbol": "LRCUSDT",
+        "ask_price": "0.31886",
+        "bid_price": "0.31846",
+        "volume": 72649.404289086,
+        "link": "https://www.gate.io/ru/trade/LRC_USDT"
+    },
+    {
+        "symbol": "GRNDUSDT",
+        "ask_price": "0.224482",
+        "bid_price": "0.224226",
+        "volume": 445054.45275556,
+        "link": "https://www.gate.io/ru/trade/GRND_USDT"
+    },
+    {
+        "symbol": "EJSUSDT",
+        "ask_price": "0.003483",
+        "bid_price": "0.003446",
+        "volume": 44061.026924079,
+        "link": "https://www.gate.io/ru/trade/EJS_USDT"
+    },
+    {
+        "symbol": "XETAUSDT",
+        "ask_price": "0.05078",
+        "bid_price": "0.050714",
+        "volume": 39925.819855324,
+        "link": "https://www.gate.io/ru/trade/XETA_USDT"
+    },
+    {
+        "symbol": "VPUSDT",
+        "ask_price": "6.9",
+        "bid_price": "6.846",
+        "volume": 141914.90372036,
+        "link": "https://www.gate.io/ru/trade/VP_USDT"
+    },
+    {
+        "symbol": "SKLUSDT",
+        "ask_price": "0.04053",
+        "bid_price": "0.040505",
+        "volume": 206709.93018377,
+        "link": "https://www.gate.io/ru/trade/SKL_USDT"
+    },
+    {
+        "symbol": "TAMAUSDT",
+        "ask_price": "0.014002",
+        "bid_price": "0.01378",
+        "volume": 144136.87848723,
+        "link": "https://www.gate.io/ru/trade/TAMA_USDT"
+    },
+    {
+        "symbol": "GAMEUSDT",
+        "ask_price": "0.0448",
+        "bid_price": "0.04478",
+        "volume": 37122.602359274,
+        "link": "https://www.gate.io/ru/trade/GAME_USDT"
+    },
+    {
+        "symbol": "RVNUSDT",
+        "ask_price": "0.02532",
+        "bid_price": "0.02524",
+        "volume": 39785.331069644,
+        "link": "https://www.gate.io/ru/trade/RVN_USDT"
+    },
+    {
+        "symbol": "MLTUSDT",
+        "ask_price": "0.11545",
+        "bid_price": "0.11514",
+        "volume": 111254.77078361,
+        "link": "https://www.gate.io/ru/trade/MLT_USDT"
+    },
+    {
+        "symbol": "SOULUSDT",
+        "ask_price": "0.22273",
+        "bid_price": "0.21997",
+        "volume": 42841.494675718,
+        "link": "https://www.gate.io/ru/trade/SOUL_USDT"
+    },
+    {
+        "symbol": "WBTUSDT",
+        "ask_price": "3.764",
+        "bid_price": "3.762",
+        "volume": 579245.71301001,
+        "link": "https://www.gate.io/ru/trade/WBT_USDT"
+    },
+    {
+        "symbol": "UFTUSDT",
+        "ask_price": "0.4935",
+        "bid_price": "0.4837",
+        "volume": 73192.184006907,
+        "link": "https://www.gate.io/ru/trade/UFT_USDT"
+    },
+    {
+        "symbol": "GRAILUSDT",
+        "ask_price": "1856.74",
+        "bid_price": "1840.48",
+        "volume": 313416.37432802,
+        "link": "https://www.gate.io/ru/trade/GRAIL_USDT"
+    },
+    {
+        "symbol": "PERCUSDT",
+        "ask_price": "0.1933",
+        "bid_price": "0.1913",
+        "volume": 41076.313072779,
+        "link": "https://www.gate.io/ru/trade/PERC_USDT"
+    },
+    {
+        "symbol": "DIOUSDT",
+        "ask_price": "0.00514",
+        "bid_price": "0.00511",
+        "volume": 130744.55121887,
+        "link": "https://www.gate.io/ru/trade/DIO_USDT"
+    },
+    {
+        "symbol": "LANDUSDT",
+        "ask_price": "1.6089",
+        "bid_price": "1.6025",
+        "volume": 38420.136691765,
+        "link": "https://www.gate.io/ru/trade/LAND_USDT"
+    },
+    {
+        "symbol": "FTMUSDT",
+        "ask_price": "0.39929",
+        "bid_price": "0.39896",
+        "volume": 742971.23740433,
+        "link": "https://www.gate.io/ru/trade/FTM_USDT"
+    },
+    {
+        "symbol": "PERPUSDT",
+        "ask_price": "1.00309",
+        "bid_price": "1.00103",
+        "volume": 175794.64460156,
+        "link": "https://www.gate.io/ru/trade/PERP_USDT"
+    },
+    {
+        "symbol": "WAXLUSDT",
+        "ask_price": "0.69523",
+        "bid_price": "0.69451",
+        "volume": 80458.590687342,
+        "link": "https://www.gate.io/ru/trade/WAXL_USDT"
+    },
+    {
+        "symbol": "BDXUSDT",
+        "ask_price": "0.041117",
+        "bid_price": "0.040616",
+        "volume": 781072.41123364,
+        "link": "https://www.gate.io/ru/trade/BDX_USDT"
+    },
+    {
+        "symbol": "STOREUSDT",
+        "ask_price": "0.037737",
+        "bid_price": "0.03771",
+        "volume": 392670.67426982,
+        "link": "https://www.gate.io/ru/trade/STORE_USDT"
+    },
+    {
+        "symbol": "SGBUSDT",
+        "ask_price": "0.008605",
+        "bid_price": "0.008593",
+        "volume": 103752.61535321,
+        "link": "https://www.gate.io/ru/trade/SGB_USDT"
+    },
+    {
+        "symbol": "EGLDUSDT",
+        "ask_price": "42.298",
+        "bid_price": "42.157",
+        "volume": 89808.910494554,
+        "link": "https://www.gate.io/ru/trade/EGLD_USDT"
+    },
+    {
+        "symbol": "MOTGUSDT",
+        "ask_price": "0.5236",
+        "bid_price": "0.5227",
+        "volume": 359677.13889916,
+        "link": "https://www.gate.io/ru/trade/MOTG_USDT"
+    },
+    {
+        "symbol": "EOSUSDT",
+        "ask_price": "1.175",
+        "bid_price": "1.1731",
+        "volume": 1557996.6572817,
+        "link": "https://www.gate.io/ru/trade/EOS_USDT"
+    },
+    {
+        "symbol": "HSFUSDT",
+        "ask_price": "0.6619",
+        "bid_price": "0.6599",
+        "volume": 56895.177667672,
+        "link": "https://www.gate.io/ru/trade/HSF_USDT"
+    },
+    {
+        "symbol": "DCUSDT",
+        "ask_price": "0.0013629",
+        "bid_price": "0.0013578",
+        "volume": 318145.21930502,
+        "link": "https://www.gate.io/ru/trade/DC_USDT"
+    },
+    {
+        "symbol": "LIFEUSDT",
+        "ask_price": "0.00048951",
+        "bid_price": "0.00048727",
+        "volume": 36238.873189293,
+        "link": "https://www.gate.io/ru/trade/LIFE_USDT"
+    },
+    {
+        "symbol": "STRMUSDT",
+        "ask_price": "0.01195",
+        "bid_price": "0.01187",
+        "volume": 35538.568043294,
+        "link": "https://www.gate.io/ru/trade/STRM_USDT"
+    },
+    {
+        "symbol": "VTHOUSDT",
+        "ask_price": "0.0014079",
+        "bid_price": "0.0014016",
+        "volume": 32052.107418688,
+        "link": "https://www.gate.io/ru/trade/VTHO_USDT"
+    },
+    {
+        "symbol": "AARTUSDT",
+        "ask_price": "0.002316",
+        "bid_price": "0.002293",
+        "volume": 33299.235271203,
+        "link": "https://www.gate.io/ru/trade/AART_USDT"
+    },
+    {
+        "symbol": "ILVUSDT",
+        "ask_price": "76.02",
+        "bid_price": "75.65",
+        "volume": 90345.927728968,
+        "link": "https://www.gate.io/ru/trade/ILV_USDT"
+    },
+    {
+        "symbol": "DAOUSDT",
+        "ask_price": "1.79988",
+        "bid_price": "1.79384",
+        "volume": 988677.22058757,
+        "link": "https://www.gate.io/ru/trade/DAO_USDT"
+    },
+    {
+        "symbol": "NEERUSDT",
+        "ask_price": "0.20811",
+        "bid_price": "0.20541",
+        "volume": 34837.668140813,
+        "link": "https://www.gate.io/ru/trade/NEER_USDT"
+    },
+    {
+        "symbol": "ATOZUSDT",
+        "ask_price": "0.1487",
+        "bid_price": "0.14606",
+        "volume": 31046.642013323,
+        "link": "https://www.gate.io/ru/trade/ATOZ_USDT"
+    },
+    {
+        "symbol": "LOVELYUSDT",
+        "ask_price": "0.000000081299",
+        "bid_price": "0.000000081296",
+        "volume": 30002.932374341,
+        "link": "https://www.gate.io/ru/trade/LOVELY_USDT"
+    },
+    {
+        "symbol": "CRYPTOFIUSDT",
+        "ask_price": "0.0000003073",
+        "bid_price": "0.0000003011",
+        "volume": 30101.994658058,
+        "link": "https://www.gate.io/ru/trade/CRYPTOFI_USDT"
+    },
+    {
+        "symbol": "TLOSUSDT",
+        "ask_price": "0.17134",
+        "bid_price": "0.171",
+        "volume": 272368.04578936,
+        "link": "https://www.gate.io/ru/trade/TLOS_USDT"
+    },
+    {
+        "symbol": "ATDUSDT",
+        "ask_price": "0.18",
+        "bid_price": "0.1795",
+        "volume": 120377.34413426,
+        "link": "https://www.gate.io/ru/trade/ATD_USDT"
+    },
+    {
+        "symbol": "BCHUSDT",
+        "ask_price": "122.28",
+        "bid_price": "122.2",
+        "volume": 199893.67641569,
+        "link": "https://www.gate.io/ru/trade/BCH_USDT"
+    },
+    {
+        "symbol": "FIOUSDT",
+        "ask_price": "0.03503",
+        "bid_price": "0.03493",
+        "volume": 67056.401520275,
+        "link": "https://www.gate.io/ru/trade/FIO_USDT"
+    },
+    {
+        "symbol": "MKRUSDT",
+        "ask_price": "909.47",
+        "bid_price": "906.67",
+        "volume": 76204.340821546,
+        "link": "https://www.gate.io/ru/trade/MKR_USDT"
+    },
+    {
+        "symbol": "GITCOINUSDT",
+        "ask_price": "1.7428",
+        "bid_price": "1.7357",
+        "volume": 31113.829432411,
+        "link": "https://www.gate.io/ru/trade/GITCOIN_USDT"
+    },
+    {
+        "symbol": "BDPUSDT",
+        "ask_price": "0.29171",
+        "bid_price": "0.29036",
+        "volume": 161562.37971123,
+        "link": "https://www.gate.io/ru/trade/BDP_USDT"
+    },
+    {
+        "symbol": "ARTEMUSDT",
+        "ask_price": "0.001651",
+        "bid_price": "0.001648",
+        "volume": 48970.654539467,
+        "link": "https://www.gate.io/ru/trade/ARTEM_USDT"
+    },
+    {
+        "symbol": "ETCUSDT",
+        "ask_price": "19.274",
+        "bid_price": "19.247",
+        "volume": 382036.93432109,
+        "link": "https://www.gate.io/ru/trade/ETC_USDT"
+    },
+    {
+        "symbol": "USDTRY",
+        "ask_price": "19.47",
+        "bid_price": "19.35",
+        "volume": 31253.978583334,
+        "link": "https://www.gate.io/ru/trade/US_DTRY"
+    },
+    {
+        "symbol": "TRXUSDT",
+        "ask_price": "0.06623",
+        "bid_price": "0.06622",
+        "volume": 1438229.701868,
+        "link": "https://www.gate.io/ru/trade/TRX_USDT"
+    },
+    {
+        "symbol": "POKTUSDT",
+        "ask_price": "0.0594",
+        "bid_price": "0.0593",
+        "volume": 138868.1512227,
+        "link": "https://www.gate.io/ru/trade/POKT_USDT"
+    },
+    {
+        "symbol": "FITFIUSDT",
+        "ask_price": "0.0183",
+        "bid_price": "0.01828",
+        "volume": 732109.11668356,
+        "link": "https://www.gate.io/ru/trade/FITFI_USDT"
+    },
+    {
+        "symbol": "YFDAIUSDT",
+        "ask_price": "401.325",
+        "bid_price": "394.345",
+        "volume": 1532123.292771,
+        "link": "https://www.gate.io/ru/trade/YFDAI_USDT"
+    },
+    {
+        "symbol": "MAGICUSDT",
+        "ask_price": "1.33361",
+        "bid_price": "1.33209",
+        "volume": 7137487.5541004,
+        "link": "https://www.gate.io/ru/trade/MAGIC_USDT"
+    },
+    {
+        "symbol": "TKOUSDT",
+        "ask_price": "0.32145",
+        "bid_price": "0.31997",
+        "volume": 39198.107673343,
+        "link": "https://www.gate.io/ru/trade/TKO_USDT"
+    },
+    {
+        "symbol": "GNSUSDT",
+        "ask_price": "7.7103",
+        "bid_price": "7.6302",
+        "volume": 7055859.5686572,
+        "link": "https://www.gate.io/ru/trade/GNS_USDT"
+    },
+    {
+        "symbol": "PBRUSDT",
+        "ask_price": "0.09595",
+        "bid_price": "0.0955",
+        "volume": 188272.53665781,
+        "link": "https://www.gate.io/ru/trade/PBR_USDT"
+    },
+    {
+        "symbol": "SDNUSDT",
+        "ask_price": "0.39001",
+        "bid_price": "0.38802",
+        "volume": 49687.008227514,
+        "link": "https://www.gate.io/ru/trade/SDN_USDT"
+    },
+    {
+        "symbol": "PROMUSDT",
+        "ask_price": "4.5359",
+        "bid_price": "4.534",
+        "volume": 144916.45893288,
+        "link": "https://www.gate.io/ru/trade/PROM_USDT"
+    },
+    {
+        "symbol": "FDTUSDT",
+        "ask_price": "0.06159",
+        "bid_price": "0.06031",
+        "volume": 114286.59521922,
+        "link": "https://www.gate.io/ru/trade/FDT_USDT"
+    },
+    {
+        "symbol": "HOPRUSDT",
+        "ask_price": "0.07188",
+        "bid_price": "0.07173",
+        "volume": 60053.48594812,
+        "link": "https://www.gate.io/ru/trade/HOPR_USDT"
+    },
+    {
+        "symbol": "XTAGUSDT",
+        "ask_price": "0.03723",
+        "bid_price": "0.03691",
+        "volume": 380874.82512104,
+        "link": "https://www.gate.io/ru/trade/XTAG_USDT"
+    },
+    {
+        "symbol": "HECHUSDT",
+        "ask_price": "0.05136",
+        "bid_price": "0.05098",
+        "volume": 43123.290629641,
+        "link": "https://www.gate.io/ru/trade/HECH_USDT"
+    },
+    {
+        "symbol": "VOXELUSDT",
+        "ask_price": "0.27492",
+        "bid_price": "0.27396",
+        "volume": 1386943.9366846,
+        "link": "https://www.gate.io/ru/trade/VOXEL_USDT"
+    },
+    {
+        "symbol": "OCEANUSDT",
+        "ask_price": "0.3777",
+        "bid_price": "0.37746",
+        "volume": 625073.24387227,
+        "link": "https://www.gate.io/ru/trade/OCEAN_USDT"
+    },
+    {
+        "symbol": "KNIGHTUSDT",
+        "ask_price": "0.0088",
+        "bid_price": "0.00866",
+        "volume": 55808.381856233,
+        "link": "https://www.gate.io/ru/trade/KNIGHT_USDT"
+    },
+    {
+        "symbol": "METALUSDT",
+        "ask_price": "0.0565",
+        "bid_price": "0.0564",
+        "volume": 61841.1839826,
+        "link": "https://www.gate.io/ru/trade/METAL_USDT"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "ask_price": "0.32618",
+        "bid_price": "0.32589",
+        "volume": 430714.49490348,
+        "link": "https://www.gate.io/ru/trade/ADA_USDT"
+    },
+    {
+        "symbol": "SWASHUSDT",
+        "ask_price": "0.02058",
+        "bid_price": "0.02051",
+        "volume": 92505.755520104,
+        "link": "https://www.gate.io/ru/trade/SWASH_USDT"
+    },
+    {
+        "symbol": "NEXOUSDT",
+        "ask_price": "0.6459",
+        "bid_price": "0.6436",
+        "volume": 31752.757262036,
+        "link": "https://www.gate.io/ru/trade/NEXO_USDT"
+    },
+    {
+        "symbol": "UNDEADUSDT",
+        "ask_price": "0.1978",
+        "bid_price": "0.1976",
+        "volume": 276578.16345696,
+        "link": "https://www.gate.io/ru/trade/UNDEAD_USDT"
+    },
+    {
+        "symbol": "OOEUSDT",
+        "ask_price": "0.02396",
+        "bid_price": "0.023647",
+        "volume": 30839.656490695,
+        "link": "https://www.gate.io/ru/trade/OOE_USDT"
+    },
+    {
+        "symbol": "DOPUSDT",
+        "ask_price": "0.3291",
+        "bid_price": "0.3282",
+        "volume": 34011.567354143,
+        "link": "https://www.gate.io/ru/trade/DOP_USDT"
+    },
+    {
+        "symbol": "FTTUSDT",
+        "ask_price": "1.2664",
+        "bid_price": "1.2657",
+        "volume": 557684.70386571,
+        "link": "https://www.gate.io/ru/trade/FTT_USDT"
+    },
+    {
+        "symbol": "JASMYUSDT",
+        "ask_price": "0.0052509",
+        "bid_price": "0.0052463",
+        "volume": 1454961.129048,
+        "link": "https://www.gate.io/ru/trade/JASMY_USDT"
+    },
+    {
+        "symbol": "NBTUSDT",
+        "ask_price": "0.0037628",
+        "bid_price": "0.0037625",
+        "volume": 46535.583136532,
+        "link": "https://www.gate.io/ru/trade/NBT_USDT"
+    },
+    {
+        "symbol": "VEMPUSDT",
+        "ask_price": "0.01526",
+        "bid_price": "0.01521",
+        "volume": 119192.15613949,
+        "link": "https://www.gate.io/ru/trade/VEMP_USDT"
+    },
+    {
+        "symbol": "VXTUSDT",
+        "ask_price": "0.019128",
+        "bid_price": "0.01863",
+        "volume": 135541.28847991,
+        "link": "https://www.gate.io/ru/trade/VXT_USDT"
+    },
+    {
+        "symbol": "FIROUSDT",
+        "ask_price": "2.138",
+        "bid_price": "2.1212",
+        "volume": 33867.367222478,
+        "link": "https://www.gate.io/ru/trade/FIRO_USDT"
+    },
+    {
+        "symbol": "ESGUSDT",
+        "ask_price": "0.86247",
+        "bid_price": "0.85819",
+        "volume": 74053.164662593,
+        "link": "https://www.gate.io/ru/trade/ESG_USDT"
+    },
+    {
+        "symbol": "OPULUSDT",
+        "ask_price": "0.148565",
+        "bid_price": "0.147869",
+        "volume": 318045.83152021,
+        "link": "https://www.gate.io/ru/trade/OPUL_USDT"
+    },
+    {
+        "symbol": "XPRESSUSDT",
+        "ask_price": "0.0853",
+        "bid_price": "0.0849",
+        "volume": 41797.580980244,
+        "link": "https://www.gate.io/ru/trade/XPRESS_USDT"
+    },
+    {
+        "symbol": "LDOUSDT",
+        "ask_price": "2.5495",
+        "bid_price": "2.549",
+        "volume": 453720.20958421,
+        "link": "https://www.gate.io/ru/trade/LDO_USDT"
+    },
+    {
+        "symbol": "RIFUSDT",
+        "ask_price": "0.138462",
+        "bid_price": "0.138084",
+        "volume": 692333.69099242,
+        "link": "https://www.gate.io/ru/trade/RIF_USDT"
+    },
+    {
+        "symbol": "DFNDUSDT",
+        "ask_price": "0.0004384",
+        "bid_price": "0.0004341",
+        "volume": 304730.53893559,
+        "link": "https://www.gate.io/ru/trade/DFND_USDT"
+    },
+    {
+        "symbol": "DYPUSDT",
+        "ask_price": "0.14712",
+        "bid_price": "0.14639",
+        "volume": 77214.714239556,
+        "link": "https://www.gate.io/ru/trade/DYP_USDT"
+    },
+    {
+        "symbol": "MDAOUSDT",
+        "ask_price": "0.30731",
+        "bid_price": "0.3034",
+        "volume": 532355.11432708,
+        "link": "https://www.gate.io/ru/trade/MDAO_USDT"
+    },
+    {
+        "symbol": "XYOUSDT",
+        "ask_price": "0.005952",
+        "bid_price": "0.005951",
+        "volume": 294157.06445957,
+        "link": "https://www.gate.io/ru/trade/XYO_USDT"
+    },
+    {
+        "symbol": "ARVUSDT",
+        "ask_price": "0.00007842",
+        "bid_price": "0.00007838",
+        "volume": 70035.283078333,
+        "link": "https://www.gate.io/ru/trade/ARV_USDT"
+    },
+    {
+        "symbol": "UNIUSDT",
+        "ask_price": "6.389",
+        "bid_price": "6.3804",
+        "volume": 448910.06436302,
+        "link": "https://www.gate.io/ru/trade/UNI_USDT"
+    },
+    {
+        "symbol": "APTUSDT",
+        "ask_price": "10.9945",
+        "bid_price": "10.9854",
+        "volume": 3186830.2148628,
+        "link": "https://www.gate.io/ru/trade/APT_USDT"
+    },
+    {
+        "symbol": "TRUUSDT",
+        "ask_price": "0.129642",
+        "bid_price": "0.129173",
+        "volume": 1159763.8592578,
+        "link": "https://www.gate.io/ru/trade/TRU_USDT"
+    },
+    {
+        "symbol": "DCRNUSDT",
+        "ask_price": "0.3589",
+        "bid_price": "0.3528",
+        "volume": 49606.014732185,
+        "link": "https://www.gate.io/ru/trade/DCRN_USDT"
+    },
+    {
+        "symbol": "SANDUSDT",
+        "ask_price": "0.6047",
+        "bid_price": "0.6041",
+        "volume": 676981.70088914,
+        "link": "https://www.gate.io/ru/trade/SAND_USDT"
+    },
+    {
+        "symbol": "WAMUSDT",
+        "ask_price": "0.005352",
+        "bid_price": "0.005286",
+        "volume": 39647.755518553,
+        "link": "https://www.gate.io/ru/trade/WAM_USDT"
+    },
+    {
+        "symbol": "SYNUSDT",
+        "ask_price": "1.0617",
+        "bid_price": "1.0599",
+        "volume": 3544752.3342775,
+        "link": "https://www.gate.io/ru/trade/SYN_USDT"
+    },
+    {
+        "symbol": "FDCUSDT",
+        "ask_price": "0.00000025405",
+        "bid_price": "0.00000025351",
+        "volume": 35637.497529952,
+        "link": "https://www.gate.io/ru/trade/FDC_USDT"
+    },
+    {
+        "symbol": "CTSIUSDT",
+        "ask_price": "0.14",
+        "bid_price": "0.1396",
+        "volume": 34273.733418767,
+        "link": "https://www.gate.io/ru/trade/CTSI_USDT"
+    },
+    {
+        "symbol": "SIDUSUSDT",
+        "ask_price": "0.0023056",
+        "bid_price": "0.0023033",
+        "volume": 2012009.7183607,
+        "link": "https://www.gate.io/ru/trade/SIDUS_USDT"
+    },
+    {
+        "symbol": "HNTUSDT",
+        "ask_price": "2.3199",
+        "bid_price": "2.3171",
+        "volume": 133830.4634022,
+        "link": "https://www.gate.io/ru/trade/HNT_USDT"
+    },
+    {
+        "symbol": "ORBUSDT",
+        "ask_price": "0.13725",
+        "bid_price": "0.13672",
+        "volume": 133468.40252385,
+        "link": "https://www.gate.io/ru/trade/ORB_USDT"
+    },
+    {
+        "symbol": "LITUSDT",
+        "ask_price": "1.056",
+        "bid_price": "1.05193",
+        "volume": 45853.73370444,
+        "link": "https://www.gate.io/ru/trade/LIT_USDT"
+    },
+    {
+        "symbol": "ABBCUSDT",
+        "ask_price": "0.072573",
+        "bid_price": "0.072013",
+        "volume": 95528.336701449,
+        "link": "https://www.gate.io/ru/trade/ABBC_USDT"
+    },
+    {
+        "symbol": "CWEBUSDT",
+        "ask_price": "0.016124",
+        "bid_price": "0.016021",
+        "volume": 52963.150106201,
+        "link": "https://www.gate.io/ru/trade/CWEB_USDT"
+    },
+    {
+        "symbol": "CEEKUSDT",
+        "ask_price": "0.09463",
+        "bid_price": "0.09452",
+        "volume": 290100.28992714,
+        "link": "https://www.gate.io/ru/trade/CEEK_USDT"
+    },
+    {
+        "symbol": "BEPROUSDT",
+        "ask_price": "0.0015399",
+        "bid_price": "0.0015244",
+        "volume": 34674.919539994,
+        "link": "https://www.gate.io/ru/trade/BEPRO_USDT"
+    },
+    {
+        "symbol": "MGGUSDT",
+        "ask_price": "0.00388",
+        "bid_price": "0.00376",
+        "volume": 60219.467520276,
+        "link": "https://www.gate.io/ru/trade/MGG_USDT"
+    },
+    {
+        "symbol": "SLKUSDT",
+        "ask_price": "0.0117",
+        "bid_price": "0.01163",
+        "volume": 405477.6208404,
+        "link": "https://www.gate.io/ru/trade/SLK_USDT"
+    },
+    {
+        "symbol": "ACHUSDT",
+        "ask_price": "0.029895",
+        "bid_price": "0.029866",
+        "volume": 655651.31989104,
+        "link": "https://www.gate.io/ru/trade/ACH_USDT"
+    },
+    {
+        "symbol": "WNCGUSDT",
+        "ask_price": "0.14192",
+        "bid_price": "0.14189",
+        "volume": 45429.804040145,
+        "link": "https://www.gate.io/ru/trade/WNCG_USDT"
+    },
+    {
+        "symbol": "FRMUSDT",
+        "ask_price": "0.05062",
+        "bid_price": "0.04941",
+        "volume": 337742.40808022,
+        "link": "https://www.gate.io/ru/trade/FRM_USDT"
+    },
+    {
+        "symbol": "KLOUSDT",
+        "ask_price": "0.009286",
+        "bid_price": "0.00925",
+        "volume": 75116.062220021,
+        "link": "https://www.gate.io/ru/trade/KLO_USDT"
+    },
+    {
+        "symbol": "CVPUSDT",
+        "ask_price": "0.54668",
+        "bid_price": "0.54422",
+        "volume": 1080435.5729818,
+        "link": "https://www.gate.io/ru/trade/CVP_USDT"
+    },
+    {
+        "symbol": "AZYUSDT",
+        "ask_price": "0.016437",
+        "bid_price": "0.016428",
+        "volume": 116583.02361068,
+        "link": "https://www.gate.io/ru/trade/AZY_USDT"
+    },
+    {
+        "symbol": "REMUSDT",
+        "ask_price": "0.00013935",
+        "bid_price": "0.00013868",
+        "volume": 42683.751838217,
+        "link": "https://www.gate.io/ru/trade/REM_USDT"
+    },
+    {
+        "symbol": "HNSUSDT",
+        "ask_price": "0.036712",
+        "bid_price": "0.036698",
+        "volume": 33516.186197812,
+        "link": "https://www.gate.io/ru/trade/HNS_USDT"
+    },
+    {
+        "symbol": "TVKUSDT",
+        "ask_price": "0.044084",
+        "bid_price": "0.043791",
+        "volume": 32218.285527469,
+        "link": "https://www.gate.io/ru/trade/TVK_USDT"
+    },
+    {
+        "symbol": "RLYUSDT",
+        "ask_price": "0.019527",
+        "bid_price": "0.019446",
+        "volume": 134071.92173122,
+        "link": "https://www.gate.io/ru/trade/RLY_USDT"
+    },
+    {
+        "symbol": "HAIUSDT",
+        "ask_price": "0.03211",
+        "bid_price": "0.03203",
+        "volume": 1631867.7447968,
+        "link": "https://www.gate.io/ru/trade/HAI_USDT"
+    },
+    {
+        "symbol": "HIGHUSDT",
+        "ask_price": "2.2417",
+        "bid_price": "2.2372",
+        "volume": 1524233.1760652,
+        "link": "https://www.gate.io/ru/trade/HIGH_USDT"
+    },
+    {
+        "symbol": "EGAMEUSDT",
+        "ask_price": "0.000091011",
+        "bid_price": "0.0000908",
+        "volume": 55276.121172631,
+        "link": "https://www.gate.io/ru/trade/EGAME_USDT"
+    },
+    {
+        "symbol": "HOTUSDT",
+        "ask_price": "0.001757",
+        "bid_price": "0.001751",
+        "volume": 89350.715754578,
+        "link": "https://www.gate.io/ru/trade/HOT_USDT"
+    },
+    {
+        "symbol": "PHAUSDT",
+        "ask_price": "0.1653",
+        "bid_price": "0.1646",
+        "volume": 36817.764408004,
+        "link": "https://www.gate.io/ru/trade/PHA_USDT"
+    },
+    {
+        "symbol": "BCDUSDT",
+        "ask_price": "0.20598",
+        "bid_price": "0.20501",
+        "volume": 46113.179105286,
+        "link": "https://www.gate.io/ru/trade/BCD_USDT"
+    },
+    {
+        "symbol": "DKSUSDT",
+        "ask_price": "0.001878",
+        "bid_price": "0.001848",
+        "volume": 43292.6341621,
+        "link": "https://www.gate.io/ru/trade/DKS_USDT"
+    },
+    {
+        "symbol": "HFTUSDT",
+        "ask_price": "0.62441",
+        "bid_price": "0.62398",
+        "volume": 4954792.407548,
+        "link": "https://www.gate.io/ru/trade/HFT_USDT"
+    },
+    {
+        "symbol": "POLIUSDT",
+        "ask_price": "0.001229",
+        "bid_price": "0.001216",
+        "volume": 141967.64756869,
+        "link": "https://www.gate.io/ru/trade/POLI_USDT"
+    },
+    {
+        "symbol": "FETUSDT",
+        "ask_price": "0.39429",
+        "bid_price": "0.39376",
+        "volume": 875873.06886259,
+        "link": "https://www.gate.io/ru/trade/FET_USDT"
+    },
+    {
+        "symbol": "HAOUSDT",
+        "ask_price": "0.007224",
+        "bid_price": "0.00702",
+        "volume": 135109.63330205,
+        "link": "https://www.gate.io/ru/trade/HAO_USDT"
+    },
+    {
+        "symbol": "FLYUSDT",
+        "ask_price": "0.0016292",
+        "bid_price": "0.0016092",
+        "volume": 51022.041718227,
+        "link": "https://www.gate.io/ru/trade/FLY_USDT"
+    },
+    {
+        "symbol": "HTUSDT",
+        "ask_price": "4.9208",
+        "bid_price": "4.9166",
+        "volume": 293254.2932209,
+        "link": "https://www.gate.io/ru/trade/HT_USDT"
+    },
+    {
+        "symbol": "AGLDUSDT",
+        "ask_price": "0.4325",
+        "bid_price": "0.4311",
+        "volume": 106497.01039126,
+        "link": "https://www.gate.io/ru/trade/AGLD_USDT"
+    },
+    {
+        "symbol": "ROOMUSDT",
+        "ask_price": "0.074773",
+        "bid_price": "0.073128",
+        "volume": 42933.86325615,
+        "link": "https://www.gate.io/ru/trade/ROOM_USDT"
+    },
+    {
+        "symbol": "BTSUSDT",
+        "ask_price": "0.011185",
+        "bid_price": "0.01114",
+        "volume": 34104.553865252,
+        "link": "https://www.gate.io/ru/trade/BTS_USDT"
+    },
+    {
+        "symbol": "ROSEUSDT",
+        "ask_price": "0.05557",
+        "bid_price": "0.055505",
+        "volume": 162422.2253372,
+        "link": "https://www.gate.io/ru/trade/ROSE_USDT"
+    },
+    {
+        "symbol": "KEYUSDT",
+        "ask_price": "0.0098373",
+        "bid_price": "0.0098074",
+        "volume": 2310086.8672066,
+        "link": "https://www.gate.io/ru/trade/KEY_USDT"
+    },
+    {
+        "symbol": "STXUSDT",
+        "ask_price": "0.67105",
+        "bid_price": "0.67048",
+        "volume": 1850289.7381548,
+        "link": "https://www.gate.io/ru/trade/STX_USDT"
+    },
+    {
+        "symbol": "FRAUSDT",
+        "ask_price": "0.0025914",
+        "bid_price": "0.0025817",
+        "volume": 41464.251850208,
+        "link": "https://www.gate.io/ru/trade/FRA_USDT"
+    },
+    {
+        "symbol": "PAWUSDT",
+        "ask_price": "0.0000000792466",
+        "bid_price": "0.0000000790001",
+        "volume": 4603525.448609,
+        "link": "https://www.gate.io/ru/trade/PAW_USDT"
+    },
+    {
+        "symbol": "WZRDUSDT",
+        "ask_price": "0.00387",
+        "bid_price": "0.00383",
+        "volume": 43860.296373898,
+        "link": "https://www.gate.io/ru/trade/WZRD_USDT"
+    },
+    {
+        "symbol": "PIASUSDT",
+        "ask_price": "0.03166",
+        "bid_price": "0.03153",
+        "volume": 305156.26005871,
+        "link": "https://www.gate.io/ru/trade/PIAS_USDT"
+    },
+    {
+        "symbol": "SUSHIUSDT",
+        "ask_price": "1.1815",
+        "bid_price": "1.1796",
+        "volume": 142138.7092227,
+        "link": "https://www.gate.io/ru/trade/SUSHI_USDT"
+    },
+    {
+        "symbol": "ATLASUSDT",
+        "ask_price": "0.0030802",
+        "bid_price": "0.0030714",
+        "volume": 101746.15872874,
+        "link": "https://www.gate.io/ru/trade/ATLAS_USDT"
+    },
+    {
+        "symbol": "SQUADUSDT",
+        "ask_price": "0.034086",
+        "bid_price": "0.033174",
+        "volume": 798760.69817935,
+        "link": "https://www.gate.io/ru/trade/SQUAD_USDT"
+    },
+    {
+        "symbol": "FLMUSDT",
+        "ask_price": "0.094162",
+        "bid_price": "0.093896",
+        "volume": 111927.13547793,
+        "link": "https://www.gate.io/ru/trade/FLM_USDT"
+    },
+    {
+        "symbol": "KSMUSDT",
+        "ask_price": "33.397",
+        "bid_price": "33.295",
+        "volume": 33455.987182229,
+        "link": "https://www.gate.io/ru/trade/KSM_USDT"
+    },
+    {
+        "symbol": "BSVUSDT",
+        "ask_price": "37.673",
+        "bid_price": "37.523",
+        "volume": 85046.399476878,
+        "link": "https://www.gate.io/ru/trade/BSV_USDT"
+    },
+    {
+        "symbol": "FIUUSDT",
+        "ask_price": "0.003549",
+        "bid_price": "0.003525",
+        "volume": 54679.904109586,
+        "link": "https://www.gate.io/ru/trade/FIU_USDT"
+    },
+    {
+        "symbol": "PRMXUSDT",
+        "ask_price": "0.0068028",
+        "bid_price": "0.0067046",
+        "volume": 87495.935770304,
+        "link": "https://www.gate.io/ru/trade/PRMX_USDT"
+    },
+    {
+        "symbol": "FIDAUSDT",
+        "ask_price": "0.41346",
+        "bid_price": "0.4122",
+        "volume": 39235.144895535,
+        "link": "https://www.gate.io/ru/trade/FIDA_USDT"
+    },
+    {
+        "symbol": "XDCUSDT",
+        "ask_price": "0.029867",
+        "bid_price": "0.029861",
+        "volume": 182522.13706951,
+        "link": "https://www.gate.io/ru/trade/XDC_USDT"
+    },
+    {
+        "symbol": "ONGUSDT",
+        "ask_price": "0.2887",
+        "bid_price": "0.2874",
+        "volume": 30941.503771637,
+        "link": "https://www.gate.io/ru/trade/ONG_USDT"
+    },
+    {
+        "symbol": "USDTTRY",
+        "ask_price": "19.45",
+        "bid_price": "19.36",
+        "volume": 1357027.3675245,
+        "link": "https://www.gate.io/ru/trade/USD_TTRY"
+    },
+    {
+        "symbol": "JSTUSDT",
+        "ask_price": "0.02655",
+        "bid_price": "0.02653",
+        "volume": 422586.96420374,
+        "link": "https://www.gate.io/ru/trade/JST_USDT"
+    },
+    {
+        "symbol": "DHXUSDT",
+        "ask_price": "4.2401",
+        "bid_price": "4.2252",
+        "volume": 706004.42150477,
+        "link": "https://www.gate.io/ru/trade/DHX_USDT"
+    },
+    {
+        "symbol": "COMPUSDT",
+        "ask_price": "45.134",
+        "bid_price": "45.048",
+        "volume": 39104.597047176,
+        "link": "https://www.gate.io/ru/trade/COMP_USDT"
+    },
+    {
+        "symbol": "ANKRUSDT",
+        "ask_price": "0.03217",
+        "bid_price": "0.03211",
+        "volume": 82952.674723066,
+        "link": "https://www.gate.io/ru/trade/ANKR_USDT"
+    },
+    {
+        "symbol": "FCONUSDT",
+        "ask_price": "0.0001351",
+        "bid_price": "0.0001339",
+        "volume": 50955.701274616,
+        "link": "https://www.gate.io/ru/trade/FCON_USDT"
+    },
+    {
+        "symbol": "C98USDT",
+        "ask_price": "0.23738",
+        "bid_price": "0.23695",
+        "volume": 31554.580842334,
+        "link": "https://www.gate.io/ru/trade/C98_USDT"
+    },
+    {
+        "symbol": "SNXUSDT",
+        "ask_price": "2.9294",
+        "bid_price": "2.9259",
+        "volume": 230570.25367431,
+        "link": "https://www.gate.io/ru/trade/SNX_USDT"
+    },
+    {
+        "symbol": "HADESUSDT",
+        "ask_price": "1.0414",
+        "bid_price": "1.0275",
+        "volume": 89365.606226761,
+        "link": "https://www.gate.io/ru/trade/HADES_USDT"
+    },
+    {
+        "symbol": "KIFUSDT",
+        "ask_price": "44",
+        "bid_price": "42.3921",
+        "volume": 134331.733921,
+        "link": "https://www.gate.io/ru/trade/KIF_USDT"
+    },
+    {
+        "symbol": "RAZEUSDT",
+        "ask_price": "0.010012",
+        "bid_price": "0.009965",
+        "volume": 31717.825866615,
+        "link": "https://www.gate.io/ru/trade/RAZE_USDT"
+    },
+    {
+        "symbol": "XEMUSDT",
+        "ask_price": "0.03924",
+        "bid_price": "0.039093",
+        "volume": 73952.158379352,
+        "link": "https://www.gate.io/ru/trade/XEM_USDT"
+    },
+    {
+        "symbol": "FNZUSDT",
+        "ask_price": "0.006164",
+        "bid_price": "0.00611",
+        "volume": 256710.92005642,
+        "link": "https://www.gate.io/ru/trade/FNZ_USDT"
+    },
+    {
+        "symbol": "BBCUSDT",
+        "ask_price": "0.01652",
+        "bid_price": "0.01639",
+        "volume": 692600.70395616,
+        "link": "https://www.gate.io/ru/trade/BBC_USDT"
+    },
+    {
+        "symbol": "PUMLXUSDT",
+        "ask_price": "0.018895",
+        "bid_price": "0.01833",
+        "volume": 30262.19632171,
+        "link": "https://www.gate.io/ru/trade/PUMLX_USDT"
+    },
+    {
+        "symbol": "BFCUSDT",
+        "ask_price": "0.06929",
+        "bid_price": "0.06885",
+        "volume": 32985.718946319,
+        "link": "https://www.gate.io/ru/trade/BFC_USDT"
+    },
+    {
+        "symbol": "BANDUSDT",
+        "ask_price": "1.6679",
+        "bid_price": "1.6634",
+        "volume": 61898.278040017,
+        "link": "https://www.gate.io/ru/trade/BAND_USDT"
+    },
+    {
+        "symbol": "VOLTUSDT",
+        "ask_price": "0.0000014081",
+        "bid_price": "0.0000013992",
+        "volume": 3216966.5811344,
+        "link": "https://www.gate.io/ru/trade/VOLT_USDT"
+    },
+    {
+        "symbol": "RNDXUSDT",
+        "ask_price": "0.000266",
+        "bid_price": "0.000265",
+        "volume": 185251.87555894,
+        "link": "https://www.gate.io/ru/trade/RNDX_USDT"
+    },
+    {
+        "symbol": "NXDUSDT",
+        "ask_price": "0.000832",
+        "bid_price": "0.000831",
+        "volume": 49318.100597838,
+        "link": "https://www.gate.io/ru/trade/NXD_USDT"
+    },
+    {
+        "symbol": "XMRUSDT",
+        "ask_price": "150.69",
+        "bid_price": "150.55",
+        "volume": 907913.06959474,
+        "link": "https://www.gate.io/ru/trade/XMR_USDT"
+    },
+    {
+        "symbol": "CELTUSDT",
+        "ask_price": "0.001235",
+        "bid_price": "0.001205",
+        "volume": 50242.868649073,
+        "link": "https://www.gate.io/ru/trade/CELT_USDT"
+    },
+    {
+        "symbol": "WWYUSDT",
+        "ask_price": "0.006228",
+        "bid_price": "0.006149",
+        "volume": 136828.69022517,
+        "link": "https://www.gate.io/ru/trade/WWY_USDT"
+    },
+    {
+        "symbol": "HELLOUSDT",
+        "ask_price": "0.035645",
+        "bid_price": "0.035511",
+        "volume": 177636.66049654,
+        "link": "https://www.gate.io/ru/trade/HELLO_USDT"
+    },
+    {
+        "symbol": "HIFIUSDT",
+        "ask_price": "0.43138",
+        "bid_price": "0.42886",
+        "volume": 224827.66727528,
+        "link": "https://www.gate.io/ru/trade/HIFI_USDT"
+    },
+    {
+        "symbol": "DESOUSDT",
+        "ask_price": "9.1034",
+        "bid_price": "9.0122",
+        "volume": 78115.990940974,
+        "link": "https://www.gate.io/ru/trade/DESO_USDT"
+    },
+    {
+        "symbol": "MONSUSDT",
+        "ask_price": "0.015467",
+        "bid_price": "0.015366",
+        "volume": 32285.428167973,
+        "link": "https://www.gate.io/ru/trade/MONS_USDT"
+    },
+    {
+        "symbol": "SUDOUSDT",
+        "ask_price": "1.4302",
+        "bid_price": "1.3863",
+        "volume": 39790.181275359,
+        "link": "https://www.gate.io/ru/trade/SUDO_USDT"
+    },
+    {
+        "symbol": "CHNGUSDT",
+        "ask_price": "0.07554",
+        "bid_price": "0.07548",
+        "volume": 30236.587504546,
+        "link": "https://www.gate.io/ru/trade/CHNG_USDT"
+    },
+    {
+        "symbol": "VRAUSDT",
+        "ask_price": "0.0060628",
+        "bid_price": "0.0060539",
+        "volume": 1486007.0214346,
+        "link": "https://www.gate.io/ru/trade/VRA_USDT"
+    },
+    {
+        "symbol": "BELUSDT",
+        "ask_price": "0.62941",
+        "bid_price": "0.62806",
+        "volume": 84418.965153172,
+        "link": "https://www.gate.io/ru/trade/BEL_USDT"
+    },
+    {
+        "symbol": "FEARUSDT",
+        "ask_price": "0.19147",
+        "bid_price": "0.19068",
+        "volume": 332237.3360541,
+        "link": "https://www.gate.io/ru/trade/FEAR_USDT"
+    },
+    {
+        "symbol": "RDNTUSDT",
+        "ask_price": "0.29161",
+        "bid_price": "0.28946",
+        "volume": 2568340.3748637,
+        "link": "https://www.gate.io/ru/trade/RDNT_USDT"
+    },
+    {
+        "symbol": "LATUSDT",
+        "ask_price": "0.0215",
+        "bid_price": "0.02116",
+        "volume": 39391.068065469,
+        "link": "https://www.gate.io/ru/trade/LAT_USDT"
+    },
+    {
+        "symbol": "ATAUSDT",
+        "ask_price": "0.16055",
+        "bid_price": "0.15978",
+        "volume": 53202.236192109,
+        "link": "https://www.gate.io/ru/trade/ATA_USDT"
+    },
+    {
+        "symbol": "DYDXUSDT",
+        "ask_price": "2.2435",
+        "bid_price": "2.2415",
+        "volume": 3823450.4630491,
+        "link": "https://www.gate.io/ru/trade/DYDX_USDT"
+    },
+    {
+        "symbol": "ASTRAUSDT",
+        "ask_price": "0.30252",
+        "bid_price": "0.30246",
+        "volume": 2762907.3129828,
+        "link": "https://www.gate.io/ru/trade/ASTRA_USDT"
+    },
+    {
+        "symbol": "CKBUSDT",
+        "ask_price": "0.0042193",
+        "bid_price": "0.0042142",
+        "volume": 319215.23036663,
+        "link": "https://www.gate.io/ru/trade/CKB_USDT"
+    },
+    {
+        "symbol": "ROOBEEUSDT",
+        "ask_price": "0.000991",
+        "bid_price": "0.00099",
+        "volume": 43571.276385657,
+        "link": "https://www.gate.io/ru/trade/ROOBEE_USDT"
+    },
+    {
+        "symbol": "POLYXUSDT",
+        "ask_price": "0.1668",
+        "bid_price": "0.166",
+        "volume": 737545.19978672,
+        "link": "https://www.gate.io/ru/trade/POLYX_USDT"
+    },
+    {
+        "symbol": "SAITAMAUSDT",
+        "ask_price": "0.001871674441",
+        "bid_price": "0.001863925501",
+        "volume": 30844.300863628,
+        "link": "https://www.gate.io/ru/trade/SAITAMA_USDT"
+    },
+    {
+        "symbol": "YFIIUSDT",
+        "ask_price": "1220.03",
+        "bid_price": "1216.8",
+        "volume": 445510.81482148,
+        "link": "https://www.gate.io/ru/trade/YFII_USDT"
+    },
+    {
+        "symbol": "VELOUSDT",
+        "ask_price": "0.007492",
+        "bid_price": "0.007477",
+        "volume": 1148538.6758212,
+        "link": "https://www.gate.io/ru/trade/VELO_USDT"
+    },
+    {
+        "symbol": "HBARUSDT",
+        "ask_price": "0.062775",
+        "bid_price": "0.062706",
+        "volume": 822552.60502941,
+        "link": "https://www.gate.io/ru/trade/HBAR_USDT"
+    },
+    {
+        "symbol": "FLRUSDT",
+        "ask_price": "0.035226",
+        "bid_price": "0.035193",
+        "volume": 668860.90043333,
+        "link": "https://www.gate.io/ru/trade/FLR_USDT"
+    },
+    {
+        "symbol": "MLKUSDT",
+        "ask_price": "0.26572",
+        "bid_price": "0.26203",
+        "volume": 80480.924427236,
+        "link": "https://www.gate.io/ru/trade/MLK_USDT"
+    },
+    {
+        "symbol": "LUNCUSDT",
+        "ask_price": "0.00014118",
+        "bid_price": "0.00014116",
+        "volume": 1350513.7591667,
+        "link": "https://www.gate.io/ru/trade/LUNC_USDT"
+    },
+    {
+        "symbol": "D2TUSDT",
+        "ask_price": "0.040353",
+        "bid_price": "0.040001",
+        "volume": 413204.70358225,
+        "link": "https://www.gate.io/ru/trade/D2T_USDT"
+    },
+    {
+        "symbol": "WEMIXUSDT",
+        "ask_price": "1.8925",
+        "bid_price": "1.8923",
+        "volume": 2330226.2318898,
+        "link": "https://www.gate.io/ru/trade/WEMIX_USDT"
+    },
+    {
+        "symbol": "NUXUSDT",
+        "ask_price": "0.012291",
+        "bid_price": "0.012166",
+        "volume": 37441.951183835,
+        "link": "https://www.gate.io/ru/trade/NUX_USDT"
+    },
+    {
+        "symbol": "DOGGOUSDT",
+        "ask_price": "0.000000005202",
+        "bid_price": "0.00000000512",
+        "volume": 303089.0840178,
+        "link": "https://www.gate.io/ru/trade/DOGGO_USDT"
+    },
+    {
+        "symbol": "XLMUSDT",
+        "ask_price": "0.082157",
+        "bid_price": "0.082092",
+        "volume": 271968.24557663,
+        "link": "https://www.gate.io/ru/trade/XLM_USDT"
+    },
+    {
+        "symbol": "RACAUSDT",
+        "ask_price": "0.00019931",
+        "bid_price": "0.00019896",
+        "volume": 752813.62670038,
+        "link": "https://www.gate.io/ru/trade/RACA_USDT"
+    },
+    {
+        "symbol": "PBXUSDT",
+        "ask_price": "0.001574",
+        "bid_price": "0.001566",
+        "volume": 41793.871004745,
+        "link": "https://www.gate.io/ru/trade/PBX_USDT"
+    },
+    {
+        "symbol": "ASRUSDT",
+        "ask_price": "2.6635",
+        "bid_price": "2.6438",
+        "volume": 35207.367289097,
+        "link": "https://www.gate.io/ru/trade/ASR_USDT"
+    },
+    {
+        "symbol": "IHCUSDT",
+        "ask_price": "0.00005184",
+        "bid_price": "0.0000505",
+        "volume": 105196.61393407,
+        "link": "https://www.gate.io/ru/trade/IHC_USDT"
+    },
+    {
+        "symbol": "YGGUSDT",
+        "ask_price": "0.2665",
+        "bid_price": "0.26611",
+        "volume": 98802.412151329,
+        "link": "https://www.gate.io/ru/trade/YGG_USDT"
+    },
+    {
+        "symbol": "EFIUSDT",
+        "ask_price": "0.08016",
+        "bid_price": "0.07978",
+        "volume": 67640.94448606,
+        "link": "https://www.gate.io/ru/trade/EFI_USDT"
+    },
+    {
+        "symbol": "BONEUSDT",
+        "ask_price": "1.4347",
+        "bid_price": "1.4275",
+        "volume": 327486.03865075,
+        "link": "https://www.gate.io/ru/trade/BONE_USDT"
+    },
+    {
+        "symbol": "EZUSDT",
+        "ask_price": "0.09043",
+        "bid_price": "0.08973",
+        "volume": 81138.07745357,
+        "link": "https://www.gate.io/ru/trade/EZ_USDT"
+    },
+    {
+        "symbol": "BLOKUSDT",
+        "ask_price": "0.0027547",
+        "bid_price": "0.0027455",
+        "volume": 327215.34922997,
+        "link": "https://www.gate.io/ru/trade/BLOK_USDT"
+    },
+    {
+        "symbol": "SPELLFIREUSDT",
+        "ask_price": "0.001384",
+        "bid_price": "0.001368",
+        "volume": 42956.700617514,
+        "link": "https://www.gate.io/ru/trade/SPELLFIRE_USDT"
+    },
+    {
+        "symbol": "RFOXUSDT",
+        "ask_price": "0.01608",
+        "bid_price": "0.016046",
+        "volume": 99180.475264161,
+        "link": "https://www.gate.io/ru/trade/RFOX_USDT"
+    },
+    {
+        "symbol": "PINEUSDT",
+        "ask_price": "0.20477",
+        "bid_price": "0.20421",
+        "volume": 31090.245200842,
+        "link": "https://www.gate.io/ru/trade/PINE_USDT"
+    },
+    {
+        "symbol": "ADELUSDT",
+        "ask_price": "0.0058632",
+        "bid_price": "0.0058243",
+        "volume": 42773.248450885,
+        "link": "https://www.gate.io/ru/trade/ADEL_USDT"
+    },
+    {
+        "symbol": "IOIUSDT",
+        "ask_price": "0.0875",
+        "bid_price": "0.0871",
+        "volume": 31037.985458708,
+        "link": "https://www.gate.io/ru/trade/IOI_USDT"
+    },
+    {
+        "symbol": "COCOSUSDT",
+        "ask_price": "1.4935",
+        "bid_price": "1.4906",
+        "volume": 135044.29707936,
+        "link": "https://www.gate.io/ru/trade/COCOS_USDT"
+    },
+    {
+        "symbol": "SFUNDUSDT",
+        "ask_price": "1.1796",
+        "bid_price": "1.1727",
+        "volume": 159492.49337912,
+        "link": "https://www.gate.io/ru/trade/SFUND_USDT"
+    },
+    {
+        "symbol": "ZLWUSDT",
+        "ask_price": "0.030301",
+        "bid_price": "0.030103",
+        "volume": 32797.162208787,
+        "link": "https://www.gate.io/ru/trade/ZLW_USDT"
+    },
+    {
+        "symbol": "AKITAUSDT",
+        "ask_price": "0.00000021199",
+        "bid_price": "0.0000002119",
+        "volume": 92222.631330472,
+        "link": "https://www.gate.io/ru/trade/AKITA_USDT"
+    },
+    {
+        "symbol": "DERCUSDT",
+        "ask_price": "0.25195",
+        "bid_price": "0.2507",
+        "volume": 64353.464555382,
+        "link": "https://www.gate.io/ru/trade/DERC_USDT"
+    },
+    {
+        "symbol": "UNOUSDT",
+        "ask_price": "0.07183",
+        "bid_price": "0.07121",
+        "volume": 62371.734594584,
+        "link": "https://www.gate.io/ru/trade/UNO_USDT"
+    },
+    {
+        "symbol": "SENATEUSDT",
+        "ask_price": "0.070083",
+        "bid_price": "0.069842",
+        "volume": 40280.032878116,
+        "link": "https://www.gate.io/ru/trade/SENATE_USDT"
+    },
+    {
+        "symbol": "UMAUSDT",
+        "ask_price": "1.9948",
+        "bid_price": "1.984",
+        "volume": 38593.255715745,
+        "link": "https://www.gate.io/ru/trade/UMA_USDT"
+    },
+    {
+        "symbol": "DFUSDT",
+        "ask_price": "0.0604",
+        "bid_price": "0.0599",
+        "volume": 322704.31376125,
+        "link": "https://www.gate.io/ru/trade/DF_USDT"
+    },
+    {
+        "symbol": "EVERUSDT",
+        "ask_price": "0.109981",
+        "bid_price": "0.109877",
+        "volume": 5861088.6644774,
+        "link": "https://www.gate.io/ru/trade/EVER_USDT"
+    },
+    {
+        "symbol": "ALIUSDT",
+        "ask_price": "0.057982",
+        "bid_price": "0.057901",
+        "volume": 460930.42850948,
+        "link": "https://www.gate.io/ru/trade/ALI_USDT"
+    },
+    {
+        "symbol": "ONTUSDT",
+        "ask_price": "0.2154",
+        "bid_price": "0.2149",
+        "volume": 52687.65121217,
+        "link": "https://www.gate.io/ru/trade/ONT_USDT"
+    },
+    {
+        "symbol": "KINGUSDT",
+        "ask_price": "0.022994",
+        "bid_price": "0.022733",
+        "volume": 1894689.3600715,
+        "link": "https://www.gate.io/ru/trade/KING_USDT"
+    },
+    {
+        "symbol": "TLMUSDT",
+        "ask_price": "0.018416",
+        "bid_price": "0.018388",
+        "volume": 38687.562185628,
+        "link": "https://www.gate.io/ru/trade/TLM_USDT"
+    },
+    {
+        "symbol": "NOSUSDT",
+        "ask_price": "0.01845",
+        "bid_price": "0.01841",
+        "volume": 59261.546829331,
+        "link": "https://www.gate.io/ru/trade/NOS_USDT"
+    },
+    {
+        "symbol": "LAZIOUSDT",
+        "ask_price": "2.8515",
+        "bid_price": "2.8335",
+        "volume": 57216.166866919,
+        "link": "https://www.gate.io/ru/trade/LAZIO_USDT"
+    },
+    {
+        "symbol": "KARTUSDT",
+        "ask_price": "0.01023",
+        "bid_price": "0.01016",
+        "volume": 65864.081884365,
+        "link": "https://www.gate.io/ru/trade/KART_USDT"
+    },
+    {
+        "symbol": "REALUSDT",
+        "ask_price": "0.0001377",
+        "bid_price": "0.00013749",
+        "volume": 32804.868575351,
+        "link": "https://www.gate.io/ru/trade/REAL_USDT"
+    },
+    {
+        "symbol": "ZKSUSDT",
+        "ask_price": "0.065985",
+        "bid_price": "0.065855",
+        "volume": 43169.596177443,
+        "link": "https://www.gate.io/ru/trade/ZKS_USDT"
+    },
+    {
+        "symbol": "LOKAUSDT",
+        "ask_price": "0.51119",
+        "bid_price": "0.50891",
+        "volume": 49100.921471873,
+        "link": "https://www.gate.io/ru/trade/LOKA_USDT"
+    },
+    {
+        "symbol": "SWAPUSDT",
+        "ask_price": "0.42287",
+        "bid_price": "0.42168",
+        "volume": 33101.319913321,
+        "link": "https://www.gate.io/ru/trade/SWAP_USDT"
+    },
+    {
+        "symbol": "DMTRUSDT",
+        "ask_price": "0.028893",
+        "bid_price": "0.0287899",
+        "volume": 416335.68511719,
+        "link": "https://www.gate.io/ru/trade/DMTR_USDT"
+    },
+    {
+        "symbol": "RITEUSDT",
+        "ask_price": "0.002398",
+        "bid_price": "0.0023229",
+        "volume": 239746.22639266,
+        "link": "https://www.gate.io/ru/trade/RITE_USDT"
+    },
+    {
+        "symbol": "SLPUSDT",
+        "ask_price": "0.0027915",
+        "bid_price": "0.002785",
+        "volume": 228159.5127672,
+        "link": "https://www.gate.io/ru/trade/SLP_USDT"
+    },
+    {
+        "symbol": "CVCUSDT",
+        "ask_price": "0.10581",
+        "bid_price": "0.10528",
+        "volume": 36220.223813423,
+        "link": "https://www.gate.io/ru/trade/CVC_USDT"
+    },
+    {
+        "symbol": "ZILUSDT",
+        "ask_price": "0.026382",
+        "bid_price": "0.026356",
+        "volume": 156068.10408461,
+        "link": "https://www.gate.io/ru/trade/ZIL_USDT"
+    },
+    {
+        "symbol": "LEASHUSDT",
+        "ask_price": "497.3",
+        "bid_price": "493.11",
+        "volume": 39639.280223825,
+        "link": "https://www.gate.io/ru/trade/LEASH_USDT"
+    },
+    {
+        "symbol": "BSCPADUSDT",
+        "ask_price": "0.2042",
+        "bid_price": "0.2036",
+        "volume": 103960.60516686,
+        "link": "https://www.gate.io/ru/trade/BSCPAD_USDT"
+    },
+    {
+        "symbol": "GARIUSDT",
+        "ask_price": "0.05245",
+        "bid_price": "0.05238",
+        "volume": 77913.847366657,
+        "link": "https://www.gate.io/ru/trade/GARI_USDT"
+    },
+    {
+        "symbol": "SCLPUSDT",
+        "ask_price": "0.18481",
+        "bid_price": "0.1846",
+        "volume": 64824.45894261,
+        "link": "https://www.gate.io/ru/trade/SCLP_USDT"
+    },
+    {
+        "symbol": "MESAUSDT",
+        "ask_price": "0.003834",
+        "bid_price": "0.003817",
+        "volume": 71979.548289437,
+        "link": "https://www.gate.io/ru/trade/MESA_USDT"
+    },
+    {
+        "symbol": "LGXUSDT",
+        "ask_price": "0.006621",
+        "bid_price": "0.006584",
+        "volume": 57870.98675325,
+        "link": "https://www.gate.io/ru/trade/LGX_USDT"
+    },
+    {
+        "symbol": "CRUUSDT",
+        "ask_price": "1.37641",
+        "bid_price": "1.35383",
+        "volume": 66554.722470805,
+        "link": "https://www.gate.io/ru/trade/CRU_USDT"
+    },
+    {
+        "symbol": "FLOWUSDT",
+        "ask_price": "1.012",
+        "bid_price": "1.0109",
+        "volume": 884679.88462441,
+        "link": "https://www.gate.io/ru/trade/FLOW_USDT"
+    },
+    {
+        "symbol": "SEELEUSDT",
+        "ask_price": "0.005015",
+        "bid_price": "0.004996",
+        "volume": 342370.89537706,
+        "link": "https://www.gate.io/ru/trade/SEELE_USDT"
+    },
+    {
+        "symbol": "RNDRUSDT",
+        "ask_price": "1.1797",
+        "bid_price": "1.1784",
+        "volume": 2829953.0128834,
+        "link": "https://www.gate.io/ru/trade/RNDR_USDT"
+    },
+    {
+        "symbol": "WOZXUSDT",
+        "ask_price": "0.061856",
+        "bid_price": "0.061075",
+        "volume": 107056.07483821,
+        "link": "https://www.gate.io/ru/trade/WOZX_USDT"
+    },
+    {
+        "symbol": "ONSTONUSDT",
+        "ask_price": "0.00887",
+        "bid_price": "0.00867",
+        "volume": 206314.01709456,
+        "link": "https://www.gate.io/ru/trade/ONSTON_USDT"
+    },
+    {
+        "symbol": "MINAUSDT",
+        "ask_price": "0.78322",
+        "bid_price": "0.78154",
+        "volume": 939349.28541096,
+        "link": "https://www.gate.io/ru/trade/MINA_USDT"
+    },
+    {
+        "symbol": "STARLUSDT",
+        "ask_price": "0.00000261",
+        "bid_price": "0.0000026",
+        "volume": 44298.243932945,
+        "link": "https://www.gate.io/ru/trade/STARL_USDT"
+    },
+    {
+        "symbol": "LUFFYUSDT",
+        "ask_price": "0.0000000001691",
+        "bid_price": "0.0000000001687",
+        "volume": 95724.829636238,
+        "link": "https://www.gate.io/ru/trade/LUFFY_USDT"
+    },
+    {
+        "symbol": "CSIXUSDT",
+        "ask_price": "0.069091",
+        "bid_price": "0.068329",
+        "volume": 9273387.379967,
+        "link": "https://www.gate.io/ru/trade/CSIX_USDT"
+    },
+    {
+        "symbol": "AAVEUSDT",
+        "ask_price": "75.01",
+        "bid_price": "74.91",
+        "volume": 64011.204134668,
+        "link": "https://www.gate.io/ru/trade/AAVE_USDT"
+    },
+    {
+        "symbol": "MDXUSDT",
+        "ask_price": "0.07818",
+        "bid_price": "0.07792",
+        "volume": 103783.79969261,
+        "link": "https://www.gate.io/ru/trade/MDX_USDT"
+    },
+    {
+        "symbol": "TIMECHRONOUSDT",
+        "ask_price": "49.805",
+        "bid_price": "49.332",
+        "volume": 62393.33072799,
+        "link": "https://www.gate.io/ru/trade/TIMECHRONO_USDT"
+    },
+    {
+        "symbol": "SOSUSDT",
+        "ask_price": "0.00000014659",
+        "bid_price": "0.00000014617",
+        "volume": 45433.856906478,
+        "link": "https://www.gate.io/ru/trade/SOS_USDT"
+    },
+    {
+        "symbol": "BTMUSDT",
+        "ask_price": "0.028027",
+        "bid_price": "0.027709",
+        "volume": 47003.869503163,
+        "link": "https://www.gate.io/ru/trade/BTM_USDT"
+    },
+    {
+        "symbol": "TONCOINUSDT",
+        "ask_price": "2.30798",
+        "bid_price": "2.30105",
+        "volume": 216801.44268692,
+        "link": "https://www.gate.io/ru/trade/TONCOIN_USDT"
+    },
+    {
+        "symbol": "STGUSDT",
+        "ask_price": "0.7642",
+        "bid_price": "0.7611",
+        "volume": 516224.53603478,
+        "link": "https://www.gate.io/ru/trade/STG_USDT"
+    },
+    {
+        "symbol": "IMXUSDT",
+        "ask_price": "1.07519",
+        "bid_price": "1.07483",
+        "volume": 722451.991574,
+        "link": "https://www.gate.io/ru/trade/IMX_USDT"
+    },
+    {
+        "symbol": "CRVUSDT",
+        "ask_price": "0.9711",
+        "bid_price": "0.9704",
+        "volume": 623256.63370192,
+        "link": "https://www.gate.io/ru/trade/CRV_USDT"
+    },
+    {
+        "symbol": "WATTUSDT",
+        "ask_price": "0.05768",
+        "bid_price": "0.057",
+        "volume": 154035.36592792,
+        "link": "https://www.gate.io/ru/trade/WATT_USDT"
+    },
+    {
+        "symbol": "CRPTUSDT",
+        "ask_price": "0.10809",
+        "bid_price": "0.10802",
+        "volume": 850638.67261584,
+        "link": "https://www.gate.io/ru/trade/CRPT_USDT"
+    },
+    {
+        "symbol": "OPUSDT",
+        "ask_price": "2.3949",
+        "bid_price": "2.393",
+        "volume": 1610310.637357,
+        "link": "https://www.gate.io/ru/trade/OP_USDT"
+    },
+    {
+        "symbol": "LINKUSDT",
+        "ask_price": "6.7371",
+        "bid_price": "6.7347",
+        "volume": 864988.2182562,
+        "link": "https://www.gate.io/ru/trade/LINK_USDT"
+    },
+    {
+        "symbol": "XCADUSDT",
+        "ask_price": "1.56664",
+        "bid_price": "1.56421",
+        "volume": 287408.42275043,
+        "link": "https://www.gate.io/ru/trade/XCAD_USDT"
+    },
+    {
+        "symbol": "GMPDUSDT",
+        "ask_price": "0.017682",
+        "bid_price": "0.017607",
+        "volume": 30203.378762626,
+        "link": "https://www.gate.io/ru/trade/GMPD_USDT"
+    },
+    {
+        "symbol": "GOVUSDT",
+        "ask_price": "0.009148",
+        "bid_price": "0.009057",
+        "volume": 30092.941368652,
+        "link": "https://www.gate.io/ru/trade/GOV_USDT"
+    },
+    {
+        "symbol": "LIMEUSDT",
+        "ask_price": "0.010077",
+        "bid_price": "0.010054",
+        "volume": 33182.206534395,
+        "link": "https://www.gate.io/ru/trade/LIME_USDT"
+    },
+    {
+        "symbol": "WOMUSDT",
+        "ask_price": "0.027767",
+        "bid_price": "0.027521",
+        "volume": 769806.59258101,
+        "link": "https://www.gate.io/ru/trade/WOM_USDT"
+    },
+    {
+        "symbol": "CHEQUSDT",
+        "ask_price": "0.057812",
+        "bid_price": "0.057804",
+        "volume": 41889.671546136,
+        "link": "https://www.gate.io/ru/trade/CHEQ_USDT"
+    },
+    {
+        "symbol": "LPTUSDT",
+        "ask_price": "5.914",
+        "bid_price": "5.906",
+        "volume": 65458.444476175,
+        "link": "https://www.gate.io/ru/trade/LPT_USDT"
+    },
+    {
+        "symbol": "ONEUSDT",
+        "ask_price": "0.018682",
+        "bid_price": "0.018645",
+        "volume": 53562.922020742,
+        "link": "https://www.gate.io/ru/trade/ONE_USDT"
+    },
+    {
+        "symbol": "ADXUSDT",
+        "ask_price": "0.1795",
+        "bid_price": "0.1783",
+        "volume": 30667.860756891,
+        "link": "https://www.gate.io/ru/trade/ADX_USDT"
+    },
+    {
+        "symbol": "CHESSUSDT",
+        "ask_price": "0.2499",
+        "bid_price": "0.249",
+        "volume": 72975.105204084,
+        "link": "https://www.gate.io/ru/trade/CHESS_USDT"
+    },
+    {
+        "symbol": "INJUSDT",
+        "ask_price": "3.1344",
+        "bid_price": "3.1218",
+        "volume": 113517.39843132,
+        "link": "https://www.gate.io/ru/trade/INJ_USDT"
+    },
+    {
+        "symbol": "CULTUSDT",
+        "ask_price": "0.000009334",
+        "bid_price": "0.0000093",
+        "volume": 696451.78491897,
+        "link": "https://www.gate.io/ru/trade/CULT_USDT"
+    },
+    {
+        "symbol": "SEROUSDT",
+        "ask_price": "0.03034",
+        "bid_price": "0.03031",
+        "volume": 70346.161100678,
+        "link": "https://www.gate.io/ru/trade/SERO_USDT"
+    },
+    {
+        "symbol": "LABSUSDT",
+        "ask_price": "0.0011873",
+        "bid_price": "0.00117788",
+        "volume": 344834.66032197,
+        "link": "https://www.gate.io/ru/trade/LABS_USDT"
+    },
+    {
+        "symbol": "PENDLEUSDT",
+        "ask_price": "0.25535",
+        "bid_price": "0.25499",
+        "volume": 123563.03242827,
+        "link": "https://www.gate.io/ru/trade/PENDLE_USDT"
+    },
+    {
+        "symbol": "HOTCROSSUSDT",
+        "ask_price": "0.00789",
+        "bid_price": "0.0078",
+        "volume": 36465.602446017,
+        "link": "https://www.gate.io/ru/trade/HOTCROSS_USDT"
+    },
+    {
+        "symbol": "CELOUSDT",
+        "ask_price": "0.64035",
+        "bid_price": "0.63931",
+        "volume": 52808.365478638,
+        "link": "https://www.gate.io/ru/trade/CELO_USDT"
+    },
+    {
+        "symbol": "KAVAUSDT",
+        "ask_price": "0.7872",
+        "bid_price": "0.7856",
+        "volume": 31417.902202966,
+        "link": "https://www.gate.io/ru/trade/KAVA_USDT"
+    },
+    {
+        "symbol": "GMTUSDT",
+        "ask_price": "0.351",
+        "bid_price": "0.35062",
+        "volume": 415986.05857052,
+        "link": "https://www.gate.io/ru/trade/GMT_USDT"
+    },
+    {
+        "symbol": "ALPHUSDT",
+        "ask_price": "0.31266",
+        "bid_price": "0.31224",
+        "volume": 251732.23203342,
+        "link": "https://www.gate.io/ru/trade/ALPH_USDT"
+    },
+    {
+        "symbol": "TALKUSDT",
+        "ask_price": "0.17856",
+        "bid_price": "0.17453",
+        "volume": 320485.31931174,
+        "link": "https://www.gate.io/ru/trade/TALK_USDT"
+    },
+    {
+        "symbol": "CQTUSDT",
+        "ask_price": "0.1603",
+        "bid_price": "0.1596",
+        "volume": 119708.48978452,
+        "link": "https://www.gate.io/ru/trade/CQT_USDT"
+    },
+    {
+        "symbol": "MATCHUSDT",
+        "ask_price": "0.0000797",
+        "bid_price": "0.000077",
+        "volume": 35460.242012828,
+        "link": "https://www.gate.io/ru/trade/MATCH_USDT"
+    },
+    {
+        "symbol": "LTCUSDT",
+        "ask_price": "85.86",
+        "bid_price": "85.82",
+        "volume": 4581990.9854704,
+        "link": "https://www.gate.io/ru/trade/LTC_USDT"
+    },
+    {
+        "symbol": "XPRUSDT",
+        "ask_price": "0.001591",
+        "bid_price": "0.001583",
+        "volume": 56445.780585739,
+        "link": "https://www.gate.io/ru/trade/XPR_USDT"
+    },
+    {
+        "symbol": "PERLUSDT",
+        "ask_price": "0.036304",
+        "bid_price": "0.035817",
+        "volume": 711284.68159223,
+        "link": "https://www.gate.io/ru/trade/PERL_USDT"
+    },
+    {
+        "symbol": "LUNCHUSDT",
+        "ask_price": "0.00012798",
+        "bid_price": "0.000127",
+        "volume": 33682.38545126,
+        "link": "https://www.gate.io/ru/trade/LUNCH_USDT"
+    },
+    {
+        "symbol": "MOOVUSDT",
+        "ask_price": "0.007156",
+        "bid_price": "0.007138",
+        "volume": 39980.413109416,
+        "link": "https://www.gate.io/ru/trade/MOOV_USDT"
+    },
+    {
+        "symbol": "CSPRUSDT",
+        "ask_price": "0.038937",
+        "bid_price": "0.038866",
+        "volume": 1321448.3995567,
+        "link": "https://www.gate.io/ru/trade/CSPR_USDT"
+    },
+    {
+        "symbol": "STEEMUSDT",
+        "ask_price": "0.2032",
+        "bid_price": "0.2003",
+        "volume": 35283.2992817,
+        "link": "https://www.gate.io/ru/trade/STEEM_USDT"
+    },
+    {
+        "symbol": "BITCIUSDT",
+        "ask_price": "0.0079988",
+        "bid_price": "0.0079115",
+        "volume": 31694.444383497,
+        "link": "https://www.gate.io/ru/trade/BITCI_USDT"
+    },
+    {
+        "symbol": "FLOKIUSDT",
+        "ask_price": "0.0000435971",
+        "bid_price": "0.0000435641",
+        "volume": 14726354.115172,
+        "link": "https://www.gate.io/ru/trade/FLOKI_USDT"
+    },
+    {
+        "symbol": "SOLUSDT",
+        "ask_price": "20.192",
+        "bid_price": "20.177",
+        "volume": 2824648.4503543,
+        "link": "https://www.gate.io/ru/trade/SOL_USDT"
+    },
+    {
+        "symbol": "LUNAUSDT",
+        "ask_price": "1.4837",
+        "bid_price": "1.4822",
+        "volume": 819430.79759451,
+        "link": "https://www.gate.io/ru/trade/LUNA_USDT"
+    },
+    {
+        "symbol": "LQTYUSDT",
+        "ask_price": "1.9471",
+        "bid_price": "1.9445",
+        "volume": 12734704.508439,
+        "link": "https://www.gate.io/ru/trade/LQTY_USDT"
+    },
+    {
+        "symbol": "BLURUSDT",
+        "ask_price": "0.6396",
+        "bid_price": "0.6389",
+        "volume": 6620336.3759706,
+        "link": "https://www.gate.io/ru/trade/BLUR_USDT"
+    },
+    {
+        "symbol": "DBCUSDT",
+        "ask_price": "0.0080262",
+        "bid_price": "0.0079454",
+        "volume": 139904.43926057,
+        "link": "https://www.gate.io/ru/trade/DBC_USDT"
+    },
+    {
+        "symbol": "GOALUSDT",
+        "ask_price": "0.2709",
+        "bid_price": "0.2695",
+        "volume": 2385644.3285953,
+        "link": "https://www.gate.io/ru/trade/GOAL_USDT"
+    },
+    {
+        "symbol": "AURORAUSDT",
+        "ask_price": "0.2209",
+        "bid_price": "0.2203",
+        "volume": 144866.1815987,
+        "link": "https://www.gate.io/ru/trade/AURORA_USDT"
+    },
+    {
+        "symbol": "DARKUSDT",
+        "ask_price": "0.03524",
+        "bid_price": "0.035031",
+        "volume": 117522.31024236,
+        "link": "https://www.gate.io/ru/trade/DARK_USDT"
+    },
+    {
+        "symbol": "MCUSDT",
+        "ask_price": "0.31505",
+        "bid_price": "0.31442",
+        "volume": 47802.761627864,
+        "link": "https://www.gate.io/ru/trade/MC_USDT"
+    },
+    {
+        "symbol": "VAIUSDT",
+        "ask_price": "0.111848",
+        "bid_price": "0.111108",
+        "volume": 984607.79745256,
+        "link": "https://www.gate.io/ru/trade/VAI_USDT"
+    },
+    {
+        "symbol": "TUSDT",
+        "ask_price": "0.03802",
+        "bid_price": "0.03793",
+        "volume": 34349.885683109,
+        "link": "https://www.gate.io/ru/trade/T_USDT"
+    },
+    {
+        "symbol": "RPLUSDT",
+        "ask_price": "36.726",
+        "bid_price": "36.661",
+        "volume": 1114800.386857,
+        "link": "https://www.gate.io/ru/trade/RPL_USDT"
+    },
+    {
+        "symbol": "CAPSUSDT",
+        "ask_price": "0.0517",
+        "bid_price": "0.05164",
+        "volume": 131566.95597821,
+        "link": "https://www.gate.io/ru/trade/CAPS_USDT"
+    },
+    {
+        "symbol": "DENTUSDT",
+        "ask_price": "0.00101078",
+        "bid_price": "0.00100822",
+        "volume": 34642.290729275,
+        "link": "https://www.gate.io/ru/trade/DENT_USDT"
+    },
+    {
+        "symbol": "SXPUSDT",
+        "ask_price": "0.27347",
+        "bid_price": "0.27304",
+        "volume": 37663.176172687,
+        "link": "https://www.gate.io/ru/trade/SXP_USDT"
+    },
+    {
+        "symbol": "CNAMEUSDT",
+        "ask_price": "0.000806",
+        "bid_price": "0.000802",
+        "volume": 81343.392161437,
+        "link": "https://www.gate.io/ru/trade/CNAME_USDT"
+    },
+    {
+        "symbol": "OASUSDT",
+        "ask_price": "0.085318",
+        "bid_price": "0.085015",
+        "volume": 174733.19897306,
+        "link": "https://www.gate.io/ru/trade/OAS_USDT"
+    },
+    {
+        "symbol": "HMTUSDT",
+        "ask_price": "0.051",
+        "bid_price": "0.0509",
+        "volume": 49815.157255874,
+        "link": "https://www.gate.io/ru/trade/HMT_USDT"
+    },
+    {
+        "symbol": "AZEROUSDT",
+        "ask_price": "1.3898",
+        "bid_price": "1.3891",
+        "volume": 194230.07343277,
+        "link": "https://www.gate.io/ru/trade/AZERO_USDT"
+    },
+    {
+        "symbol": "ENSUSDT",
+        "ask_price": "13.688",
+        "bid_price": "13.667",
+        "volume": 30786.101685534,
+        "link": "https://www.gate.io/ru/trade/ENS_USDT"
+    },
+    {
+        "symbol": "BOAUSDT",
+        "ask_price": "0.031499",
+        "bid_price": "0.03094",
+        "volume": 53000.170898157,
+        "link": "https://www.gate.io/ru/trade/BOA_USDT"
+    },
+    {
+        "symbol": "PORTOUSDT",
+        "ask_price": "2.5564",
+        "bid_price": "2.5449",
+        "volume": 42817.609238068,
+        "link": "https://www.gate.io/ru/trade/PORTO_USDT"
+    },
+    {
+        "symbol": "XWGUSDT",
+        "ask_price": "0.0012475",
+        "bid_price": "0.0012465",
+        "volume": 32843.159837871,
+        "link": "https://www.gate.io/ru/trade/XWG_USDT"
+    },
+    {
+        "symbol": "AGIXUSDT",
+        "ask_price": "0.41162",
+        "bid_price": "0.41133",
+        "volume": 10569347.128387,
+        "link": "https://www.gate.io/ru/trade/AGIX_USDT"
+    },
+    {
+        "symbol": "WOOFUSDT",
+        "ask_price": "0.0014702",
+        "bid_price": "0.0014492",
+        "volume": 63025.767115001,
+        "link": "https://www.gate.io/ru/trade/WOOF_USDT"
+    },
+    {
+        "symbol": "PSIUSDT",
+        "ask_price": "3.8146",
+        "bid_price": "3.6915",
+        "volume": 39969.154860585,
+        "link": "https://www.gate.io/ru/trade/PSI_USDT"
+    },
+    {
+        "symbol": "NVGUSDT",
+        "ask_price": "0.1949",
+        "bid_price": "0.1852",
+        "volume": 109251.3975547,
+        "link": "https://www.gate.io/ru/trade/NVG_USDT"
+    },
+    {
+        "symbol": "WELLUSDT",
+        "ask_price": "0.0133649",
+        "bid_price": "0.0131605",
+        "volume": 52483.85971585,
+        "link": "https://www.gate.io/ru/trade/WELL_USDT"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "ask_price": "0.073465",
+        "bid_price": "0.073451",
+        "volume": 3030548.4425258,
+        "link": "https://www.gate.io/ru/trade/DOGE_USDT"
+    },
+    {
+        "symbol": "FREEUSDT",
+        "ask_price": "0.00000017169",
+        "bid_price": "0.00000017142",
+        "volume": 48278.393689046,
+        "link": "https://www.gate.io/ru/trade/FREE_USDT"
+    },
+    {
+        "symbol": "ALUUSDT",
+        "ask_price": "0.025411",
+        "bid_price": "0.025277",
+        "volume": 36814.505354828,
+        "link": "https://www.gate.io/ru/trade/ALU_USDT"
+    },
+    {
+        "symbol": "TROYUSDT",
+        "ask_price": "0.003817",
+        "bid_price": "0.003773",
+        "volume": 72291.824324006,
+        "link": "https://www.gate.io/ru/trade/TROY_USDT"
+    },
+    {
+        "symbol": "FILUSDT",
+        "ask_price": "5.8859",
+        "bid_price": "5.8823",
+        "volume": 9976219.3625164,
+        "link": "https://www.gate.io/ru/trade/FIL_USDT"
+    },
+    {
+        "symbol": "XCNUSDT",
+        "ask_price": "0.008193",
+        "bid_price": "0.008183",
+        "volume": 5031463.7208637,
+        "link": "https://www.gate.io/ru/trade/XCN_USDT"
+    },
+    {
+        "symbol": "BOBAUSDT",
+        "ask_price": "0.24058",
+        "bid_price": "0.23955",
+        "volume": 34507.446122986,
+        "link": "https://www.gate.io/ru/trade/BOBA_USDT"
+    },
+    {
+        "symbol": "UFOUSDT",
+        "ask_price": "0.000001555",
+        "bid_price": "0.000001553",
+        "volume": 160489.38040975,
+        "link": "https://www.gate.io/ru/trade/UFO_USDT"
+    },
+    {
+        "symbol": "WINUSDT",
+        "ask_price": "0.00009017",
+        "bid_price": "0.00008992",
+        "volume": 309550.98029069,
+        "link": "https://www.gate.io/ru/trade/WIN_USDT"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "ask_price": "22255.4",
+        "bid_price": "22255.3",
+        "volume": 168577750.07606,
+        "link": "https://www.gate.io/ru/trade/BTC_USDT"
+    },
+    {
+        "symbol": "CHOUSDT",
+        "ask_price": "0.69927",
+        "bid_price": "0.69908",
+        "volume": 324997.92310257,
+        "link": "https://www.gate.io/ru/trade/CHO_USDT"
+    },
+    {
+        "symbol": "ETHWUSDT",
+        "ask_price": "3.4232",
+        "bid_price": "3.4199",
+        "volume": 482989.01878406,
+        "link": "https://www.gate.io/ru/trade/ETHW_USDT"
+    },
+    {
+        "symbol": "TWTUSDT",
+        "ask_price": "1.2421",
+        "bid_price": "1.239",
+        "volume": 84304.538741085,
+        "link": "https://www.gate.io/ru/trade/TWT_USDT"
+    },
+    {
+        "symbol": "ASTRUSDT",
+        "ask_price": "0.063797",
+        "bid_price": "0.063716",
+        "volume": 2217481.9485307,
+        "link": "https://www.gate.io/ru/trade/ASTR_USDT"
+    },
+    {
+        "symbol": "XDBUSDT",
+        "ask_price": "0.002199",
+        "bid_price": "0.0021924",
+        "volume": 976715.41389631,
+        "link": "https://www.gate.io/ru/trade/XDB_USDT"
+    },
+    {
+        "symbol": "INGUSDT",
+        "ask_price": "0.0007572",
+        "bid_price": "0.0007413",
+        "volume": 335164.41708154,
+        "link": "https://www.gate.io/ru/trade/ING_USDT"
+    },
+    {
+        "symbol": "NEARUSDT",
+        "ask_price": "1.9743",
+        "bid_price": "1.9727",
+        "volume": 662589.65965801,
+        "link": "https://www.gate.io/ru/trade/NEAR_USDT"
+    },
+    {
+        "symbol": "ZENUSDT",
+        "ask_price": "10.718",
+        "bid_price": "10.712",
+        "volume": 92972.492424853,
+        "link": "https://www.gate.io/ru/trade/ZEN_USDT"
+    },
+    {
+        "symbol": "CTIUSDT",
+        "ask_price": "0.034199",
+        "bid_price": "0.033811",
+        "volume": 581545.31329759,
+        "link": "https://www.gate.io/ru/trade/CTI_USDT"
+    },
+    {
+        "symbol": "GSTUSDT",
+        "ask_price": "0.021075",
+        "bid_price": "0.02106",
+        "volume": 215218.1637839,
+        "link": "https://www.gate.io/ru/trade/GST_USDT"
+    },
+    {
+        "symbol": "PDEXUSDT",
+        "ask_price": "1.6759",
+        "bid_price": "1.6677",
+        "volume": 42290.648454728,
+        "link": "https://www.gate.io/ru/trade/PDEX_USDT"
+    },
+    {
+        "symbol": "GALAUSDT",
+        "ask_price": "0.037209",
+        "bid_price": "0.037188",
+        "volume": 2947331.2145836,
+        "link": "https://www.gate.io/ru/trade/GALA_USDT"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "ask_price": "1.13254",
+        "bid_price": "1.13182",
+        "volume": 1644252.1263083,
+        "link": "https://www.gate.io/ru/trade/MATIC_USDT"
+    },
+    {
+        "symbol": "BICOUSDT",
+        "ask_price": "0.38205",
+        "bid_price": "0.38094",
+        "volume": 146051.28846508,
+        "link": "https://www.gate.io/ru/trade/BICO_USDT"
+    },
+    {
+        "symbol": "TRGUSDT",
+        "ask_price": "0.00000070067",
+        "bid_price": "0.00000069524",
+        "volume": 53139.453973352,
+        "link": "https://www.gate.io/ru/trade/TRG_USDT"
+    },
+    {
+        "symbol": "XTZUSDT",
+        "ask_price": "1.096",
+        "bid_price": "1.0929",
+        "volume": 35270.056109204,
+        "link": "https://www.gate.io/ru/trade/XTZ_USDT"
+    },
+    {
+        "symbol": "QUICKUSDT",
+        "ask_price": "99.074",
+        "bid_price": "98.598",
+        "volume": 74979.795316336,
+        "link": "https://www.gate.io/ru/trade/QUICK_USDT"
+    },
+    {
+        "symbol": "IAGUSDT",
+        "ask_price": "0.007474",
+        "bid_price": "0.007345",
+        "volume": 140481.57263466,
+        "link": "https://www.gate.io/ru/trade/IAG_USDT"
+    },
+    {
+        "symbol": "MANUSDT",
+        "ask_price": "0.0380474",
+        "bid_price": "0.0377879",
+        "volume": 262740.15519358,
+        "link": "https://www.gate.io/ru/trade/MAN_USDT"
+    },
+    {
+        "symbol": "ENJUSDT",
+        "ask_price": "0.43473",
+        "bid_price": "0.43361",
+        "volume": 99757.24539764,
+        "link": "https://www.gate.io/ru/trade/ENJ_USDT"
+    },
+    {
+        "symbol": "QRDOUSDT",
+        "ask_price": "0.12107",
+        "bid_price": "0.12078",
+        "volume": 235781.23229431,
+        "link": "https://www.gate.io/ru/trade/QRDO_USDT"
+    },
+    {
+        "symbol": "MASKUSDT",
+        "ask_price": "3.77854",
+        "bid_price": "3.77531",
+        "volume": 5706358.1147218,
+        "link": "https://www.gate.io/ru/trade/MASK_USDT"
+    },
+    {
+        "symbol": "ALCXUSDT",
+        "ask_price": "26.612",
+        "bid_price": "25.893",
+        "volume": 269045.60689475,
+        "link": "https://www.gate.io/ru/trade/ALCX_USDT"
+    },
+    {
+        "symbol": "AXSUSDT",
+        "ask_price": "8.562",
+        "bid_price": "8.547",
+        "volume": 51413.556380288,
+        "link": "https://www.gate.io/ru/trade/AXS_USDT"
+    },
+    {
+        "symbol": "ABTUSDT",
+        "ask_price": "0.13193",
+        "bid_price": "0.12991",
+        "volume": 33468.728950041,
+        "link": "https://www.gate.io/ru/trade/ABT_USDT"
+    },
+    {
+        "symbol": "SCRTUSDT",
+        "ask_price": "0.7249",
+        "bid_price": "0.7203",
+        "volume": 39928.563958452,
+        "link": "https://www.gate.io/ru/trade/SCRT_USDT"
+    },
+    {
+        "symbol": "PYRUSDT",
+        "ask_price": "3.4009",
+        "bid_price": "3.3878",
+        "volume": 47005.258304869,
+        "link": "https://www.gate.io/ru/trade/PYR_USDT"
+    },
+    {
+        "symbol": "BTTUSDT",
+        "ask_price": "0.0000006841",
+        "bid_price": "0.000000683",
+        "volume": 522136.43573654,
+        "link": "https://www.gate.io/ru/trade/BTT_USDT"
+    },
+    {
+        "symbol": "ROUTEUSDT",
+        "ask_price": "2.5276",
+        "bid_price": "2.5104",
+        "volume": 48048.381382656,
+        "link": "https://www.gate.io/ru/trade/ROUTE_USDT"
+    },
+    {
+        "symbol": "AVAXUSDT",
+        "ask_price": "16.064",
+        "bid_price": "16.053",
+        "volume": 535144.13217094,
+        "link": "https://www.gate.io/ru/trade/AVAX_USDT"
+    },
+    {
+        "symbol": "KWSUSDT",
+        "ask_price": "0.0005",
+        "bid_price": "0.000494",
+        "volume": 98148.553386033,
+        "link": "https://www.gate.io/ru/trade/KWS_USDT"
+    },
+    {
+        "symbol": "PRIMEUSDT",
+        "ask_price": "3.1641",
+        "bid_price": "3.164",
+        "volume": 171520.62275913,
+        "link": "https://www.gate.io/ru/trade/PRIME_USDT"
+    },
+    {
+        "symbol": "BLZUSDT",
+        "ask_price": "0.086011",
+        "bid_price": "0.085791",
+        "volume": 159393.40205815,
+        "link": "https://www.gate.io/ru/trade/BLZ_USDT"
+    },
+    {
+        "symbol": "FLUXUSDT",
+        "ask_price": "0.66698",
+        "bid_price": "0.66532",
+        "volume": 824753.04090197,
+        "link": "https://www.gate.io/ru/trade/FLUX_USDT"
+    },
+    {
+        "symbol": "GMMUSDT",
+        "ask_price": "0.002174",
+        "bid_price": "0.00217031",
+        "volume": 3708401.6616464,
+        "link": "https://www.gate.io/ru/trade/GMM_USDT"
+    },
+    {
+        "symbol": "IGUUSDT",
+        "ask_price": "0.12698",
+        "bid_price": "0.12602",
+        "volume": 2132062.8023403,
+        "link": "https://www.gate.io/ru/trade/IGU_USDT"
+    },
+    {
+        "symbol": "GRINUSDT",
+        "ask_price": "0.062738",
+        "bid_price": "0.062661",
+        "volume": 34395.745882027,
+        "link": "https://www.gate.io/ru/trade/GRIN_USDT"
+    },
+    {
+        "symbol": "OUSDUSDT",
+        "ask_price": "0.99886",
+        "bid_price": "0.99826",
+        "volume": 32335.496588885,
+        "link": "https://www.gate.io/ru/trade/OUSD_USDT"
+    },
+    {
+        "symbol": "SOVUSDT",
+        "ask_price": "0.6913",
+        "bid_price": "0.68859",
+        "volume": 78417.357091364,
+        "link": "https://www.gate.io/ru/trade/SOV_USDT"
+    },
+    {
+        "symbol": "ECOXUSDT",
+        "ask_price": "0.89089",
+        "bid_price": "0.89054",
+        "volume": 61955.763213514,
+        "link": "https://www.gate.io/ru/trade/ECOX_USDT"
+    },
+    {
+        "symbol": "ARUSDT",
+        "ask_price": "8.457",
+        "bid_price": "8.447",
+        "volume": 249592.07037813,
+        "link": "https://www.gate.io/ru/trade/AR_USDT"
+    },
+    {
+        "symbol": "LINAUSDT",
+        "ask_price": "0.0081307",
+        "bid_price": "0.0080962",
+        "volume": 41656.087751923,
+        "link": "https://www.gate.io/ru/trade/LINA_USDT"
+    },
+    {
+        "symbol": "ALICEUSDT",
+        "ask_price": "1.5787",
+        "bid_price": "1.575",
+        "volume": 52889.652979188,
+        "link": "https://www.gate.io/ru/trade/ALICE_USDT"
+    },
+    {
+        "symbol": "BLOCKUSDT",
+        "ask_price": "0.09098",
+        "bid_price": "0.09078",
+        "volume": 137521.04845075,
+        "link": "https://www.gate.io/ru/trade/BLOCK_USDT"
+    },
+    {
+        "symbol": "WITUSDT",
+        "ask_price": "0.002625",
+        "bid_price": "0.00261",
+        "volume": 99494.830133132,
+        "link": "https://www.gate.io/ru/trade/WIT_USDT"
+    },
+    {
+        "symbol": "MDTUSDT",
+        "ask_price": "0.07742",
+        "bid_price": "0.07718",
+        "volume": 7295248.6213686,
+        "link": "https://www.gate.io/ru/trade/MDT_USDT"
+    },
+    {
+        "symbol": "WINGUSDT",
+        "ask_price": "6.7894",
+        "bid_price": "6.7683",
+        "volume": 51920.984370233,
+        "link": "https://www.gate.io/ru/trade/WING_USDT"
+    },
+    {
+        "symbol": "AUTOUSDT",
+        "ask_price": "264.77",
+        "bid_price": "262.55",
+        "volume": 46808.423369009,
+        "link": "https://www.gate.io/ru/trade/AUTO_USDT"
+    },
+    {
+        "symbol": "BSUSDT",
+        "ask_price": "0.44955",
+        "bid_price": "0.42356",
+        "volume": 46323.139508414,
+        "link": "https://www.gate.io/ru/trade/BS_USDT"
+    },
+    {
+        "symbol": "1INCHUSDT",
+        "ask_price": "0.5038",
+        "bid_price": "0.50297",
+        "volume": 161559.68387586,
+        "link": "https://www.gate.io/ru/trade/1INCH_USDT"
+    },
+    {
+        "symbol": "CHZUSDT",
+        "ask_price": "0.11989",
+        "bid_price": "0.11977",
+        "volume": 365036.03123514,
+        "link": "https://www.gate.io/ru/trade/CHZ_USDT"
+    },
+    {
+        "symbol": "HODUSDT",
+        "ask_price": "0.00495",
+        "bid_price": "0.00493",
+        "volume": 50989.139027747,
+        "link": "https://www.gate.io/ru/trade/HOD_USDT"
+    },
+    {
+        "symbol": "GTUSDT",
+        "ask_price": "4.8206",
+        "bid_price": "4.82",
+        "volume": 493790.10746468,
+        "link": "https://www.gate.io/ru/trade/GT_USDT"
+    },
+    {
+        "symbol": "BATUSDT",
+        "ask_price": "0.2478",
+        "bid_price": "0.2472",
+        "volume": 157678.09187341,
+        "link": "https://www.gate.io/ru/trade/BAT_USDT"
+    },
+    {
+        "symbol": "GBPTUSDT",
+        "ask_price": "1.18784",
+        "bid_price": "1.18488",
+        "volume": 133759.30453419,
+        "link": "https://www.gate.io/ru/trade/GBPT_USDT"
+    },
+    {
+        "symbol": "BVTUSDT",
+        "ask_price": "0.009304",
+        "bid_price": "0.009002",
+        "volume": 157820.92222048,
+        "link": "https://www.gate.io/ru/trade/BVT_USDT"
+    },
+    {
+        "symbol": "KONUSDT",
+        "ask_price": "0.08377",
+        "bid_price": "0.08345",
+        "volume": 389317.05107232,
+        "link": "https://www.gate.io/ru/trade/KON_USDT"
+    },
+    {
+        "symbol": "ODDZUSDT",
+        "ask_price": "0.02562",
+        "bid_price": "0.02475",
+        "volume": 107507.65526713,
+        "link": "https://www.gate.io/ru/trade/ODDZ_USDT"
+    },
+    {
+        "symbol": "CFXUSDT",
+        "ask_price": "0.201294",
+        "bid_price": "0.200974",
+        "volume": 4631579.1720663,
+        "link": "https://www.gate.io/ru/trade/CFX_USDT"
+    },
+    {
+        "symbol": "STNDUSDT",
+        "ask_price": "0.030114",
+        "bid_price": "0.030113",
+        "volume": 30259.09860464,
+        "link": "https://www.gate.io/ru/trade/STND_USDT"
+    },
+    {
+        "symbol": "SDAOUSDT",
+        "ask_price": "0.6001",
+        "bid_price": "0.5995",
+        "volume": 2147620.458942,
+        "link": "https://www.gate.io/ru/trade/SDAO_USDT"
+    },
+    {
+        "symbol": "ZEUMUSDT",
+        "ask_price": "0.0072",
+        "bid_price": "0.006846",
+        "volume": 216721.66825835,
+        "link": "https://www.gate.io/ru/trade/ZEUM_USDT"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "ask_price": "287.25",
+        "bid_price": "287.22",
+        "volume": 3023563.524099,
+        "link": "https://www.gate.io/ru/trade/BNB_USDT"
+    },
+    {
+        "symbol": "SFPUSDT",
+        "ask_price": "0.4414",
+        "bid_price": "0.44004",
+        "volume": 31963.66751384,
+        "link": "https://www.gate.io/ru/trade/SFP_USDT"
+    },
+    {
+        "symbol": "KINUSDT",
+        "ask_price": "0.00000456",
+        "bid_price": "0.00000455",
+        "volume": 185656.00000824,
+        "link": "https://www.gate.io/ru/trade/KIN_USDT"
+    },
+    {
+        "symbol": "NEOUSDT",
+        "ask_price": "11.67",
+        "bid_price": "11.65",
+        "volume": 153190.6235372,
+        "link": "https://www.gate.io/ru/trade/NEO_USDT"
+    },
+    {
+        "symbol": "DASHUSDT",
+        "ask_price": "61.27",
+        "bid_price": "61.2",
+        "volume": 168790.32357233,
+        "link": "https://www.gate.io/ru/trade/DASH_USDT"
+    },
+    {
+        "symbol": "PSLUSDT",
+        "ask_price": "0.000609",
+        "bid_price": "0.000598",
+        "volume": 2424235.9939714,
+        "link": "https://www.gate.io/ru/trade/PSL_USDT"
+    },
+    {
+        "symbol": "GLMRUSDT",
+        "ask_price": "0.38929",
+        "bid_price": "0.38856",
+        "volume": 222040.51966595,
+        "link": "https://www.gate.io/ru/trade/GLMR_USDT"
+    },
+    {
+        "symbol": "BNXUSDT",
+        "ask_price": "0.7227",
+        "bid_price": "0.7225",
+        "volume": 199734.21089666,
+        "link": "https://www.gate.io/ru/trade/BNX_USDT"
+    },
+    {
+        "symbol": "XRDUSDT",
+        "ask_price": "0.040981",
+        "bid_price": "0.04098",
+        "volume": 43674.054837019,
+        "link": "https://www.gate.io/ru/trade/XRD_USDT"
+    },
+    {
+        "symbol": "NCTUSDT",
+        "ask_price": "0.01022",
+        "bid_price": "0.01021",
+        "volume": 31194.265589242,
+        "link": "https://www.gate.io/ru/trade/NCT_USDT"
+    },
+    {
+        "symbol": "QLCUSDT",
+        "ask_price": "0.073",
+        "bid_price": "0.0718909",
+        "volume": 37482.795130352,
+        "link": "https://www.gate.io/ru/trade/QLC_USDT"
+    },
+    {
+        "symbol": "MNZUSDT",
+        "ask_price": "0.0003289",
+        "bid_price": "0.0003218",
+        "volume": 51399.510853588,
+        "link": "https://www.gate.io/ru/trade/MNZ_USDT"
+    },
+    {
+        "symbol": "CROUSDT",
+        "ask_price": "0.070765",
+        "bid_price": "0.070764",
+        "volume": 144679.57595377,
+        "link": "https://www.gate.io/ru/trade/CRO_USDT"
+    },
+    {
+        "symbol": "ICPUSDT",
+        "ask_price": "5.2834",
+        "bid_price": "5.2781",
+        "volume": 609158.29368527,
+        "link": "https://www.gate.io/ru/trade/ICP_USDT"
+    },
+    {
+        "symbol": "VINUUSDT",
+        "ask_price": "0.00000001516",
+        "bid_price": "0.00000001505",
+        "volume": 104565.06621237,
+        "link": "https://www.gate.io/ru/trade/VINU_USDT"
+    },
+    {
+        "symbol": "BOSONUSDT",
+        "ask_price": "0.212",
+        "bid_price": "0.2105",
+        "volume": 37193.547776971,
+        "link": "https://www.gate.io/ru/trade/BOSON_USDT"
+    },
+    {
+        "symbol": "QSPUSDT",
+        "ask_price": "0.01865",
+        "bid_price": "0.01822",
+        "volume": 36431.168270875,
+        "link": "https://www.gate.io/ru/trade/QSP_USDT"
+    },
+    {
+        "symbol": "CVTXUSDT",
+        "ask_price": "0.155425",
+        "bid_price": "0.153581",
+        "volume": 66094.261579626,
+        "link": "https://www.gate.io/ru/trade/CVTX_USDT"
+    },
+    {
+        "symbol": "LOOKSUSDT",
+        "ask_price": "0.16137",
+        "bid_price": "0.16091",
+        "volume": 514185.99942465,
+        "link": "https://www.gate.io/ru/trade/LOOKS_USDT"
+    },
+    {
+        "symbol": "ACSUSDT",
+        "ask_price": "0.01128784",
+        "bid_price": "0.0112545",
+        "volume": 49066991.936203,
+        "link": "https://www.gate.io/ru/trade/ACS_USDT"
+    },
+    {
+        "symbol": "BZZUSDT",
+        "ask_price": "0.57415",
+        "bid_price": "0.5718",
+        "volume": 38838.690726674,
+        "link": "https://www.gate.io/ru/trade/BZZ_USDT"
+    },
+    {
+        "symbol": "XENUSDT",
+        "ask_price": "0.00000088",
+        "bid_price": "0.00000087",
+        "volume": 164273.95184917,
+        "link": "https://www.gate.io/ru/trade/XEN_USDT"
+    },
+    {
+        "symbol": "JULDUSDT",
+        "ask_price": "0.0029436",
+        "bid_price": "0.00293",
+        "volume": 37019.514377722,
+        "link": "https://www.gate.io/ru/trade/JULD_USDT"
+    },
+    {
+        "symbol": "BITUSDT",
+        "ask_price": "0.5203",
+        "bid_price": "0.519",
+        "volume": 46834.886372801,
+        "link": "https://www.gate.io/ru/trade/BIT_USDT"
+    },
+    {
+        "symbol": "INDIUSDT",
+        "ask_price": "0.08356",
+        "bid_price": "0.08105",
+        "volume": 32046.762256719,
+        "link": "https://www.gate.io/ru/trade/INDI_USDT"
+    },
+    {
+        "symbol": "GLQUSDT",
+        "ask_price": "0.011576",
+        "bid_price": "0.0114022",
+        "volume": 54246.406393194,
+        "link": "https://www.gate.io/ru/trade/GLQ_USDT"
+    },
+    {
+        "symbol": "SUNNYUSDT",
+        "ask_price": "0.00009197",
+        "bid_price": "0.00009186",
+        "volume": 108797.42745922,
+        "link": "https://www.gate.io/ru/trade/SUNNY_USDT"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "ask_price": "0.37587",
+        "bid_price": "0.37586",
+        "volume": 5051033.0844914,
+        "link": "https://www.gate.io/ru/trade/XRP_USDT"
+    },
+    {
+        "symbol": "SHILLUSDT",
+        "ask_price": "0.017145",
+        "bid_price": "0.017014",
+        "volume": 44870.769267496,
+        "link": "https://www.gate.io/ru/trade/SHILL_USDT"
+    },
+    {
+        "symbol": "REALMUSDT",
+        "ask_price": "0.01701",
+        "bid_price": "0.01693",
+        "volume": 128016.5525418,
+        "link": "https://www.gate.io/ru/trade/REALM_USDT"
+    },
+    {
+        "symbol": "XPLAUSDT",
+        "ask_price": "0.61121",
+        "bid_price": "0.60599",
+        "volume": 88032.246731007,
+        "link": "https://www.gate.io/ru/trade/XPLA_USDT"
+    },
+    {
+        "symbol": "USDTUSD",
+        "ask_price": "1",
+        "bid_price": "0.9999",
+        "volume": 1337117.8823358,
+        "link": "https://www.gate.io/ru/trade/USD_TUSD"
+    },
+    {
+        "symbol": "ACAUSDT",
+        "ask_price": "0.11294",
+        "bid_price": "0.11231",
+        "volume": 70406.493989722,
+        "link": "https://www.gate.io/ru/trade/ACA_USDT"
+    },
+    {
+        "symbol": "RLCUSDT",
+        "ask_price": "1.6426",
+        "bid_price": "1.6358",
+        "volume": 35193.05266895,
+        "link": "https://www.gate.io/ru/trade/RLC_USDT"
+    },
+    {
+        "symbol": "OVRUSDT",
+        "ask_price": "0.3262",
+        "bid_price": "0.3257",
+        "volume": 128110.0873837,
+        "link": "https://www.gate.io/ru/trade/OVR_USDT"
+    },
+    {
+        "symbol": "NBSUSDT",
+        "ask_price": "0.000507",
+        "bid_price": "0.000505",
+        "volume": 55424.095411647,
+        "link": "https://www.gate.io/ru/trade/NBS_USDT"
+    },
+    {
+        "symbol": "ANCUSDT",
+        "ask_price": "0.02286",
+        "bid_price": "0.02283",
+        "volume": 287385.12971269,
+        "link": "https://www.gate.io/ru/trade/ANC_USDT"
+    },
+    {
+        "symbol": "SRTUSDT",
+        "ask_price": "0.000093",
+        "bid_price": "0.000092",
+        "volume": 61428.010834652,
+        "link": "https://www.gate.io/ru/trade/SRT_USDT"
+    },
+    {
+        "symbol": "XCHUSDT",
+        "ask_price": "36.339",
+        "bid_price": "36.235",
+        "volume": 154299.66113364,
+        "link": "https://www.gate.io/ru/trade/XCH_USDT"
+    },
+    {
+        "symbol": "CELLUSDT",
+        "ask_price": "0.272",
+        "bid_price": "0.2706",
+        "volume": 44618.134554984,
+        "link": "https://www.gate.io/ru/trade/CELL_USDT"
+    },
+    {
+        "symbol": "GMXUSDT",
+        "ask_price": "70.244",
+        "bid_price": "70.082",
+        "volume": 281814.40931313,
+        "link": "https://www.gate.io/ru/trade/GMX_USDT"
+    },
+    {
+        "symbol": "DAFIUSDT",
+        "ask_price": "0.0146605",
+        "bid_price": "0.0146469",
+        "volume": 120113.07374868,
+        "link": "https://www.gate.io/ru/trade/DAFI_USDT"
+    },
+    {
+        "symbol": "YFIUSDT",
+        "ask_price": "9634.9",
+        "bid_price": "9617.12",
+        "volume": 94174.333286695,
+        "link": "https://www.gate.io/ru/trade/YFI_USDT"
+    },
+    {
+        "symbol": "NYMUSDT",
+        "ask_price": "0.25819",
+        "bid_price": "0.25781",
+        "volume": 52419.151758537,
+        "link": "https://www.gate.io/ru/trade/NYM_USDT"
+    },
+    {
+        "symbol": "THALESUSDT",
+        "ask_price": "0.63515",
+        "bid_price": "0.63514",
+        "volume": 36685.294155718,
+        "link": "https://www.gate.io/ru/trade/THALES_USDT"
+    },
+    {
+        "symbol": "DESUSDT",
+        "ask_price": "0.0016552",
+        "bid_price": "0.001651",
+        "volume": 46355.455936615,
+        "link": "https://www.gate.io/ru/trade/DES_USDT"
+    },
+    {
+        "symbol": "HOOKUSDT",
+        "ask_price": "1.89302",
+        "bid_price": "1.89119",
+        "volume": 1681418.5259313,
+        "link": "https://www.gate.io/ru/trade/HOOK_USDT"
+    },
+    {
+        "symbol": "ZBCUSDT",
+        "ask_price": "0.013231",
+        "bid_price": "0.013205",
+        "volume": 168469.13788026,
+        "link": "https://www.gate.io/ru/trade/ZBC_USDT"
+    },
+    {
+        "symbol": "CTCUSDT",
+        "ask_price": "0.4467",
+        "bid_price": "0.4448",
+        "volume": 549321.20173281,
+        "link": "https://www.gate.io/ru/trade/CTC_USDT"
+    },
+    {
+        "symbol": "PRQUSDT",
+        "ask_price": "0.136",
+        "bid_price": "0.1359",
+        "volume": 47723.418792446,
+        "link": "https://www.gate.io/ru/trade/PRQ_USDT"
+    },
+    {
+        "symbol": "COREUSDT",
+        "ask_price": "2.8068",
+        "bid_price": "2.804",
+        "volume": 198517.40133842,
+        "link": "https://www.gate.io/ru/trade/CORE_USDT"
+    },
+    {
+        "symbol": "KLAYUSDT",
+        "ask_price": "0.2199",
+        "bid_price": "0.2191",
+        "volume": 55304.333650564,
+        "link": "https://www.gate.io/ru/trade/KLAY_USDT"
+    },
+    {
+        "symbol": "MXCUSDT",
+        "ask_price": "0.022442",
+        "bid_price": "0.022351",
+        "volume": 101765.79534235,
+        "link": "https://www.gate.io/ru/trade/MXC_USDT"
+    },
+    {
+        "symbol": "GALUSDT",
+        "ask_price": "1.6247",
+        "bid_price": "1.6223",
+        "volume": 139698.99666409,
+        "link": "https://www.gate.io/ru/trade/GAL_USDT"
+    },
+    {
+        "symbol": "BLTUSDT",
+        "ask_price": "0.05724",
+        "bid_price": "0.05509",
+        "volume": 33084.200386632,
+        "link": "https://www.gate.io/ru/trade/BLT_USDT"
+    },
+    {
+        "symbol": "USDDUSDT",
+        "ask_price": "1.00108",
+        "bid_price": "0.99757",
+        "volume": 400824.19033539,
+        "link": "https://www.gate.io/ru/trade/USDD_USDT"
+    },
+    {
+        "symbol": "FISUSDT",
+        "ask_price": "0.58093",
+        "bid_price": "0.57995",
+        "volume": 554539.20368276,
+        "link": "https://www.gate.io/ru/trade/FIS_USDT"
+    },
+    {
+        "symbol": "OKBUSDT",
+        "ask_price": "43.918",
+        "bid_price": "43.722",
+        "volume": 50709.91278565,
+        "link": "https://www.gate.io/ru/trade/OKB_USDT"
+    },
+    {
+        "symbol": "SRMUSDT",
+        "ask_price": "0.27657",
+        "bid_price": "0.2759",
+        "volume": 122380.96998152,
+        "link": "https://www.gate.io/ru/trade/SRM_USDT"
+    },
+    {
+        "symbol": "PEOPLEUSDT",
+        "ask_price": "0.021319",
+        "bid_price": "0.02129",
+        "volume": 301134.05615653,
+        "link": "https://www.gate.io/ru/trade/PEOPLE_USDT"
+    },
+    {
+        "symbol": "FTRBUSDT",
+        "ask_price": "0.005782",
+        "bid_price": "0.005778",
+        "volume": 154173.34667234,
+        "link": "https://www.gate.io/ru/trade/FTRB_USDT"
+    },
+    {
+        "symbol": "DREPUSDT",
+        "ask_price": "0.4903",
+        "bid_price": "0.4891",
+        "volume": 82329.596971296,
+        "link": "https://www.gate.io/ru/trade/DREP_USDT"
+    },
+    {
+        "symbol": "CREDITUSDT",
+        "ask_price": "0.0084",
+        "bid_price": "0.008384",
+        "volume": 36571.587739694,
+        "link": "https://www.gate.io/ru/trade/CREDIT_USDT"
+    },
+    {
+        "symbol": "BONKUSDT",
+        "ask_price": "0.0000005568",
+        "bid_price": "0.000000556",
+        "volume": 431949.68197068,
+        "link": "https://www.gate.io/ru/trade/BONK_USDT"
+    },
+    {
+        "symbol": "MOBUSDT",
+        "ask_price": "1.6203",
+        "bid_price": "1.6158",
+        "volume": 230975.10366199,
+        "link": "https://www.gate.io/ru/trade/MOB_USDT"
+    },
+    {
+        "symbol": "QNTUSDT",
+        "ask_price": "122.797",
+        "bid_price": "122.302",
+        "volume": 39598.257823747,
+        "link": "https://www.gate.io/ru/trade/QNT_USDT"
+    },
+    {
+        "symbol": "CELUSDT",
+        "ask_price": "0.38451",
+        "bid_price": "0.38339",
+        "volume": 52210.704323124,
+        "link": "https://www.gate.io/ru/trade/CEL_USDT"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "ask_price": "1554.26",
+        "bid_price": "1554.25",
+        "volume": 116398652.96472,
+        "link": "https://www.gate.io/ru/trade/ETH_USDT"
+    },
+    {
+        "symbol": "SSVUSDT",
+        "ask_price": "38.9564",
+        "bid_price": "38.8959",
+        "volume": 1151249.4320089,
+        "link": "https://www.gate.io/ru/trade/SSV_USDT"
+    },
+    {
+        "symbol": "GELUSDT",
+        "ask_price": "0.2978",
+        "bid_price": "0.2975",
+        "volume": 40082.915742227,
+        "link": "https://www.gate.io/ru/trade/GEL_USDT"
+    },
+    {
+        "symbol": "RAREUSDT",
+        "ask_price": "0.13435",
+        "bid_price": "0.13388",
+        "volume": 61238.890106944,
+        "link": "https://www.gate.io/ru/trade/RARE_USDT"
+    },
+    {
+        "symbol": "ZAMUSDT",
+        "ask_price": "0.002906",
+        "bid_price": "0.002886",
+        "volume": 42498.038103149,
+        "link": "https://www.gate.io/ru/trade/ZAM_USDT"
+    },
+    {
+        "symbol": "ERGUSDT",
+        "ask_price": "1.4766",
+        "bid_price": "1.4713",
+        "volume": 124461.93233414,
+        "link": "https://www.gate.io/ru/trade/ERG_USDT"
+    },
+    {
+        "symbol": "SUNUSDT",
+        "ask_price": "0.0065882",
+        "bid_price": "0.0065547",
+        "volume": 494494.84205597,
+        "link": "https://www.gate.io/ru/trade/SUN_USDT"
+    },
+    {
+        "symbol": "KDAUSDT",
+        "ask_price": "1.03574",
+        "bid_price": "1.03414",
+        "volume": 518839.52715973,
+        "link": "https://www.gate.io/ru/trade/KDA_USDT"
+    },
+    {
+        "symbol": "SISUSDT",
+        "ask_price": "0.1119",
+        "bid_price": "0.1113",
+        "volume": 44072.045050238,
+        "link": "https://www.gate.io/ru/trade/SIS_USDT"
+    },
+    {
+        "symbol": "LTOUSDT",
+        "ask_price": "0.114777",
+        "bid_price": "0.114001",
+        "volume": 64223.021974885,
+        "link": "https://www.gate.io/ru/trade/LTO_USDT"
+    },
+    {
+        "symbol": "POPUSDT",
+        "ask_price": "0.000004853",
+        "bid_price": "0.000004803",
+        "volume": 443613.84248404,
+        "link": "https://www.gate.io/ru/trade/POP_USDT"
+    },
+    {
+        "symbol": "SOLOUSDT",
+        "ask_price": "0.19238",
+        "bid_price": "0.19156",
+        "volume": 129691.2114909,
+        "link": "https://www.gate.io/ru/trade/SOLO_USDT"
+    },
+    {
+        "symbol": "IONXUSDT",
+        "ask_price": "0.02457",
+        "bid_price": "0.0245",
+        "volume": 57640.717186209,
+        "link": "https://www.gate.io/ru/trade/IONX_USDT"
+    },
+    {
+        "symbol": "TOMIUSDT",
+        "ask_price": "1.61737",
+        "bid_price": "1.60174",
+        "volume": 994828.48830144,
+        "link": "https://www.gate.io/ru/trade/TOMI_USDT"
+    },
+    {
+        "symbol": "WOOUSDT",
+        "ask_price": "0.18236",
+        "bid_price": "0.18206",
+        "volume": 97486.317492312,
+        "link": "https://www.gate.io/ru/trade/WOO_USDT"
+    },
+    {
+        "symbol": "SWPUSDT",
+        "ask_price": "0.002253",
+        "bid_price": "0.002243",
+        "volume": 79573.665745576,
+        "link": "https://www.gate.io/ru/trade/SWP_USDT"
+    },
+    {
+        "symbol": "REDTOKENUSDT",
+        "ask_price": "0.0012",
+        "bid_price": "0.001196",
+        "volume": 222190.73111554,
+        "link": "https://www.gate.io/ru/trade/REDTOKEN_USDT"
+    },
+    {
+        "symbol": "ALGOUSDT",
+        "ask_price": "0.21441",
+        "bid_price": "0.2141",
+        "volume": 160833.79904111,
+        "link": "https://www.gate.io/ru/trade/ALGO_USDT"
+    },
+    {
+        "symbol": "AIRTNTUSDT",
+        "ask_price": "0.00097",
+        "bid_price": "0.000962",
+        "volume": 63181.399938112,
+        "link": "https://www.gate.io/ru/trade/AIRTNT_USDT"
+    },
+    {
+        "symbol": "AOGUSDT",
+        "ask_price": "0.01868",
+        "bid_price": "0.01854",
+        "volume": 479118.35774199,
+        "link": "https://www.gate.io/ru/trade/AOG_USDT"
+    },
+    {
+        "symbol": "ORAIUSDT",
+        "ask_price": "5.8627",
+        "bid_price": "5.8",
+        "volume": 81657.572058567,
+        "link": "https://www.gate.io/ru/trade/ORAI_USDT"
+    },
+    {
+        "symbol": "PUSHUSDT",
+        "ask_price": "0.41351",
+        "bid_price": "0.41071",
+        "volume": 57232.830112527,
+        "link": "https://www.gate.io/ru/trade/PUSH_USDT"
+    },
+    {
+        "symbol": "JOYUSDT",
+        "ask_price": "0.065141",
+        "bid_price": "0.064643",
+        "volume": 37217.295258142,
+        "link": "https://www.gate.io/ru/trade/JOY_USDT"
+    },
+    {
+        "symbol": "SHIBUSDT",
+        "ask_price": "0.0000107164",
+        "bid_price": "0.0000107163",
+        "volume": 6576808.2024653,
+        "link": "https://www.gate.io/ru/trade/SHIB_USDT"
+    },
+    {
+        "symbol": "CPOOLUSDT",
+        "ask_price": "0.04532",
+        "bid_price": "0.04529",
+        "volume": 38456.437380003,
+        "link": "https://www.gate.io/ru/trade/CPOOL_USDT"
+    },
+    {
+        "symbol": "BADGERUSDT",
+        "ask_price": "3.0389",
+        "bid_price": "3.0261",
+        "volume": 37752.325593427,
+        "link": "https://www.gate.io/ru/trade/BADGER_USDT"
+    },
+    {
+        "symbol": "DOTUSDT",
+        "ask_price": "5.8275",
+        "bid_price": "5.8264",
+        "volume": 1781920.0829931,
+        "link": "https://www.gate.io/ru/trade/DOT_USDT"
+    },
+    {
+        "symbol": "KUBUSDT",
+        "ask_price": "1.7396",
+        "bid_price": "1.7328",
+        "volume": 43214.622153062,
+        "link": "https://www.gate.io/ru/trade/KUB_USDT"
+    },
+    {
+        "symbol": "MMPROUSDT",
+        "ask_price": "0.16626",
+        "bid_price": "0.16617",
+        "volume": 256056.51212645,
+        "link": "https://www.gate.io/ru/trade/MMPRO_USDT"
+    },
+    {
+        "symbol": "PNTUSDT",
+        "ask_price": "0.2613",
+        "bid_price": "0.2601",
+        "volume": 113854.42149261,
+        "link": "https://www.gate.io/ru/trade/PNT_USDT"
+    },
+    {
+        "symbol": "ADSUSDT",
+        "ask_price": "0.1579",
+        "bid_price": "0.1574",
+        "volume": 78967.37800604,
+        "link": "https://www.gate.io/ru/trade/ADS_USDT"
+    },
+    {
+        "symbol": "IOSTUSDT",
+        "ask_price": "0.010054",
+        "bid_price": "0.010035",
+        "volume": 31759.242021764,
+        "link": "https://www.gate.io/ru/trade/IOST_USDT"
+    },
+    {
+        "symbol": "STOSUSDT",
+        "ask_price": "0.59297",
+        "bid_price": "0.59034",
+        "volume": 39201.652468379,
+        "link": "https://www.gate.io/ru/trade/STOS_USDT"
+    },
+    {
+        "symbol": "RAYUSDT",
+        "ask_price": "0.25085",
+        "bid_price": "0.2487",
+        "volume": 278607.78877357,
+        "link": "https://www.gate.io/ru/trade/RAY_USDT"
+    },
+    {
+        "symbol": "UFIUSDT",
+        "ask_price": "0.03942",
+        "bid_price": "0.03925",
+        "volume": 55840.53829129,
+        "link": "https://www.gate.io/ru/trade/UFI_USDT"
+    },
+    {
+        "symbol": "HCTUSDT",
+        "ask_price": "0.0003811",
+        "bid_price": "0.0003781",
+        "volume": 32341.116089767,
+        "link": "https://www.gate.io/ru/trade/HCT_USDT"
+    },
+    {
+        "symbol": "SANTOSUSDT",
+        "ask_price": "4.4998",
+        "bid_price": "4.4751",
+        "volume": 89772.951714962,
+        "link": "https://www.gate.io/ru/trade/SANTOS_USDT"
+    },
+    {
+        "symbol": "BASEUSDT",
+        "ask_price": "0.7563",
+        "bid_price": "0.7499",
+        "volume": 46480.665008442,
+        "link": "https://www.gate.io/ru/trade/BASE_USDT"
+    },
+    {
+        "symbol": "CWSUSDT",
+        "ask_price": "0.50227",
+        "bid_price": "0.49853",
+        "volume": 31143.480344726,
+        "link": "https://www.gate.io/ru/trade/CWS_USDT"
+    },
+    {
+        "symbol": "JOEUSDT",
+        "ask_price": "0.23901",
+        "bid_price": "0.23789",
+        "volume": 37236.888624013,
+        "link": "https://www.gate.io/ru/trade/JOE_USDT"
+    },
+    {
+        "symbol": "CAREUSDT",
+        "ask_price": "0.006692",
+        "bid_price": "0.00663",
+        "volume": 312237.81168335,
+        "link": "https://www.gate.io/ru/trade/CARE_USDT"
+    },
+    {
+        "symbol": "KUBEUSDT",
+        "ask_price": "0.0102",
+        "bid_price": "0.010112",
+        "volume": 63076.635169939,
+        "link": "https://www.gate.io/ru/trade/KUBE_USDT"
+    },
+    {
+        "symbol": "CFGUSDT",
+        "ask_price": "0.2623",
+        "bid_price": "0.2598",
+        "volume": 134956.47157022,
+        "link": "https://www.gate.io/ru/trade/CFG_USDT"
+    },
+    {
+        "symbol": "SLIMUSDT",
+        "ask_price": "0.051",
+        "bid_price": "0.0507",
+        "volume": 38213.059925523,
+        "link": "https://www.gate.io/ru/trade/SLIM_USDT"
+    },
+    {
+        "symbol": "TSUKAUSDT",
+        "ask_price": "0.077583",
+        "bid_price": "0.07627",
+        "volume": 31415.1982697,
+        "link": "https://www.gate.io/ru/trade/TSUKA_USDT"
+    },
+    {
+        "symbol": "NWCUSDT",
+        "ask_price": "0.052901",
+        "bid_price": "0.052511",
+        "volume": 34129.420043546,
+        "link": "https://www.gate.io/ru/trade/NWC_USDT"
+    },
+    {
+        "symbol": "ZECUSDT",
+        "ask_price": "37.17",
+        "bid_price": "37.1",
+        "volume": 104221.47311281,
+        "link": "https://www.gate.io/ru/trade/ZEC_USDT"
+    },
+    {
+        "symbol": "GGGUSDT",
+        "ask_price": "0.14922",
+        "bid_price": "0.14667",
+        "volume": 42637.649624563,
+        "link": "https://www.gate.io/ru/trade/GGG_USDT"
+    },
+    {
+        "symbol": "NRFBUSDT",
+        "ask_price": "0.00465",
+        "bid_price": "0.00461",
+        "volume": 125322.00849695,
+        "link": "https://www.gate.io/ru/trade/NRFB_USDT"
+    },
+    {
+        "symbol": "USTCUSDT",
+        "ask_price": "0.023691",
+        "bid_price": "0.023664",
+        "volume": 244833.32192325,
+        "link": "https://www.gate.io/ru/trade/USTC_USDT"
+    },
+    {
+        "symbol": "OSMOUSDT",
+        "ask_price": "0.84",
+        "bid_price": "0.8374",
+        "volume": 121623.82923523,
+        "link": "https://www.gate.io/ru/trade/OSMO_USDT"
+    },
+    {
+        "symbol": "COVALUSDT",
+        "ask_price": "0.018371",
+        "bid_price": "0.0179",
+        "volume": 43474.66367372,
+        "link": "https://www.gate.io/ru/trade/COVAL_USDT"
+    },
+    {
+        "symbol": "METAXUSDT",
+        "ask_price": "0.2469",
+        "bid_price": "0.2453",
+        "volume": 45862.278478291,
+        "link": "https://www.gate.io/ru/trade/METAX_USDT"
+    },
+    {
+        "symbol": "POOLZUSDT",
+        "ask_price": "3.6328",
+        "bid_price": "3.6232",
+        "volume": 54405.865681887,
+        "link": "https://www.gate.io/ru/trade/POOLZ_USDT"
+    },
+    {
+        "symbol": "WALVUSDT",
+        "ask_price": "0.041285",
+        "bid_price": "0.041038",
+        "volume": 54900.474175049,
+        "link": "https://www.gate.io/ru/trade/WALV_USDT"
+    },
+    {
+        "symbol": "SNTUSDT",
+        "ask_price": "0.026",
+        "bid_price": "0.02592",
+        "volume": 50577.569315436,
+        "link": "https://www.gate.io/ru/trade/SNT_USDT"
+    },
+    {
+        "symbol": "MHUNTUSDT",
+        "ask_price": "0.01085",
+        "bid_price": "0.01077",
+        "volume": 70716.675778389,
+        "link": "https://www.gate.io/ru/trade/MHUNT_USDT"
+    },
+    {
+        "symbol": "SDUSDT",
+        "ask_price": "1.124",
+        "bid_price": "1.1186",
+        "volume": 36979.498683371,
+        "link": "https://www.gate.io/ru/trade/SD_USDT"
+    },
+    {
+        "symbol": "TIPUSDT",
+        "ask_price": "0.01444",
+        "bid_price": "0.01442",
+        "volume": 88070.746970471,
+        "link": "https://www.gate.io/ru/trade/TIP_USDT"
+    },
+    {
+        "symbol": "WLKNUSDT",
+        "ask_price": "0.046634",
+        "bid_price": "0.0464",
+        "volume": 53839.36054366,
+        "link": "https://www.gate.io/ru/trade/WLKN_USDT"
+    },
+    {
+        "symbol": "DEPUSDT",
+        "ask_price": "0.004029",
+        "bid_price": "0.004016",
+        "volume": 295133.98866012,
+        "link": "https://www.gate.io/ru/trade/DEP_USDT"
+    },
+    {
+        "symbol": "RENUSDT",
+        "ask_price": "0.11923",
+        "bid_price": "0.119",
+        "volume": 154217.99578751,
+        "link": "https://www.gate.io/ru/trade/REN_USDT"
+    },
+    {
+        "symbol": "XCVUSDT",
+        "ask_price": "0.005367",
+        "bid_price": "0.005338",
+        "volume": 36421.182329214,
+        "link": "https://www.gate.io/ru/trade/XCV_USDT"
+    },
+    {
+        "symbol": "QTUMUSDT",
+        "ask_price": "2.935",
+        "bid_price": "2.93",
+        "volume": 326416.32396969,
+        "link": "https://www.gate.io/ru/trade/QTUM_USDT"
+    },
+    {
+        "symbol": "ISPUSDT",
+        "ask_price": "0.0013002",
+        "bid_price": "0.0012952",
+        "volume": 98906.902864585,
+        "link": "https://www.gate.io/ru/trade/ISP_USDT"
+    },
+    {
+        "symbol": "MCGUSDT",
+        "ask_price": "0.014",
+        "bid_price": "0.01391",
+        "volume": 47393.226508403,
+        "link": "https://www.gate.io/ru/trade/MCG_USDT"
+    },
+    {
+        "symbol": "SPUMEUSDT",
+        "ask_price": "0.012859",
+        "bid_price": "0.012495",
+        "volume": 40436.173082757,
+        "link": "https://www.gate.io/ru/trade/SPUME_USDT"
+    },
+    {
+        "symbol": "TTUSDT",
+        "ask_price": "0.004548",
+        "bid_price": "0.004525",
+        "volume": 36609.456011953,
+        "link": "https://www.gate.io/ru/trade/TT_USDT"
+    },
+    {
+        "symbol": "DODOUSDT",
+        "ask_price": "0.188771",
+        "bid_price": "0.188677",
+        "volume": 1674243.4012679,
+        "link": "https://www.gate.io/ru/trade/DODO_USDT"
+    },
+    {
+        "symbol": "HAMUSDT",
+        "ask_price": "0.0000000043781",
+        "bid_price": "0.0000000043109",
+        "volume": 409913.33786165,
+        "link": "https://www.gate.io/ru/trade/HAM_USDT"
+    },
+    {
+        "symbol": "BERRYUSDT",
+        "ask_price": "0.0017529",
+        "bid_price": "0.0017452",
+        "volume": 183052.52765921,
+        "link": "https://www.gate.io/ru/trade/BERRY_USDT"
+    },
+    {
+        "symbol": "MBXUSDT",
+        "ask_price": "1.4329",
+        "bid_price": "1.4256",
+        "volume": 33716.973667988,
+        "link": "https://www.gate.io/ru/trade/MBX_USDT"
+    },
+    {
+        "symbol": "FXSUSDT",
+        "ask_price": "9.364",
+        "bid_price": "9.346",
+        "volume": 118856.58689142,
+        "link": "https://www.gate.io/ru/trade/FXS_USDT"
+    },
+    {
+        "symbol": "ALPACAUSDT",
+        "ask_price": "0.3335",
+        "bid_price": "0.3292",
+        "volume": 82198.987658066,
+        "link": "https://www.gate.io/ru/trade/ALPACA_USDT"
+    },
+    {
+        "symbol": "MIRUSDT",
+        "ask_price": "0.12171",
+        "bid_price": "0.12124",
+        "volume": 83311.984982827,
+        "link": "https://www.gate.io/ru/trade/MIR_USDT"
+    },
+    {
+        "symbol": "PRIMALUSDT",
+        "ask_price": "0.0081916",
+        "bid_price": "0.0081506",
+        "volume": 650892.51357424,
+        "link": "https://www.gate.io/ru/trade/PRIMAL_USDT"
+    },
+    {
+        "symbol": "MOVRUSDT",
+        "ask_price": "8.8573",
+        "bid_price": "8.8203",
+        "volume": 49808.422102827,
+        "link": "https://www.gate.io/ru/trade/MOVR_USDT"
+    },
+    {
+        "symbol": "DSLAUSDT",
+        "ask_price": "0.00170223",
+        "bid_price": "0.00166366",
+        "volume": 59659.53166446,
+        "link": "https://www.gate.io/ru/trade/DSLA_USDT"
+    },
+    {
+        "symbol": "APEUSDT",
+        "ask_price": "4.6246",
+        "bid_price": "4.6234",
+        "volume": 498486.66056784,
+        "link": "https://www.gate.io/ru/trade/APE_USDT"
+    },
+    {
+        "symbol": "DAGUSDT",
+        "ask_price": "0.04692",
+        "bid_price": "0.04678",
+        "volume": 30083.663606074,
+        "link": "https://www.gate.io/ru/trade/DAG_USDT"
+    },
+    {
+        "symbol": "ITEMUSDT",
+        "ask_price": "0.00164",
+        "bid_price": "0.00161",
+        "volume": 32641.180885864,
+        "link": "https://www.gate.io/ru/trade/ITEM_USDT"
+    },
+    {
+        "symbol": "IRISUSDT",
+        "ask_price": "0.03112",
+        "bid_price": "0.03089",
+        "volume": 103615.73925971,
+        "link": "https://www.gate.io/ru/trade/IRIS_USDT"
+    },
+    {
+        "symbol": "NFTUSDT",
+        "ask_price": "0.00000045068",
+        "bid_price": "0.00000044866",
+        "volume": 339633.74584264,
+        "link": "https://www.gate.io/ru/trade/NFT_USDT"
+    },
+    {
+        "symbol": "AIOZUSDT",
+        "ask_price": "0.033368",
+        "bid_price": "0.03287",
+        "volume": 30468.825386269,
+        "link": "https://www.gate.io/ru/trade/AIOZ_USDT"
+    },
+    {
+        "symbol": "KICKSUSDT",
+        "ask_price": "0.002261",
+        "bid_price": "0.002238",
+        "volume": 37617.419837982,
+        "link": "https://www.gate.io/ru/trade/KICKS_USDT"
+    },
+    {
+        "symbol": "DOMEUSDT",
+        "ask_price": "0.001754",
+        "bid_price": "0.00174",
+        "volume": 585957.75184329,
+        "link": "https://www.gate.io/ru/trade/DOME_USDT"
+    },
+    {
+        "symbol": "MANAUSDT",
+        "ask_price": "0.58952",
+        "bid_price": "0.58866",
+        "volume": 61218.650747087,
+        "link": "https://www.gate.io/ru/trade/MANA_USDT"
+    },
+    {
+        "symbol": "ATOMUSDT",
+        "ask_price": "11.6321",
+        "bid_price": "11.6251",
+        "volume": 587185.6996995,
+        "link": "https://www.gate.io/ru/trade/ATOM_USDT"
+    },
+    {
+        "symbol": "VETUSDT",
+        "ask_price": "0.02356",
+        "bid_price": "0.02353",
+        "volume": 75789.274386631,
+        "link": "https://www.gate.io/ru/trade/VET_USDT"
+    },
+    {
+        "symbol": "AKROUSDT",
+        "ask_price": "0.0053399",
+        "bid_price": "0.0053203",
+        "volume": 63984.05432658,
+        "link": "https://www.gate.io/ru/trade/AKRO_USDT"
+    }
+]

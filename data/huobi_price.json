@@ -1,0 +1,3614 @@
+[
+    {
+        "symbol": "SYLOUSDT",
+        "ask_price": 0.002016,
+        "bid_price": 0.002001,
+        "volume": 493093.2521905143,
+        "link": "https://www.huobi.com/uk-ua/exchange/sylo_usdt"
+    },
+    {
+        "symbol": "ZIGUSDT",
+        "ask_price": 0.006369,
+        "bid_price": 0.006245,
+        "volume": 30297.0878372982,
+        "link": "https://www.huobi.com/uk-ua/exchange/zig_usdt"
+    },
+    {
+        "symbol": "WALLETUSDT",
+        "ask_price": 0.014287,
+        "bid_price": 0.014286,
+        "volume": 45409.7622731863,
+        "link": "https://www.huobi.com/uk-ua/exchange/wallet_usdt"
+    },
+    {
+        "symbol": "HBBUSDT",
+        "ask_price": 0.1042,
+        "bid_price": 0.1037,
+        "volume": 141337.5190183,
+        "link": "https://www.huobi.com/uk-ua/exchange/hbb_usdt"
+    },
+    {
+        "symbol": "KOKUSDT",
+        "ask_price": 0.0691,
+        "bid_price": 0.0681,
+        "volume": 432925.86982888,
+        "link": "https://www.huobi.com/uk-ua/exchange/kok_usdt"
+    },
+    {
+        "symbol": "SMTUSDT",
+        "ask_price": 0.001692,
+        "bid_price": 0.001617,
+        "volume": 50444.5878877197,
+        "link": "https://www.huobi.com/uk-ua/exchange/smt_usdt"
+    },
+    {
+        "symbol": "MEDAMONUSDT",
+        "ask_price": 0.00557,
+        "bid_price": 0.00536,
+        "volume": 102179.66709248585,
+        "link": "https://www.huobi.com/uk-ua/exchange/medamon_usdt"
+    },
+    {
+        "symbol": "RLYUSDT",
+        "ask_price": 0.019984,
+        "bid_price": 0.01936,
+        "volume": 47637.86154774,
+        "link": "https://www.huobi.com/uk-ua/exchange/rly_usdt"
+    },
+    {
+        "symbol": "MAGICUSDT",
+        "ask_price": 1.3316,
+        "bid_price": 1.3307,
+        "volume": 699668.8752474,
+        "link": "https://www.huobi.com/uk-ua/exchange/magic_usdt"
+    },
+    {
+        "symbol": "MLKUSDT",
+        "ask_price": 0.2704,
+        "bid_price": 0.2681,
+        "volume": 579578.5471172,
+        "link": "https://www.huobi.com/uk-ua/exchange/mlk_usdt"
+    },
+    {
+        "symbol": "ELFUSDT",
+        "ask_price": 0.2735,
+        "bid_price": 0.2726,
+        "volume": 171605.81855963,
+        "link": "https://www.huobi.com/uk-ua/exchange/elf_usdt"
+    },
+    {
+        "symbol": "PIUSDT",
+        "ask_price": 44.638068,
+        "bid_price": 44.0,
+        "volume": 97897.5444187368,
+        "link": "https://www.huobi.com/uk-ua/exchange/pi_usdt"
+    },
+    {
+        "symbol": "WAXLUSDT",
+        "ask_price": 0.6948,
+        "bid_price": 0.6943,
+        "volume": 446418.30829503573,
+        "link": "https://www.huobi.com/uk-ua/exchange/waxl_usdt"
+    },
+    {
+        "symbol": "LUNCUSDT",
+        "ask_price": 0.00014136,
+        "bid_price": 0.00014111,
+        "volume": 111987.23634221114,
+        "link": "https://www.huobi.com/uk-ua/exchange/lunc_usdt"
+    },
+    {
+        "symbol": "LDOUSDT",
+        "ask_price": 2.5513,
+        "bid_price": 2.5489,
+        "volume": 1632425.08501163,
+        "link": "https://www.huobi.com/uk-ua/exchange/ldo_usdt"
+    },
+    {
+        "symbol": "ALICEUSDT",
+        "ask_price": 1.5779,
+        "bid_price": 1.5755,
+        "volume": 105218.67215721,
+        "link": "https://www.huobi.com/uk-ua/exchange/alice_usdt"
+    },
+    {
+        "symbol": "WOZXUSDT",
+        "ask_price": 0.062,
+        "bid_price": 0.0613,
+        "volume": 141534.13074647,
+        "link": "https://www.huobi.com/uk-ua/exchange/wozx_usdt"
+    },
+    {
+        "symbol": "MINEUSDT",
+        "ask_price": 0.003049,
+        "bid_price": 0.002977,
+        "volume": 531164.2074335497,
+        "link": "https://www.huobi.com/uk-ua/exchange/mine_usdt"
+    },
+    {
+        "symbol": "VPADUSDT",
+        "ask_price": 0.03571,
+        "bid_price": 0.0357,
+        "volume": 80706.21586692,
+        "link": "https://www.huobi.com/uk-ua/exchange/vpad_usdt"
+    },
+    {
+        "symbol": "SAOUSDT",
+        "ask_price": 0.003684,
+        "bid_price": 0.003559,
+        "volume": 61626.9479304742,
+        "link": "https://www.huobi.com/uk-ua/exchange/sao_usdt"
+    },
+    {
+        "symbol": "AAVEUSDT",
+        "ask_price": 74.9835,
+        "bid_price": 74.9153,
+        "volume": 667929.43915218,
+        "link": "https://www.huobi.com/uk-ua/exchange/aave_usdt"
+    },
+    {
+        "symbol": "ANKRUSDT",
+        "ask_price": 0.032171,
+        "bid_price": 0.032152,
+        "volume": 4158621.604355279,
+        "link": "https://www.huobi.com/uk-ua/exchange/ankr_usdt"
+    },
+    {
+        "symbol": "LUNRUSDT",
+        "ask_price": 0.1339,
+        "bid_price": 0.1331,
+        "volume": 567311.61856282,
+        "link": "https://www.huobi.com/uk-ua/exchange/lunr_usdt"
+    },
+    {
+        "symbol": "JSTUSDT",
+        "ask_price": 0.026551,
+        "bid_price": 0.026544,
+        "volume": 1055086.30096181,
+        "link": "https://www.huobi.com/uk-ua/exchange/jst_usdt"
+    },
+    {
+        "symbol": "AKTUSDT",
+        "ask_price": 0.3943,
+        "bid_price": 0.3937,
+        "volume": 423441.78582547,
+        "link": "https://www.huobi.com/uk-ua/exchange/akt_usdt"
+    },
+    {
+        "symbol": "DIOUSDT",
+        "ask_price": 0.005218,
+        "bid_price": 0.005201,
+        "volume": 145405.76711381,
+        "link": "https://www.huobi.com/uk-ua/exchange/dio_usdt"
+    },
+    {
+        "symbol": "TOMIUSDT",
+        "ask_price": 1.6229,
+        "bid_price": 1.6207,
+        "volume": 5332978.786087705,
+        "link": "https://www.huobi.com/uk-ua/exchange/tomi_usdt"
+    },
+    {
+        "symbol": "USDTTRY",
+        "ask_price": 18.807,
+        "bid_price": 18.732,
+        "volume": 218861.8910369406,
+        "link": "https://www.huobi.com/uk-ua/exchange/usd_ttry"
+    },
+    {
+        "symbol": "VRAUSDT",
+        "ask_price": 0.006061,
+        "bid_price": 0.006035,
+        "volume": 70853.207821498,
+        "link": "https://www.huobi.com/uk-ua/exchange/vra_usdt"
+    },
+    {
+        "symbol": "TRUUSDT",
+        "ask_price": 0.129754,
+        "bid_price": 0.128774,
+        "volume": 1364759.342380443,
+        "link": "https://www.huobi.com/uk-ua/exchange/tru_usdt"
+    },
+    {
+        "symbol": "SIGNUSDT",
+        "ask_price": 0.080567,
+        "bid_price": 0.080028,
+        "volume": 207172.2531123013,
+        "link": "https://www.huobi.com/uk-ua/exchange/sign_usdt"
+    },
+    {
+        "symbol": "WPCIUSDT",
+        "ask_price": 0.239,
+        "bid_price": 0.2381,
+        "volume": 453513.87880208,
+        "link": "https://www.huobi.com/uk-ua/exchange/wpci_usdt"
+    },
+    {
+        "symbol": "CEREUSDT",
+        "ask_price": 0.006749,
+        "bid_price": 0.00672,
+        "volume": 241111.1385272645,
+        "link": "https://www.huobi.com/uk-ua/exchange/cere_usdt"
+    },
+    {
+        "symbol": "LOOTUSDT",
+        "ask_price": 0.4543,
+        "bid_price": 0.4532,
+        "volume": 51506.36951848,
+        "link": "https://www.huobi.com/uk-ua/exchange/loot_usdt"
+    },
+    {
+        "symbol": "DIAUSDT",
+        "ask_price": 0.3622,
+        "bid_price": 0.3617,
+        "volume": 32957.13486321,
+        "link": "https://www.huobi.com/uk-ua/exchange/dia_usdt"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "ask_price": 0.073475,
+        "bid_price": 0.073457,
+        "volume": 1161763.0696853087,
+        "link": "https://www.huobi.com/uk-ua/exchange/doge_usdt"
+    },
+    {
+        "symbol": "ZENUSDT",
+        "ask_price": 10.7073,
+        "bid_price": 10.6889,
+        "volume": 970545.86626783,
+        "link": "https://www.huobi.com/uk-ua/exchange/zen_usdt"
+    },
+    {
+        "symbol": "RADUSDT",
+        "ask_price": 1.7199,
+        "bid_price": 1.7161,
+        "volume": 225791.01995737,
+        "link": "https://www.huobi.com/uk-ua/exchange/rad_usdt"
+    },
+    {
+        "symbol": "SDUSDT",
+        "ask_price": 1.1181,
+        "bid_price": 1.1169,
+        "volume": 472743.45268409,
+        "link": "https://www.huobi.com/uk-ua/exchange/sd_usdt"
+    },
+    {
+        "symbol": "SNSUSDT",
+        "ask_price": 0.007175,
+        "bid_price": 0.00713,
+        "volume": 120115.20395945,
+        "link": "https://www.huobi.com/uk-ua/exchange/sns_usdt"
+    },
+    {
+        "symbol": "TORNUSDT",
+        "ask_price": 7.79,
+        "bid_price": 7.7461,
+        "volume": 930434.24640112,
+        "link": "https://www.huobi.com/uk-ua/exchange/torn_usdt"
+    },
+    {
+        "symbol": "LATUSDT",
+        "ask_price": 0.02162,
+        "bid_price": 0.020895,
+        "volume": 480358.81437353,
+        "link": "https://www.huobi.com/uk-ua/exchange/lat_usdt"
+    },
+    {
+        "symbol": "ELUUSDT",
+        "ask_price": 0.009848,
+        "bid_price": 0.009622,
+        "volume": 599067.6406595346,
+        "link": "https://www.huobi.com/uk-ua/exchange/elu_usdt"
+    },
+    {
+        "symbol": "LXTUSDT",
+        "ask_price": 0.00022,
+        "bid_price": 0.000218,
+        "volume": 112195.21748918,
+        "link": "https://www.huobi.com/uk-ua/exchange/lxt_usdt"
+    },
+    {
+        "symbol": "MGGUSDT",
+        "ask_price": 0.003828,
+        "bid_price": 0.003623,
+        "volume": 580450.0007618609,
+        "link": "https://www.huobi.com/uk-ua/exchange/mgg_usdt"
+    },
+    {
+        "symbol": "FLRUSDT",
+        "ask_price": 0.0354,
+        "bid_price": 0.0351,
+        "volume": 904082.44965705,
+        "link": "https://www.huobi.com/uk-ua/exchange/flr_usdt"
+    },
+    {
+        "symbol": "BOSONUSDT",
+        "ask_price": 0.2114,
+        "bid_price": 0.2104,
+        "volume": 453183.01800646,
+        "link": "https://www.huobi.com/uk-ua/exchange/boson_usdt"
+    },
+    {
+        "symbol": "ARGUSDT",
+        "ask_price": 1.2374,
+        "bid_price": 1.2351,
+        "volume": 1260650.0933486007,
+        "link": "https://www.huobi.com/uk-ua/exchange/arg_usdt"
+    },
+    {
+        "symbol": "GNXUSDT",
+        "ask_price": 0.002501,
+        "bid_price": 0.002448,
+        "volume": 54705.82055742,
+        "link": "https://www.huobi.com/uk-ua/exchange/gnx_usdt"
+    },
+    {
+        "symbol": "FITFIUSDT",
+        "ask_price": 0.018356,
+        "bid_price": 0.018272,
+        "volume": 106866.8539019786,
+        "link": "https://www.huobi.com/uk-ua/exchange/fitfi_usdt"
+    },
+    {
+        "symbol": "TITANUSDT",
+        "ask_price": 0.066837,
+        "bid_price": 0.064963,
+        "volume": 146428.74135832617,
+        "link": "https://www.huobi.com/uk-ua/exchange/titan_usdt"
+    },
+    {
+        "symbol": "BTMUSDT",
+        "ask_price": 0.027944,
+        "bid_price": 0.027702,
+        "volume": 39341.5521832,
+        "link": "https://www.huobi.com/uk-ua/exchange/btm_usdt"
+    },
+    {
+        "symbol": "BICOUSDT",
+        "ask_price": 0.3832,
+        "bid_price": 0.3813,
+        "volume": 161715.87094853466,
+        "link": "https://www.huobi.com/uk-ua/exchange/bico_usdt"
+    },
+    {
+        "symbol": "ZKSUSDT",
+        "ask_price": 0.0665,
+        "bid_price": 0.0655,
+        "volume": 37484.3630142,
+        "link": "https://www.huobi.com/uk-ua/exchange/zks_usdt"
+    },
+    {
+        "symbol": "BETHUSDT",
+        "ask_price": 1532.84,
+        "bid_price": 1520.8,
+        "volume": 225813.4149023,
+        "link": "https://www.huobi.com/uk-ua/exchange/beth_usdt"
+    },
+    {
+        "symbol": "KCASHUSDT",
+        "ask_price": 0.001403,
+        "bid_price": 0.001359,
+        "volume": 328581.99499359,
+        "link": "https://www.huobi.com/uk-ua/exchange/kcash_usdt"
+    },
+    {
+        "symbol": "POLYXUSDT",
+        "ask_price": 0.1669,
+        "bid_price": 0.1664,
+        "volume": 416253.30067866,
+        "link": "https://www.huobi.com/uk-ua/exchange/polyx_usdt"
+    },
+    {
+        "symbol": "OLANDUSDT",
+        "ask_price": 0.008703,
+        "bid_price": 0.008646,
+        "volume": 504703.294699757,
+        "link": "https://www.huobi.com/uk-ua/exchange/oland_usdt"
+    },
+    {
+        "symbol": "FDTUSDT",
+        "ask_price": 0.0611,
+        "bid_price": 0.0601,
+        "volume": 1082800.33546301,
+        "link": "https://www.huobi.com/uk-ua/exchange/fdt_usdt"
+    },
+    {
+        "symbol": "DCUSDT",
+        "ask_price": 0.001374,
+        "bid_price": 0.001356,
+        "volume": 612545.9830560035,
+        "link": "https://www.huobi.com/uk-ua/exchange/dc_usdt"
+    },
+    {
+        "symbol": "STOREUSDT",
+        "ask_price": 0.038291,
+        "bid_price": 0.037564,
+        "volume": 206165.5841821388,
+        "link": "https://www.huobi.com/uk-ua/exchange/store_usdt"
+    },
+    {
+        "symbol": "RETHUSDT",
+        "ask_price": 0.000115,
+        "bid_price": 0.000113,
+        "volume": 91794.94292820782,
+        "link": "https://www.huobi.com/uk-ua/exchange/reth_usdt"
+    },
+    {
+        "symbol": "AMPUSDT",
+        "ask_price": 0.004723,
+        "bid_price": 0.00471,
+        "volume": 121257.82871249625,
+        "link": "https://www.huobi.com/uk-ua/exchange/amp_usdt"
+    },
+    {
+        "symbol": "GLMUSDT",
+        "ask_price": 0.2418,
+        "bid_price": 0.2361,
+        "volume": 38042.69247024,
+        "link": "https://www.huobi.com/uk-ua/exchange/glm_usdt"
+    },
+    {
+        "symbol": "VSYSUSDT",
+        "ask_price": 0.002465,
+        "bid_price": 0.002434,
+        "volume": 245235.6032983708,
+        "link": "https://www.huobi.com/uk-ua/exchange/vsys_usdt"
+    },
+    {
+        "symbol": "NFTUSDT",
+        "ask_price": 4.499e-07,
+        "bid_price": 4.495e-07,
+        "volume": 618327.7370447849,
+        "link": "https://www.huobi.com/uk-ua/exchange/nft_usdt"
+    },
+    {
+        "symbol": "BATUSDT",
+        "ask_price": 0.2465,
+        "bid_price": 0.2463,
+        "volume": 92901.797502,
+        "link": "https://www.huobi.com/uk-ua/exchange/bat_usdt"
+    },
+    {
+        "symbol": "KUBEUSDT",
+        "ask_price": 0.010221,
+        "bid_price": 0.010135,
+        "volume": 109165.7743111138,
+        "link": "https://www.huobi.com/uk-ua/exchange/kube_usdt"
+    },
+    {
+        "symbol": "REVOUSDT",
+        "ask_price": 0.0312,
+        "bid_price": 0.0308,
+        "volume": 191581.28766264,
+        "link": "https://www.huobi.com/uk-ua/exchange/revo_usdt"
+    },
+    {
+        "symbol": "SNTUSDT",
+        "ask_price": 0.026009,
+        "bid_price": 0.025926,
+        "volume": 35223.3511405767,
+        "link": "https://www.huobi.com/uk-ua/exchange/snt_usdt"
+    },
+    {
+        "symbol": "FLOKIUSDT",
+        "ask_price": 4.365e-05,
+        "bid_price": 4.353e-05,
+        "volume": 662210.0436872094,
+        "link": "https://www.huobi.com/uk-ua/exchange/floki_usdt"
+    },
+    {
+        "symbol": "XMRUSDT",
+        "ask_price": 151.03,
+        "bid_price": 150.4,
+        "volume": 56968.51323927,
+        "link": "https://www.huobi.com/uk-ua/exchange/xmr_usdt"
+    },
+    {
+        "symbol": "ZKPUSDT",
+        "ask_price": 0.05386,
+        "bid_price": 0.05341,
+        "volume": 46632.77725891839,
+        "link": "https://www.huobi.com/uk-ua/exchange/zkp_usdt"
+    },
+    {
+        "symbol": "CHRUSDT",
+        "ask_price": 0.148039,
+        "bid_price": 0.147841,
+        "volume": 229676.97174794,
+        "link": "https://www.huobi.com/uk-ua/exchange/chr_usdt"
+    },
+    {
+        "symbol": "XCADUSDT",
+        "ask_price": 1.5627,
+        "bid_price": 1.5599,
+        "volume": 728245.33803791,
+        "link": "https://www.huobi.com/uk-ua/exchange/xcad_usdt"
+    },
+    {
+        "symbol": "DYDXUSDT",
+        "ask_price": 2.2469,
+        "bid_price": 2.2455,
+        "volume": 1304762.72278536,
+        "link": "https://www.huobi.com/uk-ua/exchange/dydx_usdt"
+    },
+    {
+        "symbol": "NCASHUSDT",
+        "ask_price": 3.98e-05,
+        "bid_price": 3.957e-05,
+        "volume": 74651.1148211356,
+        "link": "https://www.huobi.com/uk-ua/exchange/ncash_usdt"
+    },
+    {
+        "symbol": "MANAUSDT",
+        "ask_price": 0.5893,
+        "bid_price": 0.589,
+        "volume": 282467.36970482,
+        "link": "https://www.huobi.com/uk-ua/exchange/mana_usdt"
+    },
+    {
+        "symbol": "NYMUSDT",
+        "ask_price": 0.2577,
+        "bid_price": 0.2573,
+        "volume": 822826.35182975,
+        "link": "https://www.huobi.com/uk-ua/exchange/nym_usdt"
+    },
+    {
+        "symbol": "ETCUSDT",
+        "ask_price": 19.2613,
+        "bid_price": 19.2594,
+        "volume": 692258.3210348,
+        "link": "https://www.huobi.com/uk-ua/exchange/etc_usdt"
+    },
+    {
+        "symbol": "SWRVUSDT",
+        "ask_price": 0.127,
+        "bid_price": 0.1232,
+        "volume": 34332.8872755,
+        "link": "https://www.huobi.com/uk-ua/exchange/swrv_usdt"
+    },
+    {
+        "symbol": "BORINGUSDT",
+        "ask_price": 0.003327,
+        "bid_price": 0.00329,
+        "volume": 59569.40908867,
+        "link": "https://www.huobi.com/uk-ua/exchange/boring_usdt"
+    },
+    {
+        "symbol": "TRACEUSDT",
+        "ask_price": 0.02849,
+        "bid_price": 0.02776,
+        "volume": 81863.993709259,
+        "link": "https://www.huobi.com/uk-ua/exchange/trace_usdt"
+    },
+    {
+        "symbol": "STEEMUSDT",
+        "ask_price": 0.2029,
+        "bid_price": 0.2024,
+        "volume": 208166.81797296,
+        "link": "https://www.huobi.com/uk-ua/exchange/steem_usdt"
+    },
+    {
+        "symbol": "AIOZUSDT",
+        "ask_price": 0.0345,
+        "bid_price": 0.0321,
+        "volume": 31411.0262444,
+        "link": "https://www.huobi.com/uk-ua/exchange/aioz_usdt"
+    },
+    {
+        "symbol": "POLSUSDT",
+        "ask_price": 0.43,
+        "bid_price": 0.4286,
+        "volume": 512423.3314878721,
+        "link": "https://www.huobi.com/uk-ua/exchange/pols_usdt"
+    },
+    {
+        "symbol": "AQTUSDT",
+        "ask_price": 1.185,
+        "bid_price": 1.1605,
+        "volume": 573348.92999925,
+        "link": "https://www.huobi.com/uk-ua/exchange/aqt_usdt"
+    },
+    {
+        "symbol": "STPTUSDT",
+        "ask_price": 0.045211,
+        "bid_price": 0.044922,
+        "volume": 44343.32722799,
+        "link": "https://www.huobi.com/uk-ua/exchange/stpt_usdt"
+    },
+    {
+        "symbol": "CELUSDT",
+        "ask_price": 0.3919,
+        "bid_price": 0.3842,
+        "volume": 1320643.41873139,
+        "link": "https://www.huobi.com/uk-ua/exchange/cel_usdt"
+    },
+    {
+        "symbol": "DORAUSDT",
+        "ask_price": 3.2705,
+        "bid_price": 3.2554,
+        "volume": 36602.56963993,
+        "link": "https://www.huobi.com/uk-ua/exchange/dora_usdt"
+    },
+    {
+        "symbol": "ICXUSDT",
+        "ask_price": 0.2149,
+        "bid_price": 0.2147,
+        "volume": 53008.29310085,
+        "link": "https://www.huobi.com/uk-ua/exchange/icx_usdt"
+    },
+    {
+        "symbol": "AKROUSDT",
+        "ask_price": 0.00534,
+        "bid_price": 0.00533,
+        "volume": 79135.20844468354,
+        "link": "https://www.huobi.com/uk-ua/exchange/akro_usdt"
+    },
+    {
+        "symbol": "PLAUSDT",
+        "ask_price": 0.2132,
+        "bid_price": 0.2123,
+        "volume": 389361.74969922,
+        "link": "https://www.huobi.com/uk-ua/exchange/pla_usdt"
+    },
+    {
+        "symbol": "SDAOUSDT",
+        "ask_price": 0.6065,
+        "bid_price": 0.599,
+        "volume": 136811.38871872,
+        "link": "https://www.huobi.com/uk-ua/exchange/sdao_usdt"
+    },
+    {
+        "symbol": "ACTUSDT",
+        "ask_price": 0.001305,
+        "bid_price": 0.001302,
+        "volume": 99999.75115291,
+        "link": "https://www.huobi.com/uk-ua/exchange/act_usdt"
+    },
+    {
+        "symbol": "DOTUSDT",
+        "ask_price": 5.8311,
+        "bid_price": 5.83,
+        "volume": 734120.7159853163,
+        "link": "https://www.huobi.com/uk-ua/exchange/dot_usdt"
+    },
+    {
+        "symbol": "SUPERUSDT",
+        "ask_price": 0.1261,
+        "bid_price": 0.1243,
+        "volume": 32963.13239332,
+        "link": "https://www.huobi.com/uk-ua/exchange/super_usdt"
+    },
+    {
+        "symbol": "SOLOUSDT",
+        "ask_price": 0.1935,
+        "bid_price": 0.1912,
+        "volume": 241789.81976769667,
+        "link": "https://www.huobi.com/uk-ua/exchange/solo_usdt"
+    },
+    {
+        "symbol": "LINKUSDT",
+        "ask_price": 6.7372,
+        "bid_price": 6.7356,
+        "volume": 3806948.66383931,
+        "link": "https://www.huobi.com/uk-ua/exchange/link_usdt"
+    },
+    {
+        "symbol": "STGUSDT",
+        "ask_price": 0.7628,
+        "bid_price": 0.7614,
+        "volume": 659774.86825771,
+        "link": "https://www.huobi.com/uk-ua/exchange/stg_usdt"
+    },
+    {
+        "symbol": "LRCUSDT",
+        "ask_price": 0.3191,
+        "bid_price": 0.3187,
+        "volume": 50669.97539767,
+        "link": "https://www.huobi.com/uk-ua/exchange/lrc_usdt"
+    },
+    {
+        "symbol": "ADPUSDT",
+        "ask_price": 0.009789,
+        "bid_price": 0.009522,
+        "volume": 574853.8409882952,
+        "link": "https://www.huobi.com/uk-ua/exchange/adp_usdt"
+    },
+    {
+        "symbol": "REIUSDT",
+        "ask_price": 0.029916,
+        "bid_price": 0.029785,
+        "volume": 34191.193679504,
+        "link": "https://www.huobi.com/uk-ua/exchange/rei_usdt"
+    },
+    {
+        "symbol": "RDNTUSDT",
+        "ask_price": 0.2935,
+        "bid_price": 0.2901,
+        "volume": 38083.84221803466,
+        "link": "https://www.huobi.com/uk-ua/exchange/rdnt_usdt"
+    },
+    {
+        "symbol": "VISIONUSDT",
+        "ask_price": 0.006469,
+        "bid_price": 0.006358,
+        "volume": 603015.4800051516,
+        "link": "https://www.huobi.com/uk-ua/exchange/vision_usdt"
+    },
+    {
+        "symbol": "KTUSDT",
+        "ask_price": 0.001172,
+        "bid_price": 0.001152,
+        "volume": 102795.5061088767,
+        "link": "https://www.huobi.com/uk-ua/exchange/kt_usdt"
+    },
+    {
+        "symbol": "TAVAUSDT",
+        "ask_price": 0.1525,
+        "bid_price": 0.1505,
+        "volume": 552283.71114445,
+        "link": "https://www.huobi.com/uk-ua/exchange/tava_usdt"
+    },
+    {
+        "symbol": "DFIUSDT",
+        "ask_price": 0.5122,
+        "bid_price": 0.5098,
+        "volume": 222336.7680565409,
+        "link": "https://www.huobi.com/uk-ua/exchange/dfi_usdt"
+    },
+    {
+        "symbol": "MONOUSDT",
+        "ask_price": 0.0314,
+        "bid_price": 0.0305,
+        "volume": 118392.15448019,
+        "link": "https://www.huobi.com/uk-ua/exchange/mono_usdt"
+    },
+    {
+        "symbol": "INRUSDT",
+        "ask_price": 0.130572,
+        "bid_price": 0.12923,
+        "volume": 886075.496599747,
+        "link": "https://www.huobi.com/uk-ua/exchange/inr_usdt"
+    },
+    {
+        "symbol": "XDEFIUSDT",
+        "ask_price": 0.1205,
+        "bid_price": 0.1201,
+        "volume": 222600.50198811,
+        "link": "https://www.huobi.com/uk-ua/exchange/xdefi_usdt"
+    },
+    {
+        "symbol": "TRXUSDT",
+        "ask_price": 0.066257,
+        "bid_price": 0.066256,
+        "volume": 6381894.691300181,
+        "link": "https://www.huobi.com/uk-ua/exchange/trx_usdt"
+    },
+    {
+        "symbol": "LPTUSDT",
+        "ask_price": 5.9129,
+        "bid_price": 5.9089,
+        "volume": 208904.36714042,
+        "link": "https://www.huobi.com/uk-ua/exchange/lpt_usdt"
+    },
+    {
+        "symbol": "HFTUSDT",
+        "ask_price": 0.6251,
+        "bid_price": 0.6241,
+        "volume": 235322.65343691,
+        "link": "https://www.huobi.com/uk-ua/exchange/hft_usdt"
+    },
+    {
+        "symbol": "ORBSUSDT",
+        "ask_price": 0.031282,
+        "bid_price": 0.031094,
+        "volume": 159516.8009652403,
+        "link": "https://www.huobi.com/uk-ua/exchange/orbs_usdt"
+    },
+    {
+        "symbol": "MBOXUSDT",
+        "ask_price": 0.4863,
+        "bid_price": 0.484,
+        "volume": 527450.0595473,
+        "link": "https://www.huobi.com/uk-ua/exchange/mbox_usdt"
+    },
+    {
+        "symbol": "GRTUSDT",
+        "ask_price": 0.137104,
+        "bid_price": 0.137035,
+        "volume": 400762.94260037143,
+        "link": "https://www.huobi.com/uk-ua/exchange/grt_usdt"
+    },
+    {
+        "symbol": "EPIKUSDT",
+        "ask_price": 0.008486,
+        "bid_price": 0.008351,
+        "volume": 36134.8651240151,
+        "link": "https://www.huobi.com/uk-ua/exchange/epik_usdt"
+    },
+    {
+        "symbol": "BBFUSDT",
+        "ask_price": 0.3489,
+        "bid_price": 0.3485,
+        "volume": 238980.3238553342,
+        "link": "https://www.huobi.com/uk-ua/exchange/bbf_usdt"
+    },
+    {
+        "symbol": "KRRXUSDT",
+        "ask_price": 0.1934,
+        "bid_price": 0.1927,
+        "volume": 988498.9430019127,
+        "link": "https://www.huobi.com/uk-ua/exchange/krrx_usdt"
+    },
+    {
+        "symbol": "ATSUSDT",
+        "ask_price": 0.008969,
+        "bid_price": 0.008722,
+        "volume": 30171.60958196,
+        "link": "https://www.huobi.com/uk-ua/exchange/ats_usdt"
+    },
+    {
+        "symbol": "ZECUSDT",
+        "ask_price": 37.1,
+        "bid_price": 37.05,
+        "volume": 174371.60778841,
+        "link": "https://www.huobi.com/uk-ua/exchange/zec_usdt"
+    },
+    {
+        "symbol": "WINUSDT",
+        "ask_price": 9.011e-05,
+        "bid_price": 9.005e-05,
+        "volume": 698439.2908207824,
+        "link": "https://www.huobi.com/uk-ua/exchange/win_usdt"
+    },
+    {
+        "symbol": "CUDOSUSDT",
+        "ask_price": 0.003329,
+        "bid_price": 0.003261,
+        "volume": 224168.6914029356,
+        "link": "https://www.huobi.com/uk-ua/exchange/cudos_usdt"
+    },
+    {
+        "symbol": "MOVRUSDT",
+        "ask_price": 8.8411,
+        "bid_price": 8.7456,
+        "volume": 34738.23535195,
+        "link": "https://www.huobi.com/uk-ua/exchange/movr_usdt"
+    },
+    {
+        "symbol": "DBCUSDT",
+        "ask_price": 0.007934,
+        "bid_price": 0.007908,
+        "volume": 287342.92706932046,
+        "link": "https://www.huobi.com/uk-ua/exchange/dbc_usdt"
+    },
+    {
+        "symbol": "VLXUSDT",
+        "ask_price": 0.023001,
+        "bid_price": 0.023,
+        "volume": 260751.468505738,
+        "link": "https://www.huobi.com/uk-ua/exchange/vlx_usdt"
+    },
+    {
+        "symbol": "ZEDUSDT",
+        "ask_price": 0.0255,
+        "bid_price": 0.0243,
+        "volume": 72174.41368607,
+        "link": "https://www.huobi.com/uk-ua/exchange/zed_usdt"
+    },
+    {
+        "symbol": "BIXUSDT",
+        "ask_price": 0.009581,
+        "bid_price": 0.009361,
+        "volume": 46682.5480283322,
+        "link": "https://www.huobi.com/uk-ua/exchange/bix_usdt"
+    },
+    {
+        "symbol": "HAOUSDT",
+        "ask_price": 0.00713,
+        "bid_price": 0.007039,
+        "volume": 769021.8614411645,
+        "link": "https://www.huobi.com/uk-ua/exchange/hao_usdt"
+    },
+    {
+        "symbol": "DFXUSDT",
+        "ask_price": 0.1261,
+        "bid_price": 0.1256,
+        "volume": 43795.75527961,
+        "link": "https://www.huobi.com/uk-ua/exchange/dfx_usdt"
+    },
+    {
+        "symbol": "BLDUSDT",
+        "ask_price": 0.3976,
+        "bid_price": 0.3932,
+        "volume": 293045.0274447227,
+        "link": "https://www.huobi.com/uk-ua/exchange/bld_usdt"
+    },
+    {
+        "symbol": "XCNUSDT",
+        "ask_price": 0.008195,
+        "bid_price": 0.008166,
+        "volume": 1828639.7422578603,
+        "link": "https://www.huobi.com/uk-ua/exchange/xcn_usdt"
+    },
+    {
+        "symbol": "PEOPLEUSDT",
+        "ask_price": 0.021333,
+        "bid_price": 0.021293,
+        "volume": 240204.7349650703,
+        "link": "https://www.huobi.com/uk-ua/exchange/people_usdt"
+    },
+    {
+        "symbol": "EGLDUSDT",
+        "ask_price": 42.2109,
+        "bid_price": 42.2005,
+        "volume": 738941.41209063,
+        "link": "https://www.huobi.com/uk-ua/exchange/egld_usdt"
+    },
+    {
+        "symbol": "GHSTUSDT",
+        "ask_price": 1.6651,
+        "bid_price": 1.5761,
+        "volume": 33734.791697,
+        "link": "https://www.huobi.com/uk-ua/exchange/ghst_usdt"
+    },
+    {
+        "symbol": "USTCUSDT",
+        "ask_price": 0.0238,
+        "bid_price": 0.0236,
+        "volume": 78301.09701195,
+        "link": "https://www.huobi.com/uk-ua/exchange/ustc_usdt"
+    },
+    {
+        "symbol": "SUSHIUSDT",
+        "ask_price": 1.1807,
+        "bid_price": 1.1794,
+        "volume": 1002016.9671372754,
+        "link": "https://www.huobi.com/uk-ua/exchange/sushi_usdt"
+    },
+    {
+        "symbol": "SXPUSDT",
+        "ask_price": 0.2742,
+        "bid_price": 0.274,
+        "volume": 656222.9638053891,
+        "link": "https://www.huobi.com/uk-ua/exchange/sxp_usdt"
+    },
+    {
+        "symbol": "CAKEUSDT",
+        "ask_price": 3.7381,
+        "bid_price": 3.7349,
+        "volume": 618399.85982227,
+        "link": "https://www.huobi.com/uk-ua/exchange/cake_usdt"
+    },
+    {
+        "symbol": "NEARUSDT",
+        "ask_price": 1.9736,
+        "bid_price": 1.9734,
+        "volume": 7060096.27348947,
+        "link": "https://www.huobi.com/uk-ua/exchange/near_usdt"
+    },
+    {
+        "symbol": "NODEUSDT",
+        "ask_price": 2.495e-05,
+        "bid_price": 2.444e-05,
+        "volume": 212627.4672492741,
+        "link": "https://www.huobi.com/uk-ua/exchange/node_usdt"
+    },
+    {
+        "symbol": "DUSKUSDT",
+        "ask_price": 0.1787,
+        "bid_price": 0.1781,
+        "volume": 73773.22526057,
+        "link": "https://www.huobi.com/uk-ua/exchange/dusk_usdt"
+    },
+    {
+        "symbol": "DYPUSDT",
+        "ask_price": 0.1457,
+        "bid_price": 0.1452,
+        "volume": 154987.93828366755,
+        "link": "https://www.huobi.com/uk-ua/exchange/dyp_usdt"
+    },
+    {
+        "symbol": "FORTHUSDT",
+        "ask_price": 3.7278,
+        "bid_price": 3.7091,
+        "volume": 161353.41490315,
+        "link": "https://www.huobi.com/uk-ua/exchange/forth_usdt"
+    },
+    {
+        "symbol": "XRTUSDT",
+        "ask_price": 5.4276,
+        "bid_price": 5.3132,
+        "volume": 57603.97073852,
+        "link": "https://www.huobi.com/uk-ua/exchange/xrt_usdt"
+    },
+    {
+        "symbol": "FETUSDT",
+        "ask_price": 0.3942,
+        "bid_price": 0.3939,
+        "volume": 596543.86908575,
+        "link": "https://www.huobi.com/uk-ua/exchange/fet_usdt"
+    },
+    {
+        "symbol": "GMXUSDT",
+        "ask_price": 70.2346,
+        "bid_price": 70.1601,
+        "volume": 85349.78081166,
+        "link": "https://www.huobi.com/uk-ua/exchange/gmx_usdt"
+    },
+    {
+        "symbol": "TUSDUSDT",
+        "ask_price": 1.00199,
+        "bid_price": 0.99964,
+        "volume": 435969.386458488,
+        "link": "https://www.huobi.com/uk-ua/exchange/tusd_usdt"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "ask_price": 1553.95,
+        "bid_price": 1553.94,
+        "volume": 26156782.331780765,
+        "link": "https://www.huobi.com/uk-ua/exchange/eth_usdt"
+    },
+    {
+        "symbol": "XPRTUSDT",
+        "ask_price": 0.5114,
+        "bid_price": 0.505,
+        "volume": 51869.27835749,
+        "link": "https://www.huobi.com/uk-ua/exchange/xprt_usdt"
+    },
+    {
+        "symbol": "ORCUSDT",
+        "ask_price": 0.1035,
+        "bid_price": 0.1022,
+        "volume": 585126.10295862,
+        "link": "https://www.huobi.com/uk-ua/exchange/orc_usdt"
+    },
+    {
+        "symbol": "PLUUSDT",
+        "ask_price": 9.451,
+        "bid_price": 9.3588,
+        "volume": 30030.23198552,
+        "link": "https://www.huobi.com/uk-ua/exchange/plu_usdt"
+    },
+    {
+        "symbol": "LITHUSDT",
+        "ask_price": 0.000962,
+        "bid_price": 0.000921,
+        "volume": 54432.9698572702,
+        "link": "https://www.huobi.com/uk-ua/exchange/lith_usdt"
+    },
+    {
+        "symbol": "MCONTENTUSDT",
+        "ask_price": 9.84e-10,
+        "bid_price": 9.82e-10,
+        "volume": 65912.37366224347,
+        "link": "https://www.huobi.com/uk-ua/exchange/mcontent_usdt"
+    },
+    {
+        "symbol": "UNBUSDT",
+        "ask_price": 0.001813,
+        "bid_price": 0.001755,
+        "volume": 61684.33993038574,
+        "link": "https://www.huobi.com/uk-ua/exchange/unb_usdt"
+    },
+    {
+        "symbol": "SUNUSDT",
+        "ask_price": 0.006557,
+        "bid_price": 0.006552,
+        "volume": 2683916.1685757567,
+        "link": "https://www.huobi.com/uk-ua/exchange/sun_usdt"
+    },
+    {
+        "symbol": "NSUREUSDT",
+        "ask_price": 0.0148,
+        "bid_price": 0.0145,
+        "volume": 90017.45251395,
+        "link": "https://www.huobi.com/uk-ua/exchange/nsure_usdt"
+    },
+    {
+        "symbol": "SOSUSDT",
+        "ask_price": 1.457e-07,
+        "bid_price": 1.439e-07,
+        "volume": 81326.73291145354,
+        "link": "https://www.huobi.com/uk-ua/exchange/sos_usdt"
+    },
+    {
+        "symbol": "PSGUSDT",
+        "ask_price": 6.0042,
+        "bid_price": 5.9414,
+        "volume": 31116.16325412,
+        "link": "https://www.huobi.com/uk-ua/exchange/psg_usdt"
+    },
+    {
+        "symbol": "HTUSDT",
+        "ask_price": 4.9284,
+        "bid_price": 4.9281,
+        "volume": 2404069.777097553,
+        "link": "https://www.huobi.com/uk-ua/exchange/ht_usdt"
+    },
+    {
+        "symbol": "ONITUSDT",
+        "ask_price": 0.0305,
+        "bid_price": 0.0298,
+        "volume": 324499.67313756,
+        "link": "https://www.huobi.com/uk-ua/exchange/onit_usdt"
+    },
+    {
+        "symbol": "FOTAUSDT",
+        "ask_price": 0.0209,
+        "bid_price": 0.0204,
+        "volume": 86412.61220584,
+        "link": "https://www.huobi.com/uk-ua/exchange/fota_usdt"
+    },
+    {
+        "symbol": "NKNUSDT",
+        "ask_price": 0.103405,
+        "bid_price": 0.103244,
+        "volume": 218953.00561755,
+        "link": "https://www.huobi.com/uk-ua/exchange/nkn_usdt"
+    },
+    {
+        "symbol": "GNOUSDT",
+        "ask_price": 104.1182,
+        "bid_price": 102.8025,
+        "volume": 574604.53814573,
+        "link": "https://www.huobi.com/uk-ua/exchange/gno_usdt"
+    },
+    {
+        "symbol": "SPUMEUSDT",
+        "ask_price": 0.0127,
+        "bid_price": 0.0123,
+        "volume": 53411.758222105535,
+        "link": "https://www.huobi.com/uk-ua/exchange/spume_usdt"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "ask_price": 22249.87,
+        "bid_price": 22249.86,
+        "volume": 62796404.945442356,
+        "link": "https://www.huobi.com/uk-ua/exchange/btc_usdt"
+    },
+    {
+        "symbol": "OMGUSDT",
+        "ask_price": 1.4494,
+        "bid_price": 1.4478,
+        "volume": 206928.38639337724,
+        "link": "https://www.huobi.com/uk-ua/exchange/omg_usdt"
+    },
+    {
+        "symbol": "IMXUSDT",
+        "ask_price": 1.0744,
+        "bid_price": 1.0737,
+        "volume": 783667.72596705,
+        "link": "https://www.huobi.com/uk-ua/exchange/imx_usdt"
+    },
+    {
+        "symbol": "OPUSDT",
+        "ask_price": 2.3922,
+        "bid_price": 2.3912,
+        "volume": 1772206.14533589,
+        "link": "https://www.huobi.com/uk-ua/exchange/op_usdt"
+    },
+    {
+        "symbol": "ETHWUSDT",
+        "ask_price": 3.4224,
+        "bid_price": 3.42,
+        "volume": 379166.30757306,
+        "link": "https://www.huobi.com/uk-ua/exchange/ethw_usdt"
+    },
+    {
+        "symbol": "XCURUSDT",
+        "ask_price": 0.06022,
+        "bid_price": 0.05899,
+        "volume": 63833.104441842,
+        "link": "https://www.huobi.com/uk-ua/exchange/xcur_usdt"
+    },
+    {
+        "symbol": "FISUSDT",
+        "ask_price": 0.5813,
+        "bid_price": 0.5804,
+        "volume": 133560.82767472,
+        "link": "https://www.huobi.com/uk-ua/exchange/fis_usdt"
+    },
+    {
+        "symbol": "APEUSDT",
+        "ask_price": 4.6239,
+        "bid_price": 4.6225,
+        "volume": 7496844.16056303,
+        "link": "https://www.huobi.com/uk-ua/exchange/ape_usdt"
+    },
+    {
+        "symbol": "PONDUSDT",
+        "ask_price": 0.009825,
+        "bid_price": 0.009803,
+        "volume": 481988.0893718134,
+        "link": "https://www.huobi.com/uk-ua/exchange/pond_usdt"
+    },
+    {
+        "symbol": "BALUSDT",
+        "ask_price": 6.2953,
+        "bid_price": 6.2912,
+        "volume": 231312.076398,
+        "link": "https://www.huobi.com/uk-ua/exchange/bal_usdt"
+    },
+    {
+        "symbol": "IOTAUSDT",
+        "ask_price": 0.2063,
+        "bid_price": 0.2057,
+        "volume": 70893.16077572,
+        "link": "https://www.huobi.com/uk-ua/exchange/iota_usdt"
+    },
+    {
+        "symbol": "VOXELUSDT",
+        "ask_price": 0.2744,
+        "bid_price": 0.2742,
+        "volume": 593536.11929034,
+        "link": "https://www.huobi.com/uk-ua/exchange/voxel_usdt"
+    },
+    {
+        "symbol": "MTLUSDT",
+        "ask_price": 1.1529,
+        "bid_price": 1.1119,
+        "volume": 596990.73682803,
+        "link": "https://www.huobi.com/uk-ua/exchange/mtl_usdt"
+    },
+    {
+        "symbol": "FRONTUSDT",
+        "ask_price": 0.218713,
+        "bid_price": 0.218461,
+        "volume": 86506.7122090177,
+        "link": "https://www.huobi.com/uk-ua/exchange/front_usdt"
+    },
+    {
+        "symbol": "EOSUSDT",
+        "ask_price": 1.1736,
+        "bid_price": 1.1728,
+        "volume": 1503723.38727104,
+        "link": "https://www.huobi.com/uk-ua/exchange/eos_usdt"
+    },
+    {
+        "symbol": "RYOMAUSDT",
+        "ask_price": 0.001859,
+        "bid_price": 0.001855,
+        "volume": 217743.5879984481,
+        "link": "https://www.huobi.com/uk-ua/exchange/ryoma_usdt"
+    },
+    {
+        "symbol": "PYRUSDT",
+        "ask_price": 3.4056,
+        "bid_price": 3.3947,
+        "volume": 296190.43494448,
+        "link": "https://www.huobi.com/uk-ua/exchange/pyr_usdt"
+    },
+    {
+        "symbol": "MRSUSDT",
+        "ask_price": 1.6647,
+        "bid_price": 1.581,
+        "volume": 150988.16956382,
+        "link": "https://www.huobi.com/uk-ua/exchange/mrs_usdt"
+    },
+    {
+        "symbol": "GMEEUSDT",
+        "ask_price": 0.011995,
+        "bid_price": 0.011917,
+        "volume": 87662.5137065017,
+        "link": "https://www.huobi.com/uk-ua/exchange/gmee_usdt"
+    },
+    {
+        "symbol": "MXUSDT",
+        "ask_price": 1.7896,
+        "bid_price": 1.7837,
+        "volume": 479147.98250671,
+        "link": "https://www.huobi.com/uk-ua/exchange/mx_usdt"
+    },
+    {
+        "symbol": "FANCUSDT",
+        "ask_price": 0.1254,
+        "bid_price": 0.1243,
+        "volume": 270861.24110509537,
+        "link": "https://www.huobi.com/uk-ua/exchange/fanc_usdt"
+    },
+    {
+        "symbol": "RUFFUSDT",
+        "ask_price": 0.000254,
+        "bid_price": 0.000252,
+        "volume": 62031.17350445216,
+        "link": "https://www.huobi.com/uk-ua/exchange/ruff_usdt"
+    },
+    {
+        "symbol": "SCRTUSDT",
+        "ask_price": 0.7266,
+        "bid_price": 0.7186,
+        "volume": 38260.92010902,
+        "link": "https://www.huobi.com/uk-ua/exchange/scrt_usdt"
+    },
+    {
+        "symbol": "SPELLFIREUSDT",
+        "ask_price": 0.001385,
+        "bid_price": 0.001366,
+        "volume": 57824.5164240611,
+        "link": "https://www.huobi.com/uk-ua/exchange/spellfire_usdt"
+    },
+    {
+        "symbol": "ARPAUSDT",
+        "ask_price": 0.037188,
+        "bid_price": 0.037097,
+        "volume": 228928.29403584,
+        "link": "https://www.huobi.com/uk-ua/exchange/arpa_usdt"
+    },
+    {
+        "symbol": "TLOSUSDT",
+        "ask_price": 0.1719,
+        "bid_price": 0.1705,
+        "volume": 527553.29527136,
+        "link": "https://www.huobi.com/uk-ua/exchange/tlos_usdt"
+    },
+    {
+        "symbol": "CELOUSDT",
+        "ask_price": 0.6404,
+        "bid_price": 0.6386,
+        "volume": 37770.46979249,
+        "link": "https://www.huobi.com/uk-ua/exchange/celo_usdt"
+    },
+    {
+        "symbol": "DASHUSDT",
+        "ask_price": 61.23,
+        "bid_price": 61.15,
+        "volume": 249590.68233031788,
+        "link": "https://www.huobi.com/uk-ua/exchange/dash_usdt"
+    },
+    {
+        "symbol": "XDCUSDT",
+        "ask_price": 0.029876,
+        "bid_price": 0.029788,
+        "volume": 37736.0310559541,
+        "link": "https://www.huobi.com/uk-ua/exchange/xdc_usdt"
+    },
+    {
+        "symbol": "LHBUSDT",
+        "ask_price": 0.000777,
+        "bid_price": 0.00075,
+        "volume": 65743.84890079,
+        "link": "https://www.huobi.com/uk-ua/exchange/lhb_usdt"
+    },
+    {
+        "symbol": "TRBUSDT",
+        "ask_price": 14.6488,
+        "bid_price": 14.6338,
+        "volume": 461921.39920401,
+        "link": "https://www.huobi.com/uk-ua/exchange/trb_usdt"
+    },
+    {
+        "symbol": "ACHUSDT",
+        "ask_price": 0.029875,
+        "bid_price": 0.029853,
+        "volume": 493308.6663348704,
+        "link": "https://www.huobi.com/uk-ua/exchange/ach_usdt"
+    },
+    {
+        "symbol": "ERNUSDT",
+        "ask_price": 1.9559,
+        "bid_price": 1.9405,
+        "volume": 35280.34069408,
+        "link": "https://www.huobi.com/uk-ua/exchange/ern_usdt"
+    },
+    {
+        "symbol": "NEXOUSDT",
+        "ask_price": 0.6437,
+        "bid_price": 0.6434,
+        "volume": 438263.18576074,
+        "link": "https://www.huobi.com/uk-ua/exchange/nexo_usdt"
+    },
+    {
+        "symbol": "CUSDUSDT",
+        "ask_price": 0.9951,
+        "bid_price": 0.9936,
+        "volume": 590881.68320963,
+        "link": "https://www.huobi.com/uk-ua/exchange/cusd_usdt"
+    },
+    {
+        "symbol": "PSTAKEUSDT",
+        "ask_price": 0.0909,
+        "bid_price": 0.0886,
+        "volume": 37956.51614821,
+        "link": "https://www.huobi.com/uk-ua/exchange/pstake_usdt"
+    },
+    {
+        "symbol": "GODSUSDT",
+        "ask_price": 0.254,
+        "bid_price": 0.2499,
+        "volume": 32040.46236834,
+        "link": "https://www.huobi.com/uk-ua/exchange/gods_usdt"
+    },
+    {
+        "symbol": "NEWUSDT",
+        "ask_price": 0.000171,
+        "bid_price": 0.00017,
+        "volume": 58606.4482366155,
+        "link": "https://www.huobi.com/uk-ua/exchange/new_usdt"
+    },
+    {
+        "symbol": "ZILUSDT",
+        "ask_price": 0.026375,
+        "bid_price": 0.026348,
+        "volume": 328660.8654532304,
+        "link": "https://www.huobi.com/uk-ua/exchange/zil_usdt"
+    },
+    {
+        "symbol": "CVPUSDT",
+        "ask_price": 0.5465,
+        "bid_price": 0.5447,
+        "volume": 324558.08572050475,
+        "link": "https://www.huobi.com/uk-ua/exchange/cvp_usdt"
+    },
+    {
+        "symbol": "FIUUSDT",
+        "ask_price": 0.003543,
+        "bid_price": 0.00354,
+        "volume": 87212.0262122068,
+        "link": "https://www.huobi.com/uk-ua/exchange/fiu_usdt"
+    },
+    {
+        "symbol": "GALAUSDT",
+        "ask_price": 0.037215,
+        "bid_price": 0.037169,
+        "volume": 1090919.1135504742,
+        "link": "https://www.huobi.com/uk-ua/exchange/gala_usdt"
+    },
+    {
+        "symbol": "USDJUSDT",
+        "ask_price": 1.1089,
+        "bid_price": 1.1022,
+        "volume": 227733.330167,
+        "link": "https://www.huobi.com/uk-ua/exchange/usdj_usdt"
+    },
+    {
+        "symbol": "BBCUSDT",
+        "ask_price": 0.016517,
+        "bid_price": 0.016514,
+        "volume": 579149.1170279336,
+        "link": "https://www.huobi.com/uk-ua/exchange/bbc_usdt"
+    },
+    {
+        "symbol": "KLVUSDT",
+        "ask_price": 0.004445,
+        "bid_price": 0.004444,
+        "volume": 582390.0256846563,
+        "link": "https://www.huobi.com/uk-ua/exchange/klv_usdt"
+    },
+    {
+        "symbol": "AZEROUSDT",
+        "ask_price": 1.3854,
+        "bid_price": 1.3751,
+        "volume": 52785.36868264872,
+        "link": "https://www.huobi.com/uk-ua/exchange/azero_usdt"
+    },
+    {
+        "symbol": "MKRUSDT",
+        "ask_price": 908.85,
+        "bid_price": 908.19,
+        "volume": 758649.12181033,
+        "link": "https://www.huobi.com/uk-ua/exchange/mkr_usdt"
+    },
+    {
+        "symbol": "ARUSDT",
+        "ask_price": 8.4589,
+        "bid_price": 8.4379,
+        "volume": 554011.020087,
+        "link": "https://www.huobi.com/uk-ua/exchange/ar_usdt"
+    },
+    {
+        "symbol": "TRIBEUSDT",
+        "ask_price": 0.2702,
+        "bid_price": 0.2553,
+        "volume": 30825.55722124,
+        "link": "https://www.huobi.com/uk-ua/exchange/tribe_usdt"
+    },
+    {
+        "symbol": "PRQUSDT",
+        "ask_price": 0.137,
+        "bid_price": 0.1361,
+        "volume": 397221.05566113,
+        "link": "https://www.huobi.com/uk-ua/exchange/prq_usdt"
+    },
+    {
+        "symbol": "GALFTUSDT",
+        "ask_price": 4.9836,
+        "bid_price": 4.9371,
+        "volume": 236756.532019244,
+        "link": "https://www.huobi.com/uk-ua/exchange/galft_usdt"
+    },
+    {
+        "symbol": "KRIPTOUSDT",
+        "ask_price": 0.000351,
+        "bid_price": 0.000342,
+        "volume": 309071.5746814404,
+        "link": "https://www.huobi.com/uk-ua/exchange/kripto_usdt"
+    },
+    {
+        "symbol": "BCHUSDT",
+        "ask_price": 122.29,
+        "bid_price": 122.21,
+        "volume": 571792.54198079,
+        "link": "https://www.huobi.com/uk-ua/exchange/bch_usdt"
+    },
+    {
+        "symbol": "ROUTEUSDT",
+        "ask_price": 2.561,
+        "bid_price": 2.5582,
+        "volume": 594804.65824323,
+        "link": "https://www.huobi.com/uk-ua/exchange/route_usdt"
+    },
+    {
+        "symbol": "DAOUSDT",
+        "ask_price": 1.7955,
+        "bid_price": 1.7492,
+        "volume": 59187.58853773,
+        "link": "https://www.huobi.com/uk-ua/exchange/dao_usdt"
+    },
+    {
+        "symbol": "SYSUSDT",
+        "ask_price": 0.1597,
+        "bid_price": 0.1573,
+        "volume": 36283.11309815,
+        "link": "https://www.huobi.com/uk-ua/exchange/sys_usdt"
+    },
+    {
+        "symbol": "WELLUSDT",
+        "ask_price": 0.013252,
+        "bid_price": 0.013073,
+        "volume": 239935.4736686802,
+        "link": "https://www.huobi.com/uk-ua/exchange/well_usdt"
+    },
+    {
+        "symbol": "EURTUSDT",
+        "ask_price": 1.0598,
+        "bid_price": 1.0578,
+        "volume": 641302.95281271,
+        "link": "https://www.huobi.com/uk-ua/exchange/eurt_usdt"
+    },
+    {
+        "symbol": "RINGUSDT",
+        "ask_price": 0.005089,
+        "bid_price": 0.00499,
+        "volume": 32286.52361851,
+        "link": "https://www.huobi.com/uk-ua/exchange/ring_usdt"
+    },
+    {
+        "symbol": "CTXUSDT",
+        "ask_price": 1.9734,
+        "bid_price": 1.9021,
+        "volume": 31307.74822845,
+        "link": "https://www.huobi.com/uk-ua/exchange/ctx_usdt"
+    },
+    {
+        "symbol": "MEVUSDT",
+        "ask_price": 0.010784,
+        "bid_price": 0.010648,
+        "volume": 34108.0139407504,
+        "link": "https://www.huobi.com/uk-ua/exchange/mev_usdt"
+    },
+    {
+        "symbol": "OGNUSDT",
+        "ask_price": 0.1192,
+        "bid_price": 0.1189,
+        "volume": 51802.543324,
+        "link": "https://www.huobi.com/uk-ua/exchange/ogn_usdt"
+    },
+    {
+        "symbol": "BRWLUSDT",
+        "ask_price": 0.002935,
+        "bid_price": 0.002934,
+        "volume": 589316.422517835,
+        "link": "https://www.huobi.com/uk-ua/exchange/brwl_usdt"
+    },
+    {
+        "symbol": "PROMUSDT",
+        "ask_price": 4.541,
+        "bid_price": 4.5252,
+        "volume": 244174.55507821,
+        "link": "https://www.huobi.com/uk-ua/exchange/prom_usdt"
+    },
+    {
+        "symbol": "MBXUSDT",
+        "ask_price": 1.4219,
+        "bid_price": 1.4193,
+        "volume": 353426.1583349434,
+        "link": "https://www.huobi.com/uk-ua/exchange/mbx_usdt"
+    },
+    {
+        "symbol": "APTUSDT",
+        "ask_price": 10.9947,
+        "bid_price": 10.9872,
+        "volume": 11964647.93438606,
+        "link": "https://www.huobi.com/uk-ua/exchange/apt_usdt"
+    },
+    {
+        "symbol": "CANUSDT",
+        "ask_price": 0.000846,
+        "bid_price": 0.000832,
+        "volume": 453513.5641887286,
+        "link": "https://www.huobi.com/uk-ua/exchange/can_usdt"
+    },
+    {
+        "symbol": "WEUSDT",
+        "ask_price": 7.4965,
+        "bid_price": 7.3748,
+        "volume": 226454.92832327,
+        "link": "https://www.huobi.com/uk-ua/exchange/we_usdt"
+    },
+    {
+        "symbol": "SRTUSDT",
+        "ask_price": 9.2e-05,
+        "bid_price": 9.1e-05,
+        "volume": 55994.0976440375,
+        "link": "https://www.huobi.com/uk-ua/exchange/srt_usdt"
+    },
+    {
+        "symbol": "LOKAUSDT",
+        "ask_price": 0.5095,
+        "bid_price": 0.5085,
+        "volume": 681501.86102664,
+        "link": "https://www.huobi.com/uk-ua/exchange/loka_usdt"
+    },
+    {
+        "symbol": "METISUSDT",
+        "ask_price": 29.7871,
+        "bid_price": 29.3877,
+        "volume": 48829.68242099,
+        "link": "https://www.huobi.com/uk-ua/exchange/metis_usdt"
+    },
+    {
+        "symbol": "RAINUSDT",
+        "ask_price": 0.00653,
+        "bid_price": 0.0065,
+        "volume": 217657.527089386,
+        "link": "https://www.huobi.com/uk-ua/exchange/rain_usdt"
+    },
+    {
+        "symbol": "IDEXUSDT",
+        "ask_price": 0.0566,
+        "bid_price": 0.0564,
+        "volume": 184604.14665825,
+        "link": "https://www.huobi.com/uk-ua/exchange/idex_usdt"
+    },
+    {
+        "symbol": "GSTUSDT",
+        "ask_price": 0.0213,
+        "bid_price": 0.0211,
+        "volume": 36006.98546495,
+        "link": "https://www.huobi.com/uk-ua/exchange/gst_usdt"
+    },
+    {
+        "symbol": "EULUSDT",
+        "ask_price": 7.3789,
+        "bid_price": 7.3564,
+        "volume": 590842.49970109,
+        "link": "https://www.huobi.com/uk-ua/exchange/eul_usdt"
+    },
+    {
+        "symbol": "HOOPUSDT",
+        "ask_price": 0.005893,
+        "bid_price": 0.005777,
+        "volume": 489917.2491224397,
+        "link": "https://www.huobi.com/uk-ua/exchange/hoop_usdt"
+    },
+    {
+        "symbol": "LUNAUSDT",
+        "ask_price": 1.4826,
+        "bid_price": 1.4819,
+        "volume": 457723.84358247,
+        "link": "https://www.huobi.com/uk-ua/exchange/luna_usdt"
+    },
+    {
+        "symbol": "BITUSDT",
+        "ask_price": 0.5224,
+        "bid_price": 0.5093,
+        "volume": 38037.53194131,
+        "link": "https://www.huobi.com/uk-ua/exchange/bit_usdt"
+    },
+    {
+        "symbol": "WICCUSDT",
+        "ask_price": 0.0444,
+        "bid_price": 0.0431,
+        "volume": 62290.40200438,
+        "link": "https://www.huobi.com/uk-ua/exchange/wicc_usdt"
+    },
+    {
+        "symbol": "LOVEUSDT",
+        "ask_price": 0.00116241,
+        "bid_price": 0.00114502,
+        "volume": 78314.9441254734,
+        "link": "https://www.huobi.com/uk-ua/exchange/love_usdt"
+    },
+    {
+        "symbol": "PHBUSDT",
+        "ask_price": 1.1529,
+        "bid_price": 1.151,
+        "volume": 639410.71834778,
+        "link": "https://www.huobi.com/uk-ua/exchange/phb_usdt"
+    },
+    {
+        "symbol": "ELAUSDT",
+        "ask_price": 1.1704,
+        "bid_price": 1.1605,
+        "volume": 37502.646705,
+        "link": "https://www.huobi.com/uk-ua/exchange/ela_usdt"
+    },
+    {
+        "symbol": "OASUSDT",
+        "ask_price": 0.085513,
+        "bid_price": 0.084518,
+        "volume": 228119.29463726445,
+        "link": "https://www.huobi.com/uk-ua/exchange/oas_usdt"
+    },
+    {
+        "symbol": "BLURUSDT",
+        "ask_price": 0.6394,
+        "bid_price": 0.6386,
+        "volume": 2172223.846521212,
+        "link": "https://www.huobi.com/uk-ua/exchange/blur_usdt"
+    },
+    {
+        "symbol": "UNQUSDT",
+        "ask_price": 0.01075,
+        "bid_price": 0.010579,
+        "volume": 234001.8780990657,
+        "link": "https://www.huobi.com/uk-ua/exchange/unq_usdt"
+    },
+    {
+        "symbol": "OGVUSDT",
+        "ask_price": 0.005844,
+        "bid_price": 0.005817,
+        "volume": 466293.4205758576,
+        "link": "https://www.huobi.com/uk-ua/exchange/ogv_usdt"
+    },
+    {
+        "symbol": "REQUSDT",
+        "ask_price": 0.0982,
+        "bid_price": 0.0971,
+        "volume": 124611.13388,
+        "link": "https://www.huobi.com/uk-ua/exchange/req_usdt"
+    },
+    {
+        "symbol": "LQTYUSDT",
+        "ask_price": 1.9451,
+        "bid_price": 1.9437,
+        "volume": 3535893.7774061807,
+        "link": "https://www.huobi.com/uk-ua/exchange/lqty_usdt"
+    },
+    {
+        "symbol": "XTMUSDT",
+        "ask_price": 0.0238,
+        "bid_price": 0.0233,
+        "volume": 85651.5889021,
+        "link": "https://www.huobi.com/uk-ua/exchange/xtm_usdt"
+    },
+    {
+        "symbol": "AACUSDT",
+        "ask_price": 0.000589,
+        "bid_price": 0.000585,
+        "volume": 275937.87333072006,
+        "link": "https://www.huobi.com/uk-ua/exchange/aac_usdt"
+    },
+    {
+        "symbol": "IPVUSDT",
+        "ask_price": 0.005896,
+        "bid_price": 0.005889,
+        "volume": 573874.3479849292,
+        "link": "https://www.huobi.com/uk-ua/exchange/ipv_usdt"
+    },
+    {
+        "symbol": "PORUSDT",
+        "ask_price": 1.0578,
+        "bid_price": 1.0361,
+        "volume": 32798.72210122,
+        "link": "https://www.huobi.com/uk-ua/exchange/por_usdt"
+    },
+    {
+        "symbol": "PUSHUSDT",
+        "ask_price": 0.4189,
+        "bid_price": 0.4087,
+        "volume": 38247.90783393,
+        "link": "https://www.huobi.com/uk-ua/exchange/push_usdt"
+    },
+    {
+        "symbol": "KLAYUSDT",
+        "ask_price": 0.2196,
+        "bid_price": 0.2192,
+        "volume": 65155.34672092,
+        "link": "https://www.huobi.com/uk-ua/exchange/klay_usdt"
+    },
+    {
+        "symbol": "BADGERUSDT",
+        "ask_price": 3.0381,
+        "bid_price": 3.0254,
+        "volume": 237054.81912564,
+        "link": "https://www.huobi.com/uk-ua/exchange/badger_usdt"
+    },
+    {
+        "symbol": "FTIUSDT",
+        "ask_price": 4.648e-05,
+        "bid_price": 4.582e-05,
+        "volume": 80695.4893928531,
+        "link": "https://www.huobi.com/uk-ua/exchange/fti_usdt"
+    },
+    {
+        "symbol": "MPLXUSDT",
+        "ask_price": 0.0586,
+        "bid_price": 0.0572,
+        "volume": 157204.95001008,
+        "link": "https://www.huobi.com/uk-ua/exchange/mplx_usdt"
+    },
+    {
+        "symbol": "RNDRUSDT",
+        "ask_price": 1.1795,
+        "bid_price": 1.1786,
+        "volume": 600808.97849121,
+        "link": "https://www.huobi.com/uk-ua/exchange/rndr_usdt"
+    },
+    {
+        "symbol": "IOSTUSDT",
+        "ask_price": 0.010059,
+        "bid_price": 0.010046,
+        "volume": 119517.0883209627,
+        "link": "https://www.huobi.com/uk-ua/exchange/iost_usdt"
+    },
+    {
+        "symbol": "YGGUSDT",
+        "ask_price": 0.2667,
+        "bid_price": 0.2666,
+        "volume": 340098.44368466,
+        "link": "https://www.huobi.com/uk-ua/exchange/ygg_usdt"
+    },
+    {
+        "symbol": "WWYUSDT",
+        "ask_price": 0.006212,
+        "bid_price": 0.006206,
+        "volume": 406707.9864129805,
+        "link": "https://www.huobi.com/uk-ua/exchange/wwy_usdt"
+    },
+    {
+        "symbol": "STETHUSDT",
+        "ask_price": 1542.64,
+        "bid_price": 1520.32,
+        "volume": 30234.60983,
+        "link": "https://www.huobi.com/uk-ua/exchange/steth_usdt"
+    },
+    {
+        "symbol": "ATOMUSDT",
+        "ask_price": 11.6304,
+        "bid_price": 11.6292,
+        "volume": 918975.7295161,
+        "link": "https://www.huobi.com/uk-ua/exchange/atom_usdt"
+    },
+    {
+        "symbol": "CSPRUSDT",
+        "ask_price": 0.039,
+        "bid_price": 0.0388,
+        "volume": 121088.52728074,
+        "link": "https://www.huobi.com/uk-ua/exchange/cspr_usdt"
+    },
+    {
+        "symbol": "HECUSDT",
+        "ask_price": 0.05119,
+        "bid_price": 0.05101,
+        "volume": 80459.235147521,
+        "link": "https://www.huobi.com/uk-ua/exchange/hec_usdt"
+    },
+    {
+        "symbol": "GTUSDT",
+        "ask_price": 4.821,
+        "bid_price": 4.7746,
+        "volume": 31688.632928,
+        "link": "https://www.huobi.com/uk-ua/exchange/gt_usdt"
+    },
+    {
+        "symbol": "DAIUSDT",
+        "ask_price": 0.9993,
+        "bid_price": 0.9991,
+        "volume": 552248.9346471466,
+        "link": "https://www.huobi.com/uk-ua/exchange/dai_usdt"
+    },
+    {
+        "symbol": "TINCUSDT",
+        "ask_price": 0.0286,
+        "bid_price": 0.0282,
+        "volume": 108864.14438442,
+        "link": "https://www.huobi.com/uk-ua/exchange/tinc_usdt"
+    },
+    {
+        "symbol": "YFIIUSDT",
+        "ask_price": 1218.5566,
+        "bid_price": 1216.5371,
+        "volume": 492692.30281299615,
+        "link": "https://www.huobi.com/uk-ua/exchange/yfii_usdt"
+    },
+    {
+        "symbol": "SCREAMUSDT",
+        "ask_price": 2.1402,
+        "bid_price": 2.1307,
+        "volume": 46383.80012679,
+        "link": "https://www.huobi.com/uk-ua/exchange/scream_usdt"
+    },
+    {
+        "symbol": "CRVUSDT",
+        "ask_price": 0.971,
+        "bid_price": 0.9696,
+        "volume": 778639.338172193,
+        "link": "https://www.huobi.com/uk-ua/exchange/crv_usdt"
+    },
+    {
+        "symbol": "FORUSDT",
+        "ask_price": 0.022845,
+        "bid_price": 0.022793,
+        "volume": 47819.972541979114,
+        "link": "https://www.huobi.com/uk-ua/exchange/for_usdt"
+    },
+    {
+        "symbol": "SWFTCUSDT",
+        "ask_price": 0.0012209,
+        "bid_price": 0.0012174,
+        "volume": 48498.0423079479,
+        "link": "https://www.huobi.com/uk-ua/exchange/swftc_usdt"
+    },
+    {
+        "symbol": "SUKUUSDT",
+        "ask_price": 0.0749,
+        "bid_price": 0.0736,
+        "volume": 52884.27322026,
+        "link": "https://www.huobi.com/uk-ua/exchange/suku_usdt"
+    },
+    {
+        "symbol": "CTCUSDT",
+        "ask_price": 0.4449,
+        "bid_price": 0.4429,
+        "volume": 254506.72714964,
+        "link": "https://www.huobi.com/uk-ua/exchange/ctc_usdt"
+    },
+    {
+        "symbol": "BSVUSDT",
+        "ask_price": 37.4112,
+        "bid_price": 37.3171,
+        "volume": 45586.06822313,
+        "link": "https://www.huobi.com/uk-ua/exchange/bsv_usdt"
+    },
+    {
+        "symbol": "MCGUSDT",
+        "ask_price": 0.01429,
+        "bid_price": 0.0142,
+        "volume": 157636.277507164,
+        "link": "https://www.huobi.com/uk-ua/exchange/mcg_usdt"
+    },
+    {
+        "symbol": "NANOUSDT",
+        "ask_price": 0.8341,
+        "bid_price": 0.8264,
+        "volume": 31784.38597634,
+        "link": "https://www.huobi.com/uk-ua/exchange/nano_usdt"
+    },
+    {
+        "symbol": "1INCHUSDT",
+        "ask_price": 0.503239,
+        "bid_price": 0.503109,
+        "volume": 221347.6460299043,
+        "link": "https://www.huobi.com/uk-ua/exchange/1inch_usdt"
+    },
+    {
+        "symbol": "ETHFUSDT",
+        "ask_price": 0.3039,
+        "bid_price": 0.3013,
+        "volume": 600262.5698312,
+        "link": "https://www.huobi.com/uk-ua/exchange/ethf_usdt"
+    },
+    {
+        "symbol": "YFIUSDT",
+        "ask_price": 9634.85,
+        "bid_price": 9630.76,
+        "volume": 466501.93923128,
+        "link": "https://www.huobi.com/uk-ua/exchange/yfi_usdt"
+    },
+    {
+        "symbol": "MULTIUSDT",
+        "ask_price": 9.4119,
+        "bid_price": 9.3621,
+        "volume": 417929.83955948,
+        "link": "https://www.huobi.com/uk-ua/exchange/multi_usdt"
+    },
+    {
+        "symbol": "SFUNDUSDT",
+        "ask_price": 1.1836,
+        "bid_price": 1.1802,
+        "volume": 243036.9775435,
+        "link": "https://www.huobi.com/uk-ua/exchange/sfund_usdt"
+    },
+    {
+        "symbol": "FUSEUSDT",
+        "ask_price": 0.0759,
+        "bid_price": 0.0758,
+        "volume": 213151.77945558,
+        "link": "https://www.huobi.com/uk-ua/exchange/fuse_usdt"
+    },
+    {
+        "symbol": "TOKEUSDT",
+        "ask_price": 1.1307,
+        "bid_price": 1.0914,
+        "volume": 31257.58811646,
+        "link": "https://www.huobi.com/uk-ua/exchange/toke_usdt"
+    },
+    {
+        "symbol": "FIOUSDT",
+        "ask_price": 0.03505,
+        "bid_price": 0.034859,
+        "volume": 144568.9138527739,
+        "link": "https://www.huobi.com/uk-ua/exchange/fio_usdt"
+    },
+    {
+        "symbol": "JASMYUSDT",
+        "ask_price": 0.005255,
+        "bid_price": 0.005244,
+        "volume": 461712.5306394493,
+        "link": "https://www.huobi.com/uk-ua/exchange/jasmy_usdt"
+    },
+    {
+        "symbol": "UUUUSDT",
+        "ask_price": 2.658e-05,
+        "bid_price": 2.616e-05,
+        "volume": 208858.2056643284,
+        "link": "https://www.huobi.com/uk-ua/exchange/uuu_usdt"
+    },
+    {
+        "symbol": "DOSEUSDT",
+        "ask_price": 0.006712,
+        "bid_price": 0.006711,
+        "volume": 401946.66740571335,
+        "link": "https://www.huobi.com/uk-ua/exchange/dose_usdt"
+    },
+    {
+        "symbol": "CHZUSDT",
+        "ask_price": 0.119851,
+        "bid_price": 0.119778,
+        "volume": 321486.0088739444,
+        "link": "https://www.huobi.com/uk-ua/exchange/chz_usdt"
+    },
+    {
+        "symbol": "DEPUSDT",
+        "ask_price": 0.004099,
+        "bid_price": 0.004001,
+        "volume": 31547.5703513471,
+        "link": "https://www.huobi.com/uk-ua/exchange/dep_usdt"
+    },
+    {
+        "symbol": "ENJUSDT",
+        "ask_price": 0.4341,
+        "bid_price": 0.4336,
+        "volume": 533731.48866457,
+        "link": "https://www.huobi.com/uk-ua/exchange/enj_usdt"
+    },
+    {
+        "symbol": "GFUSDT",
+        "ask_price": 0.0907,
+        "bid_price": 0.0902,
+        "volume": 368063.51727636,
+        "link": "https://www.huobi.com/uk-ua/exchange/gf_usdt"
+    },
+    {
+        "symbol": "SHITUSDT",
+        "ask_price": 1.36e-08,
+        "bid_price": 1.34e-08,
+        "volume": 78771.0511185374,
+        "link": "https://www.huobi.com/uk-ua/exchange/shit_usdt"
+    },
+    {
+        "symbol": "BULLUSDT",
+        "ask_price": 0.005503,
+        "bid_price": 0.005472,
+        "volume": 641812.7613432937,
+        "link": "https://www.huobi.com/uk-ua/exchange/bull_usdt"
+    },
+    {
+        "symbol": "ITAUSDT",
+        "ask_price": 1.399,
+        "bid_price": 1.3756,
+        "volume": 223351.37690821,
+        "link": "https://www.huobi.com/uk-ua/exchange/ita_usdt"
+    },
+    {
+        "symbol": "BONKUSDT",
+        "ask_price": 5.569e-07,
+        "bid_price": 5.555e-07,
+        "volume": 275968.75995312823,
+        "link": "https://www.huobi.com/uk-ua/exchange/bonk_usdt"
+    },
+    {
+        "symbol": "ANVUSDT",
+        "ask_price": 0.0789,
+        "bid_price": 0.0775,
+        "volume": 39150.29782461,
+        "link": "https://www.huobi.com/uk-ua/exchange/anv_usdt"
+    },
+    {
+        "symbol": "CRPTUSDT",
+        "ask_price": 0.1082,
+        "bid_price": 0.1062,
+        "volume": 146849.65738443044,
+        "link": "https://www.huobi.com/uk-ua/exchange/crpt_usdt"
+    },
+    {
+        "symbol": "TUSDT",
+        "ask_price": 0.0381,
+        "bid_price": 0.038,
+        "volume": 124199.15630966,
+        "link": "https://www.huobi.com/uk-ua/exchange/t_usdt"
+    },
+    {
+        "symbol": "WHALEUSDT",
+        "ask_price": 0.6843,
+        "bid_price": 0.6816,
+        "volume": 60543.37920837,
+        "link": "https://www.huobi.com/uk-ua/exchange/whale_usdt"
+    },
+    {
+        "symbol": "UIPUSDT",
+        "ask_price": 0.000139,
+        "bid_price": 0.000136,
+        "volume": 40550.86815709,
+        "link": "https://www.huobi.com/uk-ua/exchange/uip_usdt"
+    },
+    {
+        "symbol": "PLYUSDT",
+        "ask_price": 0.000559,
+        "bid_price": 0.000555,
+        "volume": 158904.6710043497,
+        "link": "https://www.huobi.com/uk-ua/exchange/ply_usdt"
+    },
+    {
+        "symbol": "ERTHAUSDT",
+        "ask_price": 0.004116,
+        "bid_price": 0.004068,
+        "volume": 40199.45517527927,
+        "link": "https://www.huobi.com/uk-ua/exchange/ertha_usdt"
+    },
+    {
+        "symbol": "COTIUSDT",
+        "ask_price": 0.0787,
+        "bid_price": 0.0784,
+        "volume": 99576.878316,
+        "link": "https://www.huobi.com/uk-ua/exchange/coti_usdt"
+    },
+    {
+        "symbol": "FLZUSDT",
+        "ask_price": 2.1172,
+        "bid_price": 2.0685,
+        "volume": 345714.2628350598,
+        "link": "https://www.huobi.com/uk-ua/exchange/flz_usdt"
+    },
+    {
+        "symbol": "NGLUSDT",
+        "ask_price": 0.2796,
+        "bid_price": 0.276,
+        "volume": 78875.49950735,
+        "link": "https://www.huobi.com/uk-ua/exchange/ngl_usdt"
+    },
+    {
+        "symbol": "FLOWUSDT",
+        "ask_price": 1.0117,
+        "bid_price": 1.011,
+        "volume": 276396.24204561,
+        "link": "https://www.huobi.com/uk-ua/exchange/flow_usdt"
+    },
+    {
+        "symbol": "MOVEZUSDT",
+        "ask_price": 0.003022,
+        "bid_price": 0.00299,
+        "volume": 79658.7419554594,
+        "link": "https://www.huobi.com/uk-ua/exchange/movez_usdt"
+    },
+    {
+        "symbol": "NEOUSDT",
+        "ask_price": 11.66,
+        "bid_price": 11.65,
+        "volume": 517071.31775334,
+        "link": "https://www.huobi.com/uk-ua/exchange/neo_usdt"
+    },
+    {
+        "symbol": "LOVELYUSDT",
+        "ask_price": 8.16e-08,
+        "bid_price": 8.05e-08,
+        "volume": 424407.2457978842,
+        "link": "https://www.huobi.com/uk-ua/exchange/lovely_usdt"
+    },
+    {
+        "symbol": "LBLUSDT",
+        "ask_price": 0.005063,
+        "bid_price": 0.005,
+        "volume": 223131.1940677147,
+        "link": "https://www.huobi.com/uk-ua/exchange/lbl_usdt"
+    },
+    {
+        "symbol": "SANDUSDT",
+        "ask_price": 0.604636,
+        "bid_price": 0.604404,
+        "volume": 1102487.3180524835,
+        "link": "https://www.huobi.com/uk-ua/exchange/sand_usdt"
+    },
+    {
+        "symbol": "MOOVUSDT",
+        "ask_price": 0.007231,
+        "bid_price": 0.007097,
+        "volume": 48875.0163269188,
+        "link": "https://www.huobi.com/uk-ua/exchange/moov_usdt"
+    },
+    {
+        "symbol": "C98USDT",
+        "ask_price": 0.2376,
+        "bid_price": 0.2371,
+        "volume": 300876.50695365,
+        "link": "https://www.huobi.com/uk-ua/exchange/c98_usdt"
+    },
+    {
+        "symbol": "KAVAUSDT",
+        "ask_price": 0.7868,
+        "bid_price": 0.786,
+        "volume": 202364.73036616965,
+        "link": "https://www.huobi.com/uk-ua/exchange/kava_usdt"
+    },
+    {
+        "symbol": "RLCUSDT",
+        "ask_price": 1.6414,
+        "bid_price": 1.64,
+        "volume": 524454.01995583,
+        "link": "https://www.huobi.com/uk-ua/exchange/rlc_usdt"
+    },
+    {
+        "symbol": "NULSUSDT",
+        "ask_price": 0.2391,
+        "bid_price": 0.2382,
+        "volume": 284441.83572203,
+        "link": "https://www.huobi.com/uk-ua/exchange/nuls_usdt"
+    },
+    {
+        "symbol": "MASKUSDT",
+        "ask_price": 3.7833,
+        "bid_price": 3.7814,
+        "volume": 3445791.46332976,
+        "link": "https://www.huobi.com/uk-ua/exchange/mask_usdt"
+    },
+    {
+        "symbol": "BWOUSDT",
+        "ask_price": 0.468,
+        "bid_price": 0.465,
+        "volume": 344701.24756512,
+        "link": "https://www.huobi.com/uk-ua/exchange/bwo_usdt"
+    },
+    {
+        "symbol": "ORBUSDT",
+        "ask_price": 0.138425,
+        "bid_price": 0.137142,
+        "volume": 258319.6323237415,
+        "link": "https://www.huobi.com/uk-ua/exchange/orb_usdt"
+    },
+    {
+        "symbol": "ZRXUSDT",
+        "ask_price": 0.2321,
+        "bid_price": 0.2315,
+        "volume": 309672.280986,
+        "link": "https://www.huobi.com/uk-ua/exchange/zrx_usdt"
+    },
+    {
+        "symbol": "VINUUSDT",
+        "ask_price": 1.5199e-08,
+        "bid_price": 1.4957e-08,
+        "volume": 86634.56167946086,
+        "link": "https://www.huobi.com/uk-ua/exchange/vinu_usdt"
+    },
+    {
+        "symbol": "EVERUSDT",
+        "ask_price": 0.1097,
+        "bid_price": 0.1096,
+        "volume": 302210.73777192,
+        "link": "https://www.huobi.com/uk-ua/exchange/ever_usdt"
+    },
+    {
+        "symbol": "NPTUSDT",
+        "ask_price": 1.188,
+        "bid_price": 1.1817,
+        "volume": 238315.91900783,
+        "link": "https://www.huobi.com/uk-ua/exchange/npt_usdt"
+    },
+    {
+        "symbol": "WLKNUSDT",
+        "ask_price": 0.046494,
+        "bid_price": 0.046303,
+        "volume": 298819.34292810963,
+        "link": "https://www.huobi.com/uk-ua/exchange/wlkn_usdt"
+    },
+    {
+        "symbol": "MESAUSDT",
+        "ask_price": 0.003768,
+        "bid_price": 0.003719,
+        "volume": 591655.8247761226,
+        "link": "https://www.huobi.com/uk-ua/exchange/mesa_usdt"
+    },
+    {
+        "symbol": "MPLUSDT",
+        "ask_price": 4.8884,
+        "bid_price": 4.7883,
+        "volume": 75993.38602619492,
+        "link": "https://www.huobi.com/uk-ua/exchange/mpl_usdt"
+    },
+    {
+        "symbol": "INJUSDT",
+        "ask_price": 3.1164,
+        "bid_price": 3.1139,
+        "volume": 150075.86807574,
+        "link": "https://www.huobi.com/uk-ua/exchange/inj_usdt"
+    },
+    {
+        "symbol": "LINAUSDT",
+        "ask_price": 0.008125,
+        "bid_price": 0.008108,
+        "volume": 71430.0436259417,
+        "link": "https://www.huobi.com/uk-ua/exchange/lina_usdt"
+    },
+    {
+        "symbol": "BTSUSDT",
+        "ask_price": 0.011174,
+        "bid_price": 0.011129,
+        "volume": 39159.44057266,
+        "link": "https://www.huobi.com/uk-ua/exchange/bts_usdt"
+    },
+    {
+        "symbol": "STRMUSDT",
+        "ask_price": 0.0121,
+        "bid_price": 0.012,
+        "volume": 117178.71127763885,
+        "link": "https://www.huobi.com/uk-ua/exchange/strm_usdt"
+    },
+    {
+        "symbol": "SDNUSDT",
+        "ask_price": 0.3936,
+        "bid_price": 0.389,
+        "volume": 35327.941802,
+        "link": "https://www.huobi.com/uk-ua/exchange/sdn_usdt"
+    },
+    {
+        "symbol": "XLMUSDT",
+        "ask_price": 0.082146,
+        "bid_price": 0.082107,
+        "volume": 456773.63003972045,
+        "link": "https://www.huobi.com/uk-ua/exchange/xlm_usdt"
+    },
+    {
+        "symbol": "ADXUSDT",
+        "ask_price": 0.1788,
+        "bid_price": 0.1784,
+        "volume": 47803.80267219,
+        "link": "https://www.huobi.com/uk-ua/exchange/adx_usdt"
+    },
+    {
+        "symbol": "RPLUSDT",
+        "ask_price": 37.3496,
+        "bid_price": 36.7025,
+        "volume": 413719.71817598,
+        "link": "https://www.huobi.com/uk-ua/exchange/rpl_usdt"
+    },
+    {
+        "symbol": "INSURUSDT",
+        "ask_price": 0.0873,
+        "bid_price": 0.0866,
+        "volume": 409746.39094252,
+        "link": "https://www.huobi.com/uk-ua/exchange/insur_usdt"
+    },
+    {
+        "symbol": "XTZUSDT",
+        "ask_price": 1.0957,
+        "bid_price": 1.0942,
+        "volume": 135717.68099637,
+        "link": "https://www.huobi.com/uk-ua/exchange/xtz_usdt"
+    },
+    {
+        "symbol": "BPUSDT",
+        "ask_price": 0.005171,
+        "bid_price": 0.005128,
+        "volume": 87804.1306035838,
+        "link": "https://www.huobi.com/uk-ua/exchange/bp_usdt"
+    },
+    {
+        "symbol": "UOSUSDT",
+        "ask_price": 0.2118,
+        "bid_price": 0.2111,
+        "volume": 30539.53026951,
+        "link": "https://www.huobi.com/uk-ua/exchange/uos_usdt"
+    },
+    {
+        "symbol": "DKSUSDT",
+        "ask_price": 0.001887,
+        "bid_price": 0.00186,
+        "volume": 84092.98867263684,
+        "link": "https://www.huobi.com/uk-ua/exchange/dks_usdt"
+    },
+    {
+        "symbol": "USDCUSDT",
+        "ask_price": 1.0001,
+        "bid_price": 1.0,
+        "volume": 22321719.907495346,
+        "link": "https://www.huobi.com/uk-ua/exchange/usdc_usdt"
+    },
+    {
+        "symbol": "TRACUSDT",
+        "ask_price": 0.3467,
+        "bid_price": 0.3423,
+        "volume": 581609.72828104,
+        "link": "https://www.huobi.com/uk-ua/exchange/trac_usdt"
+    },
+    {
+        "symbol": "HSFUSDT",
+        "ask_price": 0.6619,
+        "bid_price": 0.6609,
+        "volume": 831165.61479652,
+        "link": "https://www.huobi.com/uk-ua/exchange/hsf_usdt"
+    },
+    {
+        "symbol": "RANKERUSDT",
+        "ask_price": 0.004942,
+        "bid_price": 0.004922,
+        "volume": 52797.7727578727,
+        "link": "https://www.huobi.com/uk-ua/exchange/ranker_usdt"
+    },
+    {
+        "symbol": "PRIMATEUSDT",
+        "ask_price": 0.01224,
+        "bid_price": 0.01216,
+        "volume": 504108.249528868,
+        "link": "https://www.huobi.com/uk-ua/exchange/primate_usdt"
+    },
+    {
+        "symbol": "EFIUSDT",
+        "ask_price": 0.0808,
+        "bid_price": 0.0793,
+        "volume": 32663.80081914,
+        "link": "https://www.huobi.com/uk-ua/exchange/efi_usdt"
+    },
+    {
+        "symbol": "DKAUSDT",
+        "ask_price": 0.037432,
+        "bid_price": 0.037123,
+        "volume": 31600.90672971,
+        "link": "https://www.huobi.com/uk-ua/exchange/dka_usdt"
+    },
+    {
+        "symbol": "ONTUSDT",
+        "ask_price": 0.2151,
+        "bid_price": 0.2149,
+        "volume": 40660.5800439,
+        "link": "https://www.huobi.com/uk-ua/exchange/ont_usdt"
+    },
+    {
+        "symbol": "KANUSDT",
+        "ask_price": 0.001168,
+        "bid_price": 0.001166,
+        "volume": 109290.7850000377,
+        "link": "https://www.huobi.com/uk-ua/exchange/kan_usdt"
+    },
+    {
+        "symbol": "SPRTUSDT",
+        "ask_price": 0.002668,
+        "bid_price": 0.002649,
+        "volume": 237736.7467603815,
+        "link": "https://www.huobi.com/uk-ua/exchange/sprt_usdt"
+    },
+    {
+        "symbol": "STARLYUSDT",
+        "ask_price": 0.03306,
+        "bid_price": 0.03267,
+        "volume": 581910.7230365037,
+        "link": "https://www.huobi.com/uk-ua/exchange/starly_usdt"
+    },
+    {
+        "symbol": "PUNDIXUSDT",
+        "ask_price": 0.4422,
+        "bid_price": 0.4415,
+        "volume": 560521.71812342,
+        "link": "https://www.huobi.com/uk-ua/exchange/pundix_usdt"
+    },
+    {
+        "symbol": "DTAUSDT",
+        "ask_price": 3.723e-05,
+        "bid_price": 3.72e-05,
+        "volume": 206614.56844398152,
+        "link": "https://www.huobi.com/uk-ua/exchange/dta_usdt"
+    },
+    {
+        "symbol": "JUMBOUSDT",
+        "ask_price": 0.3457,
+        "bid_price": 0.3436,
+        "volume": 588873.50614347,
+        "link": "https://www.huobi.com/uk-ua/exchange/jumbo_usdt"
+    },
+    {
+        "symbol": "GQUSDT",
+        "ask_price": 0.007472,
+        "bid_price": 0.007428,
+        "volume": 254823.66578728028,
+        "link": "https://www.huobi.com/uk-ua/exchange/gq_usdt"
+    },
+    {
+        "symbol": "LAMBUSDT",
+        "ask_price": 0.001841,
+        "bid_price": 0.001823,
+        "volume": 56889.8733952887,
+        "link": "https://www.huobi.com/uk-ua/exchange/lamb_usdt"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "ask_price": 0.37593,
+        "bid_price": 0.37586,
+        "volume": 17333043.99673552,
+        "link": "https://www.huobi.com/uk-ua/exchange/xrp_usdt"
+    },
+    {
+        "symbol": "HOTCROSSUSDT",
+        "ask_price": 0.00791,
+        "bid_price": 0.00762,
+        "volume": 33505.184869128,
+        "link": "https://www.huobi.com/uk-ua/exchange/hotcross_usdt"
+    },
+    {
+        "symbol": "COLUSDT",
+        "ask_price": 0.6399,
+        "bid_price": 0.6077,
+        "volume": 99696.45387894,
+        "link": "https://www.huobi.com/uk-ua/exchange/col_usdt"
+    },
+    {
+        "symbol": "BTTUSDT",
+        "ask_price": 6.836e-07,
+        "bid_price": 6.834e-07,
+        "volume": 893720.5375453937,
+        "link": "https://www.huobi.com/uk-ua/exchange/btt_usdt"
+    },
+    {
+        "symbol": "SEELEUSDT",
+        "ask_price": 0.005067,
+        "bid_price": 0.005062,
+        "volume": 3211001.18936118,
+        "link": "https://www.huobi.com/uk-ua/exchange/seele_usdt"
+    },
+    {
+        "symbol": "VETUSDT",
+        "ask_price": 0.023579,
+        "bid_price": 0.023545,
+        "volume": 364280.1102097417,
+        "link": "https://www.huobi.com/uk-ua/exchange/vet_usdt"
+    },
+    {
+        "symbol": "GMTUSDT",
+        "ask_price": 0.3507,
+        "bid_price": 0.3504,
+        "volume": 140139.98929483,
+        "link": "https://www.huobi.com/uk-ua/exchange/gmt_usdt"
+    },
+    {
+        "symbol": "OCEANUSDT",
+        "ask_price": 0.3779,
+        "bid_price": 0.3773,
+        "volume": 33697.80617405,
+        "link": "https://www.huobi.com/uk-ua/exchange/ocean_usdt"
+    },
+    {
+        "symbol": "GALUSDT",
+        "ask_price": 1.6249,
+        "bid_price": 1.622,
+        "volume": 446600.45108562,
+        "link": "https://www.huobi.com/uk-ua/exchange/gal_usdt"
+    },
+    {
+        "symbol": "NBSUSDT",
+        "ask_price": 0.000511,
+        "bid_price": 0.000508,
+        "volume": 65118.4164773,
+        "link": "https://www.huobi.com/uk-ua/exchange/nbs_usdt"
+    },
+    {
+        "symbol": "ONSTONUSDT",
+        "ask_price": 0.008772,
+        "bid_price": 0.008644,
+        "volume": 54395.0893660161,
+        "link": "https://www.huobi.com/uk-ua/exchange/onston_usdt"
+    },
+    {
+        "symbol": "GFTUSDT",
+        "ask_price": 0.0584,
+        "bid_price": 0.0581,
+        "volume": 31144.11267531,
+        "link": "https://www.huobi.com/uk-ua/exchange/gft_usdt"
+    },
+    {
+        "symbol": "ASTRUSDT",
+        "ask_price": 0.06383,
+        "bid_price": 0.063708,
+        "volume": 330833.89844325,
+        "link": "https://www.huobi.com/uk-ua/exchange/astr_usdt"
+    },
+    {
+        "symbol": "USDDUSDT",
+        "ask_price": 0.99918,
+        "bid_price": 0.99914,
+        "volume": 1540730.4095708218,
+        "link": "https://www.huobi.com/uk-ua/exchange/usdd_usdt"
+    },
+    {
+        "symbol": "WOOUSDT",
+        "ask_price": 0.18225,
+        "bid_price": 0.18217,
+        "volume": 108791.7562057,
+        "link": "https://www.huobi.com/uk-ua/exchange/woo_usdt"
+    },
+    {
+        "symbol": "LIKEUSDT",
+        "ask_price": 0.007542,
+        "bid_price": 0.007439,
+        "volume": 583077.3177969323,
+        "link": "https://www.huobi.com/uk-ua/exchange/like_usdt"
+    },
+    {
+        "symbol": "AVAXUSDT",
+        "ask_price": 16.0617,
+        "bid_price": 16.0558,
+        "volume": 644407.27021029,
+        "link": "https://www.huobi.com/uk-ua/exchange/avax_usdt"
+    },
+    {
+        "symbol": "GEARBOXUSDT",
+        "ask_price": 0.01585,
+        "bid_price": 0.015269,
+        "volume": 30465.7322576977,
+        "link": "https://www.huobi.com/uk-ua/exchange/gearbox_usdt"
+    },
+    {
+        "symbol": "JOYUSDT",
+        "ask_price": 0.0666,
+        "bid_price": 0.065,
+        "volume": 73646.62440775914,
+        "link": "https://www.huobi.com/uk-ua/exchange/joy_usdt"
+    },
+    {
+        "symbol": "PBRUSDT",
+        "ask_price": 0.0959,
+        "bid_price": 0.0957,
+        "volume": 96637.7346742329,
+        "link": "https://www.huobi.com/uk-ua/exchange/pbr_usdt"
+    },
+    {
+        "symbol": "FACEUSDT",
+        "ask_price": 6.27e-08,
+        "bid_price": 6.21e-08,
+        "volume": 374557.7465494586,
+        "link": "https://www.huobi.com/uk-ua/exchange/face_usdt"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "ask_price": 0.326004,
+        "bid_price": 0.325927,
+        "volume": 737780.7790701236,
+        "link": "https://www.huobi.com/uk-ua/exchange/ada_usdt"
+    },
+    {
+        "symbol": "FILUSDT",
+        "ask_price": 5.8798,
+        "bid_price": 5.8753,
+        "volume": 938755.316583526,
+        "link": "https://www.huobi.com/uk-ua/exchange/fil_usdt"
+    },
+    {
+        "symbol": "UNFIUSDT",
+        "ask_price": 5.0143,
+        "bid_price": 5.0085,
+        "volume": 45959.17429974,
+        "link": "https://www.huobi.com/uk-ua/exchange/unfi_usdt"
+    },
+    {
+        "symbol": "ATMUSDT",
+        "ask_price": 2.9151,
+        "bid_price": 2.8488,
+        "volume": 34104.26253955,
+        "link": "https://www.huobi.com/uk-ua/exchange/atm_usdt"
+    },
+    {
+        "symbol": "WNXMUSDT",
+        "ask_price": 20.9174,
+        "bid_price": 20.859,
+        "volume": 710884.3212731073,
+        "link": "https://www.huobi.com/uk-ua/exchange/wnxm_usdt"
+    },
+    {
+        "symbol": "BOBAUSDT",
+        "ask_price": 0.2389,
+        "bid_price": 0.2388,
+        "volume": 154536.3511789,
+        "link": "https://www.huobi.com/uk-ua/exchange/boba_usdt"
+    },
+    {
+        "symbol": "AGLDUSDT",
+        "ask_price": 0.4328,
+        "bid_price": 0.4322,
+        "volume": 123942.59978665,
+        "link": "https://www.huobi.com/uk-ua/exchange/agld_usdt"
+    },
+    {
+        "symbol": "BERRYUSDT",
+        "ask_price": 0.001775,
+        "bid_price": 0.001747,
+        "volume": 377745.78529038804,
+        "link": "https://www.huobi.com/uk-ua/exchange/berry_usdt"
+    },
+    {
+        "symbol": "VEMPUSDT",
+        "ask_price": 0.01532,
+        "bid_price": 0.01525,
+        "volume": 535268.645143529,
+        "link": "https://www.huobi.com/uk-ua/exchange/vemp_usdt"
+    },
+    {
+        "symbol": "PARADOXUSDT",
+        "ask_price": 0.017999,
+        "bid_price": 0.017209,
+        "volume": 215602.0120633083,
+        "link": "https://www.huobi.com/uk-ua/exchange/paradox_usdt"
+    },
+    {
+        "symbol": "AXSUSDT",
+        "ask_price": 8.5575,
+        "bid_price": 8.5574,
+        "volume": 192895.65424964,
+        "link": "https://www.huobi.com/uk-ua/exchange/axs_usdt"
+    },
+    {
+        "symbol": "SOFIUSDT",
+        "ask_price": 0.0904,
+        "bid_price": 0.0896,
+        "volume": 30317.6658561,
+        "link": "https://www.huobi.com/uk-ua/exchange/sofi_usdt"
+    },
+    {
+        "symbol": "MLNUSDT",
+        "ask_price": 22.0755,
+        "bid_price": 21.9662,
+        "volume": 37891.13388202101,
+        "link": "https://www.huobi.com/uk-ua/exchange/mln_usdt"
+    },
+    {
+        "symbol": "FSNUSDT",
+        "ask_price": 0.3036,
+        "bid_price": 0.3003,
+        "volume": 67310.46157725,
+        "link": "https://www.huobi.com/uk-ua/exchange/fsn_usdt"
+    },
+    {
+        "symbol": "FTTUSDT",
+        "ask_price": 1.2714,
+        "bid_price": 1.2646,
+        "volume": 53924.66647235,
+        "link": "https://www.huobi.com/uk-ua/exchange/ftt_usdt"
+    },
+    {
+        "symbol": "CAWUSDT",
+        "ask_price": 4.9999e-08,
+        "bid_price": 4.9356e-08,
+        "volume": 283246.59177962446,
+        "link": "https://www.huobi.com/uk-ua/exchange/caw_usdt"
+    },
+    {
+        "symbol": "ONEUSDT",
+        "ask_price": 0.018652,
+        "bid_price": 0.018635,
+        "volume": 259294.30448567,
+        "link": "https://www.huobi.com/uk-ua/exchange/one_usdt"
+    },
+    {
+        "symbol": "SYNUSDT",
+        "ask_price": 1.0632,
+        "bid_price": 1.058,
+        "volume": 1178964.72686722,
+        "link": "https://www.huobi.com/uk-ua/exchange/syn_usdt"
+    },
+    {
+        "symbol": "WOOFUSDT",
+        "ask_price": 0.001454,
+        "bid_price": 0.001444,
+        "volume": 112647.5634139761,
+        "link": "https://www.huobi.com/uk-ua/exchange/woof_usdt"
+    },
+    {
+        "symbol": "KCALUSDT",
+        "ask_price": 0.3674,
+        "bid_price": 0.3635,
+        "volume": 593062.87847602,
+        "link": "https://www.huobi.com/uk-ua/exchange/kcal_usdt"
+    },
+    {
+        "symbol": "FTMUSDT",
+        "ask_price": 0.3991,
+        "bid_price": 0.3987,
+        "volume": 363031.8986642,
+        "link": "https://www.huobi.com/uk-ua/exchange/ftm_usdt"
+    },
+    {
+        "symbol": "NESTUSDT",
+        "ask_price": 0.020952,
+        "bid_price": 0.02092,
+        "volume": 534526.01135757,
+        "link": "https://www.huobi.com/uk-ua/exchange/nest_usdt"
+    },
+    {
+        "symbol": "WAVESUSDT",
+        "ask_price": 2.2645,
+        "bid_price": 2.2638,
+        "volume": 700001.89183259,
+        "link": "https://www.huobi.com/uk-ua/exchange/waves_usdt"
+    },
+    {
+        "symbol": "UNIUSDT",
+        "ask_price": 6.3829,
+        "bid_price": 6.3797,
+        "volume": 1141217.81888472,
+        "link": "https://www.huobi.com/uk-ua/exchange/uni_usdt"
+    },
+    {
+        "symbol": "SKEBUSDT",
+        "ask_price": 0.002842,
+        "bid_price": 0.002744,
+        "volume": 36808.9269001244,
+        "link": "https://www.huobi.com/uk-ua/exchange/skeb_usdt"
+    },
+    {
+        "symbol": "TAOUSDT",
+        "ask_price": 0.1114,
+        "bid_price": 0.1101,
+        "volume": 524748.85687872,
+        "link": "https://www.huobi.com/uk-ua/exchange/tao_usdt"
+    },
+    {
+        "symbol": "BREEDUSDT",
+        "ask_price": 0.0482,
+        "bid_price": 0.0479,
+        "volume": 94718.61019908,
+        "link": "https://www.huobi.com/uk-ua/exchange/breed_usdt"
+    },
+    {
+        "symbol": "MUDOL2USDT",
+        "ask_price": 0.0399,
+        "bid_price": 0.0394,
+        "volume": 285713.39682357,
+        "link": "https://www.huobi.com/uk-ua/exchange/mudol2_usdt"
+    },
+    {
+        "symbol": "GMPDUSDT",
+        "ask_price": 0.017685,
+        "bid_price": 0.017571,
+        "volume": 189771.3059315,
+        "link": "https://www.huobi.com/uk-ua/exchange/gmpd_usdt"
+    },
+    {
+        "symbol": "XYOUSDT",
+        "ask_price": 0.006146,
+        "bid_price": 0.005933,
+        "volume": 35977.1295981543,
+        "link": "https://www.huobi.com/uk-ua/exchange/xyo_usdt"
+    },
+    {
+        "symbol": "NOIAUSDT",
+        "ask_price": 0.0466,
+        "bid_price": 0.0459,
+        "volume": 410384.7291965,
+        "link": "https://www.huobi.com/uk-ua/exchange/noia_usdt"
+    },
+    {
+        "symbol": "DEXEUSDT",
+        "ask_price": 2.8497,
+        "bid_price": 2.8322,
+        "volume": 705019.03052413,
+        "link": "https://www.huobi.com/uk-ua/exchange/dexe_usdt"
+    },
+    {
+        "symbol": "ENSUSDT",
+        "ask_price": 13.6776,
+        "bid_price": 13.6752,
+        "volume": 335978.08081837,
+        "link": "https://www.huobi.com/uk-ua/exchange/ens_usdt"
+    },
+    {
+        "symbol": "CKBUSDT",
+        "ask_price": 0.004222,
+        "bid_price": 0.004217,
+        "volume": 160173.6820118081,
+        "link": "https://www.huobi.com/uk-ua/exchange/ckb_usdt"
+    },
+    {
+        "symbol": "WMTUSDT",
+        "ask_price": 0.1861,
+        "bid_price": 0.1855,
+        "volume": 845557.61692517,
+        "link": "https://www.huobi.com/uk-ua/exchange/wmt_usdt"
+    },
+    {
+        "symbol": "INGUSDT",
+        "ask_price": 0.000758,
+        "bid_price": 0.000748,
+        "volume": 478917.3862880808,
+        "link": "https://www.huobi.com/uk-ua/exchange/ing_usdt"
+    },
+    {
+        "symbol": "BRTUSDT",
+        "ask_price": 0.00378,
+        "bid_price": 0.00372,
+        "volume": 122583.116469971,
+        "link": "https://www.huobi.com/uk-ua/exchange/brt_usdt"
+    },
+    {
+        "symbol": "KNCUSDT",
+        "ask_price": 0.7141,
+        "bid_price": 0.7135,
+        "volume": 534874.707696,
+        "link": "https://www.huobi.com/uk-ua/exchange/knc_usdt"
+    },
+    {
+        "symbol": "TOPUSDT",
+        "ask_price": 0.00051,
+        "bid_price": 0.000503,
+        "volume": 239473.5313277641,
+        "link": "https://www.huobi.com/uk-ua/exchange/top_usdt"
+    },
+    {
+        "symbol": "LNUSDT",
+        "ask_price": 40.5462,
+        "bid_price": 40.4752,
+        "volume": 39487.22928518,
+        "link": "https://www.huobi.com/uk-ua/exchange/ln_usdt"
+    },
+    {
+        "symbol": "TTUSDT",
+        "ask_price": 0.004541,
+        "bid_price": 0.004515,
+        "volume": 116848.24432528,
+        "link": "https://www.huobi.com/uk-ua/exchange/tt_usdt"
+    },
+    {
+        "symbol": "CVXUSDT",
+        "ask_price": 5.9574,
+        "bid_price": 5.9406,
+        "volume": 423530.02634025,
+        "link": "https://www.huobi.com/uk-ua/exchange/cvx_usdt"
+    },
+    {
+        "symbol": "AUCTIONUSDT",
+        "ask_price": 5.4691,
+        "bid_price": 5.3945,
+        "volume": 33998.46159715,
+        "link": "https://www.huobi.com/uk-ua/exchange/auction_usdt"
+    },
+    {
+        "symbol": "EVMOSUSDT",
+        "ask_price": 0.3274,
+        "bid_price": 0.3266,
+        "volume": 211035.34445074,
+        "link": "https://www.huobi.com/uk-ua/exchange/evmos_usdt"
+    },
+    {
+        "symbol": "SHIBUSDT",
+        "ask_price": 1.073e-05,
+        "bid_price": 1.072e-05,
+        "volume": 499735.5215788836,
+        "link": "https://www.huobi.com/uk-ua/exchange/shib_usdt"
+    },
+    {
+        "symbol": "LTCUSDT",
+        "ask_price": 85.8,
+        "bid_price": 85.79,
+        "volume": 2691167.47428034,
+        "link": "https://www.huobi.com/uk-ua/exchange/ltc_usdt"
+    },
+    {
+        "symbol": "QTUMUSDT",
+        "ask_price": 2.9332,
+        "bid_price": 2.9314,
+        "volume": 775635.325742148,
+        "link": "https://www.huobi.com/uk-ua/exchange/qtum_usdt"
+    },
+    {
+        "symbol": "HUNTUSDT",
+        "ask_price": 0.356,
+        "bid_price": 0.3543,
+        "volume": 585126.87184117,
+        "link": "https://www.huobi.com/uk-ua/exchange/hunt_usdt"
+    },
+    {
+        "symbol": "EMUSDT",
+        "ask_price": 0.000785,
+        "bid_price": 0.000765,
+        "volume": 48375.66219745,
+        "link": "https://www.huobi.com/uk-ua/exchange/em_usdt"
+    },
+    {
+        "symbol": "XCHUSDT",
+        "ask_price": 36.5025,
+        "bid_price": 36.382,
+        "volume": 197363.90371116,
+        "link": "https://www.huobi.com/uk-ua/exchange/xch_usdt"
+    },
+    {
+        "symbol": "OGUSDT",
+        "ask_price": 2.5872,
+        "bid_price": 2.5286,
+        "volume": 377744.97819262,
+        "link": "https://www.huobi.com/uk-ua/exchange/og_usdt"
+    },
+    {
+        "symbol": "GLMRUSDT",
+        "ask_price": 0.3892,
+        "bid_price": 0.389,
+        "volume": 151149.9710524194,
+        "link": "https://www.huobi.com/uk-ua/exchange/glmr_usdt"
+    },
+    {
+        "symbol": "MBLUSDT",
+        "ask_price": 0.00334,
+        "bid_price": 0.003303,
+        "volume": 34151.6380729731,
+        "link": "https://www.huobi.com/uk-ua/exchange/mbl_usdt"
+    },
+    {
+        "symbol": "WEMIXUSDT",
+        "ask_price": 1.8957,
+        "bid_price": 1.8894,
+        "volume": 170593.13729869065,
+        "link": "https://www.huobi.com/uk-ua/exchange/wemix_usdt"
+    },
+    {
+        "symbol": "SWAPUSDT",
+        "ask_price": 0.4285,
+        "bid_price": 0.4238,
+        "volume": 598694.71945675,
+        "link": "https://www.huobi.com/uk-ua/exchange/swap_usdt"
+    },
+    {
+        "symbol": "LBPUSDT",
+        "ask_price": 0.000535,
+        "bid_price": 0.000525,
+        "volume": 50292.897061557,
+        "link": "https://www.huobi.com/uk-ua/exchange/lbp_usdt"
+    },
+    {
+        "symbol": "TOMSUSDT",
+        "ask_price": 0.002394,
+        "bid_price": 0.002375,
+        "volume": 789286.1971219582,
+        "link": "https://www.huobi.com/uk-ua/exchange/toms_usdt"
+    },
+    {
+        "symbol": "SKLUSDT",
+        "ask_price": 0.040498,
+        "bid_price": 0.040476,
+        "volume": 690989.1861409198,
+        "link": "https://www.huobi.com/uk-ua/exchange/skl_usdt"
+    },
+    {
+        "symbol": "SEANUSDT",
+        "ask_price": 0.004142,
+        "bid_price": 0.004117,
+        "volume": 31895.1672024049,
+        "link": "https://www.huobi.com/uk-ua/exchange/sean_usdt"
+    },
+    {
+        "symbol": "OXTUSDT",
+        "ask_price": 0.0893,
+        "bid_price": 0.089,
+        "volume": 43117.58889906,
+        "link": "https://www.huobi.com/uk-ua/exchange/oxt_usdt"
+    },
+    {
+        "symbol": "MINAUSDT",
+        "ask_price": 0.7836,
+        "bid_price": 0.7821,
+        "volume": 289135.42215364,
+        "link": "https://www.huobi.com/uk-ua/exchange/mina_usdt"
+    },
+    {
+        "symbol": "WBTUSDT",
+        "ask_price": 3.7805,
+        "bid_price": 3.777,
+        "volume": 557522.44139516,
+        "link": "https://www.huobi.com/uk-ua/exchange/wbt_usdt"
+    },
+    {
+        "symbol": "FIROUSDT",
+        "ask_price": 2.1638,
+        "bid_price": 2.1408,
+        "volume": 31756.36277637,
+        "link": "https://www.huobi.com/uk-ua/exchange/firo_usdt"
+    },
+    {
+        "symbol": "ZBCUSDT",
+        "ask_price": 0.013269,
+        "bid_price": 0.013217,
+        "volume": 771620.9298135759,
+        "link": "https://www.huobi.com/uk-ua/exchange/zbc_usdt"
+    },
+    {
+        "symbol": "1SOLUSDT",
+        "ask_price": 0.006953,
+        "bid_price": 0.006815,
+        "volume": 222909.67779393,
+        "link": "https://www.huobi.com/uk-ua/exchange/1sol_usdt"
+    },
+    {
+        "symbol": "ICPUSDT",
+        "ask_price": 5.29,
+        "bid_price": 5.27,
+        "volume": 110214.58344434,
+        "link": "https://www.huobi.com/uk-ua/exchange/icp_usdt"
+    },
+    {
+        "symbol": "ALGOUSDT",
+        "ask_price": 0.2142,
+        "bid_price": 0.214,
+        "volume": 119591.19995048133,
+        "link": "https://www.huobi.com/uk-ua/exchange/algo_usdt"
+    },
+    {
+        "symbol": "JUVUSDT",
+        "ask_price": 2.6576,
+        "bid_price": 2.625,
+        "volume": 30016.68658176,
+        "link": "https://www.huobi.com/uk-ua/exchange/juv_usdt"
+    },
+    {
+        "symbol": "MCRTUSDT",
+        "ask_price": 0.003832,
+        "bid_price": 0.003804,
+        "volume": 49745.85160103704,
+        "link": "https://www.huobi.com/uk-ua/exchange/mcrt_usdt"
+    },
+    {
+        "symbol": "KOIUSDT",
+        "ask_price": 0.001765,
+        "bid_price": 0.001751,
+        "volume": 178446.8201778571,
+        "link": "https://www.huobi.com/uk-ua/exchange/koi_usdt"
+    },
+    {
+        "symbol": "SMCWUSDT",
+        "ask_price": 0.01434,
+        "bid_price": 0.01432,
+        "volume": 50149.180101488,
+        "link": "https://www.huobi.com/uk-ua/exchange/smcw_usdt"
+    },
+    {
+        "symbol": "BNTUSDT",
+        "ask_price": 0.4324,
+        "bid_price": 0.4316,
+        "volume": 38369.428495,
+        "link": "https://www.huobi.com/uk-ua/exchange/bnt_usdt"
+    },
+    {
+        "symbol": "XETAUSDT",
+        "ask_price": 0.051722,
+        "bid_price": 0.05077,
+        "volume": 31277.301191158,
+        "link": "https://www.huobi.com/uk-ua/exchange/xeta_usdt"
+    },
+    {
+        "symbol": "IOTXUSDT",
+        "ask_price": 0.024024,
+        "bid_price": 0.024006,
+        "volume": 81108.45781135,
+        "link": "https://www.huobi.com/uk-ua/exchange/iotx_usdt"
+    },
+    {
+        "symbol": "POOLZUSDT",
+        "ask_price": 3.7272,
+        "bid_price": 3.7198,
+        "volume": 57877.44764155,
+        "link": "https://www.huobi.com/uk-ua/exchange/poolz_usdt"
+    },
+    {
+        "symbol": "SISUSDT",
+        "ask_price": 0.1133,
+        "bid_price": 0.1101,
+        "volume": 48220.287197,
+        "link": "https://www.huobi.com/uk-ua/exchange/sis_usdt"
+    },
+    {
+        "symbol": "UMAUSDT",
+        "ask_price": 1.9928,
+        "bid_price": 1.9903,
+        "volume": 646579.71265164,
+        "link": "https://www.huobi.com/uk-ua/exchange/uma_usdt"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "ask_price": 287.18,
+        "bid_price": 287.1,
+        "volume": 898786.8239196601,
+        "link": "https://www.huobi.com/uk-ua/exchange/bnb_usdt"
+    },
+    {
+        "symbol": "O3USDT",
+        "ask_price": 0.0736,
+        "bid_price": 0.0733,
+        "volume": 41550.1133464,
+        "link": "https://www.huobi.com/uk-ua/exchange/o3_usdt"
+    },
+    {
+        "symbol": "H2OUSDT",
+        "ask_price": 0.120217,
+        "bid_price": 0.116787,
+        "volume": 130470.3634436595,
+        "link": "https://www.huobi.com/uk-ua/exchange/h2o_usdt"
+    },
+    {
+        "symbol": "USDTRUB",
+        "ask_price": 78.79,
+        "bid_price": 76.86,
+        "volume": 99151.98247583,
+        "link": "https://www.huobi.com/uk-ua/exchange/usd_trub"
+    },
+    {
+        "symbol": "DFUSDT",
+        "ask_price": 0.0602,
+        "bid_price": 0.0597,
+        "volume": 251137.077032719,
+        "link": "https://www.huobi.com/uk-ua/exchange/df_usdt"
+    },
+    {
+        "symbol": "ERGUSDT",
+        "ask_price": 1.475,
+        "bid_price": 1.4561,
+        "volume": 595755.1119114369,
+        "link": "https://www.huobi.com/uk-ua/exchange/erg_usdt"
+    },
+    {
+        "symbol": "SPAUSDT",
+        "ask_price": 0.005461,
+        "bid_price": 0.005389,
+        "volume": 38680.07194374,
+        "link": "https://www.huobi.com/uk-ua/exchange/spa_usdt"
+    },
+    {
+        "symbol": "REVVUSDT",
+        "ask_price": 0.013191,
+        "bid_price": 0.012979,
+        "volume": 224008.6825828872,
+        "link": "https://www.huobi.com/uk-ua/exchange/revv_usdt"
+    },
+    {
+        "symbol": "ANMLUSDT",
+        "ask_price": 0.000504,
+        "bid_price": 0.000495,
+        "volume": 486884.085548491,
+        "link": "https://www.huobi.com/uk-ua/exchange/anml_usdt"
+    },
+    {
+        "symbol": "SNXUSDT",
+        "ask_price": 2.9285,
+        "bid_price": 2.9274,
+        "volume": 1045963.98882301,
+        "link": "https://www.huobi.com/uk-ua/exchange/snx_usdt"
+    },
+    {
+        "symbol": "DCRUSDT",
+        "ask_price": 21.2557,
+        "bid_price": 21.1362,
+        "volume": 31598.57709606,
+        "link": "https://www.huobi.com/uk-ua/exchange/dcr_usdt"
+    },
+    {
+        "symbol": "PERPUSDT",
+        "ask_price": 1.0039,
+        "bid_price": 1.0027,
+        "volume": 53688.92049456,
+        "link": "https://www.huobi.com/uk-ua/exchange/perp_usdt"
+    },
+    {
+        "symbol": "WNDRUSDT",
+        "ask_price": 0.017531,
+        "bid_price": 0.017483,
+        "volume": 75555.7151655606,
+        "link": "https://www.huobi.com/uk-ua/exchange/wndr_usdt"
+    },
+    {
+        "symbol": "SPSUSDT",
+        "ask_price": 0.025963,
+        "bid_price": 0.02548,
+        "volume": 428854.5303759901,
+        "link": "https://www.huobi.com/uk-ua/exchange/sps_usdt"
+    },
+    {
+        "symbol": "COMPUSDT",
+        "ask_price": 45.12,
+        "bid_price": 45.05,
+        "volume": 143399.8808179573,
+        "link": "https://www.huobi.com/uk-ua/exchange/comp_usdt"
+    },
+    {
+        "symbol": "WTCUSDT",
+        "ask_price": 0.2192,
+        "bid_price": 0.2186,
+        "volume": 133021.68838107,
+        "link": "https://www.huobi.com/uk-ua/exchange/wtc_usdt"
+    },
+    {
+        "symbol": "HBARUSDT",
+        "ask_price": 0.062763,
+        "bid_price": 0.062724,
+        "volume": 821119.1495829814,
+        "link": "https://www.huobi.com/uk-ua/exchange/hbar_usdt"
+    },
+    {
+        "symbol": "QOMUSDT",
+        "ask_price": 7.077e-08,
+        "bid_price": 7.0768e-08,
+        "volume": 48627.71067834642,
+        "link": "https://www.huobi.com/uk-ua/exchange/qom_usdt"
+    },
+    {
+        "symbol": "SWEATUSDT",
+        "ask_price": 0.010488,
+        "bid_price": 0.010115,
+        "volume": 30517.4227053244,
+        "link": "https://www.huobi.com/uk-ua/exchange/sweat_usdt"
+    },
+    {
+        "symbol": "TONUSDT",
+        "ask_price": 2.3068,
+        "bid_price": 2.3028,
+        "volume": 10990336.5766197,
+        "link": "https://www.huobi.com/uk-ua/exchange/ton_usdt"
+    },
+    {
+        "symbol": "ABBCUSDT",
+        "ask_price": 0.0722,
+        "bid_price": 0.0721,
+        "volume": 2482553.08059231,
+        "link": "https://www.huobi.com/uk-ua/exchange/abbc_usdt"
+    },
+    {
+        "symbol": "VIDYUSDT",
+        "ask_price": 7.971e-05,
+        "bid_price": 7.854e-05,
+        "volume": 205629.6672866301,
+        "link": "https://www.huobi.com/uk-ua/exchange/vidy_usdt"
+    },
+    {
+        "symbol": "MDXUSDT",
+        "ask_price": 0.0778,
+        "bid_price": 0.0777,
+        "volume": 60522.570145,
+        "link": "https://www.huobi.com/uk-ua/exchange/mdx_usdt"
+    },
+    {
+        "symbol": "OCTUSDT",
+        "ask_price": 0.2036,
+        "bid_price": 0.2016,
+        "volume": 546768.87492603,
+        "link": "https://www.huobi.com/uk-ua/exchange/oct_usdt"
+    },
+    {
+        "symbol": "KSMUSDT",
+        "ask_price": 33.3588,
+        "bid_price": 33.3401,
+        "volume": 145991.22778273,
+        "link": "https://www.huobi.com/uk-ua/exchange/ksm_usdt"
+    },
+    {
+        "symbol": "IGUUSDT",
+        "ask_price": 0.1268,
+        "bid_price": 0.1266,
+        "volume": 1130320.7169757255,
+        "link": "https://www.huobi.com/uk-ua/exchange/igu_usdt"
+    },
+    {
+        "symbol": "THETAUSDT",
+        "ask_price": 0.9886,
+        "bid_price": 0.9878,
+        "volume": 106438.16339458,
+        "link": "https://www.huobi.com/uk-ua/exchange/theta_usdt"
+    },
+    {
+        "symbol": "ANTUSDT",
+        "ask_price": 2.3359,
+        "bid_price": 2.3342,
+        "volume": 242777.36049284117,
+        "link": "https://www.huobi.com/uk-ua/exchange/ant_usdt"
+    },
+    {
+        "symbol": "EGAMEUSDT",
+        "ask_price": 9.163e-05,
+        "bid_price": 9.004e-05,
+        "volume": 174058.31191244256,
+        "link": "https://www.huobi.com/uk-ua/exchange/egame_usdt"
+    },
+    {
+        "symbol": "LMRUSDT",
+        "ask_price": 0.00836,
+        "bid_price": 0.00817,
+        "volume": 31861.117370225,
+        "link": "https://www.huobi.com/uk-ua/exchange/lmr_usdt"
+    },
+    {
+        "symbol": "BOXUSDT",
+        "ask_price": 0.000214,
+        "bid_price": 0.000209,
+        "volume": 48656.238709834746,
+        "link": "https://www.huobi.com/uk-ua/exchange/box_usdt"
+    },
+    {
+        "symbol": "PANDOUSDT",
+        "ask_price": 0.009572,
+        "bid_price": 0.009352,
+        "volume": 168184.9324296275,
+        "link": "https://www.huobi.com/uk-ua/exchange/pando_usdt"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "ask_price": 1.132014,
+        "bid_price": 1.131832,
+        "volume": 2910400.0799132916,
+        "link": "https://www.huobi.com/uk-ua/exchange/matic_usdt"
+    },
+    {
+        "symbol": "API3USDT",
+        "ask_price": 1.3789,
+        "bid_price": 1.3768,
+        "volume": 651290.68997161,
+        "link": "https://www.huobi.com/uk-ua/exchange/api3_usdt"
+    },
+    {
+        "symbol": "FUDUSDT",
+        "ask_price": 10.8298,
+        "bid_price": 10.684,
+        "volume": 201620.82139806,
+        "link": "https://www.huobi.com/uk-ua/exchange/fud_usdt"
+    },
+    {
+        "symbol": "RSS3USDT",
+        "ask_price": 0.1443,
+        "bid_price": 0.1403,
+        "volume": 50157.79566992,
+        "link": "https://www.huobi.com/uk-ua/exchange/rss3_usdt"
+    },
+    {
+        "symbol": "XPLAUSDT",
+        "ask_price": 0.6101,
+        "bid_price": 0.602,
+        "volume": 418521.46611712297,
+        "link": "https://www.huobi.com/uk-ua/exchange/xpla_usdt"
+    },
+    {
+        "symbol": "LOOMUSDT",
+        "ask_price": 0.064389,
+        "bid_price": 0.062051,
+        "volume": 50856.42627402,
+        "link": "https://www.huobi.com/uk-ua/exchange/loom_usdt"
+    },
+    {
+        "symbol": "BANDUSDT",
+        "ask_price": 1.6721,
+        "bid_price": 1.6666,
+        "volume": 239066.37086553,
+        "link": "https://www.huobi.com/uk-ua/exchange/band_usdt"
+    },
+    {
+        "symbol": "USDTUAH",
+        "ask_price": 38.61,
+        "bid_price": 38.43,
+        "volume": 46434.9625828,
+        "link": "https://www.huobi.com/uk-ua/exchange/usd_tuah"
+    },
+    {
+        "symbol": "SOLUSDT",
+        "ask_price": 20.1886,
+        "bid_price": 20.1885,
+        "volume": 8280430.554214713,
+        "link": "https://www.huobi.com/uk-ua/exchange/sol_usdt"
+    },
+    {
+        "symbol": "AUDIOUSDT",
+        "ask_price": 0.2594,
+        "bid_price": 0.2591,
+        "volume": 53186.95255888,
+        "link": "https://www.huobi.com/uk-ua/exchange/audio_usdt"
+    },
+    {
+        "symbol": "ALIUSDT",
+        "ask_price": 0.058483,
+        "bid_price": 0.058158,
+        "volume": 1111874.424128443,
+        "link": "https://www.huobi.com/uk-ua/exchange/ali_usdt"
+    },
+    {
+        "symbol": "ROCOUSDT",
+        "ask_price": 0.1288,
+        "bid_price": 0.1267,
+        "volume": 38138.17556909,
+        "link": "https://www.huobi.com/uk-ua/exchange/roco_usdt"
+    },
+    {
+        "symbol": "UFTUSDT",
+        "ask_price": 0.4856,
+        "bid_price": 0.4841,
+        "volume": 701558.56082826,
+        "link": "https://www.huobi.com/uk-ua/exchange/uft_usdt"
+    },
+    {
+        "symbol": "DOGUSDT",
+        "ask_price": 0.000876,
+        "bid_price": 0.000865,
+        "volume": 404618.3048998055,
+        "link": "https://www.huobi.com/uk-ua/exchange/dog_usdt"
+    },
+    {
+        "symbol": "CREUSDT",
+        "ask_price": 0.00448,
+        "bid_price": 0.004372,
+        "volume": 33407.73737457,
+        "link": "https://www.huobi.com/uk-ua/exchange/cre_usdt"
+    },
+    {
+        "symbol": "STCUSDT",
+        "ask_price": 0.448,
+        "bid_price": 0.4354,
+        "volume": 93908.22404070362,
+        "link": "https://www.huobi.com/uk-ua/exchange/stc_usdt"
+    },
+    {
+        "symbol": "ZCXUSDT",
+        "ask_price": 0.0735,
+        "bid_price": 0.0728,
+        "volume": 249449.23367104,
+        "link": "https://www.huobi.com/uk-ua/exchange/zcx_usdt"
+    },
+    {
+        "symbol": "ARVUSDT",
+        "ask_price": 7.866e-05,
+        "bid_price": 7.782e-05,
+        "volume": 35601.3609876111,
+        "link": "https://www.huobi.com/uk-ua/exchange/arv_usdt"
+    },
+    {
+        "symbol": "SOULUSDT",
+        "ask_price": 22.409,
+        "bid_price": 22.39,
+        "volume": 210646.92756515,
+        "link": "https://www.huobi.com/uk-ua/exchange/soul_usdt"
+    },
+    {
+        "symbol": "RENUSDT",
+        "ask_price": 0.11929,
+        "bid_price": 0.119082,
+        "volume": 280197.72468133,
+        "link": "https://www.huobi.com/uk-ua/exchange/ren_usdt"
+    },
+    {
+        "symbol": "AGIXUSDT",
+        "ask_price": 0.4111,
+        "bid_price": 0.4106,
+        "volume": 248751.62264461,
+        "link": "https://www.huobi.com/uk-ua/exchange/agix_usdt"
+    },
+    {
+        "symbol": "NCTUSDT",
+        "ask_price": 0.010118,
+        "bid_price": 0.009892,
+        "volume": 34870.0804061185,
+        "link": "https://www.huobi.com/uk-ua/exchange/nct_usdt"
+    },
+    {
+        "symbol": "COREUSDT",
+        "ask_price": 2.80934,
+        "bid_price": 2.809339,
+        "volume": 2794035.56637435,
+        "link": "https://www.huobi.com/uk-ua/exchange/core_usdt"
+    }
+]

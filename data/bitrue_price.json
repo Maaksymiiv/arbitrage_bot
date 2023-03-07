@@ -1,0 +1,1598 @@
+[
+    {
+        "symbol": "LITUSDT",
+        "ask_price": "1.152",
+        "bid_price": "1.151",
+        "volume": 1378235.547,
+        "link": "https://www.bitrue.com/trade/lit_usdt"
+    },
+    {
+        "symbol": "PAXGUSDT",
+        "ask_price": "1803.0000",
+        "bid_price": "1802.0000",
+        "volume": 546829.13,
+        "link": "https://www.bitrue.com/trade/paxg_usdt"
+    },
+    {
+        "symbol": "ELFUSDT",
+        "ask_price": "0.22140000",
+        "bid_price": "0.22130000",
+        "volume": 1445079.491,
+        "link": "https://www.bitrue.com/trade/elf_usdt"
+    },
+    {
+        "symbol": "ALICEUSDT",
+        "ask_price": "1.692",
+        "bid_price": "1.691",
+        "volume": 5138149.844,
+        "link": "https://www.bitrue.com/trade/alice_usdt"
+    },
+    {
+        "symbol": "ANKRUSDT",
+        "ask_price": "0.02721",
+        "bid_price": "0.02720",
+        "volume": 513651.495,
+        "link": "https://www.bitrue.com/trade/ankr_usdt"
+    },
+    {
+        "symbol": "XRP1SUSDT",
+        "ask_price": "0.328727",
+        "bid_price": "0.325440",
+        "volume": 960948.08,
+        "link": "https://www.bitrue.com/trade/xrp1s_usdt"
+    },
+    {
+        "symbol": "BURGERUSDT",
+        "ask_price": "0.674",
+        "bid_price": "0.673",
+        "volume": 140821.499,
+        "link": "https://www.bitrue.com/trade/burger_usdt"
+    },
+    {
+        "symbol": "DIAUSDT",
+        "ask_price": "0.366",
+        "bid_price": "0.365",
+        "volume": 137064.813,
+        "link": "https://www.bitrue.com/trade/dia_usdt"
+    },
+    {
+        "symbol": "ILVUSDT",
+        "ask_price": "73.73",
+        "bid_price": "73.48",
+        "volume": 460363.248,
+        "link": "https://www.bitrue.com/trade/ilv_usdt"
+    },
+    {
+        "symbol": "FLRUSDT",
+        "ask_price": "0.039797",
+        "bid_price": "0.039631",
+        "volume": 2025194.365,
+        "link": "https://www.bitrue.com/trade/flr_usdt"
+    },
+    {
+        "symbol": "SANTOSUSDT",
+        "ask_price": "5.830",
+        "bid_price": "5.825",
+        "volume": 300625.51,
+        "link": "https://www.bitrue.com/trade/santos_usdt"
+    },
+    {
+        "symbol": "HOTUSDT",
+        "ask_price": "0.0019914",
+        "bid_price": "0.0019767",
+        "volume": 273618.466,
+        "link": "https://www.bitrue.com/trade/hot_usdt"
+    },
+    {
+        "symbol": "BUSDUSDT",
+        "ask_price": "0.9991",
+        "bid_price": "0.9990",
+        "volume": 109179034.286,
+        "link": "https://www.bitrue.com/trade/busd_usdt"
+    },
+    {
+        "symbol": "BEMDUSDT",
+        "ask_price": "0.000364",
+        "bid_price": "0.000361",
+        "volume": 101495.744,
+        "link": "https://www.bitrue.com/trade/bemd_usdt"
+    },
+    {
+        "symbol": "CHESSUSDT",
+        "ask_price": "0.2559",
+        "bid_price": "0.2551",
+        "volume": 220527.8368,
+        "link": "https://www.bitrue.com/trade/chess_usdt"
+    },
+    {
+        "symbol": "CHRUSDT",
+        "ask_price": "0.1862",
+        "bid_price": "0.1860",
+        "volume": 6749033.353,
+        "link": "https://www.bitrue.com/trade/chr_usdt"
+    },
+    {
+        "symbol": "DYDXUSDT",
+        "ask_price": "2.435",
+        "bid_price": "2.434",
+        "volume": 3031348.079,
+        "link": "https://www.bitrue.com/trade/dydx_usdt"
+    },
+    {
+        "symbol": "MANAUSDT",
+        "ask_price": "0.6325",
+        "bid_price": "0.6320",
+        "volume": 20350348.398,
+        "link": "https://www.bitrue.com/trade/mana_usdt"
+    },
+    {
+        "symbol": "ETCUSDT",
+        "ask_price": "20.68",
+        "bid_price": "20.67",
+        "volume": 4740992.887,
+        "link": "https://www.bitrue.com/trade/etc_usdt"
+    },
+    {
+        "symbol": "ROSEUSDT",
+        "ask_price": "0.07379",
+        "bid_price": "0.07373",
+        "volume": 95946391.934,
+        "link": "https://www.bitrue.com/trade/rose_usdt"
+    },
+    {
+        "symbol": "STPTUSDT",
+        "ask_price": "0.04241",
+        "bid_price": "0.04233",
+        "volume": 279631.876,
+        "link": "https://www.bitrue.com/trade/stpt_usdt"
+    },
+    {
+        "symbol": "KOMUSDT",
+        "ask_price": "0.00148948",
+        "bid_price": "0.00148206",
+        "volume": 1101545.459,
+        "link": "https://www.bitrue.com/trade/kom_usdt"
+    },
+    {
+        "symbol": "HOOKUSDT",
+        "ask_price": "2.2926",
+        "bid_price": "2.2857",
+        "volume": 228239.739,
+        "link": "https://www.bitrue.com/trade/hook_usdt"
+    },
+    {
+        "symbol": "LRCUSDT",
+        "ask_price": "0.3862",
+        "bid_price": "0.3861",
+        "volume": 16746432.911,
+        "link": "https://www.bitrue.com/trade/lrc_usdt"
+    },
+    {
+        "symbol": "XVSUSDT",
+        "ask_price": "5.46",
+        "bid_price": "5.45",
+        "volume": 161246.216,
+        "link": "https://www.bitrue.com/trade/xvs_usdt"
+    },
+    {
+        "symbol": "TRXUSDT",
+        "ask_price": "0.064348",
+        "bid_price": "0.064200",
+        "volume": 5700420.847,
+        "link": "https://www.bitrue.com/trade/trx_usdt"
+    },
+    {
+        "symbol": "LPTUSDT",
+        "ask_price": "8.94",
+        "bid_price": "8.90",
+        "volume": 319793.278,
+        "link": "https://www.bitrue.com/trade/lpt_usdt"
+    },
+    {
+        "symbol": "HFTUSDT",
+        "ask_price": "0.5009",
+        "bid_price": "0.5004",
+        "volume": 103191.754,
+        "link": "https://www.bitrue.com/trade/hft_usdt"
+    },
+    {
+        "symbol": "GRTUSDT",
+        "ask_price": "0.148200",
+        "bid_price": "0.148100",
+        "volume": 267972.989,
+        "link": "https://www.bitrue.com/trade/grt_usdt"
+    },
+    {
+        "symbol": "CTKUSDT",
+        "ask_price": "0.760",
+        "bid_price": "0.759",
+        "volume": 220058.92,
+        "link": "https://www.bitrue.com/trade/ctk_usdt"
+    },
+    {
+        "symbol": "XRPAYNETUSDT",
+        "ask_price": "0.001545",
+        "bid_price": "0.001544",
+        "volume": 162094.657,
+        "link": "https://www.bitrue.com/trade/xrpaynet_usdt"
+    },
+    {
+        "symbol": "CVCUSDT",
+        "ask_price": "0.1025",
+        "bid_price": "0.1015",
+        "volume": 279378.346,
+        "link": "https://www.bitrue.com/trade/cvc_usdt"
+    },
+    {
+        "symbol": "UTKUSDT",
+        "ask_price": "0.1068",
+        "bid_price": "0.1065",
+        "volume": 457493.358,
+        "link": "https://www.bitrue.com/trade/utk_usdt"
+    },
+    {
+        "symbol": "XECUSDT",
+        "ask_price": "0.00003244",
+        "bid_price": "0.00003237",
+        "volume": 230367.146,
+        "link": "https://www.bitrue.com/trade/xec_usdt"
+    },
+    {
+        "symbol": "FLUXUSDT",
+        "ask_price": "0.7543",
+        "bid_price": "0.7467",
+        "volume": 1371042.435,
+        "link": "https://www.bitrue.com/trade/flux_usdt"
+    },
+    {
+        "symbol": "USTCUSDT",
+        "ask_price": "0.02762627",
+        "bid_price": "0.02753233",
+        "volume": 407185.317,
+        "link": "https://www.bitrue.com/trade/ustc_usdt"
+    },
+    {
+        "symbol": "SUSHIUSDT",
+        "ask_price": "1.2460",
+        "bid_price": "1.2450",
+        "volume": 661221.136,
+        "link": "https://www.bitrue.com/trade/sushi_usdt"
+    },
+    {
+        "symbol": "NEARUSDT",
+        "ask_price": "2.168",
+        "bid_price": "2.167",
+        "volume": 7206630.942,
+        "link": "https://www.bitrue.com/trade/near_usdt"
+    },
+    {
+        "symbol": "DUSKUSDT",
+        "ask_price": "0.2278",
+        "bid_price": "0.2276",
+        "volume": 3640822.111,
+        "link": "https://www.bitrue.com/trade/dusk_usdt"
+    },
+    {
+        "symbol": "FETUSDT",
+        "ask_price": "0.3843",
+        "bid_price": "0.3840",
+        "volume": 1899251.511,
+        "link": "https://www.bitrue.com/trade/fet_usdt"
+    },
+    {
+        "symbol": "WRXUSDT",
+        "ask_price": "0.1803",
+        "bid_price": "0.1802",
+        "volume": 221094.595,
+        "link": "https://www.bitrue.com/trade/wrx_usdt"
+    },
+    {
+        "symbol": "RAREUSDT",
+        "ask_price": "0.1507",
+        "bid_price": "0.1503",
+        "volume": 514714.199,
+        "link": "https://www.bitrue.com/trade/rare_usdt"
+    },
+    {
+        "symbol": "SUNUSDT",
+        "ask_price": "0.00591",
+        "bid_price": "0.00590",
+        "volume": 198219.572,
+        "link": "https://www.bitrue.com/trade/sun_usdt"
+    },
+    {
+        "symbol": "PSGUSDT",
+        "ask_price": "6.89",
+        "bid_price": "6.88",
+        "volume": 199632.41,
+        "link": "https://www.bitrue.com/trade/psg_usdt"
+    },
+    {
+        "symbol": "NKNUSDT",
+        "ask_price": "0.1050",
+        "bid_price": "0.1049",
+        "volume": 124006.887,
+        "link": "https://www.bitrue.com/trade/nkn_usdt"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "ask_price": "21720.39",
+        "bid_price": "21715.34",
+        "volume": 169643459.834,
+        "link": "https://www.bitrue.com/trade/btc_usdt"
+    },
+    {
+        "symbol": "OMGUSDT",
+        "ask_price": "1.452",
+        "bid_price": "1.451",
+        "volume": 693281.706,
+        "link": "https://www.bitrue.com/trade/omg_usdt"
+    },
+    {
+        "symbol": "OPUSDT",
+        "ask_price": "2.186",
+        "bid_price": "2.185",
+        "volume": 429017.547,
+        "link": "https://www.bitrue.com/trade/op_usdt"
+    },
+    {
+        "symbol": "WTKUSDT",
+        "ask_price": "0.0120",
+        "bid_price": "0.0119",
+        "volume": 485250.461,
+        "link": "https://www.bitrue.com/trade/wtk_usdt"
+    },
+    {
+        "symbol": "ORTUSDT",
+        "ask_price": "0.023779",
+        "bid_price": "0.023500",
+        "volume": 279396.656,
+        "link": "https://www.bitrue.com/trade/ort_usdt"
+    },
+    {
+        "symbol": "IOTAUSDT",
+        "ask_price": "0.2284",
+        "bid_price": "0.2283",
+        "volume": 259005.649,
+        "link": "https://www.bitrue.com/trade/iota_usdt"
+    },
+    {
+        "symbol": "VOXELUSDT",
+        "ask_price": "0.2823",
+        "bid_price": "0.2817",
+        "volume": 565905.277,
+        "link": "https://www.bitrue.com/trade/voxel_usdt"
+    },
+    {
+        "symbol": "ARPAUSDT",
+        "ask_price": "0.03864",
+        "bid_price": "0.03860",
+        "volume": 793176.032,
+        "link": "https://www.bitrue.com/trade/arpa_usdt"
+    },
+    {
+        "symbol": "CELOUSDT",
+        "ask_price": "0.735",
+        "bid_price": "0.733",
+        "volume": 3480541.963,
+        "link": "https://www.bitrue.com/trade/celo_usdt"
+    },
+    {
+        "symbol": "MTRMUSDT",
+        "ask_price": "0.2609",
+        "bid_price": "0.2214",
+        "volume": 304900.062,
+        "link": "https://www.bitrue.com/trade/mtrm_usdt"
+    },
+    {
+        "symbol": "ZILUSDT",
+        "ask_price": "0.03001",
+        "bid_price": "0.02996",
+        "volume": 315693.252,
+        "link": "https://www.bitrue.com/trade/zil_usdt"
+    },
+    {
+        "symbol": "CVPUSDT",
+        "ask_price": "0.4073",
+        "bid_price": "0.4055",
+        "volume": 334230.489,
+        "link": "https://www.bitrue.com/trade/cvp_usdt"
+    },
+    {
+        "symbol": "GALAUSDT",
+        "ask_price": "0.04253",
+        "bid_price": "0.04249",
+        "volume": 13286055.065,
+        "link": "https://www.bitrue.com/trade/gala_usdt"
+    },
+    {
+        "symbol": "AZEROUSDT",
+        "ask_price": "1.5986",
+        "bid_price": "1.5890",
+        "volume": 681714.169,
+        "link": "https://www.bitrue.com/trade/azero_usdt"
+    },
+    {
+        "symbol": "BCHUSDT",
+        "ask_price": "122.62",
+        "bid_price": "121.78",
+        "volume": 969428.322,
+        "link": "https://www.bitrue.com/trade/bch_usdt"
+    },
+    {
+        "symbol": "XDBUSDT",
+        "ask_price": "0.0027684",
+        "bid_price": "0.0027498",
+        "volume": 284547.569,
+        "link": "https://www.bitrue.com/trade/xdb_usdt"
+    },
+    {
+        "symbol": "HIGHUSDT",
+        "ask_price": "2.901",
+        "bid_price": "2.899",
+        "volume": 4666844.253,
+        "link": "https://www.bitrue.com/trade/high_usdt"
+    },
+    {
+        "symbol": "PHBUSDT",
+        "ask_price": "0.9958",
+        "bid_price": "0.9942",
+        "volume": 363752.917,
+        "link": "https://www.bitrue.com/trade/phb_usdt"
+    },
+    {
+        "symbol": "KLAYUSDT",
+        "ask_price": "0.1930",
+        "bid_price": "0.1929",
+        "volume": 461754.637,
+        "link": "https://www.bitrue.com/trade/klay_usdt"
+    },
+    {
+        "symbol": "POWRUSDT",
+        "ask_price": "0.1789",
+        "bid_price": "0.1785",
+        "volume": 127246.821,
+        "link": "https://www.bitrue.com/trade/powr_usdt"
+    },
+    {
+        "symbol": "RAYUSDT",
+        "ask_price": "0.2759",
+        "bid_price": "0.2745",
+        "volume": 232854.417,
+        "link": "https://www.bitrue.com/trade/ray_usdt"
+    },
+    {
+        "symbol": "CSPRUSDT",
+        "ask_price": "0.03856",
+        "bid_price": "0.03711",
+        "volume": 1449565.807,
+        "link": "https://www.bitrue.com/trade/cspr_usdt"
+    },
+    {
+        "symbol": "SQUIDGROWUSDT",
+        "ask_price": "0.00000001216",
+        "bid_price": "0.00000001208",
+        "volume": 149684.345,
+        "link": "https://www.bitrue.com/trade/squidgrow_usdt"
+    },
+    {
+        "symbol": "TWTUSDT",
+        "ask_price": "1.3742",
+        "bid_price": "1.3734",
+        "volume": 7558956.373,
+        "link": "https://www.bitrue.com/trade/twt_usdt"
+    },
+    {
+        "symbol": "CHZUSDT",
+        "ask_price": "0.1286",
+        "bid_price": "0.1283",
+        "volume": 194799.51,
+        "link": "https://www.bitrue.com/trade/chz_usdt"
+    },
+    {
+        "symbol": "BONKUSDT",
+        "ask_price": "0.0000008953",
+        "bid_price": "0.0000008475",
+        "volume": 315636.807,
+        "link": "https://www.bitrue.com/trade/bonk_usdt"
+    },
+    {
+        "symbol": "XEMUSDT",
+        "ask_price": "0.0368",
+        "bid_price": "0.0363",
+        "volume": 355116.233,
+        "link": "https://www.bitrue.com/trade/xem_usdt"
+    },
+    {
+        "symbol": "DEGOUSDT",
+        "ask_price": "2.490",
+        "bid_price": "2.485",
+        "volume": 994471.65,
+        "link": "https://www.bitrue.com/trade/dego_usdt"
+    },
+    {
+        "symbol": "COTIUSDT",
+        "ask_price": "0.0845",
+        "bid_price": "0.0843",
+        "volume": 878781.378,
+        "link": "https://www.bitrue.com/trade/coti_usdt"
+    },
+    {
+        "symbol": "NEOUSDT",
+        "ask_price": "8.25",
+        "bid_price": "8.24",
+        "volume": 501667.936,
+        "link": "https://www.bitrue.com/trade/neo_usdt"
+    },
+    {
+        "symbol": "XRDOGEUSDT",
+        "ask_price": "0.00001727",
+        "bid_price": "0.00001652",
+        "volume": 110871.364,
+        "link": "https://www.bitrue.com/trade/xrdoge_usdt"
+    },
+    {
+        "symbol": "RLCUSDT",
+        "ask_price": "1.868",
+        "bid_price": "1.865",
+        "volume": 365052.793,
+        "link": "https://www.bitrue.com/trade/rlc_usdt"
+    },
+    {
+        "symbol": "OSMOUSDT",
+        "ask_price": "0.966",
+        "bid_price": "0.965",
+        "volume": 948632.567,
+        "link": "https://www.bitrue.com/trade/osmo_usdt"
+    },
+    {
+        "symbol": "ALPINEUSDT",
+        "ask_price": "3.0547",
+        "bid_price": "3.0500",
+        "volume": 1167794.937,
+        "link": "https://www.bitrue.com/trade/alpine_usdt"
+    },
+    {
+        "symbol": "CGOUSDT",
+        "ask_price": "58.69",
+        "bid_price": "58.65",
+        "volume": 851571.457,
+        "link": "https://www.bitrue.com/trade/cgo_usdt"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "ask_price": "0.3712",
+        "bid_price": "0.3711",
+        "volume": 9189689.498,
+        "link": "https://www.bitrue.com/trade/xrp_usdt"
+    },
+    {
+        "symbol": "QNTUSDT",
+        "ask_price": "128.7",
+        "bid_price": "128.6",
+        "volume": 1842741.725,
+        "link": "https://www.bitrue.com/trade/qnt_usdt"
+    },
+    {
+        "symbol": "OCEANUSDT",
+        "ask_price": "0.4262",
+        "bid_price": "0.4259",
+        "volume": 5983198.802,
+        "link": "https://www.bitrue.com/trade/ocean_usdt"
+    },
+    {
+        "symbol": "GALUSDT",
+        "ask_price": "1.991",
+        "bid_price": "1.974",
+        "volume": 570496.958,
+        "link": "https://www.bitrue.com/trade/gal_usdt"
+    },
+    {
+        "symbol": "GTCUSDT",
+        "ask_price": "1.698",
+        "bid_price": "1.697",
+        "volume": 1550851.433,
+        "link": "https://www.bitrue.com/trade/gtc_usdt"
+    },
+    {
+        "symbol": "FXSUSDT",
+        "ask_price": "9.682",
+        "bid_price": "9.670",
+        "volume": 3776266.509,
+        "link": "https://www.bitrue.com/trade/fxs_usdt"
+    },
+    {
+        "symbol": "LSKUSDT",
+        "ask_price": "1.001",
+        "bid_price": "1.000",
+        "volume": 111727.097,
+        "link": "https://www.bitrue.com/trade/lsk_usdt"
+    },
+    {
+        "symbol": "ANCUSDT",
+        "ask_price": "0.04640",
+        "bid_price": "0.04580",
+        "volume": 1406238.439,
+        "link": "https://www.bitrue.com/trade/anc_usdt"
+    },
+    {
+        "symbol": "FILUSDT",
+        "ask_price": "4.85",
+        "bid_price": "4.84",
+        "volume": 190664.512,
+        "link": "https://www.bitrue.com/trade/fil_usdt"
+    },
+    {
+        "symbol": "AXSUSDT",
+        "ask_price": "9.4531",
+        "bid_price": "9.3577",
+        "volume": 1508695.131,
+        "link": "https://www.bitrue.com/trade/axs_usdt"
+    },
+    {
+        "symbol": "WAVESUSDT",
+        "ask_price": "2.301",
+        "bid_price": "2.299",
+        "volume": 3783882.358,
+        "link": "https://www.bitrue.com/trade/waves_usdt"
+    },
+    {
+        "symbol": "SFPUSDT",
+        "ask_price": "0.4707",
+        "bid_price": "0.4706",
+        "volume": 681209.85,
+        "link": "https://www.bitrue.com/trade/sfp_usdt"
+    },
+    {
+        "symbol": "KNCUSDT",
+        "ask_price": "0.747",
+        "bid_price": "0.746",
+        "volume": 698807.171,
+        "link": "https://www.bitrue.com/trade/knc_usdt"
+    },
+    {
+        "symbol": "BTRUSDT",
+        "ask_price": "0.04135",
+        "bid_price": "0.04083",
+        "volume": 184982.916,
+        "link": "https://www.bitrue.com/trade/btr_usdt"
+    },
+    {
+        "symbol": "CVXUSDT",
+        "ask_price": "5.95",
+        "bid_price": "5.80",
+        "volume": 119969.921,
+        "link": "https://www.bitrue.com/trade/cvx_usdt"
+    },
+    {
+        "symbol": "LTCUSDT",
+        "ask_price": "91.89",
+        "bid_price": "91.87",
+        "volume": 22885798.501,
+        "link": "https://www.bitrue.com/trade/ltc_usdt"
+    },
+    {
+        "symbol": "BAKEUSDT",
+        "ask_price": "0.2276",
+        "bid_price": "0.2273",
+        "volume": 1512234.918,
+        "link": "https://www.bitrue.com/trade/bake_usdt"
+    },
+    {
+        "symbol": "WELTUSDT",
+        "ask_price": "0.003253",
+        "bid_price": "0.003065",
+        "volume": 172856.142,
+        "link": "https://www.bitrue.com/trade/welt_usdt"
+    },
+    {
+        "symbol": "ICPUSDT",
+        "ask_price": "5.42",
+        "bid_price": "5.36",
+        "volume": 124031.696,
+        "link": "https://www.bitrue.com/trade/icp_usdt"
+    },
+    {
+        "symbol": "ALGOUSDT",
+        "ask_price": "0.2400",
+        "bid_price": "0.2399",
+        "volume": 8145518.922,
+        "link": "https://www.bitrue.com/trade/algo_usdt"
+    },
+    {
+        "symbol": "IOTXUSDT",
+        "ask_price": "0.02879",
+        "bid_price": "0.02876",
+        "volume": 2100074.888,
+        "link": "https://www.bitrue.com/trade/iotx_usdt"
+    },
+    {
+        "symbol": "DFUSDT",
+        "ask_price": "0.0431",
+        "bid_price": "0.0430",
+        "volume": 958755.864,
+        "link": "https://www.bitrue.com/trade/df_usdt"
+    },
+    {
+        "symbol": "SKKUSDT",
+        "ask_price": "0.0429",
+        "bid_price": "0.0421",
+        "volume": 134315.491,
+        "link": "https://www.bitrue.com/trade/skk_usdt"
+    },
+    {
+        "symbol": "COMPUSDT",
+        "ask_price": "48.01",
+        "bid_price": "47.95",
+        "volume": 128323.03,
+        "link": "https://www.bitrue.com/trade/comp_usdt"
+    },
+    {
+        "symbol": "SLPUSDT",
+        "ask_price": "0.002957",
+        "bid_price": "0.002868",
+        "volume": 478354.188484,
+        "link": "https://www.bitrue.com/trade/slp_usdt"
+    },
+    {
+        "symbol": "KSMUSDT",
+        "ask_price": "30.996",
+        "bid_price": "30.810",
+        "volume": 566921.468,
+        "link": "https://www.bitrue.com/trade/ksm_usdt"
+    },
+    {
+        "symbol": "ANTUSDT",
+        "ask_price": "2.646",
+        "bid_price": "2.644",
+        "volume": 364135.901,
+        "link": "https://www.bitrue.com/trade/ant_usdt"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "ask_price": "1.19000",
+        "bid_price": "1.18815",
+        "volume": 2605182.756,
+        "link": "https://www.bitrue.com/trade/matic_usdt"
+    },
+    {
+        "symbol": "SOLUSDT",
+        "ask_price": "20.705",
+        "bid_price": "20.619",
+        "volume": 3470861.852,
+        "link": "https://www.bitrue.com/trade/sol_usdt"
+    },
+    {
+        "symbol": "AUDIOUSDT",
+        "ask_price": "0.2558",
+        "bid_price": "0.2555",
+        "volume": 562034.846,
+        "link": "https://www.bitrue.com/trade/audio_usdt"
+    },
+    {
+        "symbol": "DODOUSDT",
+        "ask_price": "0.1367",
+        "bid_price": "0.1356",
+        "volume": 407156.229,
+        "link": "https://www.bitrue.com/trade/dodo_usdt"
+    },
+    {
+        "symbol": "COREUSDT",
+        "ask_price": "3.0173",
+        "bid_price": "2.9010",
+        "volume": 532648.385,
+        "link": "https://www.bitrue.com/trade/core_usdt"
+    },
+    {
+        "symbol": "MAGICUSDT",
+        "ask_price": "1.4309",
+        "bid_price": "1.4301",
+        "volume": 1654758.358,
+        "link": "https://www.bitrue.com/trade/magic_usdt"
+    },
+    {
+        "symbol": "LDOUSDT",
+        "ask_price": "2.291",
+        "bid_price": "2.289",
+        "volume": 7415637.271,
+        "link": "https://www.bitrue.com/trade/ldo_usdt"
+    },
+    {
+        "symbol": "TRUUSDT",
+        "ask_price": "0.0434",
+        "bid_price": "0.0431",
+        "volume": 247270.579,
+        "link": "https://www.bitrue.com/trade/tru_usdt"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "ask_price": "0.08214",
+        "bid_price": "0.08196",
+        "volume": 273561.105,
+        "link": "https://www.bitrue.com/trade/doge_usdt"
+    },
+    {
+        "symbol": "REEFUSDT",
+        "ask_price": "0.003149",
+        "bid_price": "0.003136",
+        "volume": 2875801.318,
+        "link": "https://www.bitrue.com/trade/reef_usdt"
+    },
+    {
+        "symbol": "TORNUSDT",
+        "ask_price": "12.38",
+        "bid_price": "12.17",
+        "volume": 7392760.335,
+        "link": "https://www.bitrue.com/trade/torn_usdt"
+    },
+    {
+        "symbol": "MIRUSDT",
+        "ask_price": "0.16288",
+        "bid_price": "0.16109",
+        "volume": 630281.156,
+        "link": "https://www.bitrue.com/trade/mir_usdt"
+    },
+    {
+        "symbol": "BICOUSDT",
+        "ask_price": "0.344",
+        "bid_price": "0.343",
+        "volume": 190797.399,
+        "link": "https://www.bitrue.com/trade/bico_usdt"
+    },
+    {
+        "symbol": "AMPUSDT",
+        "ask_price": "0.00464",
+        "bid_price": "0.00460",
+        "volume": 116811.234,
+        "link": "https://www.bitrue.com/trade/amp_usdt"
+    },
+    {
+        "symbol": "BATUSDT",
+        "ask_price": "0.2757",
+        "bid_price": "0.2755",
+        "volume": 17910986.386,
+        "link": "https://www.bitrue.com/trade/bat_usdt"
+    },
+    {
+        "symbol": "XMRUSDT",
+        "ask_price": "159.300000",
+        "bid_price": "159.000000",
+        "volume": 2192174.788,
+        "link": "https://www.bitrue.com/trade/xmr_usdt"
+    },
+    {
+        "symbol": "DARUSDT",
+        "ask_price": "0.21402",
+        "bid_price": "0.21279",
+        "volume": 7098010.744,
+        "link": "https://www.bitrue.com/trade/dar_usdt"
+    },
+    {
+        "symbol": "BTTCUSDT",
+        "ask_price": "0.000000704",
+        "bid_price": "0.000000684",
+        "volume": 222923.125,
+        "link": "https://www.bitrue.com/trade/bttc_usdt"
+    },
+    {
+        "symbol": "DOTUSDT",
+        "ask_price": "6.1131",
+        "bid_price": "6.0892",
+        "volume": 1075157.381,
+        "link": "https://www.bitrue.com/trade/dot_usdt"
+    },
+    {
+        "symbol": "LINKUSDT",
+        "ask_price": "6.629",
+        "bid_price": "6.625",
+        "volume": 162896.143,
+        "link": "https://www.bitrue.com/trade/link_usdt"
+    },
+    {
+        "symbol": "STGUSDT",
+        "ask_price": "0.7177",
+        "bid_price": "0.7174",
+        "volume": 7026167.488,
+        "link": "https://www.bitrue.com/trade/stg_usdt"
+    },
+    {
+        "symbol": "RDNTUSDT",
+        "ask_price": "0.2037",
+        "bid_price": "0.2002",
+        "volume": 102162.19,
+        "link": "https://www.bitrue.com/trade/rdnt_usdt"
+    },
+    {
+        "symbol": "DFIUSDT",
+        "ask_price": "0.5661",
+        "bid_price": "0.5633",
+        "volume": 205945.687,
+        "link": "https://www.bitrue.com/trade/dfi_usdt"
+    },
+    {
+        "symbol": "PRNTUSDT",
+        "ask_price": "0.522293",
+        "bid_price": "0.506818",
+        "volume": 272023.651,
+        "link": "https://www.bitrue.com/trade/prnt_usdt"
+    },
+    {
+        "symbol": "MBOXUSDT",
+        "ask_price": "0.501",
+        "bid_price": "0.500",
+        "volume": 162169.532,
+        "link": "https://www.bitrue.com/trade/mbox_usdt"
+    },
+    {
+        "symbol": "SGBUSDT",
+        "ask_price": "0.009811",
+        "bid_price": "0.009759",
+        "volume": 455170.739,
+        "link": "https://www.bitrue.com/trade/sgb_usdt"
+    },
+    {
+        "symbol": "WINUSDT",
+        "ask_price": "0.0000881",
+        "bid_price": "0.0000880",
+        "volume": 142769.843,
+        "link": "https://www.bitrue.com/trade/win_usdt"
+    },
+    {
+        "symbol": "SXPUSDT",
+        "ask_price": "0.330",
+        "bid_price": "0.327",
+        "volume": 105578.457,
+        "link": "https://www.bitrue.com/trade/sxp_usdt"
+    },
+    {
+        "symbol": "CAKEUSDT",
+        "ask_price": "4.025",
+        "bid_price": "3.997",
+        "volume": 940613.595,
+        "link": "https://www.bitrue.com/trade/cake_usdt"
+    },
+    {
+        "symbol": "CLVUSDT",
+        "ask_price": "0.07042",
+        "bid_price": "0.07027",
+        "volume": 169144.632,
+        "link": "https://www.bitrue.com/trade/clv_usdt"
+    },
+    {
+        "symbol": "BARUSDT",
+        "ask_price": "4.76",
+        "bid_price": "4.74",
+        "volume": 234081.136,
+        "link": "https://www.bitrue.com/trade/bar_usdt"
+    },
+    {
+        "symbol": "GMXUSDT",
+        "ask_price": "62.64",
+        "bid_price": "62.61",
+        "volume": 440953.234,
+        "link": "https://www.bitrue.com/trade/gmx_usdt"
+    },
+    {
+        "symbol": "TUSDUSDT",
+        "ask_price": "0.9992",
+        "bid_price": "0.9989",
+        "volume": 2188461.028,
+        "link": "https://www.bitrue.com/trade/tusd_usdt"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "ask_price": "1505.94",
+        "bid_price": "1505.63",
+        "volume": 115869013.132,
+        "link": "https://www.bitrue.com/trade/eth_usdt"
+    },
+    {
+        "symbol": "IMXUSDT",
+        "ask_price": "0.9680",
+        "bid_price": "0.9620",
+        "volume": 122366.504,
+        "link": "https://www.bitrue.com/trade/imx_usdt"
+    },
+    {
+        "symbol": "ETHWUSDT",
+        "ask_price": "3.741",
+        "bid_price": "3.631",
+        "volume": 126314.659,
+        "link": "https://www.bitrue.com/trade/ethw_usdt"
+    },
+    {
+        "symbol": "BMAXUSDT",
+        "ask_price": "0.19696",
+        "bid_price": "0.18500",
+        "volume": 427621.202,
+        "link": "https://www.bitrue.com/trade/bmax_usdt"
+    },
+    {
+        "symbol": "APEUSDT",
+        "ask_price": "5.067",
+        "bid_price": "5.066",
+        "volume": 22211016.243,
+        "link": "https://www.bitrue.com/trade/ape_usdt"
+    },
+    {
+        "symbol": "MTLUSDT",
+        "ask_price": "0.9510",
+        "bid_price": "0.9480",
+        "volume": 241082.14,
+        "link": "https://www.bitrue.com/trade/mtl_usdt"
+    },
+    {
+        "symbol": "EOSUSDT",
+        "ask_price": "1.025",
+        "bid_price": "1.019",
+        "volume": 533064.271,
+        "link": "https://www.bitrue.com/trade/eos_usdt"
+    },
+    {
+        "symbol": "PYRUSDT",
+        "ask_price": "3.63",
+        "bid_price": "3.61",
+        "volume": 585753.091,
+        "link": "https://www.bitrue.com/trade/pyr_usdt"
+    },
+    {
+        "symbol": "DASHUSDT",
+        "ask_price": "61.910",
+        "bid_price": "61.890",
+        "volume": 9403896.906,
+        "link": "https://www.bitrue.com/trade/dash_usdt"
+    },
+    {
+        "symbol": "XDCUSDT",
+        "ask_price": "0.02672",
+        "bid_price": "0.02660",
+        "volume": 930363.57,
+        "link": "https://www.bitrue.com/trade/xdc_usdt"
+    },
+    {
+        "symbol": "TRBUSDT",
+        "ask_price": "15.52",
+        "bid_price": "15.49",
+        "volume": 192114.068,
+        "link": "https://www.bitrue.com/trade/trb_usdt"
+    },
+    {
+        "symbol": "ACHUSDT",
+        "ask_price": "0.01546",
+        "bid_price": "0.01544",
+        "volume": 2077021.93,
+        "link": "https://www.bitrue.com/trade/ach_usdt"
+    },
+    {
+        "symbol": "DENTUSDT",
+        "ask_price": "0.000858",
+        "bid_price": "0.000857",
+        "volume": 109058.916,
+        "link": "https://www.bitrue.com/trade/dent_usdt"
+    },
+    {
+        "symbol": "ETH1SUSDT",
+        "ask_price": "0.273764",
+        "bid_price": "0.271486",
+        "volume": 873985.889,
+        "link": "https://www.bitrue.com/trade/eth1s_usdt"
+    },
+    {
+        "symbol": "ARUSDT",
+        "ask_price": "10.72",
+        "bid_price": "10.71",
+        "volume": 1248025.322,
+        "link": "https://www.bitrue.com/trade/ar_usdt"
+    },
+    {
+        "symbol": "OGNUSDT",
+        "ask_price": "0.1506",
+        "bid_price": "0.1494",
+        "volume": 189665.213,
+        "link": "https://www.bitrue.com/trade/ogn_usdt"
+    },
+    {
+        "symbol": "MOBUSDT",
+        "ask_price": "1.424",
+        "bid_price": "1.421",
+        "volume": 378552.412,
+        "link": "https://www.bitrue.com/trade/mob_usdt"
+    },
+    {
+        "symbol": "APTUSDT",
+        "ask_price": "12.8240",
+        "bid_price": "12.8081",
+        "volume": 464518.897,
+        "link": "https://www.bitrue.com/trade/apt_usdt"
+    },
+    {
+        "symbol": "COREUMUSDT",
+        "ask_price": "0.4600",
+        "bid_price": "0.4550",
+        "volume": 149675.511,
+        "link": "https://www.bitrue.com/trade/coreum_usdt"
+    },
+    {
+        "symbol": "IDEXUSDT",
+        "ask_price": "0.05052",
+        "bid_price": "0.05051",
+        "volume": 351583.713,
+        "link": "https://www.bitrue.com/trade/idex_usdt"
+    },
+    {
+        "symbol": "LUNAUSDT",
+        "ask_price": "1.7538",
+        "bid_price": "1.7524",
+        "volume": 10231277.89,
+        "link": "https://www.bitrue.com/trade/luna_usdt"
+    },
+    {
+        "symbol": "XRPHUSDT",
+        "ask_price": "0.1887",
+        "bid_price": "0.1828",
+        "volume": 117062.454,
+        "link": "https://www.bitrue.com/trade/xrph_usdt"
+    },
+    {
+        "symbol": "USDPUSDT",
+        "ask_price": "0.9991",
+        "bid_price": "0.9989",
+        "volume": 2160600.055,
+        "link": "https://www.bitrue.com/trade/usdp_usdt"
+    },
+    {
+        "symbol": "CTSIUSDT",
+        "ask_price": "0.1503",
+        "bid_price": "0.1500",
+        "volume": 1273968.492,
+        "link": "https://www.bitrue.com/trade/ctsi_usdt"
+    },
+    {
+        "symbol": "RNDRUSDT",
+        "ask_price": "1.524",
+        "bid_price": "1.521",
+        "volume": 3402597.389,
+        "link": "https://www.bitrue.com/trade/rndr_usdt"
+    },
+    {
+        "symbol": "ATOMUSDT",
+        "ask_price": "13.135",
+        "bid_price": "13.106",
+        "volume": 624464.482,
+        "link": "https://www.bitrue.com/trade/atom_usdt"
+    },
+    {
+        "symbol": "DAIUSDT",
+        "ask_price": "1.0006",
+        "bid_price": "0.9976",
+        "volume": 654866.252,
+        "link": "https://www.bitrue.com/trade/dai_usdt"
+    },
+    {
+        "symbol": "CRVUSDT",
+        "ask_price": "0.9280",
+        "bid_price": "0.9170",
+        "volume": 387707.575,
+        "link": "https://www.bitrue.com/trade/crv_usdt"
+    },
+    {
+        "symbol": "FYNUSDT",
+        "ask_price": "0.037954",
+        "bid_price": "0.037037",
+        "volume": 239011.682,
+        "link": "https://www.bitrue.com/trade/fyn_usdt"
+    },
+    {
+        "symbol": "1INCHUSDT",
+        "ask_price": "0.5252",
+        "bid_price": "0.5215",
+        "volume": 1232779.511,
+        "link": "https://www.bitrue.com/trade/1inch_usdt"
+    },
+    {
+        "symbol": "FIOUSDT",
+        "ask_price": "0.0352",
+        "bid_price": "0.0348",
+        "volume": 155668.242,
+        "link": "https://www.bitrue.com/trade/fio_usdt"
+    },
+    {
+        "symbol": "JASMYUSDT",
+        "ask_price": "0.006129",
+        "bid_price": "0.006119",
+        "volume": 11676916.787,
+        "link": "https://www.bitrue.com/trade/jasmy_usdt"
+    },
+    {
+        "symbol": "ENJUSDT",
+        "ask_price": "0.42936",
+        "bid_price": "0.42866",
+        "volume": 420658.643,
+        "link": "https://www.bitrue.com/trade/enj_usdt"
+    },
+    {
+        "symbol": "TOMOUSDT",
+        "ask_price": "0.353",
+        "bid_price": "0.352",
+        "volume": 333902.74,
+        "link": "https://www.bitrue.com/trade/tomo_usdt"
+    },
+    {
+        "symbol": "TFUELUSDT",
+        "ask_price": "0.0499",
+        "bid_price": "0.0497",
+        "volume": 156014.539,
+        "link": "https://www.bitrue.com/trade/tfuel_usdt"
+    },
+    {
+        "symbol": "CITYUSDT",
+        "ask_price": "5.01",
+        "bid_price": "5.00",
+        "volume": 484162.221,
+        "link": "https://www.bitrue.com/trade/city_usdt"
+    },
+    {
+        "symbol": "FLOWUSDT",
+        "ask_price": "1.004",
+        "bid_price": "1.001",
+        "volume": 1240863.558,
+        "link": "https://www.bitrue.com/trade/flow_usdt"
+    },
+    {
+        "symbol": "ACMUSDT",
+        "ask_price": "2.968",
+        "bid_price": "2.964",
+        "volume": 198360.676,
+        "link": "https://www.bitrue.com/trade/acm_usdt"
+    },
+    {
+        "symbol": "SANDUSDT",
+        "ask_price": "0.6749",
+        "bid_price": "0.6748",
+        "volume": 36579950.18,
+        "link": "https://www.bitrue.com/trade/sand_usdt"
+    },
+    {
+        "symbol": "DATAUSDT",
+        "ask_price": "0.03688",
+        "bid_price": "0.03683",
+        "volume": 114834.1,
+        "link": "https://www.bitrue.com/trade/data_usdt"
+    },
+    {
+        "symbol": "C98USDT",
+        "ask_price": "0.2519",
+        "bid_price": "0.2510",
+        "volume": 1934290.137,
+        "link": "https://www.bitrue.com/trade/c98_usdt"
+    },
+    {
+        "symbol": "MASKUSDT",
+        "ask_price": "3.472",
+        "bid_price": "3.471",
+        "volume": 7205598.631,
+        "link": "https://www.bitrue.com/trade/mask_usdt"
+    },
+    {
+        "symbol": "TLMUSDT",
+        "ask_price": "0.02155",
+        "bid_price": "0.02152",
+        "volume": 252973.109,
+        "link": "https://www.bitrue.com/trade/tlm_usdt"
+    },
+    {
+        "symbol": "VINUUSDT",
+        "ask_price": "0.00000001581",
+        "bid_price": "0.00000001565",
+        "volume": 100832.653,
+        "link": "https://www.bitrue.com/trade/vinu_usdt"
+    },
+    {
+        "symbol": "EVERUSDT",
+        "ask_price": "0.0970",
+        "bid_price": "0.0965",
+        "volume": 439081.911,
+        "link": "https://www.bitrue.com/trade/ever_usdt"
+    },
+    {
+        "symbol": "IRTUSDT",
+        "ask_price": "0.011371",
+        "bid_price": "0.011325",
+        "volume": 422538.817,
+        "link": "https://www.bitrue.com/trade/irt_usdt"
+    },
+    {
+        "symbol": "KDOEUSDT",
+        "ask_price": "0.01186",
+        "bid_price": "0.01112",
+        "volume": 238448.349,
+        "link": "https://www.bitrue.com/trade/kdoe_usdt"
+    },
+    {
+        "symbol": "INJUSDT",
+        "ask_price": "3.210",
+        "bid_price": "3.159",
+        "volume": 2389043.698,
+        "link": "https://www.bitrue.com/trade/inj_usdt"
+    },
+    {
+        "symbol": "STRMUSDT",
+        "ask_price": "0.0127",
+        "bid_price": "0.0123",
+        "volume": 117362.572,
+        "link": "https://www.bitrue.com/trade/strm_usdt"
+    },
+    {
+        "symbol": "XLMUSDT",
+        "ask_price": "0.0842",
+        "bid_price": "0.0841",
+        "volume": 807076.062,
+        "link": "https://www.bitrue.com/trade/xlm_usdt"
+    },
+    {
+        "symbol": "ADXUSDT",
+        "ask_price": "0.1744",
+        "bid_price": "0.1725",
+        "volume": 516984.404,
+        "link": "https://www.bitrue.com/trade/adx_usdt"
+    },
+    {
+        "symbol": "USDCUSDT",
+        "ask_price": "0.9991",
+        "bid_price": "0.9989",
+        "volume": 8846457.559,
+        "link": "https://www.bitrue.com/trade/usdc_usdt"
+    },
+    {
+        "symbol": "KRIDAUSDT",
+        "ask_price": "0.01117",
+        "bid_price": "0.01110",
+        "volume": 156932.508,
+        "link": "https://www.bitrue.com/trade/krida_usdt"
+    },
+    {
+        "symbol": "GBEXUSDT",
+        "ask_price": "0.0000001027",
+        "bid_price": "0.0000001001",
+        "volume": 253471.059,
+        "link": "https://www.bitrue.com/trade/gbex_usdt"
+    },
+    {
+        "symbol": "VETUSDT",
+        "ask_price": "0.02278",
+        "bid_price": "0.02276",
+        "volume": 2046994.826,
+        "link": "https://www.bitrue.com/trade/vet_usdt"
+    },
+    {
+        "symbol": "GMTUSDT",
+        "ask_price": "0.4063",
+        "bid_price": "0.4062",
+        "volume": 13707289.259,
+        "link": "https://www.bitrue.com/trade/gmt_usdt"
+    },
+    {
+        "symbol": "BTC1SUSDT",
+        "ask_price": "0.401086",
+        "bid_price": "0.397670",
+        "volume": 795000.287,
+        "link": "https://www.bitrue.com/trade/btc1s_usdt"
+    },
+    {
+        "symbol": "BSWUSDT",
+        "ask_price": "0.2075",
+        "bid_price": "0.2074",
+        "volume": 190848.134,
+        "link": "https://www.bitrue.com/trade/bsw_usdt"
+    },
+    {
+        "symbol": "WOOUSDT",
+        "ask_price": "0.2033",
+        "bid_price": "0.2031",
+        "volume": 2275057.085,
+        "link": "https://www.bitrue.com/trade/woo_usdt"
+    },
+    {
+        "symbol": "KUNCIUSDT",
+        "ask_price": "0.01594942",
+        "bid_price": "0.01569425",
+        "volume": 224494.102,
+        "link": "https://www.bitrue.com/trade/kunci_usdt"
+    },
+    {
+        "symbol": "AVAXUSDT",
+        "ask_price": "17.42",
+        "bid_price": "17.35",
+        "volume": 2356148.303,
+        "link": "https://www.bitrue.com/trade/avax_usdt"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "ask_price": "0.3559",
+        "bid_price": "0.3558",
+        "volume": 9241826.86,
+        "link": "https://www.bitrue.com/trade/ada_usdt"
+    },
+    {
+        "symbol": "ATMUSDT",
+        "ask_price": "3.34",
+        "bid_price": "3.33",
+        "volume": 243030.543,
+        "link": "https://www.bitrue.com/trade/atm_usdt"
+    },
+    {
+        "symbol": "STMXUSDT",
+        "ask_price": "0.005856",
+        "bid_price": "0.005843",
+        "volume": 140471.507,
+        "link": "https://www.bitrue.com/trade/stmx_usdt"
+    },
+    {
+        "symbol": "VEMPUSDT",
+        "ask_price": "0.01694",
+        "bid_price": "0.01674",
+        "volume": 420438.8,
+        "link": "https://www.bitrue.com/trade/vemp_usdt"
+    },
+    {
+        "symbol": "BLZUSDT",
+        "ask_price": "0.0827",
+        "bid_price": "0.0825",
+        "volume": 532923.483,
+        "link": "https://www.bitrue.com/trade/blz_usdt"
+    },
+    {
+        "symbol": "FTMUSDT",
+        "ask_price": "0.4290",
+        "bid_price": "0.4289",
+        "volume": 20968342.145,
+        "link": "https://www.bitrue.com/trade/ftm_usdt"
+    },
+    {
+        "symbol": "TOWNUSDT",
+        "ask_price": "0.0324",
+        "bid_price": "0.0311",
+        "volume": 231564.0,
+        "link": "https://www.bitrue.com/trade/town_usdt"
+    },
+    {
+        "symbol": "ENSUSDT",
+        "ask_price": "13.8200",
+        "bid_price": "13.8100",
+        "volume": 562380.085,
+        "link": "https://www.bitrue.com/trade/ens_usdt"
+    },
+    {
+        "symbol": "SHIBUSDT",
+        "ask_price": "0.00001264",
+        "bid_price": "0.00001260",
+        "volume": 907744.794,
+        "link": "https://www.bitrue.com/trade/shib_usdt"
+    },
+    {
+        "symbol": "SRMUSDT",
+        "ask_price": "0.34183",
+        "bid_price": "0.33847",
+        "volume": 4986526.941,
+        "link": "https://www.bitrue.com/trade/srm_usdt"
+    },
+    {
+        "symbol": "HIFIUSDT",
+        "ask_price": "0.4626",
+        "bid_price": "0.4621",
+        "volume": 170414.29,
+        "link": "https://www.bitrue.com/trade/hifi_usdt"
+    },
+    {
+        "symbol": "VIBUSDT",
+        "ask_price": "0.09266",
+        "bid_price": "0.09194",
+        "volume": 116128.018,
+        "link": "https://www.bitrue.com/trade/vib_usdt"
+    },
+    {
+        "symbol": "BABYDOGEUSDT",
+        "ask_price": "0.00000000479",
+        "bid_price": "0.00000000477",
+        "volume": 156970.491,
+        "link": "https://www.bitrue.com/trade/babydoge_usdt"
+    },
+    {
+        "symbol": "SKLUSDT",
+        "ask_price": "0.05564",
+        "bid_price": "0.05552",
+        "volume": 1753695.034,
+        "link": "https://www.bitrue.com/trade/skl_usdt"
+    },
+    {
+        "symbol": "OXTUSDT",
+        "ask_price": "0.0930",
+        "bid_price": "0.0929",
+        "volume": 298005.614,
+        "link": "https://www.bitrue.com/trade/oxt_usdt"
+    },
+    {
+        "symbol": "ATOZUSDT",
+        "ask_price": "0.174169",
+        "bid_price": "0.171207",
+        "volume": 284592.948,
+        "link": "https://www.bitrue.com/trade/atoz_usdt"
+    },
+    {
+        "symbol": "MELDUSDT",
+        "ask_price": "0.018458",
+        "bid_price": "0.018300",
+        "volume": 680272.687,
+        "link": "https://www.bitrue.com/trade/meld_usdt"
+    },
+    {
+        "symbol": "JUVUSDT",
+        "ask_price": "2.97",
+        "bid_price": "2.96",
+        "volume": 134970.356,
+        "link": "https://www.bitrue.com/trade/juv_usdt"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "ask_price": "297.61",
+        "bid_price": "297.50",
+        "volume": 8033985.652,
+        "link": "https://www.bitrue.com/trade/bnb_usdt"
+    },
+    {
+        "symbol": "FARMUSDT",
+        "ask_price": "35.40",
+        "bid_price": "35.30",
+        "volume": 109257.17,
+        "link": "https://www.bitrue.com/trade/farm_usdt"
+    },
+    {
+        "symbol": "HBARUSDT",
+        "ask_price": "0.0823",
+        "bid_price": "0.0822",
+        "volume": 5368042.142,
+        "link": "https://www.bitrue.com/trade/hbar_usdt"
+    },
+    {
+        "symbol": "SYLUSDT",
+        "ask_price": "0.00086040",
+        "bid_price": "0.00084499",
+        "volume": 253402.056,
+        "link": "https://www.bitrue.com/trade/syl_usdt"
+    },
+    {
+        "symbol": "THETAUSDT",
+        "ask_price": "1.043",
+        "bid_price": "1.033",
+        "volume": 907414.729,
+        "link": "https://www.bitrue.com/trade/theta_usdt"
+    },
+    {
+        "symbol": "IAGUSDT",
+        "ask_price": "0.006931",
+        "bid_price": "0.006039",
+        "volume": 101849.251,
+        "link": "https://www.bitrue.com/trade/iag_usdt"
+    },
+    {
+        "symbol": "BANDUSDT",
+        "ask_price": "1.7810",
+        "bid_price": "1.7800",
+        "volume": 636838.25,
+        "link": "https://www.bitrue.com/trade/band_usdt"
+    },
+    {
+        "symbol": "PORTOUSDT",
+        "ask_price": "2.9928",
+        "bid_price": "2.9905",
+        "volume": 155419.57,
+        "link": "https://www.bitrue.com/trade/porto_usdt"
+    },
+    {
+        "symbol": "RENUSDT",
+        "ask_price": "0.081241",
+        "bid_price": "0.081142",
+        "volume": 469054.365,
+        "link": "https://www.bitrue.com/trade/ren_usdt"
+    }
+]

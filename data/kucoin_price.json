@@ -1,0 +1,4111 @@
+[
+    {
+        "symbol": "GEMUSDT",
+        "ask_price": "0.01639",
+        "bid_price": "0.0164",
+        "volume": 157893,
+        "link": "https://www.kucoin.com/trade/GEM-USDT"
+    },
+    {
+        "symbol": "CUSDUSDT",
+        "ask_price": "0.9955",
+        "bid_price": "0.9959",
+        "volume": 30849,
+        "link": "https://www.kucoin.com/trade/CUSD-USDT"
+    },
+    {
+        "symbol": "OASUSDT",
+        "ask_price": "0.08502",
+        "bid_price": "0.08522",
+        "volume": 39654,
+        "link": "https://www.kucoin.com/trade/OAS-USDT"
+    },
+    {
+        "symbol": "KNCUSDT",
+        "ask_price": "0.713",
+        "bid_price": "0.7142",
+        "volume": 86262,
+        "link": "https://www.kucoin.com/trade/KNC-USDT"
+    },
+    {
+        "symbol": "LYMUSDT",
+        "ask_price": "0.002232",
+        "bid_price": "0.00225",
+        "volume": 97334,
+        "link": "https://www.kucoin.com/trade/LYM-USDT"
+    },
+    {
+        "symbol": "HAIUSDT",
+        "ask_price": "0.03181",
+        "bid_price": "0.03199",
+        "volume": 330210,
+        "link": "https://www.kucoin.com/trade/HAI-USDT"
+    },
+    {
+        "symbol": "MITXUSDT",
+        "ask_price": "0.01324",
+        "bid_price": "0.013275",
+        "volume": 132761,
+        "link": "https://www.kucoin.com/trade/MITX-USDT"
+    },
+    {
+        "symbol": "PDEXUSDT",
+        "ask_price": "1.667",
+        "bid_price": "1.6805",
+        "volume": 69297,
+        "link": "https://www.kucoin.com/trade/PDEX-USDT"
+    },
+    {
+        "symbol": "FLAMEUSDT",
+        "ask_price": "0.05796",
+        "bid_price": "0.05852",
+        "volume": 40489,
+        "link": "https://www.kucoin.com/trade/FLAME-USDT"
+    },
+    {
+        "symbol": "AOGUSDT",
+        "ask_price": "0.01845",
+        "bid_price": "0.01862",
+        "volume": 51989,
+        "link": "https://www.kucoin.com/trade/AOG-USDT"
+    },
+    {
+        "symbol": "AGLDUSDT",
+        "ask_price": "0.4306",
+        "bid_price": "0.4324",
+        "volume": 53283,
+        "link": "https://www.kucoin.com/trade/AGLD-USDT"
+    },
+    {
+        "symbol": "YLDUSDT",
+        "ask_price": "0.17499",
+        "bid_price": "0.175774",
+        "volume": 112161,
+        "link": "https://www.kucoin.com/trade/YLD-USDT"
+    },
+    {
+        "symbol": "CWSUSDT",
+        "ask_price": "0.4828",
+        "bid_price": "0.4829",
+        "volume": 222631,
+        "link": "https://www.kucoin.com/trade/CWS-USDT"
+    },
+    {
+        "symbol": "SENSOUSDT",
+        "ask_price": "0.155",
+        "bid_price": "0.155029",
+        "volume": 190367,
+        "link": "https://www.kucoin.com/trade/SENSO-USDT"
+    },
+    {
+        "symbol": "ALBTUSDT",
+        "ask_price": "0.06624",
+        "bid_price": "0",
+        "volume": 10701827,
+        "link": "https://www.kucoin.com/trade/ALBT-USDT"
+    },
+    {
+        "symbol": "ALICEUSDT",
+        "ask_price": "1.573",
+        "bid_price": "1.575",
+        "volume": 34267,
+        "link": "https://www.kucoin.com/trade/ALICE-USDT"
+    },
+    {
+        "symbol": "UNICUSDT",
+        "ask_price": "4.24",
+        "bid_price": "4.27",
+        "volume": 512113,
+        "link": "https://www.kucoin.com/trade/UNIC-USDT"
+    },
+    {
+        "symbol": "IHCUSDT",
+        "ask_price": "0.0000512",
+        "bid_price": "0.0000514",
+        "volume": 43850,
+        "link": "https://www.kucoin.com/trade/IHC-USDT"
+    },
+    {
+        "symbol": "BULLUSDT",
+        "ask_price": "0.005583",
+        "bid_price": "0.005593",
+        "volume": 49614,
+        "link": "https://www.kucoin.com/trade/BULL-USDT"
+    },
+    {
+        "symbol": "SWASHUSDT",
+        "ask_price": "0.02046",
+        "bid_price": "0.02059",
+        "volume": 63361,
+        "link": "https://www.kucoin.com/trade/SWASH-USDT"
+    },
+    {
+        "symbol": "XECUSDT",
+        "ask_price": "0.00003012",
+        "bid_price": "0.00003016",
+        "volume": 46081,
+        "link": "https://www.kucoin.com/trade/XEC-USDT"
+    },
+    {
+        "symbol": "LINAUSDT",
+        "ask_price": "0.008101",
+        "bid_price": "0.00811",
+        "volume": 255962,
+        "link": "https://www.kucoin.com/trade/LINA-USDT"
+    },
+    {
+        "symbol": "ETCUSDT",
+        "ask_price": "19.2541",
+        "bid_price": "19.2711",
+        "volume": 198131,
+        "link": "https://www.kucoin.com/trade/ETC-USDT"
+    },
+    {
+        "symbol": "RUNEUSDT",
+        "ask_price": "1.4626",
+        "bid_price": "1.4637",
+        "volume": 450982,
+        "link": "https://www.kucoin.com/trade/RUNE-USDT"
+    },
+    {
+        "symbol": "ASTRUSDT",
+        "ask_price": "0.06374",
+        "bid_price": "0.06379",
+        "volume": 1014775,
+        "link": "https://www.kucoin.com/trade/ASTR-USDT"
+    },
+    {
+        "symbol": "BCHUSDT",
+        "ask_price": "122.21",
+        "bid_price": "122.27",
+        "volume": 255494,
+        "link": "https://www.kucoin.com/trade/BCH-USDT"
+    },
+    {
+        "symbol": "JARUSDT",
+        "ask_price": "0.004213",
+        "bid_price": "0.004236",
+        "volume": 36416,
+        "link": "https://www.kucoin.com/trade/JAR-USDT"
+    },
+    {
+        "symbol": "KAVAUSDT",
+        "ask_price": "0.7863",
+        "bid_price": "0.7874",
+        "volume": 308864,
+        "link": "https://www.kucoin.com/trade/KAVA-USDT"
+    },
+    {
+        "symbol": "GLQUSDT",
+        "ask_price": "0.01134",
+        "bid_price": "0.011423",
+        "volume": 102415,
+        "link": "https://www.kucoin.com/trade/GLQ-USDT"
+    },
+    {
+        "symbol": "VSYSUSDT",
+        "ask_price": "0.002445",
+        "bid_price": "0.002447",
+        "volume": 88890,
+        "link": "https://www.kucoin.com/trade/VSYS-USDT"
+    },
+    {
+        "symbol": "APTUSDT",
+        "ask_price": "10.986",
+        "bid_price": "10.991",
+        "volume": 2874283,
+        "link": "https://www.kucoin.com/trade/APT-USDT"
+    },
+    {
+        "symbol": "TRXUSDT",
+        "ask_price": "0.066259",
+        "bid_price": "0.066265",
+        "volume": 1560081,
+        "link": "https://www.kucoin.com/trade/TRX-USDT"
+    },
+    {
+        "symbol": "CELOUSDT",
+        "ask_price": "0.6397",
+        "bid_price": "0.6407",
+        "volume": 279555,
+        "link": "https://www.kucoin.com/trade/CELO-USDT"
+    },
+    {
+        "symbol": "MOOVUSDT",
+        "ask_price": "0.007021",
+        "bid_price": "0.007054",
+        "volume": 115717,
+        "link": "https://www.kucoin.com/trade/MOOV-USDT"
+    },
+    {
+        "symbol": "SANDUSDT",
+        "ask_price": "0.60434",
+        "bid_price": "0.60452",
+        "volume": 1715936,
+        "link": "https://www.kucoin.com/trade/SAND-USDT"
+    },
+    {
+        "symbol": "FIDAUSDT",
+        "ask_price": "0.4138",
+        "bid_price": "0.4144",
+        "volume": 89520,
+        "link": "https://www.kucoin.com/trade/FIDA-USDT"
+    },
+    {
+        "symbol": "HIFRIENDSUSDT",
+        "ask_price": "0.019549",
+        "bid_price": "0.019725",
+        "volume": 311598,
+        "link": "https://www.kucoin.com/trade/HIFRIENDS-USDT"
+    },
+    {
+        "symbol": "KLAYUSDT",
+        "ask_price": "0.2194",
+        "bid_price": "0.2196",
+        "volume": 149204,
+        "link": "https://www.kucoin.com/trade/KLAY-USDT"
+    },
+    {
+        "symbol": "SUNUSDT",
+        "ask_price": "0.0065585",
+        "bid_price": "0.0065795",
+        "volume": 217676,
+        "link": "https://www.kucoin.com/trade/SUN-USDT"
+    },
+    {
+        "symbol": "DATAUSDT",
+        "ask_price": "0.038",
+        "bid_price": "0.03809",
+        "volume": 202373,
+        "link": "https://www.kucoin.com/trade/DATA-USDT"
+    },
+    {
+        "symbol": "LABSUSDT",
+        "ask_price": "0.0010505",
+        "bid_price": "0.0010547",
+        "volume": 782298,
+        "link": "https://www.kucoin.com/trade/LABS-USDT"
+    },
+    {
+        "symbol": "DPETUSDT",
+        "ask_price": "0.06429",
+        "bid_price": "0.06459",
+        "volume": 38792,
+        "link": "https://www.kucoin.com/trade/DPET-USDT"
+    },
+    {
+        "symbol": "TARAUSDT",
+        "ask_price": "0.00117",
+        "bid_price": "0.0011721",
+        "volume": 39734,
+        "link": "https://www.kucoin.com/trade/TARA-USDT"
+    },
+    {
+        "symbol": "DEROUSDT",
+        "ask_price": "4.09",
+        "bid_price": "4.10989",
+        "volume": 37789,
+        "link": "https://www.kucoin.com/trade/DERO-USDT"
+    },
+    {
+        "symbol": "LDOUSDT",
+        "ask_price": "2.5497",
+        "bid_price": "2.5508",
+        "volume": 3420244,
+        "link": "https://www.kucoin.com/trade/LDO-USDT"
+    },
+    {
+        "symbol": "WOMUSDT",
+        "ask_price": "0.027248",
+        "bid_price": "0.027298",
+        "volume": 191351,
+        "link": "https://www.kucoin.com/trade/WOM-USDT"
+    },
+    {
+        "symbol": "NMRUSDT",
+        "ask_price": "17.7",
+        "bid_price": "17.734",
+        "volume": 66391,
+        "link": "https://www.kucoin.com/trade/NMR-USDT"
+    },
+    {
+        "symbol": "TONUSDT",
+        "ask_price": "2.3014",
+        "bid_price": "2.3035",
+        "volume": 5718570,
+        "link": "https://www.kucoin.com/trade/TON-USDT"
+    },
+    {
+        "symbol": "CWARUSDT",
+        "ask_price": "0.01785",
+        "bid_price": "0.01794",
+        "volume": 71000,
+        "link": "https://www.kucoin.com/trade/CWAR-USDT"
+    },
+    {
+        "symbol": "AAVEUSDT",
+        "ask_price": "74.971",
+        "bid_price": "75.01",
+        "volume": 366321,
+        "link": "https://www.kucoin.com/trade/AAVE-USDT"
+    },
+    {
+        "symbol": "HIODUSDT",
+        "ask_price": "0.003761",
+        "bid_price": "0.00379",
+        "volume": 329346,
+        "link": "https://www.kucoin.com/trade/HIOD-USDT"
+    },
+    {
+        "symbol": "HIGAZERSUSDT",
+        "ask_price": "0.05924",
+        "bid_price": "0.05967",
+        "volume": 338946,
+        "link": "https://www.kucoin.com/trade/HIGAZERS-USDT"
+    },
+    {
+        "symbol": "CREDIUSDT",
+        "ask_price": "0.002051",
+        "bid_price": "0.002065",
+        "volume": 217867,
+        "link": "https://www.kucoin.com/trade/CREDI-USDT"
+    },
+    {
+        "symbol": "TRBUSDT",
+        "ask_price": "14.616",
+        "bid_price": "14.65",
+        "volume": 53174,
+        "link": "https://www.kucoin.com/trade/TRB-USDT"
+    },
+    {
+        "symbol": "ELAUSDT",
+        "ask_price": "1.1607",
+        "bid_price": "1.1682",
+        "volume": 102992,
+        "link": "https://www.kucoin.com/trade/ELA-USDT"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "ask_price": "0.07345",
+        "bid_price": "0.07346",
+        "volume": 3147896,
+        "link": "https://www.kucoin.com/trade/DOGE-USDT"
+    },
+    {
+        "symbol": "ZEEUSDT",
+        "ask_price": "0.038",
+        "bid_price": "0.03815",
+        "volume": 149716,
+        "link": "https://www.kucoin.com/trade/ZEE-USDT"
+    },
+    {
+        "symbol": "USDTPAX",
+        "ask_price": "0.9987",
+        "bid_price": "0.9988",
+        "volume": 407351,
+        "link": "https://www.kucoin.com/trade/USD-TPAX"
+    },
+    {
+        "symbol": "BICOUSDT",
+        "ask_price": "0.3809",
+        "bid_price": "0.3822",
+        "volume": 63586,
+        "link": "https://www.kucoin.com/trade/BICO-USDT"
+    },
+    {
+        "symbol": "PREUSDT",
+        "ask_price": "0.056175",
+        "bid_price": "0.056334",
+        "volume": 83356,
+        "link": "https://www.kucoin.com/trade/PRE-USDT"
+    },
+    {
+        "symbol": "ENSUSDT",
+        "ask_price": "13.668",
+        "bid_price": "13.679",
+        "volume": 221883,
+        "link": "https://www.kucoin.com/trade/ENS-USDT"
+    },
+    {
+        "symbol": "CTIUSDT",
+        "ask_price": "0.033225",
+        "bid_price": "0.033232",
+        "volume": 244511,
+        "link": "https://www.kucoin.com/trade/CTI-USDT"
+    },
+    {
+        "symbol": "LPTUSDT",
+        "ask_price": "5.9147",
+        "bid_price": "5.9159",
+        "volume": 48005,
+        "link": "https://www.kucoin.com/trade/LPT-USDT"
+    },
+    {
+        "symbol": "PMONUSDT",
+        "ask_price": "0.6056",
+        "bid_price": "0.6059",
+        "volume": 107279,
+        "link": "https://www.kucoin.com/trade/PMON-USDT"
+    },
+    {
+        "symbol": "XNLUSDT",
+        "ask_price": "0.02243",
+        "bid_price": "0.02249",
+        "volume": 171988,
+        "link": "https://www.kucoin.com/trade/XNL-USDT"
+    },
+    {
+        "symbol": "SYNRUSDT",
+        "ask_price": "0.003972",
+        "bid_price": "0.003999",
+        "volume": 62882,
+        "link": "https://www.kucoin.com/trade/SYNR-USDT"
+    },
+    {
+        "symbol": "TLOSUSDT",
+        "ask_price": "0.1699",
+        "bid_price": "0.17062",
+        "volume": 116763,
+        "link": "https://www.kucoin.com/trade/TLOS-USDT"
+    },
+    {
+        "symbol": "USDDUSDT",
+        "ask_price": "0.9985",
+        "bid_price": "0.9986",
+        "volume": 85854,
+        "link": "https://www.kucoin.com/trade/USDD-USDT"
+    },
+    {
+        "symbol": "MONIUSDT",
+        "ask_price": "0.03004",
+        "bid_price": "0.03005",
+        "volume": 221814,
+        "link": "https://www.kucoin.com/trade/MONI-USDT"
+    },
+    {
+        "symbol": "NEOUSDT",
+        "ask_price": "11.6501",
+        "bid_price": "11.6581",
+        "volume": 1239844,
+        "link": "https://www.kucoin.com/trade/NEO-USDT"
+    },
+    {
+        "symbol": "CHZUSDT",
+        "ask_price": "0.1198",
+        "bid_price": "0.1199",
+        "volume": 336243,
+        "link": "https://www.kucoin.com/trade/CHZ-USDT"
+    },
+    {
+        "symbol": "USDCUSDT",
+        "ask_price": "1",
+        "bid_price": "1.00001",
+        "volume": 6007927,
+        "link": "https://www.kucoin.com/trade/USDC-USDT"
+    },
+    {
+        "symbol": "DOTUSDT",
+        "ask_price": "5.8278",
+        "bid_price": "5.8279",
+        "volume": 2213616,
+        "link": "https://www.kucoin.com/trade/DOT-USDT"
+    },
+    {
+        "symbol": "PSLUSDT",
+        "ask_price": "0.000605",
+        "bid_price": "0.00061",
+        "volume": 712831,
+        "link": "https://www.kucoin.com/trade/PSL-USDT"
+    },
+    {
+        "symbol": "AZEROUSDT",
+        "ask_price": "1.3909",
+        "bid_price": "1.3914",
+        "volume": 832848,
+        "link": "https://www.kucoin.com/trade/AZERO-USDT"
+    },
+    {
+        "symbol": "RFOXUSDT",
+        "ask_price": "0.01607",
+        "bid_price": "0.01608",
+        "volume": 212139,
+        "link": "https://www.kucoin.com/trade/RFOX-USDT"
+    },
+    {
+        "symbol": "APLUSDT",
+        "ask_price": "0.0004345",
+        "bid_price": "0.0004352",
+        "volume": 131290,
+        "link": "https://www.kucoin.com/trade/APL-USDT"
+    },
+    {
+        "symbol": "USDTGBP",
+        "ask_price": "0.8221",
+        "bid_price": "0.8348",
+        "volume": 64216,
+        "link": "https://www.kucoin.com/trade/USD-TGBP"
+    },
+    {
+        "symbol": "EOSUSDT",
+        "ask_price": "1.173",
+        "bid_price": "1.1734",
+        "volume": 1918533,
+        "link": "https://www.kucoin.com/trade/EOS-USDT"
+    },
+    {
+        "symbol": "UOSUSDT",
+        "ask_price": "0.21075",
+        "bid_price": "0.21105",
+        "volume": 283535,
+        "link": "https://www.kucoin.com/trade/UOS-USDT"
+    },
+    {
+        "symbol": "GMXUSDT",
+        "ask_price": "70.1047",
+        "bid_price": "70.1831",
+        "volume": 434868,
+        "link": "https://www.kucoin.com/trade/GMX-USDT"
+    },
+    {
+        "symbol": "KINGUSDT",
+        "ask_price": "0.02308",
+        "bid_price": "0.02327",
+        "volume": 385753,
+        "link": "https://www.kucoin.com/trade/KING-USDT"
+    },
+    {
+        "symbol": "XCNUSDT",
+        "ask_price": "0.00819",
+        "bid_price": "0.00821",
+        "volume": 3456648,
+        "link": "https://www.kucoin.com/trade/XCN-USDT"
+    },
+    {
+        "symbol": "GHXUSDT",
+        "ask_price": "0.008667",
+        "bid_price": "0.0087",
+        "volume": 134931,
+        "link": "https://www.kucoin.com/trade/GHX-USDT"
+    },
+    {
+        "symbol": "FTGUSDT",
+        "ask_price": "0.00418",
+        "bid_price": "0.004216",
+        "volume": 274024,
+        "link": "https://www.kucoin.com/trade/FTG-USDT"
+    },
+    {
+        "symbol": "POLSUSDT",
+        "ask_price": "0.4291",
+        "bid_price": "0.4313",
+        "volume": 105489,
+        "link": "https://www.kucoin.com/trade/POLS-USDT"
+    },
+    {
+        "symbol": "IOSTUSDT",
+        "ask_price": "0.010043",
+        "bid_price": "0.010057",
+        "volume": 72541,
+        "link": "https://www.kucoin.com/trade/IOST-USDT"
+    },
+    {
+        "symbol": "TVKUSDT",
+        "ask_price": "0.04386",
+        "bid_price": "0.04399",
+        "volume": 93783,
+        "link": "https://www.kucoin.com/trade/TVK-USDT"
+    },
+    {
+        "symbol": "AMBUSDT",
+        "ask_price": "0.01864",
+        "bid_price": "0.01869",
+        "volume": 89665,
+        "link": "https://www.kucoin.com/trade/AMB-USDT"
+    },
+    {
+        "symbol": "CCDUSDT",
+        "ask_price": "0.01087",
+        "bid_price": "0.010873",
+        "volume": 120095,
+        "link": "https://www.kucoin.com/trade/CCD-USDT"
+    },
+    {
+        "symbol": "OUSDUSDT",
+        "ask_price": "0.9976",
+        "bid_price": "0.9996",
+        "volume": 583500,
+        "link": "https://www.kucoin.com/trade/OUSD-USDT"
+    },
+    {
+        "symbol": "GMEEUSDT",
+        "ask_price": "0.011898",
+        "bid_price": "0.011966",
+        "volume": 218787,
+        "link": "https://www.kucoin.com/trade/GMEE-USDT"
+    },
+    {
+        "symbol": "CFX2SUSDT",
+        "ask_price": "14.9024",
+        "bid_price": "15.1857",
+        "volume": 58922,
+        "link": "https://www.kucoin.com/trade/CFX2S-USDT"
+    },
+    {
+        "symbol": "HTRUSDT",
+        "ask_price": "0.07029",
+        "bid_price": "0.07053",
+        "volume": 189851,
+        "link": "https://www.kucoin.com/trade/HTR-USDT"
+    },
+    {
+        "symbol": "CFGUSDT",
+        "ask_price": "0.2597",
+        "bid_price": "0.2624",
+        "volume": 52561,
+        "link": "https://www.kucoin.com/trade/CFG-USDT"
+    },
+    {
+        "symbol": "UBXUSDT",
+        "ask_price": "0.00005201",
+        "bid_price": "0.00005226",
+        "volume": 207388,
+        "link": "https://www.kucoin.com/trade/UBX-USDT"
+    },
+    {
+        "symbol": "ERTHAUSDT",
+        "ask_price": "0.004105",
+        "bid_price": "0.004144",
+        "volume": 127935,
+        "link": "https://www.kucoin.com/trade/ERTHA-USDT"
+    },
+    {
+        "symbol": "FEARUSDT",
+        "ask_price": "0.1893",
+        "bid_price": "0.19039",
+        "volume": 39734,
+        "link": "https://www.kucoin.com/trade/FEAR-USDT"
+    },
+    {
+        "symbol": "CSIXUSDT",
+        "ask_price": "0.06766",
+        "bid_price": "0.06809",
+        "volume": 2780125,
+        "link": "https://www.kucoin.com/trade/CSIX-USDT"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "ask_price": "22252.1",
+        "bid_price": "22252.2",
+        "volume": 78128676,
+        "link": "https://www.kucoin.com/trade/BTC-USDT"
+    },
+    {
+        "symbol": "PLUUSDT",
+        "ask_price": "9.32",
+        "bid_price": "9.364",
+        "volume": 55464,
+        "link": "https://www.kucoin.com/trade/PLU-USDT"
+    },
+    {
+        "symbol": "OCEANUSDT",
+        "ask_price": "0.3775",
+        "bid_price": "0.3778",
+        "volume": 640811,
+        "link": "https://www.kucoin.com/trade/OCEAN-USDT"
+    },
+    {
+        "symbol": "CGGUSDT",
+        "ask_price": "0.10547",
+        "bid_price": "0.10566",
+        "volume": 103406,
+        "link": "https://www.kucoin.com/trade/CGG-USDT"
+    },
+    {
+        "symbol": "INDIUSDT",
+        "ask_price": "0.082",
+        "bid_price": "0.0822",
+        "volume": 269541,
+        "link": "https://www.kucoin.com/trade/INDI-USDT"
+    },
+    {
+        "symbol": "SRKUSDT",
+        "ask_price": "0.0002343",
+        "bid_price": "0.0002361",
+        "volume": 72782,
+        "link": "https://www.kucoin.com/trade/SRK-USDT"
+    },
+    {
+        "symbol": "REDUSDT",
+        "ask_price": "0.0012137",
+        "bid_price": "0.0012165",
+        "volume": 200210,
+        "link": "https://www.kucoin.com/trade/RED-USDT"
+    },
+    {
+        "symbol": "HIVALHALLAUSDT",
+        "ask_price": "0.003954",
+        "bid_price": "0.00398",
+        "volume": 504160,
+        "link": "https://www.kucoin.com/trade/HIVALHALLA-USDT"
+    },
+    {
+        "symbol": "AIPADUSDT",
+        "ask_price": "0.552",
+        "bid_price": "0.55222",
+        "volume": 506314,
+        "link": "https://www.kucoin.com/trade/AIPAD-USDT"
+    },
+    {
+        "symbol": "APEUSDT",
+        "ask_price": "4.6231",
+        "bid_price": "4.6253",
+        "volume": 915702,
+        "link": "https://www.kucoin.com/trade/APE-USDT"
+    },
+    {
+        "symbol": "ERGUSDT",
+        "ask_price": "1.475",
+        "bid_price": "1.4827",
+        "volume": 110541,
+        "link": "https://www.kucoin.com/trade/ERG-USDT"
+    },
+    {
+        "symbol": "ZBCUSDT",
+        "ask_price": "0.01319",
+        "bid_price": "0.01325",
+        "volume": 38838,
+        "link": "https://www.kucoin.com/trade/ZBC-USDT"
+    },
+    {
+        "symbol": "SDLUSDT",
+        "ask_price": "0.011135",
+        "bid_price": "0.011243",
+        "volume": 367240,
+        "link": "https://www.kucoin.com/trade/SDL-USDT"
+    },
+    {
+        "symbol": "REVVUSDT",
+        "ask_price": "0.013039",
+        "bid_price": "0.013092",
+        "volume": 62200,
+        "link": "https://www.kucoin.com/trade/REVV-USDT"
+    },
+    {
+        "symbol": "LOOKSUSDT",
+        "ask_price": "0.1606",
+        "bid_price": "0.1611",
+        "volume": 99755,
+        "link": "https://www.kucoin.com/trade/LOOKS-USDT"
+    },
+    {
+        "symbol": "AGIX2LUSDT",
+        "ask_price": "7.9633",
+        "bid_price": "8.0406",
+        "volume": 97936,
+        "link": "https://www.kucoin.com/trade/AGIX2L-USDT"
+    },
+    {
+        "symbol": "ARKERUSDT",
+        "ask_price": "0.001328",
+        "bid_price": "0.001337",
+        "volume": 150123,
+        "link": "https://www.kucoin.com/trade/ARKER-USDT"
+    },
+    {
+        "symbol": "HAPIUSDT",
+        "ask_price": "16.5693",
+        "bid_price": "16.5694",
+        "volume": 127974,
+        "link": "https://www.kucoin.com/trade/HAPI-USDT"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "ask_price": "0.325986",
+        "bid_price": "0.325993",
+        "volume": 3714945,
+        "link": "https://www.kucoin.com/trade/ADA-USDT"
+    },
+    {
+        "symbol": "ALPHAUSDT",
+        "ask_price": "0.10565",
+        "bid_price": "0.10586",
+        "volume": 51649,
+        "link": "https://www.kucoin.com/trade/ALPHA-USDT"
+    },
+    {
+        "symbol": "DPRUSDT",
+        "ask_price": "0.00988",
+        "bid_price": "0.009941",
+        "volume": 84722,
+        "link": "https://www.kucoin.com/trade/DPR-USDT"
+    },
+    {
+        "symbol": "HIODBSUSDT",
+        "ask_price": "0.007541",
+        "bid_price": "0.007597",
+        "volume": 332550,
+        "link": "https://www.kucoin.com/trade/HIODBS-USDT"
+    },
+    {
+        "symbol": "USDTUSDC",
+        "ask_price": "0.99999",
+        "bid_price": "1",
+        "volume": 3496052,
+        "link": "https://www.kucoin.com/trade/USDT-USDC"
+    },
+    {
+        "symbol": "CFXUSDT",
+        "ask_price": "0.200662",
+        "bid_price": "0.200744",
+        "volume": 2034792,
+        "link": "https://www.kucoin.com/trade/CFX-USDT"
+    },
+    {
+        "symbol": "SRMUSDT",
+        "ask_price": "0.2761",
+        "bid_price": "0.2765",
+        "volume": 76646,
+        "link": "https://www.kucoin.com/trade/SRM-USDT"
+    },
+    {
+        "symbol": "BOLTUSDT",
+        "ask_price": "0.005213",
+        "bid_price": "0.00524",
+        "volume": 53519,
+        "link": "https://www.kucoin.com/trade/BOLT-USDT"
+    },
+    {
+        "symbol": "ERNUSDT",
+        "ask_price": "1.9549",
+        "bid_price": "1.9629",
+        "volume": 38264,
+        "link": "https://www.kucoin.com/trade/ERN-USDT"
+    },
+    {
+        "symbol": "RBPUSDT",
+        "ask_price": "0.000926",
+        "bid_price": "0.000934",
+        "volume": 73694,
+        "link": "https://www.kucoin.com/trade/RBP-USDT"
+    },
+    {
+        "symbol": "EOSCUSDT",
+        "ask_price": "0.003419",
+        "bid_price": "0.003432",
+        "volume": 2030461,
+        "link": "https://www.kucoin.com/trade/EOSC-USDT"
+    },
+    {
+        "symbol": "CQTUSDT",
+        "ask_price": "0.1598",
+        "bid_price": "0.1605",
+        "volume": 146078,
+        "link": "https://www.kucoin.com/trade/CQT-USDT"
+    },
+    {
+        "symbol": "ISPUSDT",
+        "ask_price": "0.0012965",
+        "bid_price": "0.0012977",
+        "volume": 83178,
+        "link": "https://www.kucoin.com/trade/ISP-USDT"
+    },
+    {
+        "symbol": "ARXUSDT",
+        "ask_price": "0.003636",
+        "bid_price": "0.003637",
+        "volume": 459800,
+        "link": "https://www.kucoin.com/trade/ARX-USDT"
+    },
+    {
+        "symbol": "CLVUSDT",
+        "ask_price": "0.0687",
+        "bid_price": "0.06886",
+        "volume": 103381,
+        "link": "https://www.kucoin.com/trade/CLV-USDT"
+    },
+    {
+        "symbol": "MAPUSDT",
+        "ask_price": "0.009466",
+        "bid_price": "0.009533",
+        "volume": 87837,
+        "link": "https://www.kucoin.com/trade/MAP-USDT"
+    },
+    {
+        "symbol": "ROSNUSDT",
+        "ask_price": "0.12773",
+        "bid_price": "0.12846",
+        "volume": 1073768,
+        "link": "https://www.kucoin.com/trade/ROSN-USDT"
+    },
+    {
+        "symbol": "BTTUSDT",
+        "ask_price": "0.0000006826",
+        "bid_price": "0.0000006842",
+        "volume": 209329,
+        "link": "https://www.kucoin.com/trade/BTT-USDT"
+    },
+    {
+        "symbol": "PUSHUSDT",
+        "ask_price": "0.41",
+        "bid_price": "0.411",
+        "volume": 249409,
+        "link": "https://www.kucoin.com/trade/PUSH-USDT"
+    },
+    {
+        "symbol": "ZECUSDT",
+        "ask_price": "37.086",
+        "bid_price": "37.105",
+        "volume": 809016,
+        "link": "https://www.kucoin.com/trade/ZEC-USDT"
+    },
+    {
+        "symbol": "URUSUSDT",
+        "ask_price": "18.541",
+        "bid_price": "18.655",
+        "volume": 150188,
+        "link": "https://www.kucoin.com/trade/URUS-USDT"
+    },
+    {
+        "symbol": "SYLOUSDT",
+        "ask_price": "0.002011",
+        "bid_price": "0.002022",
+        "volume": 45109,
+        "link": "https://www.kucoin.com/trade/SYLO-USDT"
+    },
+    {
+        "symbol": "XTAGUSDT",
+        "ask_price": "0.037",
+        "bid_price": "0.03726",
+        "volume": 87270,
+        "link": "https://www.kucoin.com/trade/XTAG-USDT"
+    },
+    {
+        "symbol": "SPAUSDT",
+        "ask_price": "0.005351",
+        "bid_price": "0.005369",
+        "volume": 515555,
+        "link": "https://www.kucoin.com/trade/SPA-USDT"
+    },
+    {
+        "symbol": "AGIXUSDT",
+        "ask_price": "0.41111",
+        "bid_price": "0.41112",
+        "volume": 8118264,
+        "link": "https://www.kucoin.com/trade/AGIX-USDT"
+    },
+    {
+        "symbol": "SOLVEUSDT",
+        "ask_price": "0.03114",
+        "bid_price": "0.03118",
+        "volume": 102402,
+        "link": "https://www.kucoin.com/trade/SOLVE-USDT"
+    },
+    {
+        "symbol": "VIDTUSDT",
+        "ask_price": "0.03829",
+        "bid_price": "0.03888",
+        "volume": 57858,
+        "link": "https://www.kucoin.com/trade/VIDT-USDT"
+    },
+    {
+        "symbol": "JASMYUSDT",
+        "ask_price": "0.005247",
+        "bid_price": "0.005251",
+        "volume": 1122327,
+        "link": "https://www.kucoin.com/trade/JASMY-USDT"
+    },
+    {
+        "symbol": "WINUSDT",
+        "ask_price": "0.00008988",
+        "bid_price": "0.00008997",
+        "volume": 262686,
+        "link": "https://www.kucoin.com/trade/WIN-USDT"
+    },
+    {
+        "symbol": "SXPUSDT",
+        "ask_price": "0.2732",
+        "bid_price": "0.2736",
+        "volume": 62594,
+        "link": "https://www.kucoin.com/trade/SXP-USDT"
+    },
+    {
+        "symbol": "VIDUSDT",
+        "ask_price": "0.02486",
+        "bid_price": "0.02489",
+        "volume": 50712,
+        "link": "https://www.kucoin.com/trade/VID-USDT"
+    },
+    {
+        "symbol": "FORESTPLUSUSDT",
+        "ask_price": "0.0042411",
+        "bid_price": "0.0042776",
+        "volume": 37434,
+        "link": "https://www.kucoin.com/trade/FORESTPLUS-USDT"
+    },
+    {
+        "symbol": "TELUSDT",
+        "ask_price": "0.00252553",
+        "bid_price": "0.00253",
+        "volume": 640353,
+        "link": "https://www.kucoin.com/trade/TEL-USDT"
+    },
+    {
+        "symbol": "HEARTUSDT",
+        "ask_price": "0.017846",
+        "bid_price": "0.017913",
+        "volume": 35526,
+        "link": "https://www.kucoin.com/trade/HEART-USDT"
+    },
+    {
+        "symbol": "NXRAUSDT",
+        "ask_price": "0.062588",
+        "bid_price": "0.062599",
+        "volume": 884692,
+        "link": "https://www.kucoin.com/trade/NXRA-USDT"
+    },
+    {
+        "symbol": "CLUBUSDT",
+        "ask_price": "0.015556",
+        "bid_price": "0.015627",
+        "volume": 294272,
+        "link": "https://www.kucoin.com/trade/CLUB-USDT"
+    },
+    {
+        "symbol": "FCONUSDT",
+        "ask_price": "0.00012973",
+        "bid_price": "0.00013052",
+        "volume": 188839,
+        "link": "https://www.kucoin.com/trade/FCON-USDT"
+    },
+    {
+        "symbol": "ORAIUSDT",
+        "ask_price": "5.711",
+        "bid_price": "5.734",
+        "volume": 378319,
+        "link": "https://www.kucoin.com/trade/ORAI-USDT"
+    },
+    {
+        "symbol": "GOALUSDT",
+        "ask_price": "0.2663",
+        "bid_price": "0.2688",
+        "volume": 97878,
+        "link": "https://www.kucoin.com/trade/GOAL-USDT"
+    },
+    {
+        "symbol": "STCUSDT",
+        "ask_price": "0.00345",
+        "bid_price": "0.003478",
+        "volume": 98798,
+        "link": "https://www.kucoin.com/trade/STC-USDT"
+    },
+    {
+        "symbol": "EPKUSDT",
+        "ask_price": "0.02055",
+        "bid_price": "0.02076",
+        "volume": 69834,
+        "link": "https://www.kucoin.com/trade/EPK-USDT"
+    },
+    {
+        "symbol": "HIFIDENZAUSDT",
+        "ask_price": "0.1701",
+        "bid_price": "0.1702",
+        "volume": 299609,
+        "link": "https://www.kucoin.com/trade/HIFIDENZA-USDT"
+    },
+    {
+        "symbol": "LTOUSDT",
+        "ask_price": "0.11411",
+        "bid_price": "0.11434",
+        "volume": 260331,
+        "link": "https://www.kucoin.com/trade/LTO-USDT"
+    },
+    {
+        "symbol": "MJTUSDT",
+        "ask_price": "0.10933",
+        "bid_price": "0.10961",
+        "volume": 130558,
+        "link": "https://www.kucoin.com/trade/MJT-USDT"
+    },
+    {
+        "symbol": "USDTEUR",
+        "ask_price": "0.9454",
+        "bid_price": "0.9459",
+        "volume": 314061,
+        "link": "https://www.kucoin.com/trade/USD-TEUR"
+    },
+    {
+        "symbol": "ACOINUSDT",
+        "ask_price": "0.027675",
+        "bid_price": "0.02774",
+        "volume": 159209,
+        "link": "https://www.kucoin.com/trade/ACOIN-USDT"
+    },
+    {
+        "symbol": "IDEAUSDT",
+        "ask_price": "0.01235",
+        "bid_price": "0.01243",
+        "volume": 210969,
+        "link": "https://www.kucoin.com/trade/IDEA-USDT"
+    },
+    {
+        "symbol": "RENUSDT",
+        "ask_price": "0.11913",
+        "bid_price": "0.11929",
+        "volume": 902943,
+        "link": "https://www.kucoin.com/trade/REN-USDT"
+    },
+    {
+        "symbol": "BLURUSDT",
+        "ask_price": "0.639",
+        "bid_price": "0.6393",
+        "volume": 3247743,
+        "link": "https://www.kucoin.com/trade/BLUR-USDT"
+    },
+    {
+        "symbol": "ANCUSDT",
+        "ask_price": "0.02282",
+        "bid_price": "0.02285",
+        "volume": 258016,
+        "link": "https://www.kucoin.com/trade/ANC-USDT"
+    },
+    {
+        "symbol": "LUNCUSDT",
+        "ask_price": "0.000141",
+        "bid_price": "0.00014105",
+        "volume": 2081093,
+        "link": "https://www.kucoin.com/trade/LUNC-USDT"
+    },
+    {
+        "symbol": "SHILLUSDT",
+        "ask_price": "0.0171",
+        "bid_price": "0.01715",
+        "volume": 149923,
+        "link": "https://www.kucoin.com/trade/SHILL-USDT"
+    },
+    {
+        "symbol": "SOULUSDT",
+        "ask_price": "0.2213",
+        "bid_price": "0.2216",
+        "volume": 153104,
+        "link": "https://www.kucoin.com/trade/SOUL-USDT"
+    },
+    {
+        "symbol": "DAGUSDT",
+        "ask_price": "0.046814",
+        "bid_price": "0.046877",
+        "volume": 184595,
+        "link": "https://www.kucoin.com/trade/DAG-USDT"
+    },
+    {
+        "symbol": "XHVUSDT",
+        "ask_price": "0.5617",
+        "bid_price": "0.5636",
+        "volume": 44917,
+        "link": "https://www.kucoin.com/trade/XHV-USDT"
+    },
+    {
+        "symbol": "STGUSDT",
+        "ask_price": "0.7599",
+        "bid_price": "0.7604",
+        "volume": 160881,
+        "link": "https://www.kucoin.com/trade/STG-USDT"
+    },
+    {
+        "symbol": "XMRUSDT",
+        "ask_price": "150.93",
+        "bid_price": "151.02",
+        "volume": 8454873,
+        "link": "https://www.kucoin.com/trade/XMR-USDT"
+    },
+    {
+        "symbol": "TOKOUSDT",
+        "ask_price": "0.003279",
+        "bid_price": "0.003299",
+        "volume": 144162,
+        "link": "https://www.kucoin.com/trade/TOKO-USDT"
+    },
+    {
+        "symbol": "EVERUSDT",
+        "ask_price": "0.10976",
+        "bid_price": "0.10981",
+        "volume": 145990,
+        "link": "https://www.kucoin.com/trade/EVER-USDT"
+    },
+    {
+        "symbol": "POLCUSDT",
+        "ask_price": "0.02704",
+        "bid_price": "0.02728",
+        "volume": 40018,
+        "link": "https://www.kucoin.com/trade/POLC-USDT"
+    },
+    {
+        "symbol": "ZENUSDT",
+        "ask_price": "10.695",
+        "bid_price": "10.716",
+        "volume": 61088,
+        "link": "https://www.kucoin.com/trade/ZEN-USDT"
+    },
+    {
+        "symbol": "VAIUSDT",
+        "ask_price": "0.111824",
+        "bid_price": "0.11219",
+        "volume": 731491,
+        "link": "https://www.kucoin.com/trade/VAI-USDT"
+    },
+    {
+        "symbol": "FTMUSDT",
+        "ask_price": "0.39895",
+        "bid_price": "0.39902",
+        "volume": 7441603,
+        "link": "https://www.kucoin.com/trade/FTM-USDT"
+    },
+    {
+        "symbol": "ZCXUSDT",
+        "ask_price": "0.07276",
+        "bid_price": "0.07305",
+        "volume": 202041,
+        "link": "https://www.kucoin.com/trade/ZCX-USDT"
+    },
+    {
+        "symbol": "AKROUSDT",
+        "ask_price": "0.0053222",
+        "bid_price": "0.0053517",
+        "volume": 124795,
+        "link": "https://www.kucoin.com/trade/AKRO-USDT"
+    },
+    {
+        "symbol": "XWGUSDT",
+        "ask_price": "0.0012467",
+        "bid_price": "0.0012472",
+        "volume": 296239,
+        "link": "https://www.kucoin.com/trade/XWG-USDT"
+    },
+    {
+        "symbol": "CKBUSDT",
+        "ask_price": "0.004214",
+        "bid_price": "0.004219",
+        "volume": 493717,
+        "link": "https://www.kucoin.com/trade/CKB-USDT"
+    },
+    {
+        "symbol": "MAGICUSDT",
+        "ask_price": "1.3301",
+        "bid_price": "1.3319",
+        "volume": 1068544,
+        "link": "https://www.kucoin.com/trade/MAGIC-USDT"
+    },
+    {
+        "symbol": "H2OUSDT",
+        "ask_price": "0.1189",
+        "bid_price": "0.1194",
+        "volume": 103481,
+        "link": "https://www.kucoin.com/trade/H2O-USDT"
+    },
+    {
+        "symbol": "MTLUSDT",
+        "ask_price": "1.1123",
+        "bid_price": "1.1143",
+        "volume": 39520,
+        "link": "https://www.kucoin.com/trade/MTL-USDT"
+    },
+    {
+        "symbol": "SKEYUSDT",
+        "ask_price": "0.01948",
+        "bid_price": "0.01964",
+        "volume": 171278,
+        "link": "https://www.kucoin.com/trade/SKEY-USDT"
+    },
+    {
+        "symbol": "DYDXUSDT",
+        "ask_price": "2.2412",
+        "bid_price": "2.2416",
+        "volume": 3485833,
+        "link": "https://www.kucoin.com/trade/DYDX-USDT"
+    },
+    {
+        "symbol": "IGUUSDT",
+        "ask_price": "0.12658",
+        "bid_price": "0.12661",
+        "volume": 268687,
+        "link": "https://www.kucoin.com/trade/IGU-USDT"
+    },
+    {
+        "symbol": "SYNUSDT",
+        "ask_price": "1.062",
+        "bid_price": "1.063",
+        "volume": 71686,
+        "link": "https://www.kucoin.com/trade/SYN-USDT"
+    },
+    {
+        "symbol": "1EARTHUSDT",
+        "ask_price": "0.00313894",
+        "bid_price": "0.00314591",
+        "volume": 234762,
+        "link": "https://www.kucoin.com/trade/1EARTH-USDT"
+    },
+    {
+        "symbol": "HIRENGAUSDT",
+        "ask_price": "0.007395",
+        "bid_price": "0.007434",
+        "volume": 769903,
+        "link": "https://www.kucoin.com/trade/HIRENGA-USDT"
+    },
+    {
+        "symbol": "OVRUSDT",
+        "ask_price": "0.3217",
+        "bid_price": "0.3225",
+        "volume": 71261,
+        "link": "https://www.kucoin.com/trade/OVR-USDT"
+    },
+    {
+        "symbol": "REQUSDT",
+        "ask_price": "0.09781",
+        "bid_price": "0.09803",
+        "volume": 62478,
+        "link": "https://www.kucoin.com/trade/REQ-USDT"
+    },
+    {
+        "symbol": "SUKUUSDT",
+        "ask_price": "0.07428",
+        "bid_price": "0.07446",
+        "volume": 136531,
+        "link": "https://www.kucoin.com/trade/SUKU-USDT"
+    },
+    {
+        "symbol": "DAOUSDT",
+        "ask_price": "1.7898",
+        "bid_price": "1.79051",
+        "volume": 430107,
+        "link": "https://www.kucoin.com/trade/DAO-USDT"
+    },
+    {
+        "symbol": "WESTUSDT",
+        "ask_price": "0.03823",
+        "bid_price": "0.03848",
+        "volume": 285602,
+        "link": "https://www.kucoin.com/trade/WEST-USDT"
+    },
+    {
+        "symbol": "CIX100USDT",
+        "ask_price": "0.02888",
+        "bid_price": "0.02894",
+        "volume": 38713,
+        "link": "https://www.kucoin.com/trade/CIX100-USDT"
+    },
+    {
+        "symbol": "BOSONUSDT",
+        "ask_price": "0.2115",
+        "bid_price": "0.2121",
+        "volume": 38367,
+        "link": "https://www.kucoin.com/trade/BOSON-USDT"
+    },
+    {
+        "symbol": "AMPUSDT",
+        "ask_price": "0.004709",
+        "bid_price": "0.004715",
+        "volume": 73227,
+        "link": "https://www.kucoin.com/trade/AMP-USDT"
+    },
+    {
+        "symbol": "GODSUSDT",
+        "ask_price": "0.2512",
+        "bid_price": "0.2517",
+        "volume": 34703,
+        "link": "https://www.kucoin.com/trade/GODS-USDT"
+    },
+    {
+        "symbol": "XPRUSDT",
+        "ask_price": "0.00159",
+        "bid_price": "0.001592",
+        "volume": 951132,
+        "link": "https://www.kucoin.com/trade/XPR-USDT"
+    },
+    {
+        "symbol": "LOKIUSDT",
+        "ask_price": "0.1669",
+        "bid_price": "0.16729",
+        "volume": 235334,
+        "link": "https://www.kucoin.com/trade/LOKI-USDT"
+    },
+    {
+        "symbol": "AGIX2SUSDT",
+        "ask_price": "4.5023",
+        "bid_price": "4.5248",
+        "volume": 50734,
+        "link": "https://www.kucoin.com/trade/AGIX2S-USDT"
+    },
+    {
+        "symbol": "EPSUSDT",
+        "ask_price": "0.2109",
+        "bid_price": "0.2625",
+        "volume": 278718,
+        "link": "https://www.kucoin.com/trade/EPS-USDT"
+    },
+    {
+        "symbol": "JAMUSDT",
+        "ask_price": "0.002894",
+        "bid_price": "0.002914",
+        "volume": 43178,
+        "link": "https://www.kucoin.com/trade/JAM-USDT"
+    },
+    {
+        "symbol": "FXSUSDT",
+        "ask_price": "9.355",
+        "bid_price": "9.361",
+        "volume": 771694,
+        "link": "https://www.kucoin.com/trade/FXS-USDT"
+    },
+    {
+        "symbol": "RLCUSDT",
+        "ask_price": "1.6372",
+        "bid_price": "1.6399",
+        "volume": 108977,
+        "link": "https://www.kucoin.com/trade/RLC-USDT"
+    },
+    {
+        "symbol": "UNFIUSDT",
+        "ask_price": "5.017",
+        "bid_price": "5.024",
+        "volume": 146976,
+        "link": "https://www.kucoin.com/trade/UNFI-USDT"
+    },
+    {
+        "symbol": "CIRUSUSDT",
+        "ask_price": "0.13129",
+        "bid_price": "0.13227",
+        "volume": 230728,
+        "link": "https://www.kucoin.com/trade/CIRUS-USDT"
+    },
+    {
+        "symbol": "FTTUSDT",
+        "ask_price": "1.265",
+        "bid_price": "1.267",
+        "volume": 245536,
+        "link": "https://www.kucoin.com/trade/FTT-USDT"
+    },
+    {
+        "symbol": "FITFIUSDT",
+        "ask_price": "0.01829",
+        "bid_price": "0.01831",
+        "volume": 356602,
+        "link": "https://www.kucoin.com/trade/FITFI-USDT"
+    },
+    {
+        "symbol": "HAKAUSDT",
+        "ask_price": "0.01641",
+        "bid_price": "0.01642",
+        "volume": 81028,
+        "link": "https://www.kucoin.com/trade/HAKA-USDT"
+    },
+    {
+        "symbol": "YFDAIUSDT",
+        "ask_price": "402.94",
+        "bid_price": "402.98",
+        "volume": 10809455,
+        "link": "https://www.kucoin.com/trade/YFDAI-USDT"
+    },
+    {
+        "symbol": "FKXUSDT",
+        "ask_price": "0.02806",
+        "bid_price": "0.02825",
+        "volume": 219412,
+        "link": "https://www.kucoin.com/trade/FKX-USDT"
+    },
+    {
+        "symbol": "XEDUSDT",
+        "ask_price": "0.08565",
+        "bid_price": "0.08599",
+        "volume": 94509,
+        "link": "https://www.kucoin.com/trade/XED-USDT"
+    },
+    {
+        "symbol": "BCHSVUSDT",
+        "ask_price": "37.319",
+        "bid_price": "37.368",
+        "volume": 43428,
+        "link": "https://www.kucoin.com/trade/BCHSV-USDT"
+    },
+    {
+        "symbol": "SNXUSDT",
+        "ask_price": "2.926157",
+        "bid_price": "2.929828",
+        "volume": 1770740,
+        "link": "https://www.kucoin.com/trade/SNX-USDT"
+    },
+    {
+        "symbol": "PUMLXUSDT",
+        "ask_price": "0.01875",
+        "bid_price": "0.0188",
+        "volume": 83501,
+        "link": "https://www.kucoin.com/trade/PUMLX-USDT"
+    },
+    {
+        "symbol": "AIOZUSDT",
+        "ask_price": "0.03325",
+        "bid_price": "0.03338",
+        "volume": 79198,
+        "link": "https://www.kucoin.com/trade/AIOZ-USDT"
+    },
+    {
+        "symbol": "PBXUSDT",
+        "ask_price": "0.001585",
+        "bid_price": "0.0015971",
+        "volume": 222590,
+        "link": "https://www.kucoin.com/trade/PBX-USDT"
+    },
+    {
+        "symbol": "INJUSDT",
+        "ask_price": "3.133",
+        "bid_price": "3.135",
+        "volume": 659308,
+        "link": "https://www.kucoin.com/trade/INJ-USDT"
+    },
+    {
+        "symbol": "TIDALUSDT",
+        "ask_price": "0.0003784",
+        "bid_price": "0.0003799",
+        "volume": 183138,
+        "link": "https://www.kucoin.com/trade/TIDAL-USDT"
+    },
+    {
+        "symbol": "NHCTUSDT",
+        "ask_price": "0.05746",
+        "bid_price": "0.05789",
+        "volume": 73549,
+        "link": "https://www.kucoin.com/trade/NHCT-USDT"
+    },
+    {
+        "symbol": "ATOMUSDT",
+        "ask_price": "11.6281",
+        "bid_price": "11.629",
+        "volume": 1703628,
+        "link": "https://www.kucoin.com/trade/ATOM-USDT"
+    },
+    {
+        "symbol": "MANAUSDT",
+        "ask_price": "0.58917",
+        "bid_price": "0.5893",
+        "volume": 2134136,
+        "link": "https://www.kucoin.com/trade/MANA-USDT"
+    },
+    {
+        "symbol": "PIASUSDT",
+        "ask_price": "0.03151",
+        "bid_price": "0.03156",
+        "volume": 331583,
+        "link": "https://www.kucoin.com/trade/PIAS-USDT"
+    },
+    {
+        "symbol": "DPXUSDT",
+        "ask_price": "335.8",
+        "bid_price": "338.4",
+        "volume": 151546,
+        "link": "https://www.kucoin.com/trade/DPX-USDT"
+    },
+    {
+        "symbol": "BRWLUSDT",
+        "ask_price": "0.002935",
+        "bid_price": "0.002947",
+        "volume": 117963,
+        "link": "https://www.kucoin.com/trade/BRWL-USDT"
+    },
+    {
+        "symbol": "ACQUSDT",
+        "ask_price": "0.02841",
+        "bid_price": "0.02868",
+        "volume": 126444,
+        "link": "https://www.kucoin.com/trade/ACQ-USDT"
+    },
+    {
+        "symbol": "ALTUSDT",
+        "ask_price": "0.08145",
+        "bid_price": "0.08194",
+        "volume": 145999,
+        "link": "https://www.kucoin.com/trade/ALT-USDT"
+    },
+    {
+        "symbol": "AUDIOUSDT",
+        "ask_price": "0.2591",
+        "bid_price": "0.2593",
+        "volume": 392002,
+        "link": "https://www.kucoin.com/trade/AUDIO-USDT"
+    },
+    {
+        "symbol": "TEMUSDT",
+        "ask_price": "0.11402",
+        "bid_price": "0.11512",
+        "volume": 555895,
+        "link": "https://www.kucoin.com/trade/TEM-USDT"
+    },
+    {
+        "symbol": "KSMUSDT",
+        "ask_price": "33.3284",
+        "bid_price": "33.3429",
+        "volume": 164994,
+        "link": "https://www.kucoin.com/trade/KSM-USDT"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "ask_price": "1554.17",
+        "bid_price": "1554.18",
+        "volume": 43196350,
+        "link": "https://www.kucoin.com/trade/ETH-USDT"
+    },
+    {
+        "symbol": "OPCTUSDT",
+        "ask_price": "0.01264",
+        "bid_price": "0.012729",
+        "volume": 98644,
+        "link": "https://www.kucoin.com/trade/OPCT-USDT"
+    },
+    {
+        "symbol": "HIDOODLESUSDT",
+        "ask_price": "0.00779",
+        "bid_price": "0.0078",
+        "volume": 348662,
+        "link": "https://www.kucoin.com/trade/HIDOODLES-USDT"
+    },
+    {
+        "symbol": "HIENS4USDT",
+        "ask_price": "0.00274",
+        "bid_price": "0.002755",
+        "volume": 419160,
+        "link": "https://www.kucoin.com/trade/HIENS4-USDT"
+    },
+    {
+        "symbol": "EFIUSDT",
+        "ask_price": "0.0797",
+        "bid_price": "0.08019",
+        "volume": 67037,
+        "link": "https://www.kucoin.com/trade/EFI-USDT"
+    },
+    {
+        "symbol": "GALAXUSDT",
+        "ask_price": "0.03717",
+        "bid_price": "0.03718",
+        "volume": 3558965,
+        "link": "https://www.kucoin.com/trade/GALAX-USDT"
+    },
+    {
+        "symbol": "BLOKUSDT",
+        "ask_price": "0.002765",
+        "bid_price": "0.002768",
+        "volume": 316288,
+        "link": "https://www.kucoin.com/trade/BLOK-USDT"
+    },
+    {
+        "symbol": "BURGERUSDT",
+        "ask_price": "0.6598",
+        "bid_price": "0.6609",
+        "volume": 64301,
+        "link": "https://www.kucoin.com/trade/BURGER-USDT"
+    },
+    {
+        "symbol": "PEOPLEUSDT",
+        "ask_price": "0.02128",
+        "bid_price": "0.02132",
+        "volume": 65496,
+        "link": "https://www.kucoin.com/trade/PEOPLE-USDT"
+    },
+    {
+        "symbol": "CWEBUSDT",
+        "ask_price": "0.01587",
+        "bid_price": "0.01594",
+        "volume": 162663,
+        "link": "https://www.kucoin.com/trade/CWEB-USDT"
+    },
+    {
+        "symbol": "FLOWUSDT",
+        "ask_price": "1.0114",
+        "bid_price": "1.0128",
+        "volume": 371037,
+        "link": "https://www.kucoin.com/trade/FLOW-USDT"
+    },
+    {
+        "symbol": "SUPERUSDT",
+        "ask_price": "0.1251",
+        "bid_price": "0.12533",
+        "volume": 36523,
+        "link": "https://www.kucoin.com/trade/SUPER-USDT"
+    },
+    {
+        "symbol": "IMXUSDT",
+        "ask_price": "1.0748",
+        "bid_price": "1.0758",
+        "volume": 1572517,
+        "link": "https://www.kucoin.com/trade/IMX-USDT"
+    },
+    {
+        "symbol": "OLEUSDT",
+        "ask_price": "0.02928",
+        "bid_price": "0.02948",
+        "volume": 99040,
+        "link": "https://www.kucoin.com/trade/OLE-USDT"
+    },
+    {
+        "symbol": "PHNXUSDT",
+        "ask_price": "0.011553",
+        "bid_price": "0.011608",
+        "volume": 263473,
+        "link": "https://www.kucoin.com/trade/PHNX-USDT"
+    },
+    {
+        "symbol": "PNTUSDT",
+        "ask_price": "0.2597",
+        "bid_price": "0.2613",
+        "volume": 132142,
+        "link": "https://www.kucoin.com/trade/PNT-USDT"
+    },
+    {
+        "symbol": "ROARUSDT",
+        "ask_price": "0.01096",
+        "bid_price": "0.01104",
+        "volume": 51179,
+        "link": "https://www.kucoin.com/trade/ROAR-USDT"
+    },
+    {
+        "symbol": "VRAUSDT",
+        "ask_price": "0.00604704",
+        "bid_price": "0.00604901",
+        "volume": 7839550,
+        "link": "https://www.kucoin.com/trade/VRA-USDT"
+    },
+    {
+        "symbol": "WAXUSDT",
+        "ask_price": "0.06785",
+        "bid_price": "0.06792",
+        "volume": 204307,
+        "link": "https://www.kucoin.com/trade/WAX-USDT"
+    },
+    {
+        "symbol": "DEXEUSDT",
+        "ask_price": "2.8224",
+        "bid_price": "2.8396",
+        "volume": 158372,
+        "link": "https://www.kucoin.com/trade/DEXE-USDT"
+    },
+    {
+        "symbol": "SHRUSDT",
+        "ask_price": "0.002478",
+        "bid_price": "0.002484",
+        "volume": 70198,
+        "link": "https://www.kucoin.com/trade/SHR-USDT"
+    },
+    {
+        "symbol": "XCHUSDT",
+        "ask_price": "36.224",
+        "bid_price": "36.363",
+        "volume": 159868,
+        "link": "https://www.kucoin.com/trade/XCH-USDT"
+    },
+    {
+        "symbol": "SDAOUSDT",
+        "ask_price": "0.6017",
+        "bid_price": "0.6022",
+        "volume": 476529,
+        "link": "https://www.kucoin.com/trade/SDAO-USDT"
+    },
+    {
+        "symbol": "SCLPUSDT",
+        "ask_price": "0.1841",
+        "bid_price": "0.1847",
+        "volume": 220320,
+        "link": "https://www.kucoin.com/trade/SCLP-USDT"
+    },
+    {
+        "symbol": "HIMAYCUSDT",
+        "ask_price": "0.04007",
+        "bid_price": "0.04015",
+        "volume": 330269,
+        "link": "https://www.kucoin.com/trade/HIMAYC-USDT"
+    },
+    {
+        "symbol": "CMPUSDT",
+        "ask_price": "0.10657",
+        "bid_price": "0.10748",
+        "volume": 69528,
+        "link": "https://www.kucoin.com/trade/CMP-USDT"
+    },
+    {
+        "symbol": "FRMUSDT",
+        "ask_price": "0.05278",
+        "bid_price": "0.05347",
+        "volume": 79982,
+        "link": "https://www.kucoin.com/trade/FRM-USDT"
+    },
+    {
+        "symbol": "LMRUSDT",
+        "ask_price": "0.008016",
+        "bid_price": "0.008063",
+        "volume": 33500,
+        "link": "https://www.kucoin.com/trade/LMR-USDT"
+    },
+    {
+        "symbol": "HISQUIGGLEUSDT",
+        "ask_price": "0.02348",
+        "bid_price": "0.02363",
+        "volume": 308532,
+        "link": "https://www.kucoin.com/trade/HISQUIGGLE-USDT"
+    },
+    {
+        "symbol": "NTVRKUSDT",
+        "ask_price": "0.1738",
+        "bid_price": "0.1742",
+        "volume": 132126,
+        "link": "https://www.kucoin.com/trade/NTVRK-USDT"
+    },
+    {
+        "symbol": "HIBEANZUSDT",
+        "ask_price": "0.011664",
+        "bid_price": "0.011743",
+        "volume": 481984,
+        "link": "https://www.kucoin.com/trade/HIBEANZ-USDT"
+    },
+    {
+        "symbol": "HALOUSDT",
+        "ask_price": "0.25326",
+        "bid_price": "0.2535",
+        "volume": 3502745,
+        "link": "https://www.kucoin.com/trade/HALO-USDT"
+    },
+    {
+        "symbol": "TXAUSDT",
+        "ask_price": "0.7641",
+        "bid_price": "0.7642",
+        "volume": 296382,
+        "link": "https://www.kucoin.com/trade/TXA-USDT"
+    },
+    {
+        "symbol": "CPOOLUSDT",
+        "ask_price": "0.04522",
+        "bid_price": "0.04536",
+        "volume": 37866,
+        "link": "https://www.kucoin.com/trade/CPOOL-USDT"
+    },
+    {
+        "symbol": "1INCHUSDT",
+        "ask_price": "0.50298",
+        "bid_price": "0.50361",
+        "volume": 167781,
+        "link": "https://www.kucoin.com/trade/1INCH-USDT"
+    },
+    {
+        "symbol": "PERPUSDT",
+        "ask_price": "1.0013",
+        "bid_price": "1.0022",
+        "volume": 485972,
+        "link": "https://www.kucoin.com/trade/PERP-USDT"
+    },
+    {
+        "symbol": "MNWUSDT",
+        "ask_price": "1.7997",
+        "bid_price": "1.8022",
+        "volume": 326714,
+        "link": "https://www.kucoin.com/trade/MNW-USDT"
+    },
+    {
+        "symbol": "PRMXUSDT",
+        "ask_price": "0.006743",
+        "bid_price": "0.006786",
+        "volume": 300074,
+        "link": "https://www.kucoin.com/trade/PRMX-USDT"
+    },
+    {
+        "symbol": "HICOOLCATSUSDT",
+        "ask_price": "0.003297",
+        "bid_price": "0.003313",
+        "volume": 260221,
+        "link": "https://www.kucoin.com/trade/HICOOLCATS-USDT"
+    },
+    {
+        "symbol": "ABBCUSDT",
+        "ask_price": "0.07204",
+        "bid_price": "0.07227",
+        "volume": 246314,
+        "link": "https://www.kucoin.com/trade/ABBC-USDT"
+    },
+    {
+        "symbol": "ADXUSDT",
+        "ask_price": "0.1786",
+        "bid_price": "0.1788",
+        "volume": 79497,
+        "link": "https://www.kucoin.com/trade/ADX-USDT"
+    },
+    {
+        "symbol": "CAKEUSDT",
+        "ask_price": "3.735",
+        "bid_price": "3.737",
+        "volume": 89927,
+        "link": "https://www.kucoin.com/trade/CAKE-USDT"
+    },
+    {
+        "symbol": "XETAUSDT",
+        "ask_price": "0.05067",
+        "bid_price": "0.05111",
+        "volume": 30758,
+        "link": "https://www.kucoin.com/trade/XETA-USDT"
+    },
+    {
+        "symbol": "NWCUSDT",
+        "ask_price": "0.052606",
+        "bid_price": "0.052805",
+        "volume": 84303,
+        "link": "https://www.kucoin.com/trade/NWC-USDT"
+    },
+    {
+        "symbol": "DARUSDT",
+        "ask_price": "0.1702",
+        "bid_price": "0.1705",
+        "volume": 56634,
+        "link": "https://www.kucoin.com/trade/DAR-USDT"
+    },
+    {
+        "symbol": "AURORAUSDT",
+        "ask_price": "0.2206",
+        "bid_price": "0.221",
+        "volume": 95970,
+        "link": "https://www.kucoin.com/trade/AURORA-USDT"
+    },
+    {
+        "symbol": "GALUSDT",
+        "ask_price": "1.622",
+        "bid_price": "1.626",
+        "volume": 115128,
+        "link": "https://www.kucoin.com/trade/GAL-USDT"
+    },
+    {
+        "symbol": "ONEUSDT",
+        "ask_price": "0.018622",
+        "bid_price": "0.018634",
+        "volume": 918988,
+        "link": "https://www.kucoin.com/trade/ONE-USDT"
+    },
+    {
+        "symbol": "SFUNDUSDT",
+        "ask_price": "1.1802",
+        "bid_price": "1.1807",
+        "volume": 2001008,
+        "link": "https://www.kucoin.com/trade/SFUND-USDT"
+    },
+    {
+        "symbol": "SONUSDT",
+        "ask_price": "0.0005556",
+        "bid_price": "0.0005567",
+        "volume": 75659,
+        "link": "https://www.kucoin.com/trade/SON-USDT"
+    },
+    {
+        "symbol": "STEPWATCHUSDT",
+        "ask_price": "0.0022605",
+        "bid_price": "0.002261",
+        "volume": 171645,
+        "link": "https://www.kucoin.com/trade/STEPWATCH-USDT"
+    },
+    {
+        "symbol": "AVAXUSDT",
+        "ask_price": "16.052",
+        "bid_price": "16.055",
+        "volume": 4074018,
+        "link": "https://www.kucoin.com/trade/AVAX-USDT"
+    },
+    {
+        "symbol": "MASKUSDT",
+        "ask_price": "3.7824",
+        "bid_price": "3.7844",
+        "volume": 5811948,
+        "link": "https://www.kucoin.com/trade/MASK-USDT"
+    },
+    {
+        "symbol": "PIXUSDT",
+        "ask_price": "0.001196",
+        "bid_price": "0.0012",
+        "volume": 253146,
+        "link": "https://www.kucoin.com/trade/PIX-USDT"
+    },
+    {
+        "symbol": "FORMUSDT",
+        "ask_price": "0.00215",
+        "bid_price": "0.002164",
+        "volume": 65961,
+        "link": "https://www.kucoin.com/trade/FORM-USDT"
+    },
+    {
+        "symbol": "MVUSDT",
+        "ask_price": "0.13385",
+        "bid_price": "0.1347",
+        "volume": 254553,
+        "link": "https://www.kucoin.com/trade/MV-USDT"
+    },
+    {
+        "symbol": "GLMRUSDT",
+        "ask_price": "0.389",
+        "bid_price": "0.3895",
+        "volume": 365157,
+        "link": "https://www.kucoin.com/trade/GLMR-USDT"
+    },
+    {
+        "symbol": "VRUSDT",
+        "ask_price": "0.009135",
+        "bid_price": "0.009262",
+        "volume": 34454,
+        "link": "https://www.kucoin.com/trade/VR-USDT"
+    },
+    {
+        "symbol": "STXUSDT",
+        "ask_price": "0.6708",
+        "bid_price": "0.6709",
+        "volume": 3999864,
+        "link": "https://www.kucoin.com/trade/STX-USDT"
+    },
+    {
+        "symbol": "XPRTUSDT",
+        "ask_price": "0.5108",
+        "bid_price": "0.5118",
+        "volume": 71129,
+        "link": "https://www.kucoin.com/trade/XPRT-USDT"
+    },
+    {
+        "symbol": "OOEUSDT",
+        "ask_price": "0.023522",
+        "bid_price": "0.023558",
+        "volume": 141095,
+        "link": "https://www.kucoin.com/trade/OOE-USDT"
+    },
+    {
+        "symbol": "SHAUSDT",
+        "ask_price": "0.0008001",
+        "bid_price": "0.0008006",
+        "volume": 30817,
+        "link": "https://www.kucoin.com/trade/SHA-USDT"
+    },
+    {
+        "symbol": "GEEQUSDT",
+        "ask_price": "0.13546",
+        "bid_price": "0.13608",
+        "volume": 73114,
+        "link": "https://www.kucoin.com/trade/GEEQ-USDT"
+    },
+    {
+        "symbol": "NIFUSDT",
+        "ask_price": "0.6126",
+        "bid_price": "0.6189",
+        "volume": 145731,
+        "link": "https://www.kucoin.com/trade/NIF-USDT"
+    },
+    {
+        "symbol": "MODEFIUSDT",
+        "ask_price": "0.3163",
+        "bid_price": "0.3166",
+        "volume": 92772,
+        "link": "https://www.kucoin.com/trade/MODEFI-USDT"
+    },
+    {
+        "symbol": "QRDOUSDT",
+        "ask_price": "0.1206",
+        "bid_price": "0.1211",
+        "volume": 129790,
+        "link": "https://www.kucoin.com/trade/QRDO-USDT"
+    },
+    {
+        "symbol": "LUNAUSDT",
+        "ask_price": "1.4827",
+        "bid_price": "1.4834",
+        "volume": 836584,
+        "link": "https://www.kucoin.com/trade/LUNA-USDT"
+    },
+    {
+        "symbol": "COOHAUSDT",
+        "ask_price": "0.17644",
+        "bid_price": "0.17721",
+        "volume": 122096,
+        "link": "https://www.kucoin.com/trade/COOHA-USDT"
+    },
+    {
+        "symbol": "MLSUSDT",
+        "ask_price": "0.4591",
+        "bid_price": "0.4598",
+        "volume": 1496368,
+        "link": "https://www.kucoin.com/trade/MLS-USDT"
+    },
+    {
+        "symbol": "CVXUSDT",
+        "ask_price": "5.944",
+        "bid_price": "5.9548",
+        "volume": 33733,
+        "link": "https://www.kucoin.com/trade/CVX-USDT"
+    },
+    {
+        "symbol": "KYLUSDT",
+        "ask_price": "0.01611",
+        "bid_price": "0.01625",
+        "volume": 40658,
+        "link": "https://www.kucoin.com/trade/KYL-USDT"
+    },
+    {
+        "symbol": "EQZUSDT",
+        "ask_price": "0.03567",
+        "bid_price": "0.0358",
+        "volume": 46322,
+        "link": "https://www.kucoin.com/trade/EQZ-USDT"
+    },
+    {
+        "symbol": "IOTAUSDT",
+        "ask_price": "0.2063",
+        "bid_price": "0.2065",
+        "volume": 72258,
+        "link": "https://www.kucoin.com/trade/IOTA-USDT"
+    },
+    {
+        "symbol": "DFIUSDT",
+        "ask_price": "0.5098",
+        "bid_price": "0.5106",
+        "volume": 94231,
+        "link": "https://www.kucoin.com/trade/DFI-USDT"
+    },
+    {
+        "symbol": "HFTUSDT",
+        "ask_price": "0.6239",
+        "bid_price": "0.6246",
+        "volume": 2056025,
+        "link": "https://www.kucoin.com/trade/HFT-USDT"
+    },
+    {
+        "symbol": "CSPRUSDT",
+        "ask_price": "0.03892",
+        "bid_price": "0.03895",
+        "volume": 878340,
+        "link": "https://www.kucoin.com/trade/CSPR-USDT"
+    },
+    {
+        "symbol": "ELONUSDT",
+        "ask_price": "0.0000003409",
+        "bid_price": "0.0000003417",
+        "volume": 484569,
+        "link": "https://www.kucoin.com/trade/ELON-USDT"
+    },
+    {
+        "symbol": "IXSUSDT",
+        "ask_price": "0.02981",
+        "bid_price": "0.03019",
+        "volume": 72695,
+        "link": "https://www.kucoin.com/trade/IXS-USDT"
+    },
+    {
+        "symbol": "AXSUSDT",
+        "ask_price": "8.551",
+        "bid_price": "8.554",
+        "volume": 236396,
+        "link": "https://www.kucoin.com/trade/AXS-USDT"
+    },
+    {
+        "symbol": "VELOUSDT",
+        "ask_price": "0.007476",
+        "bid_price": "0.007486",
+        "volume": 2255712,
+        "link": "https://www.kucoin.com/trade/VELO-USDT"
+    },
+    {
+        "symbol": "CBCUSDT",
+        "ask_price": "0",
+        "bid_price": "0",
+        "volume": 50199,
+        "link": "https://www.kucoin.com/trade/CBC-USDT"
+    },
+    {
+        "symbol": "TITANUSDT",
+        "ask_price": "0.067",
+        "bid_price": "0.06741",
+        "volume": 291925,
+        "link": "https://www.kucoin.com/trade/TITAN-USDT"
+    },
+    {
+        "symbol": "SRBPUSDT",
+        "ask_price": "0.0198",
+        "bid_price": "0.0199",
+        "volume": 458244,
+        "link": "https://www.kucoin.com/trade/SRBP-USDT"
+    },
+    {
+        "symbol": "OPULUSDT",
+        "ask_price": "0.14843",
+        "bid_price": "0.14882",
+        "volume": 331622,
+        "link": "https://www.kucoin.com/trade/OPUL-USDT"
+    },
+    {
+        "symbol": "FRONTUSDT",
+        "ask_price": "0.218",
+        "bid_price": "0.2186",
+        "volume": 35066,
+        "link": "https://www.kucoin.com/trade/FRONT-USDT"
+    },
+    {
+        "symbol": "CASUSDT",
+        "ask_price": "0.010572",
+        "bid_price": "0.010641",
+        "volume": 85094,
+        "link": "https://www.kucoin.com/trade/CAS-USDT"
+    },
+    {
+        "symbol": "CELRUSDT",
+        "ask_price": "0.01688",
+        "bid_price": "0.0169",
+        "volume": 40170,
+        "link": "https://www.kucoin.com/trade/CELR-USDT"
+    },
+    {
+        "symbol": "KONOUSDT",
+        "ask_price": "0.02494",
+        "bid_price": "0.02514",
+        "volume": 74337,
+        "link": "https://www.kucoin.com/trade/KONO-USDT"
+    },
+    {
+        "symbol": "MTVUSDT",
+        "ask_price": "0.0011002",
+        "bid_price": "0.0011026",
+        "volume": 76601,
+        "link": "https://www.kucoin.com/trade/MTV-USDT"
+    },
+    {
+        "symbol": "CROUSDT",
+        "ask_price": "0.07062",
+        "bid_price": "0.07069",
+        "volume": 282478,
+        "link": "https://www.kucoin.com/trade/CRO-USDT"
+    },
+    {
+        "symbol": "HARDUSDT",
+        "ask_price": "0.17715",
+        "bid_price": "0.17782",
+        "volume": 114349,
+        "link": "https://www.kucoin.com/trade/HARD-USDT"
+    },
+    {
+        "symbol": "USDTTUSD",
+        "ask_price": "0.9967",
+        "bid_price": "0.9968",
+        "volume": 289843,
+        "link": "https://www.kucoin.com/trade/USDT-TUSD"
+    },
+    {
+        "symbol": "SOLUSDT",
+        "ask_price": "20.185",
+        "bid_price": "20.186",
+        "volume": 9958386,
+        "link": "https://www.kucoin.com/trade/SOL-USDT"
+    },
+    {
+        "symbol": "ECOXUSDT",
+        "ask_price": "0.8901",
+        "bid_price": "0.8904",
+        "volume": 85717,
+        "link": "https://www.kucoin.com/trade/ECOX-USDT"
+    },
+    {
+        "symbol": "YFIUSDT",
+        "ask_price": "9627.35",
+        "bid_price": "9634.69",
+        "volume": 775260,
+        "link": "https://www.kucoin.com/trade/YFI-USDT"
+    },
+    {
+        "symbol": "SWFTCUSDT",
+        "ask_price": "0.0012131",
+        "bid_price": "0.001221",
+        "volume": 53602,
+        "link": "https://www.kucoin.com/trade/SWFTC-USDT"
+    },
+    {
+        "symbol": "MARSHUSDT",
+        "ask_price": "0.19979",
+        "bid_price": "0.20125",
+        "volume": 88759,
+        "link": "https://www.kucoin.com/trade/MARSH-USDT"
+    },
+    {
+        "symbol": "SYSUSDT",
+        "ask_price": "0.1588",
+        "bid_price": "0.1591",
+        "volume": 58846,
+        "link": "https://www.kucoin.com/trade/SYS-USDT"
+    },
+    {
+        "symbol": "FETUSDT",
+        "ask_price": "0.3937",
+        "bid_price": "0.3943",
+        "volume": 434729,
+        "link": "https://www.kucoin.com/trade/FET-USDT"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "ask_price": "1.1318",
+        "bid_price": "1.1319",
+        "volume": 9722694,
+        "link": "https://www.kucoin.com/trade/MATIC-USDT"
+    },
+    {
+        "symbol": "MTRGUSDT",
+        "ask_price": "2.612",
+        "bid_price": "2.613",
+        "volume": 30809,
+        "link": "https://www.kucoin.com/trade/MTRG-USDT"
+    },
+    {
+        "symbol": "BDXUSDT",
+        "ask_price": "0.04081",
+        "bid_price": "0.04082",
+        "volume": 343057,
+        "link": "https://www.kucoin.com/trade/BDX-USDT"
+    },
+    {
+        "symbol": "PAXGUSDT",
+        "ask_price": "1820.79",
+        "bid_price": "1820.81",
+        "volume": 75332,
+        "link": "https://www.kucoin.com/trade/PAXG-USDT"
+    },
+    {
+        "symbol": "SINUSDT",
+        "ask_price": "0.006882",
+        "bid_price": "0.006895",
+        "volume": 87418,
+        "link": "https://www.kucoin.com/trade/SIN-USDT"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "ask_price": "0.3759",
+        "bid_price": "0.37591",
+        "volume": 17863960,
+        "link": "https://www.kucoin.com/trade/XRP-USDT"
+    },
+    {
+        "symbol": "GRAILUSDT",
+        "ask_price": "1821.41",
+        "bid_price": "1847.4",
+        "volume": 31526,
+        "link": "https://www.kucoin.com/trade/GRAIL-USDT"
+    },
+    {
+        "symbol": "HIMEEBITSUSDT",
+        "ask_price": "0.005092",
+        "bid_price": "0.005116",
+        "volume": 258272,
+        "link": "https://www.kucoin.com/trade/HIMEEBITS-USDT"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "ask_price": "287.181",
+        "bid_price": "287.182",
+        "volume": 4904603,
+        "link": "https://www.kucoin.com/trade/BNB-USDT"
+    },
+    {
+        "symbol": "PCXUSDT",
+        "ask_price": "0.5081",
+        "bid_price": "0.5109",
+        "volume": 51854,
+        "link": "https://www.kucoin.com/trade/PCX-USDT"
+    },
+    {
+        "symbol": "PRQUSDT",
+        "ask_price": "0.13538",
+        "bid_price": "0.13629",
+        "volume": 34278,
+        "link": "https://www.kucoin.com/trade/PRQ-USDT"
+    },
+    {
+        "symbol": "CAREUSDT",
+        "ask_price": "0.006543",
+        "bid_price": "0.0065882",
+        "volume": 267774,
+        "link": "https://www.kucoin.com/trade/CARE-USDT"
+    },
+    {
+        "symbol": "DYPUSDT",
+        "ask_price": "0.2679",
+        "bid_price": "0.2692",
+        "volume": 93734,
+        "link": "https://www.kucoin.com/trade/DYP-USDT"
+    },
+    {
+        "symbol": "BOAUSDT",
+        "ask_price": "0.03158",
+        "bid_price": "0.03203",
+        "volume": 54811,
+        "link": "https://www.kucoin.com/trade/BOA-USDT"
+    },
+    {
+        "symbol": "MAHAUSDT",
+        "ask_price": "0.7015",
+        "bid_price": "0.7085",
+        "volume": 200597,
+        "link": "https://www.kucoin.com/trade/MAHA-USDT"
+    },
+    {
+        "symbol": "CRVUSDT",
+        "ask_price": "0.9703",
+        "bid_price": "0.971",
+        "volume": 604086,
+        "link": "https://www.kucoin.com/trade/CRV-USDT"
+    },
+    {
+        "symbol": "LOCUSDT",
+        "ask_price": "0.65885",
+        "bid_price": "0.66579",
+        "volume": 42132,
+        "link": "https://www.kucoin.com/trade/LOC-USDT"
+    },
+    {
+        "symbol": "NOIAUSDT",
+        "ask_price": "0.046156",
+        "bid_price": "0.046553",
+        "volume": 85255,
+        "link": "https://www.kucoin.com/trade/NOIA-USDT"
+    },
+    {
+        "symbol": "EGLDUSDT",
+        "ask_price": "42.18",
+        "bid_price": "42.22",
+        "volume": 609325,
+        "link": "https://www.kucoin.com/trade/EGLD-USDT"
+    },
+    {
+        "symbol": "LSSUSDT",
+        "ask_price": "0.2116",
+        "bid_price": "0.21254",
+        "volume": 255014,
+        "link": "https://www.kucoin.com/trade/LSS-USDT"
+    },
+    {
+        "symbol": "DFAUSDT",
+        "ask_price": "0.0522",
+        "bid_price": "0.0523",
+        "volume": 82843,
+        "link": "https://www.kucoin.com/trade/DFA-USDT"
+    },
+    {
+        "symbol": "VLXUSDT",
+        "ask_price": "0.02304",
+        "bid_price": "0.02313",
+        "volume": 51679,
+        "link": "https://www.kucoin.com/trade/VLX-USDT"
+    },
+    {
+        "symbol": "PBRUSDT",
+        "ask_price": "0.09523",
+        "bid_price": "0.09579",
+        "volume": 73861,
+        "link": "https://www.kucoin.com/trade/PBR-USDT"
+    },
+    {
+        "symbol": "SWPUSDT",
+        "ask_price": "0.04427",
+        "bid_price": "0.04463",
+        "volume": 184083,
+        "link": "https://www.kucoin.com/trade/SWP-USDT"
+    },
+    {
+        "symbol": "GENSUSDT",
+        "ask_price": "0.001499",
+        "bid_price": "0.0014999",
+        "volume": 167265,
+        "link": "https://www.kucoin.com/trade/GENS-USDT"
+    },
+    {
+        "symbol": "GRTUSDT",
+        "ask_price": "0.1371",
+        "bid_price": "0.13716",
+        "volume": 1775018,
+        "link": "https://www.kucoin.com/trade/GRT-USDT"
+    },
+    {
+        "symbol": "PHAUSDT",
+        "ask_price": "0.1645",
+        "bid_price": "0.1648",
+        "volume": 131497,
+        "link": "https://www.kucoin.com/trade/PHA-USDT"
+    },
+    {
+        "symbol": "UNBUSDT",
+        "ask_price": "0.0017473",
+        "bid_price": "0.0017687",
+        "volume": 103396,
+        "link": "https://www.kucoin.com/trade/UNB-USDT"
+    },
+    {
+        "symbol": "SKLUSDT",
+        "ask_price": "0.04047",
+        "bid_price": "0.04054",
+        "volume": 68081,
+        "link": "https://www.kucoin.com/trade/SKL-USDT"
+    },
+    {
+        "symbol": "DFYNUSDT",
+        "ask_price": "0.0496",
+        "bid_price": "0.04994",
+        "volume": 168023,
+        "link": "https://www.kucoin.com/trade/DFYN-USDT"
+    },
+    {
+        "symbol": "RMRKUSDT",
+        "ask_price": "2.2893",
+        "bid_price": "2.2896",
+        "volume": 70191,
+        "link": "https://www.kucoin.com/trade/RMRK-USDT"
+    },
+    {
+        "symbol": "OGVUSDT",
+        "ask_price": "0.005788",
+        "bid_price": "0.005824",
+        "volume": 153891,
+        "link": "https://www.kucoin.com/trade/OGV-USDT"
+    },
+    {
+        "symbol": "FSNUSDT",
+        "ask_price": "0.3018",
+        "bid_price": "0.3041",
+        "volume": 107312,
+        "link": "https://www.kucoin.com/trade/FSN-USDT"
+    },
+    {
+        "symbol": "LOKAUSDT",
+        "ask_price": "0.5093",
+        "bid_price": "0.5106",
+        "volume": 184887,
+        "link": "https://www.kucoin.com/trade/LOKA-USDT"
+    },
+    {
+        "symbol": "TRADEUSDT",
+        "ask_price": "0.086232",
+        "bid_price": "0.086962",
+        "volume": 146358,
+        "link": "https://www.kucoin.com/trade/TRADE-USDT"
+    },
+    {
+        "symbol": "RACEFIUSDT",
+        "ask_price": "0.01686",
+        "bid_price": "0.01691",
+        "volume": 188872,
+        "link": "https://www.kucoin.com/trade/RACEFI-USDT"
+    },
+    {
+        "symbol": "RDNTUSDT",
+        "ask_price": "0.2896",
+        "bid_price": "0.291",
+        "volume": 467994,
+        "link": "https://www.kucoin.com/trade/RDNT-USDT"
+    },
+    {
+        "symbol": "KATUSDT",
+        "ask_price": "0.0050942",
+        "bid_price": "0.0051261",
+        "volume": 79323,
+        "link": "https://www.kucoin.com/trade/KAT-USDT"
+    },
+    {
+        "symbol": "AVAUSDT",
+        "ask_price": "0.639",
+        "bid_price": "0.639675",
+        "volume": 33001,
+        "link": "https://www.kucoin.com/trade/AVA-USDT"
+    },
+    {
+        "symbol": "COTIUSDT",
+        "ask_price": "0.078179",
+        "bid_price": "0.078266",
+        "volume": 177888,
+        "link": "https://www.kucoin.com/trade/COTI-USDT"
+    },
+    {
+        "symbol": "GGGUSDT",
+        "ask_price": "0.14781",
+        "bid_price": "0.14846",
+        "volume": 222927,
+        "link": "https://www.kucoin.com/trade/GGG-USDT"
+    },
+    {
+        "symbol": "WSIENNAUSDT",
+        "ask_price": "0.5272",
+        "bid_price": "0.5274",
+        "volume": 113351,
+        "link": "https://www.kucoin.com/trade/WSIENNA-USDT"
+    },
+    {
+        "symbol": "WOOUSDT",
+        "ask_price": "0.18199",
+        "bid_price": "0.18213",
+        "volume": 412581,
+        "link": "https://www.kucoin.com/trade/WOO-USDT"
+    },
+    {
+        "symbol": "RACAUSDT",
+        "ask_price": "0.0001991",
+        "bid_price": "0.0002001",
+        "volume": 30271,
+        "link": "https://www.kucoin.com/trade/RACA-USDT"
+    },
+    {
+        "symbol": "BUSDUSDT",
+        "ask_price": "0.99983",
+        "bid_price": "0.99984",
+        "volume": 1574973,
+        "link": "https://www.kucoin.com/trade/BUSD-USDT"
+    },
+    {
+        "symbol": "GNSUSDT",
+        "ask_price": "7.592",
+        "bid_price": "7.63",
+        "volume": 174550,
+        "link": "https://www.kucoin.com/trade/GNS-USDT"
+    },
+    {
+        "symbol": "XCADUSDT",
+        "ask_price": "1.5616",
+        "bid_price": "1.5642",
+        "volume": 1454833,
+        "link": "https://www.kucoin.com/trade/XCAD-USDT"
+    },
+    {
+        "symbol": "ACHUSDT",
+        "ask_price": "0.029851",
+        "bid_price": "0.029875",
+        "volume": 2392431,
+        "link": "https://www.kucoin.com/trade/ACH-USDT"
+    },
+    {
+        "symbol": "VETUSDT",
+        "ask_price": "0.0235509",
+        "bid_price": "0.0235605",
+        "volume": 971893,
+        "link": "https://www.kucoin.com/trade/VET-USDT"
+    },
+    {
+        "symbol": "ILVUSDT",
+        "ask_price": "75.844",
+        "bid_price": "75.941",
+        "volume": 691446,
+        "link": "https://www.kucoin.com/trade/ILV-USDT"
+    },
+    {
+        "symbol": "LBPUSDT",
+        "ask_price": "0.0005209",
+        "bid_price": "0.000524",
+        "volume": 70527,
+        "link": "https://www.kucoin.com/trade/LBP-USDT"
+    },
+    {
+        "symbol": "ODDZUSDT",
+        "ask_price": "0.02557",
+        "bid_price": "0.02559",
+        "volume": 396160,
+        "link": "https://www.kucoin.com/trade/ODDZ-USDT"
+    },
+    {
+        "symbol": "CHMBUSDT",
+        "ask_price": "0.00025481",
+        "bid_price": "0.00025883",
+        "volume": 160003,
+        "link": "https://www.kucoin.com/trade/CHMB-USDT"
+    },
+    {
+        "symbol": "HICLONEXUSDT",
+        "ask_price": "0.007434",
+        "bid_price": "0.007518",
+        "volume": 310375,
+        "link": "https://www.kucoin.com/trade/HICLONEX-USDT"
+    },
+    {
+        "symbol": "TFUELUSDT",
+        "ask_price": "0.05115",
+        "bid_price": "0.05131",
+        "volume": 76795,
+        "link": "https://www.kucoin.com/trade/TFUEL-USDT"
+    },
+    {
+        "symbol": "METISUSDT",
+        "ask_price": "29.28",
+        "bid_price": "29.32",
+        "volume": 621019,
+        "link": "https://www.kucoin.com/trade/METIS-USDT"
+    },
+    {
+        "symbol": "DUSKUSDT",
+        "ask_price": "0.17822",
+        "bid_price": "0.17848",
+        "volume": 209473,
+        "link": "https://www.kucoin.com/trade/DUSK-USDT"
+    },
+    {
+        "symbol": "TRUUSDT",
+        "ask_price": "0.12922",
+        "bid_price": "0.12941",
+        "volume": 1923912,
+        "link": "https://www.kucoin.com/trade/TRU-USDT"
+    },
+    {
+        "symbol": "BNCUSDT",
+        "ask_price": "0.2909",
+        "bid_price": "0.2919",
+        "volume": 660958,
+        "link": "https://www.kucoin.com/trade/BNC-USDT"
+    },
+    {
+        "symbol": "POLXUSDT",
+        "ask_price": "0.00005896",
+        "bid_price": "0.00005941",
+        "volume": 152653,
+        "link": "https://www.kucoin.com/trade/POLX-USDT"
+    },
+    {
+        "symbol": "LYXEUSDT",
+        "ask_price": "9.29931",
+        "bid_price": "9.30112",
+        "volume": 148628,
+        "link": "https://www.kucoin.com/trade/LYXE-USDT"
+    },
+    {
+        "symbol": "SHIBUSDT",
+        "ask_price": "0.000010715",
+        "bid_price": "0.000010717",
+        "volume": 7265213,
+        "link": "https://www.kucoin.com/trade/SHIB-USDT"
+    },
+    {
+        "symbol": "HIMFERSUSDT",
+        "ask_price": "0.001862",
+        "bid_price": "0.001876",
+        "volume": 310318,
+        "link": "https://www.kucoin.com/trade/HIMFERS-USDT"
+    },
+    {
+        "symbol": "ILAUSDT",
+        "ask_price": "0.002872",
+        "bid_price": "0.002895",
+        "volume": 57499,
+        "link": "https://www.kucoin.com/trade/ILA-USDT"
+    },
+    {
+        "symbol": "HIAZUKIUSDT",
+        "ask_price": "0.02208",
+        "bid_price": "0.02216",
+        "volume": 307977,
+        "link": "https://www.kucoin.com/trade/HIAZUKI-USDT"
+    },
+    {
+        "symbol": "ONSTONUSDT",
+        "ask_price": "0.0088",
+        "bid_price": "0.00884",
+        "volume": 348450,
+        "link": "https://www.kucoin.com/trade/ONSTON-USDT"
+    },
+    {
+        "symbol": "XDBUSDT",
+        "ask_price": "0.00218303",
+        "bid_price": "0.00218898",
+        "volume": 1137068,
+        "link": "https://www.kucoin.com/trade/XDB-USDT"
+    },
+    {
+        "symbol": "UNIUSDT",
+        "ask_price": "6.3796",
+        "bid_price": "6.3812",
+        "volume": 395429,
+        "link": "https://www.kucoin.com/trade/UNI-USDT"
+    },
+    {
+        "symbol": "FTUSDT",
+        "ask_price": "4.588",
+        "bid_price": "4.6259",
+        "volume": 1213813,
+        "link": "https://www.kucoin.com/trade/FT-USDT"
+    },
+    {
+        "symbol": "SWINGBYUSDT",
+        "ask_price": "0.003275",
+        "bid_price": "0.0033",
+        "volume": 34864,
+        "link": "https://www.kucoin.com/trade/SWINGBY-USDT"
+    },
+    {
+        "symbol": "WOOPUSDT",
+        "ask_price": "0.01442",
+        "bid_price": "0.01461",
+        "volume": 51367,
+        "link": "https://www.kucoin.com/trade/WOOP-USDT"
+    },
+    {
+        "symbol": "STRONGUSDT",
+        "ask_price": "11.314",
+        "bid_price": "11.387",
+        "volume": 2765903,
+        "link": "https://www.kucoin.com/trade/STRONG-USDT"
+    },
+    {
+        "symbol": "FALCONSUSDT",
+        "ask_price": "0.005029",
+        "bid_price": "0.005051",
+        "volume": 45602,
+        "link": "https://www.kucoin.com/trade/FALCONS-USDT"
+    },
+    {
+        "symbol": "THETAUSDT",
+        "ask_price": "0.9881",
+        "bid_price": "0.9882",
+        "volume": 729821,
+        "link": "https://www.kucoin.com/trade/THETA-USDT"
+    },
+    {
+        "symbol": "HBARUSDT",
+        "ask_price": "0.06273",
+        "bid_price": "0.06275",
+        "volume": 995549,
+        "link": "https://www.kucoin.com/trade/HBAR-USDT"
+    },
+    {
+        "symbol": "STARLYUSDT",
+        "ask_price": "0.03221",
+        "bid_price": "0.03245",
+        "volume": 185838,
+        "link": "https://www.kucoin.com/trade/STARLY-USDT"
+    },
+    {
+        "symbol": "KDONUSDT",
+        "ask_price": "0.0129",
+        "bid_price": "0.013",
+        "volume": 135020,
+        "link": "https://www.kucoin.com/trade/KDON-USDT"
+    },
+    {
+        "symbol": "GTCUSDT",
+        "ask_price": "1.735",
+        "bid_price": "1.7371",
+        "volume": 46705,
+        "link": "https://www.kucoin.com/trade/GTC-USDT"
+    },
+    {
+        "symbol": "XTMUSDT",
+        "ask_price": "0.0233",
+        "bid_price": "0.02348",
+        "volume": 86243,
+        "link": "https://www.kucoin.com/trade/XTM-USDT"
+    },
+    {
+        "symbol": "SUSHIUSDT",
+        "ask_price": "1.18",
+        "bid_price": "1.1812",
+        "volume": 383902,
+        "link": "https://www.kucoin.com/trade/SUSHI-USDT"
+    },
+    {
+        "symbol": "SQUADUSDT",
+        "ask_price": "0.03364",
+        "bid_price": "0.03382",
+        "volume": 755478,
+        "link": "https://www.kucoin.com/trade/SQUAD-USDT"
+    },
+    {
+        "symbol": "LTCUSDT",
+        "ask_price": "85.8",
+        "bid_price": "85.801",
+        "volume": 5571341,
+        "link": "https://www.kucoin.com/trade/LTC-USDT"
+    },
+    {
+        "symbol": "CULTUSDT",
+        "ask_price": "0.000009292",
+        "bid_price": "0.0000093",
+        "volume": 159005,
+        "link": "https://www.kucoin.com/trade/CULT-USDT"
+    },
+    {
+        "symbol": "SCRTUSDT",
+        "ask_price": "0.72",
+        "bid_price": "0.7236",
+        "volume": 60374,
+        "link": "https://www.kucoin.com/trade/SCRT-USDT"
+    },
+    {
+        "symbol": "TIMEUSDT",
+        "ask_price": "49.126",
+        "bid_price": "49.356",
+        "volume": 121775,
+        "link": "https://www.kucoin.com/trade/TIME-USDT"
+    },
+    {
+        "symbol": "TLMUSDT",
+        "ask_price": "0.01837",
+        "bid_price": "0.0184",
+        "volume": 101159,
+        "link": "https://www.kucoin.com/trade/TLM-USDT"
+    },
+    {
+        "symbol": "XCURUSDT",
+        "ask_price": "0.05875",
+        "bid_price": "0.05931",
+        "volume": 107670,
+        "link": "https://www.kucoin.com/trade/XCUR-USDT"
+    },
+    {
+        "symbol": "USDTDAI",
+        "ask_price": "0.9981",
+        "bid_price": "0.9988",
+        "volume": 324401,
+        "link": "https://www.kucoin.com/trade/USD-TDAI"
+    },
+    {
+        "symbol": "VEEDUSDT",
+        "ask_price": "0.00215",
+        "bid_price": "0.002156",
+        "volume": 160055,
+        "link": "https://www.kucoin.com/trade/VEED-USDT"
+    },
+    {
+        "symbol": "LINKUSDT",
+        "ask_price": "6.7369",
+        "bid_price": "6.737",
+        "volume": 1731038,
+        "link": "https://www.kucoin.com/trade/LINK-USDT"
+    },
+    {
+        "symbol": "ASTRAUSDT",
+        "ask_price": "0.303",
+        "bid_price": "0.3031",
+        "volume": 1317374,
+        "link": "https://www.kucoin.com/trade/ASTRA-USDT"
+    },
+    {
+        "symbol": "PLDUSDT",
+        "ask_price": "0.02307",
+        "bid_price": "0.0231",
+        "volume": 114014,
+        "link": "https://www.kucoin.com/trade/PLD-USDT"
+    },
+    {
+        "symbol": "WEMIXUSDT",
+        "ask_price": "1.8903",
+        "bid_price": "1.893",
+        "volume": 407702,
+        "link": "https://www.kucoin.com/trade/WEMIX-USDT"
+    },
+    {
+        "symbol": "NDAUUSDT",
+        "ask_price": "9.624",
+        "bid_price": "9.744",
+        "volume": 461599,
+        "link": "https://www.kucoin.com/trade/NDAU-USDT"
+    },
+    {
+        "symbol": "KDAUSDT",
+        "ask_price": "1.0343",
+        "bid_price": "1.035",
+        "volume": 1362300,
+        "link": "https://www.kucoin.com/trade/KDA-USDT"
+    },
+    {
+        "symbol": "ROSEUSDT",
+        "ask_price": "0.05551",
+        "bid_price": "0.05552",
+        "volume": 829134,
+        "link": "https://www.kucoin.com/trade/ROSE-USDT"
+    },
+    {
+        "symbol": "ARNMUSDT",
+        "ask_price": "0.02238",
+        "bid_price": "0.02246",
+        "volume": 170863,
+        "link": "https://www.kucoin.com/trade/ARNM-USDT"
+    },
+    {
+        "symbol": "PEELUSDT",
+        "ask_price": "0.04607",
+        "bid_price": "0.0462",
+        "volume": 198415,
+        "link": "https://www.kucoin.com/trade/PEEL-USDT"
+    },
+    {
+        "symbol": "TKYUSDT",
+        "ask_price": "0.000184",
+        "bid_price": "0.000185",
+        "volume": 177008,
+        "link": "https://www.kucoin.com/trade/TKY-USDT"
+    },
+    {
+        "symbol": "XTZUSDT",
+        "ask_price": "1.09536",
+        "bid_price": "1.09611",
+        "volume": 247799,
+        "link": "https://www.kucoin.com/trade/XTZ-USDT"
+    },
+    {
+        "symbol": "UFOUSDT",
+        "ask_price": "0.000001527",
+        "bid_price": "0.00000153",
+        "volume": 84347,
+        "link": "https://www.kucoin.com/trade/UFO-USDT"
+    },
+    {
+        "symbol": "ACEUSDT",
+        "ask_price": "0.008578",
+        "bid_price": "0.00866",
+        "volume": 262133,
+        "link": "https://www.kucoin.com/trade/ACE-USDT"
+    },
+    {
+        "symbol": "TRVLUSDT",
+        "ask_price": "0.09048",
+        "bid_price": "0.09064",
+        "volume": 108295,
+        "link": "https://www.kucoin.com/trade/TRVL-USDT"
+    },
+    {
+        "symbol": "BLUR2LUSDT",
+        "ask_price": "2.6307",
+        "bid_price": "2.6547",
+        "volume": 59624,
+        "link": "https://www.kucoin.com/trade/BLUR2L-USDT"
+    },
+    {
+        "symbol": "HBBUSDT",
+        "ask_price": "0.10414",
+        "bid_price": "0.10415",
+        "volume": 98415,
+        "link": "https://www.kucoin.com/trade/HBB-USDT"
+    },
+    {
+        "symbol": "DCUSDT",
+        "ask_price": "0.001359",
+        "bid_price": "0.001362",
+        "volume": 337722,
+        "link": "https://www.kucoin.com/trade/DC-USDT"
+    },
+    {
+        "symbol": "RVNUSDT",
+        "ask_price": "0.02529",
+        "bid_price": "0.0253",
+        "volume": 34466,
+        "link": "https://www.kucoin.com/trade/RVN-USDT"
+    },
+    {
+        "symbol": "OPUSDT",
+        "ask_price": "2.392",
+        "bid_price": "2.393",
+        "volume": 6790619,
+        "link": "https://www.kucoin.com/trade/OP-USDT"
+    },
+    {
+        "symbol": "VXVUSDT",
+        "ask_price": "0.6156",
+        "bid_price": "0.6187",
+        "volume": 77890,
+        "link": "https://www.kucoin.com/trade/VXV-USDT"
+    },
+    {
+        "symbol": "SOLRUSDT",
+        "ask_price": "0.03789",
+        "bid_price": "0.03821",
+        "volume": 58910,
+        "link": "https://www.kucoin.com/trade/SOLR-USDT"
+    },
+    {
+        "symbol": "IOIUSDT",
+        "ask_price": "0.088",
+        "bid_price": "0.08801",
+        "volume": 40324,
+        "link": "https://www.kucoin.com/trade/IOI-USDT"
+    },
+    {
+        "symbol": "ETHWUSDT",
+        "ask_price": "3.4199",
+        "bid_price": "3.4247",
+        "volume": 221103,
+        "link": "https://www.kucoin.com/trade/ETHW-USDT"
+    },
+    {
+        "symbol": "ICPUSDT",
+        "ask_price": "5.27",
+        "bid_price": "5.28",
+        "volume": 1060711,
+        "link": "https://www.kucoin.com/trade/ICP-USDT"
+    },
+    {
+        "symbol": "LACEUSDT",
+        "ask_price": "0.003331",
+        "bid_price": "0.003359",
+        "volume": 275100,
+        "link": "https://www.kucoin.com/trade/LACE-USDT"
+    },
+    {
+        "symbol": "TRACUSDT",
+        "ask_price": "0.3451",
+        "bid_price": "0.3458",
+        "volume": 140109,
+        "link": "https://www.kucoin.com/trade/TRAC-USDT"
+    },
+    {
+        "symbol": "BNSUSDT",
+        "ask_price": "0.0004113",
+        "bid_price": "0.0004116",
+        "volume": 68520,
+        "link": "https://www.kucoin.com/trade/BNS-USDT"
+    },
+    {
+        "symbol": "NORDUSDT",
+        "ask_price": "0.2614",
+        "bid_price": "0.2631",
+        "volume": 82121,
+        "link": "https://www.kucoin.com/trade/NORD-USDT"
+    },
+    {
+        "symbol": "BAXUSDT",
+        "ask_price": "0.00036907",
+        "bid_price": "0.00037022",
+        "volume": 627365,
+        "link": "https://www.kucoin.com/trade/BAX-USDT"
+    },
+    {
+        "symbol": "QIUSDT",
+        "ask_price": "0.009051",
+        "bid_price": "0.009067",
+        "volume": 38514,
+        "link": "https://www.kucoin.com/trade/QI-USDT"
+    },
+    {
+        "symbol": "XYOUSDT",
+        "ask_price": "0.005951",
+        "bid_price": "0.005956",
+        "volume": 423746,
+        "link": "https://www.kucoin.com/trade/XYO-USDT"
+    },
+    {
+        "symbol": "DGBUSDT",
+        "ask_price": "0.010127",
+        "bid_price": "0.010156",
+        "volume": 49455,
+        "link": "https://www.kucoin.com/trade/DGB-USDT"
+    },
+    {
+        "symbol": "LRCUSDT",
+        "ask_price": "0.3188",
+        "bid_price": "0.319",
+        "volume": 337800,
+        "link": "https://www.kucoin.com/trade/LRC-USDT"
+    },
+    {
+        "symbol": "EDGUSDT",
+        "ask_price": "0.000748",
+        "bid_price": "0.0007482",
+        "volume": 105747,
+        "link": "https://www.kucoin.com/trade/EDG-USDT"
+    },
+    {
+        "symbol": "REEFUSDT",
+        "ask_price": "0.002808",
+        "bid_price": "0.002813",
+        "volume": 32437,
+        "link": "https://www.kucoin.com/trade/REEF-USDT"
+    },
+    {
+        "symbol": "ANKRUSDT",
+        "ask_price": "0.03214",
+        "bid_price": "0.03216",
+        "volume": 375996,
+        "link": "https://www.kucoin.com/trade/ANKR-USDT"
+    },
+    {
+        "symbol": "PELUSDT",
+        "ask_price": "0.009724",
+        "bid_price": "0.009797",
+        "volume": 70722,
+        "link": "https://www.kucoin.com/trade/PEL-USDT"
+    },
+    {
+        "symbol": "USDTBRL",
+        "ask_price": "5.224",
+        "bid_price": "5.2272",
+        "volume": 918998,
+        "link": "https://www.kucoin.com/trade/USD-TBRL"
+    },
+    {
+        "symbol": "DAPPXUSDT",
+        "ask_price": "0.002314",
+        "bid_price": "0.002332",
+        "volume": 109921,
+        "link": "https://www.kucoin.com/trade/DAPPX-USDT"
+    },
+    {
+        "symbol": "FLYUSDT",
+        "ask_price": "0.001595",
+        "bid_price": "0.001611",
+        "volume": 75936,
+        "link": "https://www.kucoin.com/trade/FLY-USDT"
+    },
+    {
+        "symbol": "ROUTEUSDT",
+        "ask_price": "2.5178",
+        "bid_price": "2.5217",
+        "volume": 456223,
+        "link": "https://www.kucoin.com/trade/ROUTE-USDT"
+    },
+    {
+        "symbol": "ORNUSDT",
+        "ask_price": "0.9726",
+        "bid_price": "0.974",
+        "volume": 49128,
+        "link": "https://www.kucoin.com/trade/ORN-USDT"
+    },
+    {
+        "symbol": "HIPUNKSUSDT",
+        "ask_price": "0.13288",
+        "bid_price": "0.13423",
+        "volume": 332176,
+        "link": "https://www.kucoin.com/trade/HIPUNKS-USDT"
+    },
+    {
+        "symbol": "SLIMUSDT",
+        "ask_price": "0.05115",
+        "bid_price": "0.05137",
+        "volume": 183793,
+        "link": "https://www.kucoin.com/trade/SLIM-USDT"
+    },
+    {
+        "symbol": "POLKUSDT",
+        "ask_price": "0.05223",
+        "bid_price": "0.05234",
+        "volume": 106587,
+        "link": "https://www.kucoin.com/trade/POLK-USDT"
+    },
+    {
+        "symbol": "HIUNDEADUSDT",
+        "ask_price": "0.0025786",
+        "bid_price": "0.002589",
+        "volume": 383344,
+        "link": "https://www.kucoin.com/trade/HIUNDEAD-USDT"
+    },
+    {
+        "symbol": "CTSIUSDT",
+        "ask_price": "0.1395",
+        "bid_price": "0.1398",
+        "volume": 38795,
+        "link": "https://www.kucoin.com/trade/CTSI-USDT"
+    },
+    {
+        "symbol": "MSWAPUSDT",
+        "ask_price": "0.0003311",
+        "bid_price": "0.0003329",
+        "volume": 238912,
+        "link": "https://www.kucoin.com/trade/MSWAP-USDT"
+    },
+    {
+        "symbol": "EGAMEUSDT",
+        "ask_price": "0.00008994",
+        "bid_price": "0.00009066",
+        "volume": 116568,
+        "link": "https://www.kucoin.com/trade/EGAME-USDT"
+    },
+    {
+        "symbol": "BLZUSDT",
+        "ask_price": "0.08567",
+        "bid_price": "0.08583",
+        "volume": 111806,
+        "link": "https://www.kucoin.com/trade/BLZ-USDT"
+    },
+    {
+        "symbol": "FILUSDT",
+        "ask_price": "5.8779",
+        "bid_price": "5.8784",
+        "volume": 2112083,
+        "link": "https://www.kucoin.com/trade/FIL-USDT"
+    },
+    {
+        "symbol": "C98USDT",
+        "ask_price": "0.2371",
+        "bid_price": "0.2376",
+        "volume": 63200,
+        "link": "https://www.kucoin.com/trade/C98-USDT"
+    },
+    {
+        "symbol": "NGCUSDT",
+        "ask_price": "0.039839",
+        "bid_price": "0.040038",
+        "volume": 145942,
+        "link": "https://www.kucoin.com/trade/NGC-USDT"
+    },
+    {
+        "symbol": "RSRUSDT",
+        "ask_price": "0.004183",
+        "bid_price": "0.004187",
+        "volume": 223098,
+        "link": "https://www.kucoin.com/trade/RSR-USDT"
+    },
+    {
+        "symbol": "GOVIUSDT",
+        "ask_price": "0.4068",
+        "bid_price": "0.4081",
+        "volume": 66346,
+        "link": "https://www.kucoin.com/trade/GOVI-USDT"
+    },
+    {
+        "symbol": "PRIMALUSDT",
+        "ask_price": "0.0081012",
+        "bid_price": "0.0081124",
+        "volume": 928208,
+        "link": "https://www.kucoin.com/trade/PRIMAL-USDT"
+    },
+    {
+        "symbol": "WILDUSDT",
+        "ask_price": "0.3294",
+        "bid_price": "0.3303",
+        "volume": 92769,
+        "link": "https://www.kucoin.com/trade/WILD-USDT"
+    },
+    {
+        "symbol": "NAKAUSDT",
+        "ask_price": "0.23834",
+        "bid_price": "0.2393",
+        "volume": 350303,
+        "link": "https://www.kucoin.com/trade/NAKA-USDT"
+    },
+    {
+        "symbol": "NFTUSDT",
+        "ask_price": "0.0000004484",
+        "bid_price": "0.0000004499",
+        "volume": 188564,
+        "link": "https://www.kucoin.com/trade/NFT-USDT"
+    },
+    {
+        "symbol": "ONTUSDT",
+        "ask_price": "0.21482",
+        "bid_price": "0.21509",
+        "volume": 136751,
+        "link": "https://www.kucoin.com/trade/ONT-USDT"
+    },
+    {
+        "symbol": "DERCUSDT",
+        "ask_price": "0.2511",
+        "bid_price": "0.252",
+        "volume": 32241,
+        "link": "https://www.kucoin.com/trade/DERC-USDT"
+    },
+    {
+        "symbol": "MOVRUSDT",
+        "ask_price": "8.822",
+        "bid_price": "8.8254",
+        "volume": 144390,
+        "link": "https://www.kucoin.com/trade/MOVR-USDT"
+    },
+    {
+        "symbol": "RUSDT",
+        "ask_price": "0.0005655",
+        "bid_price": "0.0005687",
+        "volume": 44617,
+        "link": "https://www.kucoin.com/trade/R-USDT"
+    },
+    {
+        "symbol": "DVPNUSDT",
+        "ask_price": "0.0005063",
+        "bid_price": "0.0005066",
+        "volume": 85647,
+        "link": "https://www.kucoin.com/trade/DVPN-USDT"
+    },
+    {
+        "symbol": "ARUSDT",
+        "ask_price": "8.447",
+        "bid_price": "8.453",
+        "volume": 629045,
+        "link": "https://www.kucoin.com/trade/AR-USDT"
+    },
+    {
+        "symbol": "USTCUSDT",
+        "ask_price": "0.02366",
+        "bid_price": "0.02368",
+        "volume": 431763,
+        "link": "https://www.kucoin.com/trade/USTC-USDT"
+    },
+    {
+        "symbol": "WELLUSDT",
+        "ask_price": "0.01325",
+        "bid_price": "0.013365",
+        "volume": 375639,
+        "link": "https://www.kucoin.com/trade/WELL-USDT"
+    },
+    {
+        "symbol": "SIDUSUSDT",
+        "ask_price": "0.002283",
+        "bid_price": "0.002291",
+        "volume": 472142,
+        "link": "https://www.kucoin.com/trade/SIDUS-USDT"
+    },
+    {
+        "symbol": "CTCUSDT",
+        "ask_price": "0.4442",
+        "bid_price": "0.4466",
+        "volume": 48092,
+        "link": "https://www.kucoin.com/trade/CTC-USDT"
+    },
+    {
+        "symbol": "BEPROUSDT",
+        "ask_price": "0.00150172",
+        "bid_price": "0.00150739",
+        "volume": 142161,
+        "link": "https://www.kucoin.com/trade/BEPRO-USDT"
+    },
+    {
+        "symbol": "HISEALSUSDT",
+        "ask_price": "0.01251",
+        "bid_price": "0.0126",
+        "volume": 263162,
+        "link": "https://www.kucoin.com/trade/HISEALS-USDT"
+    },
+    {
+        "symbol": "DREAMSUSDT",
+        "ask_price": "0.004482",
+        "bid_price": "0.004489",
+        "volume": 633896,
+        "link": "https://www.kucoin.com/trade/DREAMS-USDT"
+    },
+    {
+        "symbol": "BANDUSDT",
+        "ask_price": "1.667",
+        "bid_price": "1.6695",
+        "volume": 119126,
+        "link": "https://www.kucoin.com/trade/BAND-USDT"
+    },
+    {
+        "symbol": "VOXELUSDT",
+        "ask_price": "0.273",
+        "bid_price": "0.2751",
+        "volume": 110239,
+        "link": "https://www.kucoin.com/trade/VOXEL-USDT"
+    },
+    {
+        "symbol": "ATAUSDT",
+        "ask_price": "0.16028",
+        "bid_price": "0.1604",
+        "volume": 55646,
+        "link": "https://www.kucoin.com/trade/ATA-USDT"
+    },
+    {
+        "symbol": "XLMUSDT",
+        "ask_price": "0.082115",
+        "bid_price": "0.082127",
+        "volume": 1557533,
+        "link": "https://www.kucoin.com/trade/XLM-USDT"
+    },
+    {
+        "symbol": "NRFBUSDT",
+        "ask_price": "0.004555",
+        "bid_price": "0.004576",
+        "volume": 401174,
+        "link": "https://www.kucoin.com/trade/NRFB-USDT"
+    },
+    {
+        "symbol": "YGGUSDT",
+        "ask_price": "0.266",
+        "bid_price": "0.2665",
+        "volume": 60737,
+        "link": "https://www.kucoin.com/trade/YGG-USDT"
+    },
+    {
+        "symbol": "BONDLYUSDT",
+        "ask_price": "0.006168",
+        "bid_price": "0.006173",
+        "volume": 36995,
+        "link": "https://www.kucoin.com/trade/BONDLY-USDT"
+    },
+    {
+        "symbol": "POLUSDT",
+        "ask_price": "0.01577",
+        "bid_price": "0.01586",
+        "volume": 166495,
+        "link": "https://www.kucoin.com/trade/POL-USDT"
+    },
+    {
+        "symbol": "FLRUSDT",
+        "ask_price": "0.03522",
+        "bid_price": "0.03524",
+        "volume": 270622,
+        "link": "https://www.kucoin.com/trade/FLR-USDT"
+    },
+    {
+        "symbol": "KOKUSDT",
+        "ask_price": "0.07",
+        "bid_price": "0.0701",
+        "volume": 103744,
+        "link": "https://www.kucoin.com/trade/KOK-USDT"
+    },
+    {
+        "symbol": "LAVAXUSDT",
+        "ask_price": "0.03219",
+        "bid_price": "0.03223",
+        "volume": 401061,
+        "link": "https://www.kucoin.com/trade/LAVAX-USDT"
+    },
+    {
+        "symbol": "EQXUSDT",
+        "ask_price": "0.009217",
+        "bid_price": "0.009311",
+        "volume": 100754,
+        "link": "https://www.kucoin.com/trade/EQX-USDT"
+    },
+    {
+        "symbol": "USDJUSDT",
+        "ask_price": "1.10608696",
+        "bid_price": "1.10652174",
+        "volume": 104317,
+        "link": "https://www.kucoin.com/trade/USDJ-USDT"
+    },
+    {
+        "symbol": "BATUSDT",
+        "ask_price": "0.246",
+        "bid_price": "0.2464",
+        "volume": 153192,
+        "link": "https://www.kucoin.com/trade/BAT-USDT"
+    },
+    {
+        "symbol": "STNDUSDT",
+        "ask_price": "0.02995",
+        "bid_price": "0.03007",
+        "volume": 163151,
+        "link": "https://www.kucoin.com/trade/STND-USDT"
+    },
+    {
+        "symbol": "SOSUSDT",
+        "ask_price": "0.0000001445",
+        "bid_price": "0.0000001453",
+        "volume": 77301,
+        "link": "https://www.kucoin.com/trade/SOS-USDT"
+    },
+    {
+        "symbol": "UNOUSDT",
+        "ask_price": "0.07149",
+        "bid_price": "0.07162",
+        "volume": 547866,
+        "link": "https://www.kucoin.com/trade/UNO-USDT"
+    },
+    {
+        "symbol": "ENQUSDT",
+        "ask_price": "0.01053",
+        "bid_price": "0.01063",
+        "volume": 47663,
+        "link": "https://www.kucoin.com/trade/ENQ-USDT"
+    },
+    {
+        "symbol": "SLPUSDT",
+        "ask_price": "0.002787",
+        "bid_price": "0.00279",
+        "volume": 409643,
+        "link": "https://www.kucoin.com/trade/SLP-USDT"
+    },
+    {
+        "symbol": "MARS4USDT",
+        "ask_price": "0.00089",
+        "bid_price": "0.0009003",
+        "volume": 58210,
+        "link": "https://www.kucoin.com/trade/MARS4-USDT"
+    },
+    {
+        "symbol": "XEMUSDT",
+        "ask_price": "0.039111",
+        "bid_price": "0.039168",
+        "volume": 269478,
+        "link": "https://www.kucoin.com/trade/XEM-USDT"
+    },
+    {
+        "symbol": "IOTXUSDT",
+        "ask_price": "0.024",
+        "bid_price": "0.02403",
+        "volume": 103794,
+        "link": "https://www.kucoin.com/trade/IOTX-USDT"
+    },
+    {
+        "symbol": "SSVUSDT",
+        "ask_price": "38.88",
+        "bid_price": "38.94",
+        "volume": 354012,
+        "link": "https://www.kucoin.com/trade/SSV-USDT"
+    },
+    {
+        "symbol": "PSTAKEUSDT",
+        "ask_price": "0.08942",
+        "bid_price": "0.08977",
+        "volume": 153794,
+        "link": "https://www.kucoin.com/trade/PSTAKE-USDT"
+    },
+    {
+        "symbol": "GMMUSDT",
+        "ask_price": "0.0021852",
+        "bid_price": "0.0021954",
+        "volume": 1659557,
+        "link": "https://www.kucoin.com/trade/GMM-USDT"
+    },
+    {
+        "symbol": "HIGHUSDT",
+        "ask_price": "2.23",
+        "bid_price": "2.24",
+        "volume": 109346,
+        "link": "https://www.kucoin.com/trade/HIGH-USDT"
+    },
+    {
+        "symbol": "ACSUSDT",
+        "ask_price": "0.0111971",
+        "bid_price": "0.0112796",
+        "volume": 15185534,
+        "link": "https://www.kucoin.com/trade/ACS-USDT"
+    },
+    {
+        "symbol": "KCSUSDT",
+        "ask_price": "8.598",
+        "bid_price": "8.599",
+        "volume": 692780,
+        "link": "https://www.kucoin.com/trade/KCS-USDT"
+    },
+    {
+        "symbol": "LITUSDT",
+        "ask_price": "1.0527",
+        "bid_price": "1.0543",
+        "volume": 83565,
+        "link": "https://www.kucoin.com/trade/LIT-USDT"
+    },
+    {
+        "symbol": "BSWUSDT",
+        "ask_price": "0.1961",
+        "bid_price": "0.1965",
+        "volume": 148095,
+        "link": "https://www.kucoin.com/trade/BSW-USDT"
+    },
+    {
+        "symbol": "GMTUSDT",
+        "ask_price": "0.3506",
+        "bid_price": "0.3507",
+        "volume": 991273,
+        "link": "https://www.kucoin.com/trade/GMT-USDT"
+    },
+    {
+        "symbol": "OSMOUSDT",
+        "ask_price": "0.839",
+        "bid_price": "0.84",
+        "volume": 35227,
+        "link": "https://www.kucoin.com/trade/OSMO-USDT"
+    },
+    {
+        "symbol": "TOWERUSDT",
+        "ask_price": "0.003831",
+        "bid_price": "0.003852",
+        "volume": 66658,
+        "link": "https://www.kucoin.com/trade/TOWER-USDT"
+    },
+    {
+        "symbol": "SIMPUSDT",
+        "ask_price": "0.04735",
+        "bid_price": "0.04751",
+        "volume": 187965,
+        "link": "https://www.kucoin.com/trade/SIMP-USDT"
+    },
+    {
+        "symbol": "EWTUSDT",
+        "ask_price": "3.841",
+        "bid_price": "3.843",
+        "volume": 514086,
+        "link": "https://www.kucoin.com/trade/EWT-USDT"
+    },
+    {
+        "symbol": "ADSUSDT",
+        "ask_price": "0.1574",
+        "bid_price": "0.158",
+        "volume": 167704,
+        "link": "https://www.kucoin.com/trade/ADS-USDT"
+    },
+    {
+        "symbol": "SUTERUSDT",
+        "ask_price": "0.0007109",
+        "bid_price": "0.0007152",
+        "volume": 41715,
+        "link": "https://www.kucoin.com/trade/SUTER-USDT"
+    },
+    {
+        "symbol": "OMGUSDT",
+        "ask_price": "1.447",
+        "bid_price": "1.451",
+        "volume": 33030,
+        "link": "https://www.kucoin.com/trade/OMG-USDT"
+    },
+    {
+        "symbol": "COCOSUSDT",
+        "ask_price": "1.4908",
+        "bid_price": "1.4926",
+        "volume": 542845,
+        "link": "https://www.kucoin.com/trade/COCOS-USDT"
+    },
+    {
+        "symbol": "FRAUSDT",
+        "ask_price": "0.002571",
+        "bid_price": "0.002575",
+        "volume": 126174,
+        "link": "https://www.kucoin.com/trade/FRA-USDT"
+    },
+    {
+        "symbol": "HIFLUFUSDT",
+        "ask_price": "0.003377",
+        "bid_price": "0.003429",
+        "volume": 308341,
+        "link": "https://www.kucoin.com/trade/HIFLUF-USDT"
+    },
+    {
+        "symbol": "ZILUSDT",
+        "ask_price": "0.02636",
+        "bid_price": "0.02637",
+        "volume": 779569,
+        "link": "https://www.kucoin.com/trade/ZIL-USDT"
+    },
+    {
+        "symbol": "MATTERUSDT",
+        "ask_price": "0.1266",
+        "bid_price": "0.12823",
+        "volume": 142117,
+        "link": "https://www.kucoin.com/trade/MATTER-USDT"
+    },
+    {
+        "symbol": "TTUSDT",
+        "ask_price": "0.004502",
+        "bid_price": "0.004529",
+        "volume": 106999,
+        "link": "https://www.kucoin.com/trade/TT-USDT"
+    },
+    {
+        "symbol": "XDCUSDT",
+        "ask_price": "0.0299",
+        "bid_price": "0.02992",
+        "volume": 465366,
+        "link": "https://www.kucoin.com/trade/XDC-USDT"
+    },
+    {
+        "symbol": "COMPUSDT",
+        "ask_price": "45.04",
+        "bid_price": "45.09",
+        "volume": 138752,
+        "link": "https://www.kucoin.com/trade/COMP-USDT"
+    },
+    {
+        "symbol": "BBCUSDT",
+        "ask_price": "0.016423",
+        "bid_price": "0.016459",
+        "volume": 109919,
+        "link": "https://www.kucoin.com/trade/BBC-USDT"
+    },
+    {
+        "symbol": "HOTCROSSUSDT",
+        "ask_price": "0.007802",
+        "bid_price": "0.007864",
+        "volume": 359067,
+        "link": "https://www.kucoin.com/trade/HOTCROSS-USDT"
+    },
+    {
+        "symbol": "PYRUSDT",
+        "ask_price": "3.3951",
+        "bid_price": "3.397",
+        "volume": 578866,
+        "link": "https://www.kucoin.com/trade/PYR-USDT"
+    },
+    {
+        "symbol": "ALGOUSDT",
+        "ask_price": "0.2141",
+        "bid_price": "0.2142",
+        "volume": 3496148,
+        "link": "https://www.kucoin.com/trade/ALGO-USDT"
+    },
+    {
+        "symbol": "WAVESUSDT",
+        "ask_price": "2.264",
+        "bid_price": "2.2652",
+        "volume": 499510,
+        "link": "https://www.kucoin.com/trade/WAVES-USDT"
+    },
+    {
+        "symbol": "MELOSUSDT",
+        "ask_price": "0.0081704",
+        "bid_price": "0.008254",
+        "volume": 143244,
+        "link": "https://www.kucoin.com/trade/MELOS-USDT"
+    },
+    {
+        "symbol": "RANKERUSDT",
+        "ask_price": "0.00495",
+        "bid_price": "0.004994",
+        "volume": 252165,
+        "link": "https://www.kucoin.com/trade/RANKER-USDT"
+    },
+    {
+        "symbol": "DASHUSDT",
+        "ask_price": "61.18",
+        "bid_price": "61.23",
+        "volume": 630570,
+        "link": "https://www.kucoin.com/trade/DASH-USDT"
+    },
+    {
+        "symbol": "EPIKUSDT",
+        "ask_price": "0.008364",
+        "bid_price": "0.008387",
+        "volume": 56483,
+        "link": "https://www.kucoin.com/trade/EPIK-USDT"
+    },
+    {
+        "symbol": "CRPTUSDT",
+        "ask_price": "0.10666",
+        "bid_price": "0.10701",
+        "volume": 487180,
+        "link": "https://www.kucoin.com/trade/CRPT-USDT"
+    },
+    {
+        "symbol": "HEGICUSDT",
+        "ask_price": "0.019472",
+        "bid_price": "0.019657",
+        "volume": 39968,
+        "link": "https://www.kucoin.com/trade/HEGIC-USDT"
+    },
+    {
+        "symbol": "LIKEUSDT",
+        "ask_price": "0.007563",
+        "bid_price": "0.007581",
+        "volume": 155123,
+        "link": "https://www.kucoin.com/trade/LIKE-USDT"
+    },
+    {
+        "symbol": "VISIONUSDT",
+        "ask_price": "0.006341",
+        "bid_price": "0.006372",
+        "volume": 218477,
+        "link": "https://www.kucoin.com/trade/VISION-USDT"
+    },
+    {
+        "symbol": "HEROUSDT",
+        "ask_price": "0.004527",
+        "bid_price": "0.004543",
+        "volume": 40833,
+        "link": "https://www.kucoin.com/trade/HERO-USDT"
+    },
+    {
+        "symbol": "HIBAYCUSDT",
+        "ask_price": "0.2484",
+        "bid_price": "0.25193",
+        "volume": 315357,
+        "link": "https://www.kucoin.com/trade/HIBAYC-USDT"
+    },
+    {
+        "symbol": "ENJUSDT",
+        "ask_price": "0.4341",
+        "bid_price": "0.4343",
+        "volume": 385397,
+        "link": "https://www.kucoin.com/trade/ENJ-USDT"
+    },
+    {
+        "symbol": "DODOUSDT",
+        "ask_price": "0.1886",
+        "bid_price": "0.1889",
+        "volume": 378103,
+        "link": "https://www.kucoin.com/trade/DODO-USDT"
+    },
+    {
+        "symbol": "BLUR2SUSDT",
+        "ask_price": "16.9901",
+        "bid_price": "17.1922",
+        "volume": 30526,
+        "link": "https://www.kucoin.com/trade/BLUR2S-USDT"
+    },
+    {
+        "symbol": "TRIASUSDT",
+        "ask_price": "2.36951",
+        "bid_price": "2.37471",
+        "volume": 757782,
+        "link": "https://www.kucoin.com/trade/TRIAS-USDT"
+    },
+    {
+        "symbol": "DIVIUSDT",
+        "ask_price": "0.00575",
+        "bid_price": "0.00576",
+        "volume": 102085,
+        "link": "https://www.kucoin.com/trade/DIVI-USDT"
+    },
+    {
+        "symbol": "TRIBLUSDT",
+        "ask_price": "1.0945",
+        "bid_price": "1.0956",
+        "volume": 445641,
+        "link": "https://www.kucoin.com/trade/TRIBL-USDT"
+    },
+    {
+        "symbol": "HIBIRDSUSDT",
+        "ask_price": "0.01401",
+        "bid_price": "0.01403",
+        "volume": 319126,
+        "link": "https://www.kucoin.com/trade/HIBIRDS-USDT"
+    },
+    {
+        "symbol": "WALUSDT",
+        "ask_price": "0.03754",
+        "bid_price": "0.03781",
+        "volume": 303846,
+        "link": "https://www.kucoin.com/trade/WAL-USDT"
+    },
+    {
+        "symbol": "HYVEUSDT",
+        "ask_price": "0.03979",
+        "bid_price": "0.04",
+        "volume": 72123,
+        "link": "https://www.kucoin.com/trade/HYVE-USDT"
+    },
+    {
+        "symbol": "QUICKUSDT",
+        "ask_price": "98.69",
+        "bid_price": "99.08",
+        "volume": 72966,
+        "link": "https://www.kucoin.com/trade/QUICK-USDT"
+    },
+    {
+        "symbol": "GOM2USDT",
+        "ask_price": "0.004136",
+        "bid_price": "0.00414",
+        "volume": 225860,
+        "link": "https://www.kucoin.com/trade/GOM2-USDT"
+    },
+    {
+        "symbol": "JSTUSDT",
+        "ask_price": "0.02652361",
+        "bid_price": "0.02656649",
+        "volume": 196092,
+        "link": "https://www.kucoin.com/trade/JST-USDT"
+    },
+    {
+        "symbol": "RLYUSDT",
+        "ask_price": "0.0195",
+        "bid_price": "0.019754",
+        "volume": 304125,
+        "link": "https://www.kucoin.com/trade/RLY-USDT"
+    },
+    {
+        "symbol": "ORCUSDT",
+        "ask_price": "0.10241",
+        "bid_price": "0.10323",
+        "volume": 30140,
+        "link": "https://www.kucoin.com/trade/ORC-USDT"
+    },
+    {
+        "symbol": "TAUMUSDT",
+        "ask_price": "0.0006521",
+        "bid_price": "0.000658",
+        "volume": 50032,
+        "link": "https://www.kucoin.com/trade/TAUM-USDT"
+    },
+    {
+        "symbol": "OGNUSDT",
+        "ask_price": "0.11885",
+        "bid_price": "0.1191",
+        "volume": 33784,
+        "link": "https://www.kucoin.com/trade/OGN-USDT"
+    },
+    {
+        "symbol": "QNTUSDT",
+        "ask_price": "122.2",
+        "bid_price": "122.257",
+        "volume": 996796,
+        "link": "https://www.kucoin.com/trade/QNT-USDT"
+    },
+    {
+        "symbol": "NEARUSDT",
+        "ask_price": "1.9731",
+        "bid_price": "1.9736",
+        "volume": 1398371,
+        "link": "https://www.kucoin.com/trade/NEAR-USDT"
+    },
+    {
+        "symbol": "HIPENGUINSUSDT",
+        "ask_price": "0.008551",
+        "bid_price": "0.008602",
+        "volume": 320169,
+        "link": "https://www.kucoin.com/trade/HIPENGUINS-USDT"
+    },
+    {
+        "symbol": "BFCUSDT",
+        "ask_price": "0.06795",
+        "bid_price": "0.06912",
+        "volume": 107415,
+        "link": "https://www.kucoin.com/trade/BFC-USDT"
+    },
+    {
+        "symbol": "KLVUSDT",
+        "ask_price": "0.004432",
+        "bid_price": "0.004437",
+        "volume": 191284,
+        "link": "https://www.kucoin.com/trade/KLV-USDT"
+    },
+    {
+        "symbol": "TWTUSDT",
+        "ask_price": "1.2401",
+        "bid_price": "1.2418",
+        "volume": 575647,
+        "link": "https://www.kucoin.com/trade/TWT-USDT"
+    },
+    {
+        "symbol": "MKRUSDT",
+        "ask_price": "908.13",
+        "bid_price": "908.99",
+        "volume": 1168721,
+        "link": "https://www.kucoin.com/trade/MKR-USDT"
+    },
+    {
+        "symbol": "STOREUSDT",
+        "ask_price": "0.03761",
+        "bid_price": "0.03791",
+        "volume": 40155,
+        "link": "https://www.kucoin.com/trade/STORE-USDT"
+    },
+    {
+        "symbol": "FLOKIUSDT",
+        "ask_price": "0.0000436",
+        "bid_price": "0.00004362",
+        "volume": 3456372,
+        "link": "https://www.kucoin.com/trade/FLOKI-USDT"
+    },
+    {
+        "symbol": "FLUXUSDT",
+        "ask_price": "0.6667",
+        "bid_price": "0.6674",
+        "volume": 790629,
+        "link": "https://www.kucoin.com/trade/FLUX-USDT"
+    },
+    {
+        "symbol": "UPOUSDT",
+        "ask_price": "0.0205347",
+        "bid_price": "0.0207",
+        "volume": 215113,
+        "link": "https://www.kucoin.com/trade/UPO-USDT"
+    },
+    {
+        "symbol": "2CRZUSDT",
+        "ask_price": "0.002106",
+        "bid_price": "0.002127",
+        "volume": 63625,
+        "link": "https://www.kucoin.com/trade/2CRZ-USDT"
+    },
+    {
+        "symbol": "RNDRUSDT",
+        "ask_price": "1.1791",
+        "bid_price": "1.1796",
+        "volume": 2130267,
+        "link": "https://www.kucoin.com/trade/RNDR-USDT"
+    },
+    {
+        "symbol": "FRRUSDT",
+        "ask_price": "0.000569",
+        "bid_price": "0.000574",
+        "volume": 152646,
+        "link": "https://www.kucoin.com/trade/FRR-USDT"
+    },
+    {
+        "symbol": "DMTRUSDT",
+        "ask_price": "0.028949",
+        "bid_price": "0.029074",
+        "volume": 448278,
+        "link": "https://www.kucoin.com/trade/DMTR-USDT"
+    }
+]

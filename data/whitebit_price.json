@@ -1,0 +1,1094 @@
+[
+    {
+        "symbol": "1INCHUSDT",
+        "ask_price": "0.655655",
+        "bid_price": "0.655475",
+        "volume": 1059209.47579074,
+        "link": "whitebit.com/ua/trade/1INCH-USDT?type=spot"
+    },
+    {
+        "symbol": "AAVEUSDT",
+        "ask_price": "87.7296",
+        "bid_price": "87.671",
+        "volume": 239424.88304475,
+        "link": "whitebit.com/ua/trade/AAVE-USDT?type=spot"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "ask_price": "0.394382",
+        "bid_price": "0.394305",
+        "volume": 149467.15283784,
+        "link": "whitebit.com/ua/trade/ADA-USDT?type=spot"
+    },
+    {
+        "symbol": "ADXUSDT",
+        "ask_price": "0.2099",
+        "bid_price": "0.2096",
+        "volume": 190738.62391282,
+        "link": "whitebit.com/ua/trade/ADX-USDT?type=spot"
+    },
+    {
+        "symbol": "AGLDUSDT",
+        "ask_price": "0.5823",
+        "bid_price": "0.5812",
+        "volume": 195233.11065479,
+        "link": "whitebit.com/ua/trade/AGLD-USDT?type=spot"
+    },
+    {
+        "symbol": "AKROUSDT",
+        "ask_price": "0.00488",
+        "bid_price": "0.00486",
+        "volume": 140336.4879235,
+        "link": "whitebit.com/ua/trade/AKRO-USDT?type=spot"
+    },
+    {
+        "symbol": "ALGOUSDT",
+        "ask_price": "0.2811",
+        "bid_price": "0.2809",
+        "volume": 410516.228221,
+        "link": "whitebit.com/ua/trade/ALGO-USDT?type=spot"
+    },
+    {
+        "symbol": "ALICEUSDT",
+        "ask_price": "2.0182",
+        "bid_price": "2.0147",
+        "volume": 541905.91694455,
+        "link": "whitebit.com/ua/trade/ALICE-USDT?type=spot"
+    },
+    {
+        "symbol": "AMPUSDT",
+        "ask_price": "0.005737",
+        "bid_price": "0.005711",
+        "volume": 3336565.753328167,
+        "link": "whitebit.com/ua/trade/AMP-USDT?type=spot"
+    },
+    {
+        "symbol": "ANKRUSDT",
+        "ask_price": "0.050054",
+        "bid_price": "0.049974",
+        "volume": 2738257.12571571,
+        "link": "whitebit.com/ua/trade/ANKR-USDT?type=spot"
+    },
+    {
+        "symbol": "API3USDT",
+        "ask_price": "1.8379",
+        "bid_price": "1.8371",
+        "volume": 344758.61383611,
+        "link": "whitebit.com/ua/trade/API3-USDT?type=spot"
+    },
+    {
+        "symbol": "APTUSDT",
+        "ask_price": "13.5327",
+        "bid_price": "13.5196",
+        "volume": 1593286.42193733,
+        "link": "whitebit.com/ua/trade/APT-USDT?type=spot"
+    },
+    {
+        "symbol": "ARPAUSDT",
+        "ask_price": "0.046779",
+        "bid_price": "0.046748",
+        "volume": 163473.65620335,
+        "link": "whitebit.com/ua/trade/ARPA-USDT?type=spot"
+    },
+    {
+        "symbol": "ARUSDT",
+        "ask_price": "11.7955",
+        "bid_price": "11.7836",
+        "volume": 292881.550789,
+        "link": "whitebit.com/ua/trade/AR-USDT?type=spot"
+    },
+    {
+        "symbol": "ASTRUSDT",
+        "ask_price": "0.091618",
+        "bid_price": "0.091495",
+        "volume": 302310.95638508,
+        "link": "whitebit.com/ua/trade/ASTR-USDT?type=spot"
+    },
+    {
+        "symbol": "ATOMUSDT",
+        "ask_price": "13.9036",
+        "bid_price": "13.8978",
+        "volume": 776833.4900742,
+        "link": "whitebit.com/ua/trade/ATOM-USDT?type=spot"
+    },
+    {
+        "symbol": "AVAXUSDT",
+        "ask_price": "21.0026",
+        "bid_price": "20.9961",
+        "volume": 488526.96990027,
+        "link": "whitebit.com/ua/trade/AVAX-USDT?type=spot"
+    },
+    {
+        "symbol": "AXSUSDT",
+        "ask_price": "10.8096",
+        "bid_price": "10.8069",
+        "volume": 830233.98972118,
+        "link": "whitebit.com/ua/trade/AXS-USDT?type=spot"
+    },
+    {
+        "symbol": "BADGERUSDT",
+        "ask_price": "3.5119",
+        "bid_price": "3.5098",
+        "volume": 164089.10553744,
+        "link": "whitebit.com/ua/trade/BADGER-USDT?type=spot"
+    },
+    {
+        "symbol": "BANDUSDT",
+        "ask_price": "2.1997",
+        "bid_price": "2.1986",
+        "volume": 106259.392148,
+        "link": "whitebit.com/ua/trade/BAND-USDT?type=spot"
+    },
+    {
+        "symbol": "BCHUSDT",
+        "ask_price": "145.59",
+        "bid_price": "145.55",
+        "volume": 2210504.7903223,
+        "link": "whitebit.com/ua/trade/BCH-USDT?type=spot"
+    },
+    {
+        "symbol": "BLZUSDT",
+        "ask_price": "0.1226",
+        "bid_price": "0.1225",
+        "volume": 217812.561767,
+        "link": "whitebit.com/ua/trade/BLZ-USDT?type=spot"
+    },
+    {
+        "symbol": "BNTUSDT",
+        "ask_price": "0.5075",
+        "bid_price": "0.5072",
+        "volume": 220486.01289493,
+        "link": "whitebit.com/ua/trade/BNT-USDT?type=spot"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "ask_price": "24600.76",
+        "bid_price": "24597.06",
+        "volume": 247873500.70303565,
+        "link": "whitebit.com/ua/trade/BTC-USDT?type=spot"
+    },
+    {
+        "symbol": "C98USDT",
+        "ask_price": "0.31956",
+        "bid_price": "0.31915",
+        "volume": 528169.59214112,
+        "link": "whitebit.com/ua/trade/C98-USDT?type=spot"
+    },
+    {
+        "symbol": "CAKEUSDT",
+        "ask_price": "4.1685",
+        "bid_price": "4.1669",
+        "volume": 157726.27016944,
+        "link": "whitebit.com/ua/trade/CAKE-USDT?type=spot"
+    },
+    {
+        "symbol": "CELOUSDT",
+        "ask_price": "0.8473",
+        "bid_price": "0.8469",
+        "volume": 230482.99350337,
+        "link": "whitebit.com/ua/trade/CELO-USDT?type=spot"
+    },
+    {
+        "symbol": "CHRUSDT",
+        "ask_price": "0.204247",
+        "bid_price": "0.204079",
+        "volume": 359271.91292331,
+        "link": "whitebit.com/ua/trade/CHR-USDT?type=spot"
+    },
+    {
+        "symbol": "CHZUSDT",
+        "ask_price": "0.141276",
+        "bid_price": "0.141219",
+        "volume": 106458.6749215,
+        "link": "whitebit.com/ua/trade/CHZ-USDT?type=spot"
+    },
+    {
+        "symbol": "CLVUSDT",
+        "ask_price": "0.092",
+        "bid_price": "0.0918",
+        "volume": 141624.83868927,
+        "link": "whitebit.com/ua/trade/CLV-USDT?type=spot"
+    },
+    {
+        "symbol": "COMPUSDT",
+        "ask_price": "56.66",
+        "bid_price": "56.63",
+        "volume": 583988.1972818,
+        "link": "whitebit.com/ua/trade/COMP-USDT?type=spot"
+    },
+    {
+        "symbol": "CRVUSDT",
+        "ask_price": "1.1881",
+        "bid_price": "1.1871",
+        "volume": 374114.74599971,
+        "link": "whitebit.com/ua/trade/CRV-USDT?type=spot"
+    },
+    {
+        "symbol": "CTSIUSDT",
+        "ask_price": "0.1872",
+        "bid_price": "0.187",
+        "volume": 611799.744426,
+        "link": "whitebit.com/ua/trade/CTSI-USDT?type=spot"
+    },
+    {
+        "symbol": "CVCUSDT",
+        "ask_price": "0.1223",
+        "bid_price": "0.122",
+        "volume": 127641.663995,
+        "link": "whitebit.com/ua/trade/CVC-USDT?type=spot"
+    },
+    {
+        "symbol": "CVPUSDT",
+        "ask_price": "0.5699",
+        "bid_price": "0.5681",
+        "volume": 401712.75271424,
+        "link": "whitebit.com/ua/trade/CVP-USDT?type=spot"
+    },
+    {
+        "symbol": "CYCEUSDT",
+        "ask_price": "0.4373",
+        "bid_price": "0.4372",
+        "volume": 105211.23996469,
+        "link": "whitebit.com/ua/trade/CYCE-USDT?type=spot"
+    },
+    {
+        "symbol": "DAIUSDT",
+        "ask_price": "0.9999",
+        "bid_price": "0.9992",
+        "volume": 1244925.545461,
+        "link": "whitebit.com/ua/trade/DAI-USDT?type=spot"
+    },
+    {
+        "symbol": "DASHUSDT",
+        "ask_price": "70.47",
+        "bid_price": "70.44",
+        "volume": 525878.2987622,
+        "link": "whitebit.com/ua/trade/DASH-USDT?type=spot"
+    },
+    {
+        "symbol": "DATAUSDT",
+        "ask_price": "0.04466",
+        "bid_price": "0.04463",
+        "volume": 119046.76789187,
+        "link": "whitebit.com/ua/trade/DATA-USDT?type=spot"
+    },
+    {
+        "symbol": "DFUSDT",
+        "ask_price": "0.0663",
+        "bid_price": "0.0662",
+        "volume": 1088452.313282,
+        "link": "whitebit.com/ua/trade/DF-USDT?type=spot"
+    },
+    {
+        "symbol": "DODOUSDT",
+        "ask_price": "0.1964",
+        "bid_price": "0.1962",
+        "volume": 599038.7464635,
+        "link": "whitebit.com/ua/trade/DODO-USDT?type=spot"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "ask_price": "0.0863715",
+        "bid_price": "0.086359",
+        "volume": 352222.7286442,
+        "link": "whitebit.com/ua/trade/DOGE-USDT?type=spot"
+    },
+    {
+        "symbol": "DOTUSDT",
+        "ask_price": "7.309",
+        "bid_price": "7.3061",
+        "volume": 468769.40154453,
+        "link": "whitebit.com/ua/trade/DOT-USDT?type=spot"
+    },
+    {
+        "symbol": "DYDXUSDT",
+        "ask_price": "2.7619",
+        "bid_price": "2.7601",
+        "volume": 107058.94693759,
+        "link": "whitebit.com/ua/trade/DYDX-USDT?type=spot"
+    },
+    {
+        "symbol": "EDCUSDT",
+        "ask_price": "0.05489",
+        "bid_price": "0.05488",
+        "volume": 836996.63278631,
+        "link": "whitebit.com/ua/trade/EDC-USDT?type=spot"
+    },
+    {
+        "symbol": "ELANUSDT",
+        "ask_price": "7.1137",
+        "bid_price": "7.0925",
+        "volume": 1021588.68276726,
+        "link": "whitebit.com/ua/trade/ELAN-USDT?type=spot"
+    },
+    {
+        "symbol": "ENSUSDT",
+        "ask_price": "16.597",
+        "bid_price": "16.57",
+        "volume": 352773.79491537,
+        "link": "whitebit.com/ua/trade/ENS-USDT?type=spot"
+    },
+    {
+        "symbol": "EOSUSDT",
+        "ask_price": "1.2252",
+        "bid_price": "1.2251",
+        "volume": 297414.173099,
+        "link": "whitebit.com/ua/trade/EOS-USDT?type=spot"
+    },
+    {
+        "symbol": "ETCUSDT",
+        "ask_price": "22.9442",
+        "bid_price": "22.9373",
+        "volume": 1324946.469561,
+        "link": "whitebit.com/ua/trade/ETC-USDT?type=spot"
+    },
+    {
+        "symbol": "ETHWUSDT",
+        "ask_price": "4.0317",
+        "bid_price": "4.0307",
+        "volume": 152792.68773152,
+        "link": "whitebit.com/ua/trade/ETHW-USDT?type=spot"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "ask_price": "1673.01",
+        "bid_price": "1672.75",
+        "volume": 96862731.5638868,
+        "link": "whitebit.com/ua/trade/ETH-USDT?type=spot"
+    },
+    {
+        "symbol": "FILUSDT",
+        "ask_price": "8.2758",
+        "bid_price": "8.2717",
+        "volume": 575272.30494209,
+        "link": "whitebit.com/ua/trade/FIL-USDT?type=spot"
+    },
+    {
+        "symbol": "FISUSDT",
+        "ask_price": "0.6683",
+        "bid_price": "0.6681",
+        "volume": 741269.39799257,
+        "link": "whitebit.com/ua/trade/FIS-USDT?type=spot"
+    },
+    {
+        "symbol": "FLOWUSDT",
+        "ask_price": "1.3253",
+        "bid_price": "1.3251",
+        "volume": 744827.72085209,
+        "link": "whitebit.com/ua/trade/FLOW-USDT?type=spot"
+    },
+    {
+        "symbol": "FORUSDT",
+        "ask_price": "0.026407",
+        "bid_price": "0.026383",
+        "volume": 1339140.21405528,
+        "link": "whitebit.com/ua/trade/FOR-USDT?type=spot"
+    },
+    {
+        "symbol": "FRONTUSDT",
+        "ask_price": "0.269059",
+        "bid_price": "0.269019",
+        "volume": 895207.231534431,
+        "link": "whitebit.com/ua/trade/FRONT-USDT?type=spot"
+    },
+    {
+        "symbol": "FTMUSDT",
+        "ask_price": "0.5257",
+        "bid_price": "0.5251",
+        "volume": 139283.95929656,
+        "link": "whitebit.com/ua/trade/FTM-USDT?type=spot"
+    },
+    {
+        "symbol": "GALAUSDT",
+        "ask_price": "0.046643",
+        "bid_price": "0.046597",
+        "volume": 125877.6556986,
+        "link": "whitebit.com/ua/trade/GALA-USDT?type=spot"
+    },
+    {
+        "symbol": "GALUSDT",
+        "ask_price": "2.2484",
+        "bid_price": "2.2464",
+        "volume": 167088.95866403,
+        "link": "whitebit.com/ua/trade/GAL-USDT?type=spot"
+    },
+    {
+        "symbol": "GLMRUSDT",
+        "ask_price": "0.5126",
+        "bid_price": "0.5124",
+        "volume": 662750.56659752,
+        "link": "whitebit.com/ua/trade/GLMR-USDT?type=spot"
+    },
+    {
+        "symbol": "GMTUSDT",
+        "ask_price": "0.4456",
+        "bid_price": "0.4454",
+        "volume": 345930.96417547,
+        "link": "whitebit.com/ua/trade/GMT-USDT?type=spot"
+    },
+    {
+        "symbol": "GRTUSDT",
+        "ask_price": "0.1678",
+        "bid_price": "0.1674",
+        "volume": 145357.32930971,
+        "link": "whitebit.com/ua/trade/GRT-USDT?type=spot"
+    },
+    {
+        "symbol": "HBARUSDT",
+        "ask_price": "0.082719",
+        "bid_price": "0.08265",
+        "volume": 177128.82945866,
+        "link": "whitebit.com/ua/trade/HBAR-USDT?type=spot"
+    },
+    {
+        "symbol": "ICPUSDT",
+        "ask_price": "6.94",
+        "bid_price": "6.93",
+        "volume": 460967.037036,
+        "link": "whitebit.com/ua/trade/ICP-USDT?type=spot"
+    },
+    {
+        "symbol": "ICXUSDT",
+        "ask_price": "0.2557",
+        "bid_price": "0.2551",
+        "volume": 320018.02734603,
+        "link": "whitebit.com/ua/trade/ICX-USDT?type=spot"
+    },
+    {
+        "symbol": "IDEXUSDT",
+        "ask_price": "0.0716",
+        "bid_price": "0.0715",
+        "volume": 368067.79250682,
+        "link": "whitebit.com/ua/trade/IDEX-USDT?type=spot"
+    },
+    {
+        "symbol": "IMXUSDT",
+        "ask_price": "0.9942",
+        "bid_price": "0.9927",
+        "volume": 670854.34478656,
+        "link": "whitebit.com/ua/trade/IMX-USDT?type=spot"
+    },
+    {
+        "symbol": "INJUSDT",
+        "ask_price": "3.997",
+        "bid_price": "3.995",
+        "volume": 281170.34582547,
+        "link": "whitebit.com/ua/trade/INJ-USDT?type=spot"
+    },
+    {
+        "symbol": "IOSTUSDT",
+        "ask_price": "0.012779",
+        "bid_price": "0.01277",
+        "volume": 488330.1271628729,
+        "link": "whitebit.com/ua/trade/IOST-USDT?type=spot"
+    },
+    {
+        "symbol": "IOTXUSDT",
+        "ask_price": "0.033059",
+        "bid_price": "0.033045",
+        "volume": 541576.67199421,
+        "link": "whitebit.com/ua/trade/IOTX-USDT?type=spot"
+    },
+    {
+        "symbol": "JASMYUSDT",
+        "ask_price": "0.007018",
+        "bid_price": "0.007017",
+        "volume": 149690.7208519987,
+        "link": "whitebit.com/ua/trade/JASMY-USDT?type=spot"
+    },
+    {
+        "symbol": "JSTUSDT",
+        "ask_price": "0.030792",
+        "bid_price": "0.030786",
+        "volume": 192498.14665282,
+        "link": "whitebit.com/ua/trade/JST-USDT?type=spot"
+    },
+    {
+        "symbol": "KAVAUSDT",
+        "ask_price": "0.9882",
+        "bid_price": "0.987",
+        "volume": 133621.257627,
+        "link": "whitebit.com/ua/trade/KAVA-USDT?type=spot"
+    },
+    {
+        "symbol": "KLAYUSDT",
+        "ask_price": "0.3058",
+        "bid_price": "0.3055",
+        "volume": 373457.33355447,
+        "link": "whitebit.com/ua/trade/KLAY-USDT?type=spot"
+    },
+    {
+        "symbol": "KSMUSDT",
+        "ask_price": "44.2481",
+        "bid_price": "44.2326",
+        "volume": 219688.52393939,
+        "link": "whitebit.com/ua/trade/KSM-USDT?type=spot"
+    },
+    {
+        "symbol": "LDOUSDT",
+        "ask_price": "2.772",
+        "bid_price": "2.7669",
+        "volume": 353818.7045863,
+        "link": "whitebit.com/ua/trade/LDO-USDT?type=spot"
+    },
+    {
+        "symbol": "LINAUSDT",
+        "ask_price": "0.013188",
+        "bid_price": "0.013186",
+        "volume": 13370339.21358245,
+        "link": "whitebit.com/ua/trade/LINA-USDT?type=spot"
+    },
+    {
+        "symbol": "LINKUSDT",
+        "ask_price": "7.6944",
+        "bid_price": "7.6928",
+        "volume": 107866.331189,
+        "link": "whitebit.com/ua/trade/LINK-USDT?type=spot"
+    },
+    {
+        "symbol": "LPTUSDT",
+        "ask_price": "8.6742",
+        "bid_price": "8.6683",
+        "volume": 117498.0696688,
+        "link": "whitebit.com/ua/trade/LPT-USDT?type=spot"
+    },
+    {
+        "symbol": "LTCUSDT",
+        "ask_price": "93.86",
+        "bid_price": "93.83",
+        "volume": 842794.2310349,
+        "link": "whitebit.com/ua/trade/LTC-USDT?type=spot"
+    },
+    {
+        "symbol": "MASKUSDT",
+        "ask_price": "3.9796",
+        "bid_price": "3.9788",
+        "volume": 291640.46703436,
+        "link": "whitebit.com/ua/trade/MASK-USDT?type=spot"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "ask_price": "1.398307",
+        "bid_price": "1.397769",
+        "volume": 2277642.45747331,
+        "link": "whitebit.com/ua/trade/MATIC-USDT?type=spot"
+    },
+    {
+        "symbol": "MDXUSDT",
+        "ask_price": "0.1083",
+        "bid_price": "0.1081",
+        "volume": 141517.456809,
+        "link": "whitebit.com/ua/trade/MDX-USDT?type=spot"
+    },
+    {
+        "symbol": "MKRUSDT",
+        "ask_price": "777.31",
+        "bid_price": "776.79",
+        "volume": 180771.5365989,
+        "link": "whitebit.com/ua/trade/MKR-USDT?type=spot"
+    },
+    {
+        "symbol": "MLNUSDT",
+        "ask_price": "26.5728",
+        "bid_price": "26.5506",
+        "volume": 212221.73067853,
+        "link": "whitebit.com/ua/trade/MLN-USDT?type=spot"
+    },
+    {
+        "symbol": "NEARUSDT",
+        "ask_price": "2.5631",
+        "bid_price": "2.5622",
+        "volume": 259663.376188,
+        "link": "whitebit.com/ua/trade/NEAR-USDT?type=spot"
+    },
+    {
+        "symbol": "NEOUSDT",
+        "ask_price": "13.684",
+        "bid_price": "13.678",
+        "volume": 5517795.467825,
+        "link": "whitebit.com/ua/trade/NEO-USDT?type=spot"
+    },
+    {
+        "symbol": "NEXOUSDT",
+        "ask_price": "0.729",
+        "bid_price": "0.7288",
+        "volume": 151500.721685,
+        "link": "whitebit.com/ua/trade/NEXO-USDT?type=spot"
+    },
+    {
+        "symbol": "NKNUSDT",
+        "ask_price": "0.13905",
+        "bid_price": "0.138957",
+        "volume": 885867.98870862,
+        "link": "whitebit.com/ua/trade/NKN-USDT?type=spot"
+    },
+    {
+        "symbol": "OCEANUSDT",
+        "ask_price": "0.4582",
+        "bid_price": "0.4578",
+        "volume": 424096.82561555,
+        "link": "whitebit.com/ua/trade/OCEAN-USDT?type=spot"
+    },
+    {
+        "symbol": "OGNUSDT",
+        "ask_price": "0.1534",
+        "bid_price": "0.1533",
+        "volume": 163223.190097,
+        "link": "whitebit.com/ua/trade/OGN-USDT?type=spot"
+    },
+    {
+        "symbol": "OMGUSDT",
+        "ask_price": "1.8565",
+        "bid_price": "1.8558",
+        "volume": 173776.619376,
+        "link": "whitebit.com/ua/trade/OMG-USDT?type=spot"
+    },
+    {
+        "symbol": "ONTUSDT",
+        "ask_price": "0.2751",
+        "bid_price": "0.2746",
+        "volume": 882599.52538914,
+        "link": "whitebit.com/ua/trade/ONT-USDT?type=spot"
+    },
+    {
+        "symbol": "OPUSDT",
+        "ask_price": "2.4961",
+        "bid_price": "2.4937",
+        "volume": 430467.96783564,
+        "link": "whitebit.com/ua/trade/OP-USDT?type=spot"
+    },
+    {
+        "symbol": "OXTUSDT",
+        "ask_price": "0.1045",
+        "bid_price": "0.1043",
+        "volume": 124985.42106575,
+        "link": "whitebit.com/ua/trade/OXT-USDT?type=spot"
+    },
+    {
+        "symbol": "PEOPLEUSDT",
+        "ask_price": "0.029089",
+        "bid_price": "0.029051",
+        "volume": 145071.0971154286,
+        "link": "whitebit.com/ua/trade/PEOPLE-USDT?type=spot"
+    },
+    {
+        "symbol": "PHAUSDT",
+        "ask_price": "0.18862",
+        "bid_price": "0.188582",
+        "volume": 326848.9871492221,
+        "link": "whitebit.com/ua/trade/PHA-USDT?type=spot"
+    },
+    {
+        "symbol": "POLSUSDT",
+        "ask_price": "0.562",
+        "bid_price": "0.5618",
+        "volume": 2769561.32445996,
+        "link": "whitebit.com/ua/trade/POLS-USDT?type=spot"
+    },
+    {
+        "symbol": "PONDUSDT",
+        "ask_price": "0.012143",
+        "bid_price": "0.012139",
+        "volume": 195318.683279349,
+        "link": "whitebit.com/ua/trade/POND-USDT?type=spot"
+    },
+    {
+        "symbol": "PXPUSDT",
+        "ask_price": "0.009093",
+        "bid_price": "0.00904",
+        "volume": 108395.4422098,
+        "link": "whitebit.com/ua/trade/PXP-USDT?type=spot"
+    },
+    {
+        "symbol": "QTUMUSDT",
+        "ask_price": "3.6411",
+        "bid_price": "3.6395",
+        "volume": 3069077.79420868,
+        "link": "whitebit.com/ua/trade/QTUM-USDT?type=spot"
+    },
+    {
+        "symbol": "RADUSDT",
+        "ask_price": "2.2361",
+        "bid_price": "2.2346",
+        "volume": 548334.778828,
+        "link": "whitebit.com/ua/trade/RAD-USDT?type=spot"
+    },
+    {
+        "symbol": "RAREUSDT",
+        "ask_price": "0.1772",
+        "bid_price": "0.177",
+        "volume": 606006.25510357,
+        "link": "whitebit.com/ua/trade/RARE-USDT?type=spot"
+    },
+    {
+        "symbol": "RENUSDT",
+        "ask_price": "0.104887",
+        "bid_price": "0.10461",
+        "volume": 742894.39013179,
+        "link": "whitebit.com/ua/trade/REN-USDT?type=spot"
+    },
+    {
+        "symbol": "RLCUSDT",
+        "ask_price": "2.153",
+        "bid_price": "2.1517",
+        "volume": 1026758.0226183,
+        "link": "whitebit.com/ua/trade/RLC-USDT?type=spot"
+    },
+    {
+        "symbol": "RNDRUSDT",
+        "ask_price": "1.699",
+        "bid_price": "1.6979",
+        "volume": 737447.09602238,
+        "link": "whitebit.com/ua/trade/RNDR-USDT?type=spot"
+    },
+    {
+        "symbol": "RVNUSDT",
+        "ask_price": "0.033818",
+        "bid_price": "0.033801",
+        "volume": 111005.55579707,
+        "link": "whitebit.com/ua/trade/RVN-USDT?type=spot"
+    },
+    {
+        "symbol": "SHIBUSDT",
+        "ask_price": "0.00001318",
+        "bid_price": "0.00001317",
+        "volume": 200326.05411742,
+        "link": "whitebit.com/ua/trade/SHIB-USDT?type=spot"
+    },
+    {
+        "symbol": "SNXUSDT",
+        "ask_price": "2.626",
+        "bid_price": "2.623",
+        "volume": 130261.331634,
+        "link": "whitebit.com/ua/trade/SNX-USDT?type=spot"
+    },
+    {
+        "symbol": "SOLUSDT",
+        "ask_price": "25.3326",
+        "bid_price": "25.3149",
+        "volume": 794692.93860314,
+        "link": "whitebit.com/ua/trade/SOL-USDT?type=spot"
+    },
+    {
+        "symbol": "STEMXUSDT",
+        "ask_price": "0.008822",
+        "bid_price": "0.008764",
+        "volume": 1006600.11736017,
+        "link": "whitebit.com/ua/trade/STEMX-USDT?type=spot"
+    },
+    {
+        "symbol": "STGUSDT",
+        "ask_price": "1.0756",
+        "bid_price": "1.0741",
+        "volume": 162784.19550649,
+        "link": "whitebit.com/ua/trade/STG-USDT?type=spot"
+    },
+    {
+        "symbol": "STORJUSDT",
+        "ask_price": "0.4614",
+        "bid_price": "0.4612",
+        "volume": 478407.84277339,
+        "link": "whitebit.com/ua/trade/STORJ-USDT?type=spot"
+    },
+    {
+        "symbol": "STPTUSDT",
+        "ask_price": "0.049618",
+        "bid_price": "0.049585",
+        "volume": 453675.2973474,
+        "link": "whitebit.com/ua/trade/STPT-USDT?type=spot"
+    },
+    {
+        "symbol": "SUNUSDT",
+        "ask_price": "0.007159",
+        "bid_price": "0.007156",
+        "volume": 492661.08476158,
+        "link": "whitebit.com/ua/trade/SUN-USDT?type=spot"
+    },
+    {
+        "symbol": "SUPERUSDT",
+        "ask_price": "0.1653",
+        "bid_price": "0.1652",
+        "volume": 145478.0004381,
+        "link": "whitebit.com/ua/trade/SUPER-USDT?type=spot"
+    },
+    {
+        "symbol": "SXPUSDT",
+        "ask_price": "0.3483",
+        "bid_price": "0.3481",
+        "volume": 153208.06943124,
+        "link": "whitebit.com/ua/trade/SXP-USDT?type=spot"
+    },
+    {
+        "symbol": "THETAUSDT",
+        "ask_price": "1.2391",
+        "bid_price": "1.239",
+        "volume": 296675.4264786,
+        "link": "whitebit.com/ua/trade/THETA-USDT?type=spot"
+    },
+    {
+        "symbol": "TOMOUSDT",
+        "ask_price": "0.4945",
+        "bid_price": "0.4942",
+        "volume": 2244390.78897,
+        "link": "whitebit.com/ua/trade/TOMO-USDT?type=spot"
+    },
+    {
+        "symbol": "TRBUSDT",
+        "ask_price": "19.4917",
+        "bid_price": "19.4891",
+        "volume": 526667.93718317,
+        "link": "whitebit.com/ua/trade/TRB-USDT?type=spot"
+    },
+    {
+        "symbol": "TRXUSDT",
+        "ask_price": "0.069882",
+        "bid_price": "0.069852",
+        "volume": 277506.94838455,
+        "link": "whitebit.com/ua/trade/TRX-USDT?type=spot"
+    },
+    {
+        "symbol": "TUSDUSDT",
+        "ask_price": "1",
+        "bid_price": "0.9999",
+        "volume": 2298087.102995,
+        "link": "whitebit.com/ua/trade/TUSD-USDT?type=spot"
+    },
+    {
+        "symbol": "UMAUSDT",
+        "ask_price": "2.5698",
+        "bid_price": "2.5667",
+        "volume": 1977261.92519624,
+        "link": "whitebit.com/ua/trade/UMA-USDT?type=spot"
+    },
+    {
+        "symbol": "UNFIUSDT",
+        "ask_price": "6.9989",
+        "bid_price": "6.9941",
+        "volume": 1544686.60039347,
+        "link": "whitebit.com/ua/trade/UNFI-USDT?type=spot"
+    },
+    {
+        "symbol": "UNIUSDT",
+        "ask_price": "7.0831",
+        "bid_price": "7.081",
+        "volume": 479243.456324,
+        "link": "whitebit.com/ua/trade/UNI-USDT?type=spot"
+    },
+    {
+        "symbol": "USDCUSDT",
+        "ask_price": "0.9996",
+        "bid_price": "0.9995",
+        "volume": 36728138.62490254,
+        "link": "whitebit.com/ua/trade/USDC-USDT?type=spot"
+    },
+    {
+        "symbol": "USDTBGN",
+        "ask_price": "1.836",
+        "bid_price": "1.834",
+        "volume": 580737.6549,
+        "link": "whitebit.com/ua/trade/USD-USDT?type=spot"
+    },
+    {
+        "symbol": "USDTCZK",
+        "ask_price": "22.22",
+        "bid_price": "22.2",
+        "volume": 5699710.4464,
+        "link": "whitebit.com/ua/trade/USD-USDT?type=spot"
+    },
+    {
+        "symbol": "USDTEUR",
+        "ask_price": "0.9397",
+        "bid_price": "0.9388",
+        "volume": 21603151.27444797,
+        "link": "whitebit.com/ua/trade/USD-USDT?type=spot"
+    },
+    {
+        "symbol": "USDTGBP",
+        "ask_price": "0.8337",
+        "bid_price": "0.8336",
+        "volume": 364015.13347,
+        "link": "whitebit.com/ua/trade/USD-USDT?type=spot"
+    },
+    {
+        "symbol": "USDTGEL",
+        "ask_price": "2.66",
+        "bid_price": "2.658",
+        "volume": 1485704.94866,
+        "link": "whitebit.com/ua/trade/USD-USDT?type=spot"
+    },
+    {
+        "symbol": "USDTKZT",
+        "ask_price": "447.03",
+        "bid_price": "446.97",
+        "volume": 145480889.1343,
+        "link": "whitebit.com/ua/trade/USD-USDT?type=spot"
+    },
+    {
+        "symbol": "USDTPLN",
+        "ask_price": "4.484",
+        "bid_price": "4.482",
+        "volume": 1613436.69997,
+        "link": "whitebit.com/ua/trade/USD-USDT?type=spot"
+    },
+    {
+        "symbol": "USDTTRY",
+        "ask_price": "19.09",
+        "bid_price": "19.08",
+        "volume": 4525655.886409,
+        "link": "whitebit.com/ua/trade/USD-USDT?type=spot"
+    },
+    {
+        "symbol": "USDTUAH",
+        "ask_price": "39.4",
+        "bid_price": "39.37",
+        "volume": 108649141.125215,
+        "link": "whitebit.com/ua/trade/USD-USDT?type=spot"
+    },
+    {
+        "symbol": "USDTUSD",
+        "ask_price": "1.0007",
+        "bid_price": "1.0006",
+        "volume": 2508971.056896,
+        "link": "whitebit.com/ua/trade/USD-USDT?type=spot"
+    },
+    {
+        "symbol": "VETUSDT",
+        "ask_price": "0.030756",
+        "bid_price": "0.030735",
+        "volume": 183977.6527905587,
+        "link": "whitebit.com/ua/trade/VET-USDT?type=spot"
+    },
+    {
+        "symbol": "VOXELUSDT",
+        "ask_price": "0.3267",
+        "bid_price": "0.3264",
+        "volume": 444903.99916981,
+        "link": "whitebit.com/ua/trade/VOXEL-USDT?type=spot"
+    },
+    {
+        "symbol": "WAVESUSDT",
+        "ask_price": "2.829",
+        "bid_price": "2.8275",
+        "volume": 347105.411998,
+        "link": "whitebit.com/ua/trade/WAVES-USDT?type=spot"
+    },
+    {
+        "symbol": "WAXPUSDT",
+        "ask_price": "0.083873",
+        "bid_price": "0.083733",
+        "volume": 162663.99902078,
+        "link": "whitebit.com/ua/trade/WAXP-USDT?type=spot"
+    },
+    {
+        "symbol": "WBTUSDT",
+        "ask_price": "3.992",
+        "bid_price": "3.987",
+        "volume": 1611695.57964,
+        "link": "whitebit.com/ua/trade/WBT-USDT?type=spot"
+    },
+    {
+        "symbol": "WINUSDT",
+        "ask_price": "0.00010828",
+        "bid_price": "0.00010826",
+        "volume": 1366592.8582109138,
+        "link": "whitebit.com/ua/trade/WIN-USDT?type=spot"
+    },
+    {
+        "symbol": "WNXMUSDT",
+        "ask_price": "23.1346",
+        "bid_price": "23.1192",
+        "volume": 1388966.08480534,
+        "link": "whitebit.com/ua/trade/WNXM-USDT?type=spot"
+    },
+    {
+        "symbol": "WOOUSDT",
+        "ask_price": "0.24069",
+        "bid_price": "0.24049",
+        "volume": 169499.9854807,
+        "link": "whitebit.com/ua/trade/WOO-USDT?type=spot"
+    },
+    {
+        "symbol": "XDENUSDT",
+        "ask_price": "12",
+        "bid_price": "11.919",
+        "volume": 102215.50365,
+        "link": "whitebit.com/ua/trade/XDEN-USDT?type=spot"
+    },
+    {
+        "symbol": "XEMUSDT",
+        "ask_price": "0.0455",
+        "bid_price": "0.0454",
+        "volume": 172615.93095564,
+        "link": "whitebit.com/ua/trade/XEM-USDT?type=spot"
+    },
+    {
+        "symbol": "XLMUSDT",
+        "ask_price": "0.09608",
+        "bid_price": "0.09607",
+        "volume": 398749.880725,
+        "link": "whitebit.com/ua/trade/XLM-USDT?type=spot"
+    },
+    {
+        "symbol": "XMRUSDT",
+        "ask_price": "159.73",
+        "bid_price": "159.6",
+        "volume": 1423683.1124616,
+        "link": "whitebit.com/ua/trade/XMR-USDT?type=spot"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "ask_price": "0.39451",
+        "bid_price": "0.39436",
+        "volume": 998077.658375,
+        "link": "whitebit.com/ua/trade/XRP-USDT?type=spot"
+    },
+    {
+        "symbol": "XTZUSDT",
+        "ask_price": "1.22666",
+        "bid_price": "1.22629",
+        "volume": 358667.11293405,
+        "link": "whitebit.com/ua/trade/XTZ-USDT?type=spot"
+    },
+    {
+        "symbol": "YFIIUSDT",
+        "ask_price": "1328.607",
+        "bid_price": "1327.9412",
+        "volume": 123914.46893073,
+        "link": "whitebit.com/ua/trade/YFII-USDT?type=spot"
+    },
+    {
+        "symbol": "YFIUSDT",
+        "ask_price": "7906.13",
+        "bid_price": "7904.56",
+        "volume": 268615.26324357,
+        "link": "whitebit.com/ua/trade/YFI-USDT?type=spot"
+    },
+    {
+        "symbol": "YGGUSDT",
+        "ask_price": "0.3572",
+        "bid_price": "0.3568",
+        "volume": 644581.77220025,
+        "link": "whitebit.com/ua/trade/YGG-USDT?type=spot"
+    },
+    {
+        "symbol": "ZECUSDT",
+        "ask_price": "49.32",
+        "bid_price": "49.21",
+        "volume": 1403086.3245381,
+        "link": "whitebit.com/ua/trade/ZEC-USDT?type=spot"
+    },
+    {
+        "symbol": "ZENUSDT",
+        "ask_price": "13.661",
+        "bid_price": "13.65",
+        "volume": 217844.239867,
+        "link": "whitebit.com/ua/trade/ZEN-USDT?type=spot"
+    },
+    {
+        "symbol": "ZILUSDT",
+        "ask_price": "0.034899",
+        "bid_price": "0.034844",
+        "volume": 773101.7565455942,
+        "link": "whitebit.com/ua/trade/ZIL-USDT?type=spot"
+    }
+]

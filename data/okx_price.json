@@ -1,0 +1,2095 @@
+[
+    {
+        "symbol": "MDTUSDT",
+        "bid_price": "0.07729",
+        "ask_price": "0.07739",
+        "volume": 4072917.940704278,
+        "link": "https://www.okx.com/ua/trade-spot/mdt-USDT"
+    },
+    {
+        "symbol": "OASUSDT",
+        "bid_price": "0.085036",
+        "ask_price": "0.085113",
+        "volume": 525475.52729998,
+        "link": "https://www.okx.com/ua/trade-spot/oas-USDT"
+    },
+    {
+        "symbol": "KNCUSDT",
+        "bid_price": "0.7128",
+        "ask_price": "0.7132",
+        "volume": 547578.3708979585,
+        "link": "https://www.okx.com/ua/trade-spot/knc-USDT"
+    },
+    {
+        "symbol": "DAIUSDT",
+        "bid_price": "0.9999",
+        "ask_price": "1",
+        "volume": 360025.3855239217,
+        "link": "https://www.okx.com/ua/trade-spot/dai-USDT"
+    },
+    {
+        "symbol": "LUNAUSDT",
+        "bid_price": "1.483",
+        "ask_price": "1.4834",
+        "volume": 2625073.45060803,
+        "link": "https://www.okx.com/ua/trade-spot/luna-USDT"
+    },
+    {
+        "symbol": "XNOUSDT",
+        "bid_price": "0.828",
+        "ask_price": "0.83",
+        "volume": 48436.7530247,
+        "link": "https://www.okx.com/ua/trade-spot/xno-USDT"
+    },
+    {
+        "symbol": "CVXUSDT",
+        "bid_price": "5.95",
+        "ask_price": "5.96",
+        "volume": 121871.92521872,
+        "link": "https://www.okx.com/ua/trade-spot/cvx-USDT"
+    },
+    {
+        "symbol": "AGLDUSDT",
+        "bid_price": "0.4318",
+        "ask_price": "0.4323",
+        "volume": 1038146.8457124449,
+        "link": "https://www.okx.com/ua/trade-spot/agld-USDT"
+    },
+    {
+        "symbol": "LSKUSDT",
+        "bid_price": "1.008",
+        "ask_price": "1.012",
+        "volume": 42846.70166157615,
+        "link": "https://www.okx.com/ua/trade-spot/lsk-USDT"
+    },
+    {
+        "symbol": "IOTAUSDT",
+        "bid_price": "0.2058",
+        "ask_price": "0.2059",
+        "volume": 518405.2309087785,
+        "link": "https://www.okx.com/ua/trade-spot/iota-USDT"
+    },
+    {
+        "symbol": "APMUSDT",
+        "bid_price": "0.0168",
+        "ask_price": "0.01691",
+        "volume": 224690.6395811354,
+        "link": "https://www.okx.com/ua/trade-spot/apm-USDT"
+    },
+    {
+        "symbol": "QTUMUSDT",
+        "bid_price": "2.931",
+        "ask_price": "2.933",
+        "volume": 1089581.687803879,
+        "link": "https://www.okx.com/ua/trade-spot/qtum-USDT"
+    },
+    {
+        "symbol": "CSPRUSDT",
+        "bid_price": "0.03886",
+        "ask_price": "0.0389",
+        "volume": 1584502.7344620293,
+        "link": "https://www.okx.com/ua/trade-spot/cspr-USDT"
+    },
+    {
+        "symbol": "ELONUSDT",
+        "bid_price": "0.0000003415",
+        "ask_price": "0.0000003424",
+        "volume": 385970.5642798645,
+        "link": "https://www.okx.com/ua/trade-spot/elon-USDT"
+    },
+    {
+        "symbol": "AXSUSDT",
+        "bid_price": "8.54",
+        "ask_price": "8.56",
+        "volume": 504387.47969522,
+        "link": "https://www.okx.com/ua/trade-spot/axs-USDT"
+    },
+    {
+        "symbol": "PNKUSDT",
+        "bid_price": "0.0278",
+        "ask_price": "0.0279",
+        "volume": 31491.1849306685,
+        "link": "https://www.okx.com/ua/trade-spot/pnk-USDT"
+    },
+    {
+        "symbol": "ETCUSDT",
+        "bid_price": "19.259",
+        "ask_price": "19.263",
+        "volume": 5353458.62041265,
+        "link": "https://www.okx.com/ua/trade-spot/etc-USDT"
+    },
+    {
+        "symbol": "WINGUSDT",
+        "bid_price": "6.78",
+        "ask_price": "6.82",
+        "volume": 113512.36387227,
+        "link": "https://www.okx.com/ua/trade-spot/wing-USDT"
+    },
+    {
+        "symbol": "ASTRUSDT",
+        "bid_price": "0.0638",
+        "ask_price": "0.064",
+        "volume": 1201551.3977621212,
+        "link": "https://www.okx.com/ua/trade-spot/astr-USDT"
+    },
+    {
+        "symbol": "TAMAUSDT",
+        "bid_price": "0.013717",
+        "ask_price": "0.013778",
+        "volume": 538952.16671772,
+        "link": "https://www.okx.com/ua/trade-spot/tama-USDT"
+    },
+    {
+        "symbol": "CTXCUSDT",
+        "bid_price": "0.2292",
+        "ask_price": "0.2299",
+        "volume": 633863.7910010742,
+        "link": "https://www.okx.com/ua/trade-spot/ctxc-USDT"
+    },
+    {
+        "symbol": "BCHUSDT",
+        "bid_price": "122.21",
+        "ask_price": "122.22",
+        "volume": 27107030.51386905,
+        "link": "https://www.okx.com/ua/trade-spot/bch-USDT"
+    },
+    {
+        "symbol": "VSYSUSDT",
+        "bid_price": "0.00246",
+        "ask_price": "0.002465",
+        "volume": 409380.38389165216,
+        "link": "https://www.okx.com/ua/trade-spot/vsys-USDT"
+    },
+    {
+        "symbol": "SWRVUSDT",
+        "bid_price": "0.1253",
+        "ask_price": "0.1255",
+        "volume": 74237.6755241223,
+        "link": "https://www.okx.com/ua/trade-spot/swrv-USDT"
+    },
+    {
+        "symbol": "FRONTUSDT",
+        "bid_price": "0.2181",
+        "ask_price": "0.2188",
+        "volume": 73127.5733408513,
+        "link": "https://www.okx.com/ua/trade-spot/front-USDT"
+    },
+    {
+        "symbol": "APTUSDT",
+        "bid_price": "10.9848",
+        "ask_price": "10.9864",
+        "volume": 20866810.54991393,
+        "link": "https://www.okx.com/ua/trade-spot/apt-USDT"
+    },
+    {
+        "symbol": "GASUSDT",
+        "bid_price": "3.086",
+        "ask_price": "3.096",
+        "volume": 66510.140625235,
+        "link": "https://www.okx.com/ua/trade-spot/gas-USDT"
+    },
+    {
+        "symbol": "TRXUSDT",
+        "bid_price": "0.06627",
+        "ask_price": "0.06628",
+        "volume": 4914322.901129999,
+        "link": "https://www.okx.com/ua/trade-spot/trx-USDT"
+    },
+    {
+        "symbol": "CELRUSDT",
+        "bid_price": "0.01687",
+        "ask_price": "0.01688",
+        "volume": 340088.39173121867,
+        "link": "https://www.okx.com/ua/trade-spot/celr-USDT"
+    },
+    {
+        "symbol": "CELOUSDT",
+        "bid_price": "0.639",
+        "ask_price": "0.64",
+        "volume": 322344.18570103,
+        "link": "https://www.okx.com/ua/trade-spot/celo-USDT"
+    },
+    {
+        "symbol": "KONOUSDT",
+        "bid_price": "0.0251",
+        "ask_price": "0.0253",
+        "volume": 297941.6788511649,
+        "link": "https://www.okx.com/ua/trade-spot/kono-USDT"
+    },
+    {
+        "symbol": "ECUSDT",
+        "bid_price": "0.00028",
+        "ask_price": "0.00029",
+        "volume": 35266.12927072184,
+        "link": "https://www.okx.com/ua/trade-spot/ec-USDT"
+    },
+    {
+        "symbol": "SANDUSDT",
+        "bid_price": "0.604",
+        "ask_price": "0.6042",
+        "volume": 6333480.8833672395,
+        "link": "https://www.okx.com/ua/trade-spot/sand-USDT"
+    },
+    {
+        "symbol": "LATUSDT",
+        "bid_price": "0.02125",
+        "ask_price": "0.02127",
+        "volume": 1578738.6301828849,
+        "link": "https://www.okx.com/ua/trade-spot/lat-USDT"
+    },
+    {
+        "symbol": "TUSDT",
+        "bid_price": "0.0379",
+        "ask_price": "0.038",
+        "volume": 75724.77641329,
+        "link": "https://www.okx.com/ua/trade-spot/t-USDT"
+    },
+    {
+        "symbol": "KLAYUSDT",
+        "bid_price": "0.2192",
+        "ask_price": "0.2193",
+        "volume": 1354490.7882536338,
+        "link": "https://www.okx.com/ua/trade-spot/klay-USDT"
+    },
+    {
+        "symbol": "SUNUSDT",
+        "bid_price": "0.00655",
+        "ask_price": "0.00657",
+        "volume": 249551.99871052604,
+        "link": "https://www.okx.com/ua/trade-spot/sun-USDT"
+    },
+    {
+        "symbol": "CROUSDT",
+        "bid_price": "0.0706",
+        "ask_price": "0.0707",
+        "volume": 1175348.6371043203,
+        "link": "https://www.okx.com/ua/trade-spot/cro-USDT"
+    },
+    {
+        "symbol": "RAYUSDT",
+        "bid_price": "0.248",
+        "ask_price": "0.249",
+        "volume": 65965.294572204,
+        "link": "https://www.okx.com/ua/trade-spot/ray-USDT"
+    },
+    {
+        "symbol": "FLMUSDT",
+        "bid_price": "0.0938",
+        "ask_price": "0.0939",
+        "volume": 298270.1933242107,
+        "link": "https://www.okx.com/ua/trade-spot/flm-USDT"
+    },
+    {
+        "symbol": "SOLUSDT",
+        "bid_price": "20.184",
+        "ask_price": "20.185",
+        "volume": 12137492.211915925,
+        "link": "https://www.okx.com/ua/trade-spot/sol-USDT"
+    },
+    {
+        "symbol": "API3USDT",
+        "bid_price": "1.376",
+        "ask_price": "1.378",
+        "volume": 282411.853293914,
+        "link": "https://www.okx.com/ua/trade-spot/api3-USDT"
+    },
+    {
+        "symbol": "YFIUSDT",
+        "bid_price": "9637",
+        "ask_price": "9640",
+        "volume": 2951905.229583,
+        "link": "https://www.okx.com/ua/trade-spot/yfi-USDT"
+    },
+    {
+        "symbol": "SWFTCUSDT",
+        "bid_price": "0.001212",
+        "ask_price": "0.001225",
+        "volume": 88379.09419925963,
+        "link": "https://www.okx.com/ua/trade-spot/swftc-USDT"
+    },
+    {
+        "symbol": "DEVTUSDT",
+        "bid_price": "0.01036",
+        "ask_price": "0.01041",
+        "volume": 74556.64244129705,
+        "link": "https://www.okx.com/ua/trade-spot/devt-USDT"
+    },
+    {
+        "symbol": "LDOUSDT",
+        "bid_price": "2.5488",
+        "ask_price": "2.5497",
+        "volume": 11316125.98110964,
+        "link": "https://www.okx.com/ua/trade-spot/ldo-USDT"
+    },
+    {
+        "symbol": "TRAUSDT",
+        "bid_price": "1.17",
+        "ask_price": "1.181",
+        "volume": 315110.1991274,
+        "link": "https://www.okx.com/ua/trade-spot/tra-USDT"
+    },
+    {
+        "symbol": "NMRUSDT",
+        "bid_price": "17.7",
+        "ask_price": "17.72",
+        "volume": 264715.46564158,
+        "link": "https://www.okx.com/ua/trade-spot/nmr-USDT"
+    },
+    {
+        "symbol": "UTKUSDT",
+        "bid_price": "0.1035",
+        "ask_price": "0.1038",
+        "volume": 42950.7370189603,
+        "link": "https://www.okx.com/ua/trade-spot/utk-USDT"
+    },
+    {
+        "symbol": "TONUSDT",
+        "bid_price": "2.305",
+        "ask_price": "2.307",
+        "volume": 6058901.2280844,
+        "link": "https://www.okx.com/ua/trade-spot/ton-USDT"
+    },
+    {
+        "symbol": "CHATUSDT",
+        "bid_price": "0.005641",
+        "ask_price": "0.005672",
+        "volume": 900805.6128391383,
+        "link": "https://www.okx.com/ua/trade-spot/chat-USDT"
+    },
+    {
+        "symbol": "AAVEUSDT",
+        "bid_price": "74.91",
+        "ask_price": "74.93",
+        "volume": 2529192.94284936,
+        "link": "https://www.okx.com/ua/trade-spot/aave-USDT"
+    },
+    {
+        "symbol": "TRBUSDT",
+        "bid_price": "14.62",
+        "ask_price": "14.64",
+        "volume": 236036.49571849,
+        "link": "https://www.okx.com/ua/trade-spot/trb-USDT"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "bid_price": "1.1317",
+        "ask_price": "1.1318",
+        "volume": 15748487.388548695,
+        "link": "https://www.okx.com/ua/trade-spot/matic-USDT"
+    },
+    {
+        "symbol": "SWEATUSDT",
+        "bid_price": "0.0103161",
+        "ask_price": "0.0103431",
+        "volume": 244043.032677892,
+        "link": "https://www.okx.com/ua/trade-spot/sweat-USDT"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "bid_price": "0.07347",
+        "ask_price": "0.07348",
+        "volume": 15234653.039748088,
+        "link": "https://www.okx.com/ua/trade-spot/doge-USDT"
+    },
+    {
+        "symbol": "YFIIUSDT",
+        "bid_price": "1217",
+        "ask_price": "1217.5",
+        "volume": 1744419.0048463,
+        "link": "https://www.okx.com/ua/trade-spot/yfii-USDT"
+    },
+    {
+        "symbol": "ANWUSDT",
+        "bid_price": "0.00532",
+        "ask_price": "0.00533",
+        "volume": 165316.4315648534,
+        "link": "https://www.okx.com/ua/trade-spot/anw-USDT"
+    },
+    {
+        "symbol": "BICOUSDT",
+        "bid_price": "0.381",
+        "ask_price": "0.382",
+        "volume": 318965.858009722,
+        "link": "https://www.okx.com/ua/trade-spot/bico-USDT"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "bid_price": "0.3759",
+        "ask_price": "0.37591",
+        "volume": 57668525.099831216,
+        "link": "https://www.okx.com/ua/trade-spot/xrp-USDT"
+    },
+    {
+        "symbol": "ENSUSDT",
+        "bid_price": "13.68",
+        "ask_price": "13.69",
+        "volume": 1182987.87123186,
+        "link": "https://www.okx.com/ua/trade-spot/ens-USDT"
+    },
+    {
+        "symbol": "LPTUSDT",
+        "bid_price": "5.91",
+        "ask_price": "5.92",
+        "volume": 458270.12087866,
+        "link": "https://www.okx.com/ua/trade-spot/lpt-USDT"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "bid_price": "287.1",
+        "ask_price": "287.12",
+        "volume": 2880097.66476074,
+        "link": "https://www.okx.com/ua/trade-spot/bnb-USDT"
+    },
+    {
+        "symbol": "TAIUSDT",
+        "bid_price": "0.199",
+        "ask_price": "0.2006",
+        "volume": 130182.4850078346,
+        "link": "https://www.okx.com/ua/trade-spot/tai-USDT"
+    },
+    {
+        "symbol": "SAITAMAUSDT",
+        "bid_price": "0.001869",
+        "ask_price": "0.001885",
+        "volume": 66926.71282918,
+        "link": "https://www.okx.com/ua/trade-spot/saitama-USDT"
+    },
+    {
+        "symbol": "EDENUSDT",
+        "bid_price": "0.0669",
+        "ask_price": "0.067",
+        "volume": 32923.1143487022,
+        "link": "https://www.okx.com/ua/trade-spot/eden-USDT"
+    },
+    {
+        "symbol": "PRQUSDT",
+        "bid_price": "0.1355",
+        "ask_price": "0.1364",
+        "volume": 223977.0372150781,
+        "link": "https://www.okx.com/ua/trade-spot/prq-USDT"
+    },
+    {
+        "symbol": "SPELLUSDT",
+        "bid_price": "0.000718",
+        "ask_price": "0.000719",
+        "volume": 45467.42365797516,
+        "link": "https://www.okx.com/ua/trade-spot/spell-USDT"
+    },
+    {
+        "symbol": "OMIUSDT",
+        "bid_price": "0.000941",
+        "ask_price": "0.000942",
+        "volume": 47264.532629737,
+        "link": "https://www.okx.com/ua/trade-spot/omi-USDT"
+    },
+    {
+        "symbol": "CRVUSDT",
+        "bid_price": "0.97",
+        "ask_price": "0.971",
+        "volume": 2972288.816801117,
+        "link": "https://www.okx.com/ua/trade-spot/crv-USDT"
+    },
+    {
+        "symbol": "EGLDUSDT",
+        "bid_price": "42.2",
+        "ask_price": "42.21",
+        "volume": 2228887.46855854,
+        "link": "https://www.okx.com/ua/trade-spot/egld-USDT"
+    },
+    {
+        "symbol": "WBTCUSDT",
+        "bid_price": "22246.3",
+        "ask_price": "22252.5",
+        "volume": 2393651.3129892,
+        "link": "https://www.okx.com/ua/trade-spot/wbtc-USDT"
+    },
+    {
+        "symbol": "DOSEUSDT",
+        "bid_price": "0.00665",
+        "ask_price": "0.00667",
+        "volume": 178964.66083492173,
+        "link": "https://www.okx.com/ua/trade-spot/dose-USDT"
+    },
+    {
+        "symbol": "PLGUSDT",
+        "bid_price": "0.00066",
+        "ask_price": "0.000662",
+        "volume": 42351.87787858387,
+        "link": "https://www.okx.com/ua/trade-spot/plg-USDT"
+    },
+    {
+        "symbol": "PORUSDT",
+        "bid_price": "1.0454",
+        "ask_price": "1.0505",
+        "volume": 59245.40255263,
+        "link": "https://www.okx.com/ua/trade-spot/por-USDT"
+    },
+    {
+        "symbol": "NEOUSDT",
+        "bid_price": "11.642",
+        "ask_price": "11.645",
+        "volume": 3351550.271836893,
+        "link": "https://www.okx.com/ua/trade-spot/neo-USDT"
+    },
+    {
+        "symbol": "SDUSDT",
+        "bid_price": "1.1181",
+        "ask_price": "1.1182",
+        "volume": 565943.3385364263,
+        "link": "https://www.okx.com/ua/trade-spot/sd-USDT"
+    },
+    {
+        "symbol": "RNTUSDT",
+        "bid_price": "0.001588",
+        "ask_price": "0.001599",
+        "volume": 40149.867287903726,
+        "link": "https://www.okx.com/ua/trade-spot/rnt-USDT"
+    },
+    {
+        "symbol": "BNTUSDT",
+        "bid_price": "0.432",
+        "ask_price": "0.4323",
+        "volume": 379947.3254661872,
+        "link": "https://www.okx.com/ua/trade-spot/bnt-USDT"
+    },
+    {
+        "symbol": "MRSTUSDT",
+        "bid_price": "0.01146",
+        "ask_price": "0.0115",
+        "volume": 56545.961863056,
+        "link": "https://www.okx.com/ua/trade-spot/mrst-USDT"
+    },
+    {
+        "symbol": "CHZUSDT",
+        "bid_price": "0.11981",
+        "ask_price": "0.11985",
+        "volume": 2149506.688014539,
+        "link": "https://www.okx.com/ua/trade-spot/chz-USDT"
+    },
+    {
+        "symbol": "USDCUSDT",
+        "bid_price": "0.9999",
+        "ask_price": "1",
+        "volume": 6293508.210199672,
+        "link": "https://www.okx.com/ua/trade-spot/usdc-USDT"
+    },
+    {
+        "symbol": "DOTUSDT",
+        "bid_price": "5.827",
+        "ask_price": "5.828",
+        "volume": 6379598.793709876,
+        "link": "https://www.okx.com/ua/trade-spot/dot-USDT"
+    },
+    {
+        "symbol": "MILOUSDT",
+        "bid_price": "0.00000001856",
+        "ask_price": "0.00000001872",
+        "volume": 59268.93979918037,
+        "link": "https://www.okx.com/ua/trade-spot/milo-USDT"
+    },
+    {
+        "symbol": "POLYDOGEUSDT",
+        "bid_price": "0.00000001009",
+        "ask_price": "0.0000000101",
+        "volume": 209992.12922058458,
+        "link": "https://www.okx.com/ua/trade-spot/polydoge-USDT"
+    },
+    {
+        "symbol": "MINAUSDT",
+        "bid_price": "0.782",
+        "ask_price": "0.783",
+        "volume": 1136843.138204715,
+        "link": "https://www.okx.com/ua/trade-spot/mina-USDT"
+    },
+    {
+        "symbol": "EOSUSDT",
+        "bid_price": "1.1732",
+        "ask_price": "1.1733",
+        "volume": 14585461.824544901,
+        "link": "https://www.okx.com/ua/trade-spot/eos-USDT"
+    },
+    {
+        "symbol": "GMXUSDT",
+        "bid_price": "70.09",
+        "ask_price": "70.15",
+        "volume": 3353572.146267,
+        "link": "https://www.okx.com/ua/trade-spot/gmx-USDT"
+    },
+    {
+        "symbol": "GRTUSDT",
+        "bid_price": "0.137",
+        "ask_price": "0.1372",
+        "volume": 1651265.6639701033,
+        "link": "https://www.okx.com/ua/trade-spot/grt-USDT"
+    },
+    {
+        "symbol": "PHAUSDT",
+        "bid_price": "0.1652",
+        "ask_price": "0.1656",
+        "volume": 335175.8235186121,
+        "link": "https://www.okx.com/ua/trade-spot/pha-USDT"
+    },
+    {
+        "symbol": "SKLUSDT",
+        "bid_price": "0.0405",
+        "ask_price": "0.0406",
+        "volume": 236463.2608367069,
+        "link": "https://www.okx.com/ua/trade-spot/skl-USDT"
+    },
+    {
+        "symbol": "MXTUSDT",
+        "bid_price": "0.001318",
+        "ask_price": "0.001319",
+        "volume": 317029.045538422,
+        "link": "https://www.okx.com/ua/trade-spot/mxt-USDT"
+    },
+    {
+        "symbol": "POLSUSDT",
+        "bid_price": "0.428",
+        "ask_price": "0.431",
+        "volume": 78697.073329446,
+        "link": "https://www.okx.com/ua/trade-spot/pols-USDT"
+    },
+    {
+        "symbol": "FSNUSDT",
+        "bid_price": "0.302",
+        "ask_price": "0.304",
+        "volume": 79740.5872294253,
+        "link": "https://www.okx.com/ua/trade-spot/fsn-USDT"
+    },
+    {
+        "symbol": "WNCGUSDT",
+        "bid_price": "0.1404",
+        "ask_price": "0.1406",
+        "volume": 107685.928409935,
+        "link": "https://www.okx.com/ua/trade-spot/wncg-USDT"
+    },
+    {
+        "symbol": "IOSTUSDT",
+        "bid_price": "0.01004",
+        "ask_price": "0.01005",
+        "volume": 383498.38149785105,
+        "link": "https://www.okx.com/ua/trade-spot/iost-USDT"
+    },
+    {
+        "symbol": "LAMBUSDT",
+        "bid_price": "0.00184",
+        "ask_price": "0.001847",
+        "volume": 57110.73882816318,
+        "link": "https://www.okx.com/ua/trade-spot/lamb-USDT"
+    },
+    {
+        "symbol": "SFGUSDT",
+        "bid_price": "0.0506",
+        "ask_price": "0.0507",
+        "volume": 30191.2982760135,
+        "link": "https://www.okx.com/ua/trade-spot/sfg-USDT"
+    },
+    {
+        "symbol": "CELUSDT",
+        "bid_price": "0.3837",
+        "ask_price": "0.3844",
+        "volume": 1339849.839968707,
+        "link": "https://www.okx.com/ua/trade-spot/cel-USDT"
+    },
+    {
+        "symbol": "BTCUSDT",
+        "bid_price": "22248.4",
+        "ask_price": "22248.5",
+        "volume": 172988259.96750808,
+        "link": "https://www.okx.com/ua/trade-spot/btc-USDT"
+    },
+    {
+        "symbol": "DNAUSDT",
+        "bid_price": "0.0001482",
+        "ask_price": "0.0001488",
+        "volume": 81926.37318924922,
+        "link": "https://www.okx.com/ua/trade-spot/dna-USDT"
+    },
+    {
+        "symbol": "WOOUSDT",
+        "bid_price": "0.1821",
+        "ask_price": "0.1822",
+        "volume": 430788.0517081024,
+        "link": "https://www.okx.com/ua/trade-spot/woo-USDT"
+    },
+    {
+        "symbol": "RACAUSDT",
+        "bid_price": "0.000199",
+        "ask_price": "0.0001992",
+        "volume": 478155.3833380921,
+        "link": "https://www.okx.com/ua/trade-spot/raca-USDT"
+    },
+    {
+        "symbol": "CONVUSDT",
+        "bid_price": "0.000704",
+        "ask_price": "0.000705",
+        "volume": 90119.24559509463,
+        "link": "https://www.okx.com/ua/trade-spot/conv-USDT"
+    },
+    {
+        "symbol": "ARGUSDT",
+        "bid_price": "1.2349",
+        "ask_price": "1.2466",
+        "volume": 62089.13175625,
+        "link": "https://www.okx.com/ua/trade-spot/arg-USDT"
+    },
+    {
+        "symbol": "CVPUSDT",
+        "bid_price": "0.5436",
+        "ask_price": "0.545",
+        "volume": 800143.5112641576,
+        "link": "https://www.okx.com/ua/trade-spot/cvp-USDT"
+    },
+    {
+        "symbol": "SISUSDT",
+        "bid_price": "0.1112",
+        "ask_price": "0.1117",
+        "volume": 164314.3205822231,
+        "link": "https://www.okx.com/ua/trade-spot/sis-USDT"
+    },
+    {
+        "symbol": "CMTUSDT",
+        "bid_price": "0.00219",
+        "ask_price": "0.0022",
+        "volume": 40291.69653637002,
+        "link": "https://www.okx.com/ua/trade-spot/cmt-USDT"
+    },
+    {
+        "symbol": "ILVUSDT",
+        "bid_price": "75.8",
+        "ask_price": "76",
+        "volume": 615320.1002594,
+        "link": "https://www.okx.com/ua/trade-spot/ilv-USDT"
+    },
+    {
+        "symbol": "APEUSDT",
+        "bid_price": "4.6222",
+        "ask_price": "4.6248",
+        "volume": 2665476.3267096304,
+        "link": "https://www.okx.com/ua/trade-spot/ape-USDT"
+    },
+    {
+        "symbol": "ZBCUSDT",
+        "bid_price": "0.01321",
+        "ask_price": "0.01323",
+        "volume": 3053255.9035061835,
+        "link": "https://www.okx.com/ua/trade-spot/zbc-USDT"
+    },
+    {
+        "symbol": "METISUSDT",
+        "bid_price": "29.16",
+        "ask_price": "29.24",
+        "volume": 157564.17922795,
+        "link": "https://www.okx.com/ua/trade-spot/metis-USDT"
+    },
+    {
+        "symbol": "LOOKSUSDT",
+        "bid_price": "0.1605",
+        "ask_price": "0.1607",
+        "volume": 1013821.3885873052,
+        "link": "https://www.okx.com/ua/trade-spot/looks-USDT"
+    },
+    {
+        "symbol": "LBAUSDT",
+        "bid_price": "0.001493",
+        "ask_price": "0.001502",
+        "volume": 33774.7922726097,
+        "link": "https://www.okx.com/ua/trade-spot/lba-USDT"
+    },
+    {
+        "symbol": "GHSTUSDT",
+        "bid_price": "1.583",
+        "ask_price": "1.586",
+        "volume": 1152291.101101128,
+        "link": "https://www.okx.com/ua/trade-spot/ghst-USDT"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "bid_price": "0.32598",
+        "ask_price": "0.32599",
+        "volume": 7117437.900528888,
+        "link": "https://www.okx.com/ua/trade-spot/ada-USDT"
+    },
+    {
+        "symbol": "HNTUSDT",
+        "bid_price": "2.3126",
+        "ask_price": "2.3173",
+        "volume": 147301.70671544,
+        "link": "https://www.okx.com/ua/trade-spot/hnt-USDT"
+    },
+    {
+        "symbol": "ALPHAUSDT",
+        "bid_price": "0.1055",
+        "ask_price": "0.1058",
+        "volume": 66471.6438651522,
+        "link": "https://www.okx.com/ua/trade-spot/alpha-USDT"
+    },
+    {
+        "symbol": "SHIBUSDT",
+        "bid_price": "0.00001071",
+        "ask_price": "0.00001072",
+        "volume": 5553057.6294222,
+        "link": "https://www.okx.com/ua/trade-spot/shib-USDT"
+    },
+    {
+        "symbol": "RSS3USDT",
+        "bid_price": "0.1439",
+        "ask_price": "0.1447",
+        "volume": 289649.8540824201,
+        "link": "https://www.okx.com/ua/trade-spot/rss3-USDT"
+    },
+    {
+        "symbol": "SNTUSDT",
+        "bid_price": "0.0259",
+        "ask_price": "0.02595",
+        "volume": 232266.1291618472,
+        "link": "https://www.okx.com/ua/trade-spot/snt-USDT"
+    },
+    {
+        "symbol": "AZYUSDT",
+        "bid_price": "0.01649",
+        "ask_price": "0.0165",
+        "volume": 118239.838799994,
+        "link": "https://www.okx.com/ua/trade-spot/azy-USDT"
+    },
+    {
+        "symbol": "USDTUSDC",
+        "bid_price": "1",
+        "ask_price": "1.0001",
+        "volume": 1194428.97267133,
+        "link": "https://www.okx.com/ua/trade-spot/usdt-USDC"
+    },
+    {
+        "symbol": "CFXUSDT",
+        "bid_price": "0.2006",
+        "ask_price": "0.20063",
+        "volume": 25526877.178211994,
+        "link": "https://www.okx.com/ua/trade-spot/cfx-USDT"
+    },
+    {
+        "symbol": "SRMUSDT",
+        "bid_price": "0.276",
+        "ask_price": "0.277",
+        "volume": 107239.847384484,
+        "link": "https://www.okx.com/ua/trade-spot/srm-USDT"
+    },
+    {
+        "symbol": "OKTUSDT",
+        "bid_price": "26.38",
+        "ask_price": "26.4",
+        "volume": 1633763.65602551,
+        "link": "https://www.okx.com/ua/trade-spot/okt-USDT"
+    },
+    {
+        "symbol": "DOMEUSDT",
+        "bid_price": "0.00175",
+        "ask_price": "0.00176",
+        "volume": 2780318.4760797117,
+        "link": "https://www.okx.com/ua/trade-spot/dome-USDT"
+    },
+    {
+        "symbol": "UNIUSDT",
+        "bid_price": "6.382",
+        "ask_price": "6.383",
+        "volume": 4323553.024902675,
+        "link": "https://www.okx.com/ua/trade-spot/uni-USDT"
+    },
+    {
+        "symbol": "ERNUSDT",
+        "bid_price": "1.956",
+        "ask_price": "1.964",
+        "volume": 66337.756974267,
+        "link": "https://www.okx.com/ua/trade-spot/ern-USDT"
+    },
+    {
+        "symbol": "ZYROUSDT",
+        "bid_price": "0.00705",
+        "ask_price": "0.00707",
+        "volume": 443326.0269422967,
+        "link": "https://www.okx.com/ua/trade-spot/zyro-USDT"
+    },
+    {
+        "symbol": "CNTMUSDT",
+        "bid_price": "0.0569",
+        "ask_price": "0.057",
+        "volume": 693249.7089369091,
+        "link": "https://www.okx.com/ua/trade-spot/cntm-USDT"
+    },
+    {
+        "symbol": "BTMUSDT",
+        "bid_price": "0.02782",
+        "ask_price": "0.02783",
+        "volume": 349057.59075799707,
+        "link": "https://www.okx.com/ua/trade-spot/btm-USDT"
+    },
+    {
+        "symbol": "KCASHUSDT",
+        "bid_price": "0.001394",
+        "ask_price": "0.001399",
+        "volume": 237138.724547604,
+        "link": "https://www.okx.com/ua/trade-spot/kcash-USDT"
+    },
+    {
+        "symbol": "ACAUSDT",
+        "bid_price": "0.112",
+        "ask_price": "0.113",
+        "volume": 62426.230922019,
+        "link": "https://www.okx.com/ua/trade-spot/aca-USDT"
+    },
+    {
+        "symbol": "REPUSDT",
+        "bid_price": "7.74",
+        "ask_price": "7.84",
+        "volume": 339924.43156957,
+        "link": "https://www.okx.com/ua/trade-spot/rep-USDT"
+    },
+    {
+        "symbol": "LEASHUSDT",
+        "bid_price": "491.6",
+        "ask_price": "494.8",
+        "volume": 39745.3300401,
+        "link": "https://www.okx.com/ua/trade-spot/leash-USDT"
+    },
+    {
+        "symbol": "CQTUSDT",
+        "bid_price": "0.1593",
+        "ask_price": "0.1603",
+        "volume": 150776.3781210339,
+        "link": "https://www.okx.com/ua/trade-spot/cqt-USDT"
+    },
+    {
+        "symbol": "TUPUSDT",
+        "bid_price": "0.02511",
+        "ask_price": "0.02529",
+        "volume": 37044.42129447548,
+        "link": "https://www.okx.com/ua/trade-spot/tup-USDT"
+    },
+    {
+        "symbol": "INTUSDT",
+        "bid_price": "0.002745",
+        "ask_price": "0.002772",
+        "volume": 361122.7836482426,
+        "link": "https://www.okx.com/ua/trade-spot/int-USDT"
+    },
+    {
+        "symbol": "THETAUSDT",
+        "bid_price": "0.987",
+        "ask_price": "0.988",
+        "volume": 614129.671422728,
+        "link": "https://www.okx.com/ua/trade-spot/theta-USDT"
+    },
+    {
+        "symbol": "HBARUSDT",
+        "bid_price": "0.0627",
+        "ask_price": "0.0628",
+        "volume": 515890.5024133846,
+        "link": "https://www.okx.com/ua/trade-spot/hbar-USDT"
+    },
+    {
+        "symbol": "CLVUSDT",
+        "bid_price": "0.0684",
+        "ask_price": "0.0687",
+        "volume": 36499.081609603,
+        "link": "https://www.okx.com/ua/trade-spot/clv-USDT"
+    },
+    {
+        "symbol": "BTTUSDT",
+        "bid_price": "0.000000685",
+        "ask_price": "0.000000686",
+        "volume": 125649.43739081,
+        "link": "https://www.okx.com/ua/trade-spot/btt-USDT"
+    },
+    {
+        "symbol": "ZECUSDT",
+        "bid_price": "37.07",
+        "ask_price": "37.09",
+        "volume": 3041232.3990886,
+        "link": "https://www.okx.com/ua/trade-spot/zec-USDT"
+    },
+    {
+        "symbol": "CHEUSDT",
+        "bid_price": "0.04942",
+        "ask_price": "0.04959",
+        "volume": 151000.6501665406,
+        "link": "https://www.okx.com/ua/trade-spot/che-USDT"
+    },
+    {
+        "symbol": "SUSHIUSDT",
+        "bid_price": "1.18",
+        "ask_price": "1.181",
+        "volume": 1190952.308551298,
+        "link": "https://www.okx.com/ua/trade-spot/sushi-USDT"
+    },
+    {
+        "symbol": "LTCUSDT",
+        "bid_price": "85.79",
+        "ask_price": "85.8",
+        "volume": 28146335.13686753,
+        "link": "https://www.okx.com/ua/trade-spot/ltc-USDT"
+    },
+    {
+        "symbol": "CELTUSDT",
+        "bid_price": "0.00119",
+        "ask_price": "0.001194",
+        "volume": 714399.2900797605,
+        "link": "https://www.okx.com/ua/trade-spot/celt-USDT"
+    },
+    {
+        "symbol": "ICXUSDT",
+        "bid_price": "0.2148",
+        "ask_price": "0.2151",
+        "volume": 258315.8199235238,
+        "link": "https://www.okx.com/ua/trade-spot/icx-USDT"
+    },
+    {
+        "symbol": "STARLUSDT",
+        "bid_price": "0.000002602",
+        "ask_price": "0.000002606",
+        "volume": 513693.394411812,
+        "link": "https://www.okx.com/ua/trade-spot/starl-USDT"
+    },
+    {
+        "symbol": "BCDUSDT",
+        "bid_price": "0.1895",
+        "ask_price": "0.1911",
+        "volume": 319993.3678141261,
+        "link": "https://www.okx.com/ua/trade-spot/bcd-USDT"
+    },
+    {
+        "symbol": "WGRTUSDT",
+        "bid_price": "0.00158",
+        "ask_price": "0.0016",
+        "volume": 60669.70705507596,
+        "link": "https://www.okx.com/ua/trade-spot/wgrt-USDT"
+    },
+    {
+        "symbol": "CGLUSDT",
+        "bid_price": "0.01237",
+        "ask_price": "0.01238",
+        "volume": 504818.7685979,
+        "link": "https://www.okx.com/ua/trade-spot/cgl-USDT"
+    },
+    {
+        "symbol": "LINKUSDT",
+        "bid_price": "6.733",
+        "ask_price": "6.735",
+        "volume": 5371561.065288302,
+        "link": "https://www.okx.com/ua/trade-spot/link-USDT"
+    },
+    {
+        "symbol": "TRUEUSDT",
+        "bid_price": "0.02048",
+        "ask_price": "0.02062",
+        "volume": 54212.41898115667,
+        "link": "https://www.okx.com/ua/trade-spot/true-USDT"
+    },
+    {
+        "symbol": "WINUSDT",
+        "bid_price": "0.0000898",
+        "ask_price": "0.0000899",
+        "volume": 226404.2517484,
+        "link": "https://www.okx.com/ua/trade-spot/win-USDT"
+    },
+    {
+        "symbol": "CITYUSDT",
+        "bid_price": "4.4047",
+        "ask_price": "4.4294",
+        "volume": 59660.08795898,
+        "link": "https://www.okx.com/ua/trade-spot/city-USDT"
+    },
+    {
+        "symbol": "KDAUSDT",
+        "bid_price": "1.035",
+        "ask_price": "1.036",
+        "volume": 388388.70581364,
+        "link": "https://www.okx.com/ua/trade-spot/kda-USDT"
+    },
+    {
+        "symbol": "OKBUSDT",
+        "bid_price": "43.87",
+        "ask_price": "43.89",
+        "volume": 17958850.39241809,
+        "link": "https://www.okx.com/ua/trade-spot/okb-USDT"
+    },
+    {
+        "symbol": "NYMUSDT",
+        "bid_price": "0.2575",
+        "ask_price": "0.2581",
+        "volume": 741678.51877534,
+        "link": "https://www.okx.com/ua/trade-spot/nym-USDT"
+    },
+    {
+        "symbol": "XTZUSDT",
+        "bid_price": "1.094",
+        "ask_price": "1.095",
+        "volume": 322190.11719941,
+        "link": "https://www.okx.com/ua/trade-spot/xtz-USDT"
+    },
+    {
+        "symbol": "MIRUSDT",
+        "bid_price": "0.117",
+        "ask_price": "0.118",
+        "volume": 63583.805253259,
+        "link": "https://www.okx.com/ua/trade-spot/mir-USDT"
+    },
+    {
+        "symbol": "GOGUSDT",
+        "bid_price": "0.0714",
+        "ask_price": "0.0715",
+        "volume": 105187.0683021781,
+        "link": "https://www.okx.com/ua/trade-spot/gog-USDT"
+    },
+    {
+        "symbol": "GOALUSDT",
+        "bid_price": "0.2692",
+        "ask_price": "0.2696",
+        "volume": 363965.7291821,
+        "link": "https://www.okx.com/ua/trade-spot/goal-USDT"
+    },
+    {
+        "symbol": "STCUSDT",
+        "bid_price": "0.441",
+        "ask_price": "0.442",
+        "volume": 798620.0856481,
+        "link": "https://www.okx.com/ua/trade-spot/stc-USDT"
+    },
+    {
+        "symbol": "ELFUSDT",
+        "bid_price": "0.2734",
+        "ask_price": "0.2735",
+        "volume": 744151.8131504019,
+        "link": "https://www.okx.com/ua/trade-spot/elf-USDT"
+    },
+    {
+        "symbol": "RVNUSDT",
+        "bid_price": "0.02527",
+        "ask_price": "0.02528",
+        "volume": 1498370.0798388347,
+        "link": "https://www.okx.com/ua/trade-spot/rvn-USDT"
+    },
+    {
+        "symbol": "RPLUSDT",
+        "bid_price": "36.73",
+        "ask_price": "36.79",
+        "volume": 208015.187342,
+        "link": "https://www.okx.com/ua/trade-spot/rpl-USDT"
+    },
+    {
+        "symbol": "OPUSDT",
+        "bid_price": "2.3912",
+        "ask_price": "2.3917",
+        "volume": 18819034.48518059,
+        "link": "https://www.okx.com/ua/trade-spot/op-USDT"
+    },
+    {
+        "symbol": "RENUSDT",
+        "bid_price": "0.119",
+        "ask_price": "0.1192",
+        "volume": 2350552.506797435,
+        "link": "https://www.okx.com/ua/trade-spot/ren-USDT"
+    },
+    {
+        "symbol": "BLURUSDT",
+        "bid_price": "0.6391",
+        "ask_price": "0.6395",
+        "volume": 26454783.06613969,
+        "link": "https://www.okx.com/ua/trade-spot/blur-USDT"
+    },
+    {
+        "symbol": "ANCUSDT",
+        "bid_price": "0.0227",
+        "ask_price": "0.0228",
+        "volume": 454957.9272785834,
+        "link": "https://www.okx.com/ua/trade-spot/anc-USDT"
+    },
+    {
+        "symbol": "LUNCUSDT",
+        "bid_price": "0.00014121",
+        "ask_price": "0.00014126",
+        "volume": 1673737.55755842,
+        "link": "https://www.okx.com/ua/trade-spot/lunc-USDT"
+    },
+    {
+        "symbol": "ETHWUSDT",
+        "bid_price": "3.418",
+        "ask_price": "3.419",
+        "volume": 2111869.4956958,
+        "link": "https://www.okx.com/ua/trade-spot/ethw-USDT"
+    },
+    {
+        "symbol": "GFUSDT",
+        "bid_price": "0.0896",
+        "ask_price": "0.0897",
+        "volume": 384159.2978288837,
+        "link": "https://www.okx.com/ua/trade-spot/gf-USDT"
+    },
+    {
+        "symbol": "ICPUSDT",
+        "bid_price": "5.27",
+        "ask_price": "5.28",
+        "volume": 2735729.25525703,
+        "link": "https://www.okx.com/ua/trade-spot/icp-USDT"
+    },
+    {
+        "symbol": "ALCXUSDT",
+        "bid_price": "25.7",
+        "ask_price": "25.8",
+        "volume": 97473.1160338,
+        "link": "https://www.okx.com/ua/trade-spot/alcx-USDT"
+    },
+    {
+        "symbol": "BSVUSDT",
+        "bid_price": "37.34",
+        "ask_price": "37.35",
+        "volume": 2567601.23654311,
+        "link": "https://www.okx.com/ua/trade-spot/bsv-USDT"
+    },
+    {
+        "symbol": "PICKLEUSDT",
+        "bid_price": "1.414",
+        "ask_price": "1.424",
+        "volume": 93304.149835476,
+        "link": "https://www.okx.com/ua/trade-spot/pickle-USDT"
+    },
+    {
+        "symbol": "XMRUSDT",
+        "bid_price": "150.87",
+        "ask_price": "150.88",
+        "volume": 3879228.48202612,
+        "link": "https://www.okx.com/ua/trade-spot/xmr-USDT"
+    },
+    {
+        "symbol": "ZENUSDT",
+        "bid_price": "10.7",
+        "ask_price": "10.71",
+        "volume": 1373855.07636802,
+        "link": "https://www.okx.com/ua/trade-spot/zen-USDT"
+    },
+    {
+        "symbol": "SOCUSDT",
+        "bid_price": "0.001384",
+        "ask_price": "0.001389",
+        "volume": 30637.094132924332,
+        "link": "https://www.okx.com/ua/trade-spot/soc-USDT"
+    },
+    {
+        "symbol": "LINGUSDT",
+        "bid_price": "0.0050612",
+        "ask_price": "0.0050638",
+        "volume": 94377.253794364,
+        "link": "https://www.okx.com/ua/trade-spot/ling-USDT"
+    },
+    {
+        "symbol": "BADGERUSDT",
+        "bid_price": "3.031",
+        "ask_price": "3.035",
+        "volume": 436040.771351667,
+        "link": "https://www.okx.com/ua/trade-spot/badger-USDT"
+    },
+    {
+        "symbol": "DORAUSDT",
+        "bid_price": "3.262",
+        "ask_price": "3.271",
+        "volume": 317128.115791524,
+        "link": "https://www.okx.com/ua/trade-spot/dora-USDT"
+    },
+    {
+        "symbol": "FTMUSDT",
+        "bid_price": "0.3987",
+        "ask_price": "0.3989",
+        "volume": 9177981.106739819,
+        "link": "https://www.okx.com/ua/trade-spot/ftm-USDT"
+    },
+    {
+        "symbol": "RIOUSDT",
+        "bid_price": "0.089",
+        "ask_price": "0.0895",
+        "volume": 607493.5196520993,
+        "link": "https://www.okx.com/ua/trade-spot/rio-USDT"
+    },
+    {
+        "symbol": "MAGICUSDT",
+        "bid_price": "1.33",
+        "ask_price": "1.331",
+        "volume": 7674694.747374309,
+        "link": "https://www.okx.com/ua/trade-spot/magic-USDT"
+    },
+    {
+        "symbol": "LOONUSDT",
+        "bid_price": "0.00228",
+        "ask_price": "0.002289",
+        "volume": 108690.54999423816,
+        "link": "https://www.okx.com/ua/trade-spot/loon-USDT"
+    },
+    {
+        "symbol": "DGBUSDT",
+        "bid_price": "0.01012",
+        "ask_price": "0.01014",
+        "volume": 93918.77074117278,
+        "link": "https://www.okx.com/ua/trade-spot/dgb-USDT"
+    },
+    {
+        "symbol": "LRCUSDT",
+        "bid_price": "0.3187",
+        "ask_price": "0.3189",
+        "volume": 1209356.129319851,
+        "link": "https://www.okx.com/ua/trade-spot/lrc-USDT"
+    },
+    {
+        "symbol": "DYDXUSDT",
+        "bid_price": "2.24",
+        "ask_price": "2.241",
+        "volume": 10265162.976343881,
+        "link": "https://www.okx.com/ua/trade-spot/dydx-USDT"
+    },
+    {
+        "symbol": "IGUUSDT",
+        "bid_price": "0.12715",
+        "ask_price": "0.12782",
+        "volume": 248016.642173297,
+        "link": "https://www.okx.com/ua/trade-spot/igu-USDT"
+    },
+    {
+        "symbol": "ORBUSDT",
+        "bid_price": "0.137",
+        "ask_price": "0.1373",
+        "volume": 1644997.0278363593,
+        "link": "https://www.okx.com/ua/trade-spot/orb-USDT"
+    },
+    {
+        "symbol": "ZRXUSDT",
+        "bid_price": "0.2312",
+        "ask_price": "0.2314",
+        "volume": 255726.6221154143,
+        "link": "https://www.okx.com/ua/trade-spot/zrx-USDT"
+    },
+    {
+        "symbol": "SCUSDT",
+        "bid_price": "0.003749",
+        "ask_price": "0.003754",
+        "volume": 167059.84153366296,
+        "link": "https://www.okx.com/ua/trade-spot/sc-USDT"
+    },
+    {
+        "symbol": "FILUSDT",
+        "bid_price": "5.876",
+        "ask_price": "5.878",
+        "volume": 24528868.23479625,
+        "link": "https://www.okx.com/ua/trade-spot/fil-USDT"
+    },
+    {
+        "symbol": "DAOUSDT",
+        "bid_price": "1.787",
+        "ask_price": "1.788",
+        "volume": 776456.732223454,
+        "link": "https://www.okx.com/ua/trade-spot/dao-USDT"
+    },
+    {
+        "symbol": "RSRUSDT",
+        "bid_price": "0.00417",
+        "ask_price": "0.00418",
+        "volume": 250920.56710996563,
+        "link": "https://www.okx.com/ua/trade-spot/rsr-USDT"
+    },
+    {
+        "symbol": "LETUSDT",
+        "bid_price": "0.000943",
+        "ask_price": "0.000944",
+        "volume": 80634.9434508031,
+        "link": "https://www.okx.com/ua/trade-spot/let-USDT"
+    },
+    {
+        "symbol": "RONUSDT",
+        "bid_price": "0.733",
+        "ask_price": "0.735",
+        "volume": 69000.510343986,
+        "link": "https://www.okx.com/ua/trade-spot/ron-USDT"
+    },
+    {
+        "symbol": "GODSUSDT",
+        "bid_price": "0.2507",
+        "ask_price": "0.251",
+        "volume": 214144.1893095577,
+        "link": "https://www.okx.com/ua/trade-spot/gods-USDT"
+    },
+    {
+        "symbol": "AUCTIONUSDT",
+        "bid_price": "5.44",
+        "ask_price": "5.46",
+        "volume": 99002.99314714,
+        "link": "https://www.okx.com/ua/trade-spot/auction-USDT"
+    },
+    {
+        "symbol": "BZZUSDT",
+        "bid_price": "0.5722",
+        "ask_price": "0.5727",
+        "volume": 64381.3409664553,
+        "link": "https://www.okx.com/ua/trade-spot/bzz-USDT"
+    },
+    {
+        "symbol": "MXCUSDT",
+        "bid_price": "0.02237",
+        "ask_price": "0.02241",
+        "volume": 122433.18672836472,
+        "link": "https://www.okx.com/ua/trade-spot/mxc-USDT"
+    },
+    {
+        "symbol": "NFTUSDT",
+        "bid_price": "0.0000004494",
+        "ask_price": "0.0000004496",
+        "volume": 1829078.4411804976,
+        "link": "https://www.okx.com/ua/trade-spot/nft-USDT"
+    },
+    {
+        "symbol": "ONTUSDT",
+        "bid_price": "0.2149",
+        "ask_price": "0.2151",
+        "volume": 663679.0961405651,
+        "link": "https://www.okx.com/ua/trade-spot/ont-USDT"
+    },
+    {
+        "symbol": "COVERUSDT",
+        "bid_price": "16.73",
+        "ask_price": "16.81",
+        "volume": 157195.13106074,
+        "link": "https://www.okx.com/ua/trade-spot/cover-USDT"
+    },
+    {
+        "symbol": "UMAUSDT",
+        "bid_price": "1.991",
+        "ask_price": "1.993",
+        "volume": 295647.307124912,
+        "link": "https://www.okx.com/ua/trade-spot/uma-USDT"
+    },
+    {
+        "symbol": "FORTHUSDT",
+        "bid_price": "3.71",
+        "ask_price": "3.73",
+        "volume": 50912.22487186,
+        "link": "https://www.okx.com/ua/trade-spot/forth-USDT"
+    },
+    {
+        "symbol": "MOVRUSDT",
+        "bid_price": "8.83",
+        "ask_price": "8.84",
+        "volume": 84874.16756317,
+        "link": "https://www.okx.com/ua/trade-spot/movr-USDT"
+    },
+    {
+        "symbol": "FITFIUSDT",
+        "bid_price": "0.0183",
+        "ask_price": "0.0184",
+        "volume": 598064.47608942,
+        "link": "https://www.okx.com/ua/trade-spot/fitfi-USDT"
+    },
+    {
+        "symbol": "ARUSDT",
+        "bid_price": "8.44",
+        "ask_price": "8.45",
+        "volume": 3732018.89726004,
+        "link": "https://www.okx.com/ua/trade-spot/ar-USDT"
+    },
+    {
+        "symbol": "USTCUSDT",
+        "bid_price": "0.02367",
+        "ask_price": "0.02368",
+        "volume": 960118.574509317,
+        "link": "https://www.okx.com/ua/trade-spot/ustc-USDT"
+    },
+    {
+        "symbol": "CTCUSDT",
+        "bid_price": "0.444",
+        "ask_price": "0.447",
+        "volume": 510006.549974273,
+        "link": "https://www.okx.com/ua/trade-spot/ctc-USDT"
+    },
+    {
+        "symbol": "DMDUSDT",
+        "bid_price": "8.31",
+        "ask_price": "8.4",
+        "volume": 363300.73721092,
+        "link": "https://www.okx.com/ua/trade-spot/dmd-USDT"
+    },
+    {
+        "symbol": "WAXPUSDT",
+        "bid_price": "0.0678",
+        "ask_price": "0.068",
+        "volume": 79431.8972941523,
+        "link": "https://www.okx.com/ua/trade-spot/waxp-USDT"
+    },
+    {
+        "symbol": "BANDUSDT",
+        "bid_price": "1.665",
+        "ask_price": "1.666",
+        "volume": 588018.112539408,
+        "link": "https://www.okx.com/ua/trade-spot/band-USDT"
+    },
+    {
+        "symbol": "XLMUSDT",
+        "bid_price": "0.08208",
+        "ask_price": "0.0821",
+        "volume": 953295.5354126029,
+        "link": "https://www.okx.com/ua/trade-spot/xlm-USDT"
+    },
+    {
+        "symbol": "SNXUSDT",
+        "bid_price": "2.926",
+        "ask_price": "2.928",
+        "volume": 3896907.526110239,
+        "link": "https://www.okx.com/ua/trade-spot/snx-USDT"
+    },
+    {
+        "symbol": "ELTUSDT",
+        "bid_price": "0.001155",
+        "ask_price": "0.001161",
+        "volume": 39642.3846084145,
+        "link": "https://www.okx.com/ua/trade-spot/elt-USDT"
+    },
+    {
+        "symbol": "YGGUSDT",
+        "bid_price": "0.2662",
+        "ask_price": "0.2664",
+        "volume": 1072734.1080720238,
+        "link": "https://www.okx.com/ua/trade-spot/ygg-USDT"
+    },
+    {
+        "symbol": "FLRUSDT",
+        "bid_price": "0.03523",
+        "ask_price": "0.03524",
+        "volume": 248452.4307063,
+        "link": "https://www.okx.com/ua/trade-spot/flr-USDT"
+    },
+    {
+        "symbol": "TAKIUSDT",
+        "bid_price": "0.00643",
+        "ask_price": "0.00644",
+        "volume": 42426.328633298,
+        "link": "https://www.okx.com/ua/trade-spot/taki-USDT"
+    },
+    {
+        "symbol": "LDNUSDT",
+        "bid_price": "0.1846",
+        "ask_price": "0.1848",
+        "volume": 219577.4587772844,
+        "link": "https://www.okx.com/ua/trade-spot/ldn-USDT"
+    },
+    {
+        "symbol": "ATOMUSDT",
+        "bid_price": "11.624",
+        "ask_price": "11.626",
+        "volume": 2888848.610991169,
+        "link": "https://www.okx.com/ua/trade-spot/atom-USDT"
+    },
+    {
+        "symbol": "BATUSDT",
+        "bid_price": "0.2462",
+        "ask_price": "0.2464",
+        "volume": 738048.4259551609,
+        "link": "https://www.okx.com/ua/trade-spot/bat-USDT"
+    },
+    {
+        "symbol": "MANAUSDT",
+        "bid_price": "0.5891",
+        "ask_price": "0.5893",
+        "volume": 3425246.0018049134,
+        "link": "https://www.okx.com/ua/trade-spot/mana-USDT"
+    },
+    {
+        "symbol": "BRWLUSDT",
+        "bid_price": "0.002941",
+        "ask_price": "0.002947",
+        "volume": 282545.1479746346,
+        "link": "https://www.okx.com/ua/trade-spot/brwl-USDT"
+    },
+    {
+        "symbol": "SOSUSDT",
+        "bid_price": "0.000000145",
+        "ask_price": "0.000000146",
+        "volume": 91509.690043748,
+        "link": "https://www.okx.com/ua/trade-spot/sos-USDT"
+    },
+    {
+        "symbol": "CVCUSDT",
+        "bid_price": "0.1055",
+        "ask_price": "0.1056",
+        "volume": 1345294.4811269052,
+        "link": "https://www.okx.com/ua/trade-spot/cvc-USDT"
+    },
+    {
+        "symbol": "SLPUSDT",
+        "bid_price": "0.00279",
+        "ask_price": "0.0028",
+        "volume": 632225.3581844053,
+        "link": "https://www.okx.com/ua/trade-spot/slp-USDT"
+    },
+    {
+        "symbol": "BTGUSDT",
+        "bid_price": "15.17",
+        "ask_price": "15.22",
+        "volume": 240700.24850025,
+        "link": "https://www.okx.com/ua/trade-spot/btg-USDT"
+    },
+    {
+        "symbol": "XEMUSDT",
+        "bid_price": "0.0392",
+        "ask_price": "0.0393",
+        "volume": 64148.9232360932,
+        "link": "https://www.okx.com/ua/trade-spot/xem-USDT"
+    },
+    {
+        "symbol": "DCRUSDT",
+        "bid_price": "21.15",
+        "ask_price": "21.24",
+        "volume": 32578.0043887675,
+        "link": "https://www.okx.com/ua/trade-spot/dcr-USDT"
+    },
+    {
+        "symbol": "MOFUSDT",
+        "bid_price": "0.0001281",
+        "ask_price": "0.0001284",
+        "volume": 280156.0173673842,
+        "link": "https://www.okx.com/ua/trade-spot/mof-USDT"
+    },
+    {
+        "symbol": "SSVUSDT",
+        "bid_price": "38.82",
+        "ask_price": "38.92",
+        "volume": 1478169.983737,
+        "link": "https://www.okx.com/ua/trade-spot/ssv-USDT"
+    },
+    {
+        "symbol": "PSTAKEUSDT",
+        "bid_price": "0.0893",
+        "ask_price": "0.09",
+        "volume": 156795.2829892132,
+        "link": "https://www.okx.com/ua/trade-spot/pstake-USDT"
+    },
+    {
+        "symbol": "KINEUSDT",
+        "bid_price": "0.0815",
+        "ask_price": "0.082",
+        "volume": 159800.0378215039,
+        "link": "https://www.okx.com/ua/trade-spot/kine-USDT"
+    },
+    {
+        "symbol": "KSMUSDT",
+        "bid_price": "33.32",
+        "ask_price": "33.33",
+        "volume": 1165902.94997425,
+        "link": "https://www.okx.com/ua/trade-spot/ksm-USDT"
+    },
+    {
+        "symbol": "RFUELUSDT",
+        "bid_price": "0.00582",
+        "ask_price": "0.00584",
+        "volume": 40554.40002476277,
+        "link": "https://www.okx.com/ua/trade-spot/rfuel-USDT"
+    },
+    {
+        "symbol": "JOEUSDT",
+        "bid_price": "0.237",
+        "ask_price": "0.238",
+        "volume": 42325.979000554,
+        "link": "https://www.okx.com/ua/trade-spot/joe-USDT"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "bid_price": "1553.85",
+        "ask_price": "1553.86",
+        "volume": 149513260.87476394,
+        "link": "https://www.okx.com/ua/trade-spot/eth-USDT"
+    },
+    {
+        "symbol": "STORJUSDT",
+        "bid_price": "0.3623",
+        "ask_price": "0.3625",
+        "volume": 462029.7825982217,
+        "link": "https://www.okx.com/ua/trade-spot/storj-USDT"
+    },
+    {
+        "symbol": "INXUSDT",
+        "bid_price": "0.000475",
+        "ask_price": "0.000476",
+        "volume": 52021.84440800204,
+        "link": "https://www.okx.com/ua/trade-spot/inx-USDT"
+    },
+    {
+        "symbol": "GMTUSDT",
+        "bid_price": "0.3507",
+        "ask_price": "0.3508",
+        "volume": 3330193.93283453,
+        "link": "https://www.okx.com/ua/trade-spot/gmt-USDT"
+    },
+    {
+        "symbol": "EFIUSDT",
+        "bid_price": "0.0798",
+        "ask_price": "0.08",
+        "volume": 87924.0728691159,
+        "link": "https://www.okx.com/ua/trade-spot/efi-USDT"
+    },
+    {
+        "symbol": "MOVEZUSDT",
+        "bid_price": "0.00299",
+        "ask_price": "0.00301",
+        "volume": 41844.1205513,
+        "link": "https://www.okx.com/ua/trade-spot/movez-USDT"
+    },
+    {
+        "symbol": "BLOKUSDT",
+        "bid_price": "0.002761",
+        "ask_price": "0.002769",
+        "volume": 55296.177654799,
+        "link": "https://www.okx.com/ua/trade-spot/blok-USDT"
+    },
+    {
+        "symbol": "OMGUSDT",
+        "bid_price": "1.449",
+        "ask_price": "1.451",
+        "volume": 413661.051768125,
+        "link": "https://www.okx.com/ua/trade-spot/omg-USDT"
+    },
+    {
+        "symbol": "PEOPLEUSDT",
+        "bid_price": "0.02128",
+        "ask_price": "0.02129",
+        "volume": 3854897.2286268533,
+        "link": "https://www.okx.com/ua/trade-spot/people-USDT"
+    },
+    {
+        "symbol": "BALUSDT",
+        "bid_price": "6.293",
+        "ask_price": "6.297",
+        "volume": 196846.094095664,
+        "link": "https://www.okx.com/ua/trade-spot/bal-USDT"
+    },
+    {
+        "symbol": "ZILUSDT",
+        "bid_price": "0.02635",
+        "ask_price": "0.02636",
+        "volume": 1328430.0937321498,
+        "link": "https://www.okx.com/ua/trade-spot/zil-USDT"
+    },
+    {
+        "symbol": "FLOWUSDT",
+        "bid_price": "1.011",
+        "ask_price": "1.012",
+        "volume": 1245598.001924291,
+        "link": "https://www.okx.com/ua/trade-spot/flow-USDT"
+    },
+    {
+        "symbol": "IMXUSDT",
+        "bid_price": "1.074",
+        "ask_price": "1.075",
+        "volume": 2940525.892875398,
+        "link": "https://www.okx.com/ua/trade-spot/imx-USDT"
+    },
+    {
+        "symbol": "COMPUSDT",
+        "bid_price": "45.07",
+        "ask_price": "45.1",
+        "volume": 692899.47594936,
+        "link": "https://www.okx.com/ua/trade-spot/comp-USDT"
+    },
+    {
+        "symbol": "ALGOUSDT",
+        "bid_price": "0.214",
+        "ask_price": "0.2141",
+        "volume": 3271975.601232791,
+        "link": "https://www.okx.com/ua/trade-spot/algo-USDT"
+    },
+    {
+        "symbol": "WAVESUSDT",
+        "bid_price": "2.262",
+        "ask_price": "2.264",
+        "volume": 1980238.7313113513,
+        "link": "https://www.okx.com/ua/trade-spot/waves-USDT"
+    },
+    {
+        "symbol": "GARIUSDT",
+        "bid_price": "0.0522",
+        "ask_price": "0.0525",
+        "volume": 37803.3154076716,
+        "link": "https://www.okx.com/ua/trade-spot/gari-USDT"
+    },
+    {
+        "symbol": "DASHUSDT",
+        "bid_price": "61.18",
+        "ask_price": "61.19",
+        "volume": 4868486.73870341,
+        "link": "https://www.okx.com/ua/trade-spot/dash-USDT"
+    },
+    {
+        "symbol": "HEGICUSDT",
+        "bid_price": "0.01953",
+        "ask_price": "0.01971",
+        "volume": 42000.6692731105,
+        "link": "https://www.okx.com/ua/trade-spot/hegic-USDT"
+    },
+    {
+        "symbol": "LEOUSDT",
+        "bid_price": "3.382",
+        "ask_price": "3.389",
+        "volume": 57968.51420577,
+        "link": "https://www.okx.com/ua/trade-spot/leo-USDT"
+    },
+    {
+        "symbol": "ENJUSDT",
+        "bid_price": "0.434",
+        "ask_price": "0.4342",
+        "volume": 1745020.6007274594,
+        "link": "https://www.okx.com/ua/trade-spot/enj-USDT"
+    },
+    {
+        "symbol": "VRAUSDT",
+        "bid_price": "0.00604",
+        "ask_price": "0.00606",
+        "volume": 284264.96133504336,
+        "link": "https://www.okx.com/ua/trade-spot/vra-USDT"
+    },
+    {
+        "symbol": "GLMUSDT",
+        "bid_price": "0.2381",
+        "ask_price": "0.2389",
+        "volume": 175786.0133887538,
+        "link": "https://www.okx.com/ua/trade-spot/glm-USDT"
+    },
+    {
+        "symbol": "KANUSDT",
+        "bid_price": "0.001159",
+        "ask_price": "0.001169",
+        "volume": 96949.8605152366,
+        "link": "https://www.okx.com/ua/trade-spot/kan-USDT"
+    },
+    {
+        "symbol": "RADARUSDT",
+        "bid_price": "0.01393",
+        "ask_price": "0.01396",
+        "volume": 242984.61955983,
+        "link": "https://www.okx.com/ua/trade-spot/radar-USDT"
+    },
+    {
+        "symbol": "CEEKUSDT",
+        "bid_price": "0.09458",
+        "ask_price": "0.09524",
+        "volume": 156504.142901121,
+        "link": "https://www.okx.com/ua/trade-spot/ceek-USDT"
+    },
+    {
+        "symbol": "XCHUSDT",
+        "bid_price": "36.29",
+        "ask_price": "36.32",
+        "volume": 885899.19418858,
+        "link": "https://www.okx.com/ua/trade-spot/xch-USDT"
+    },
+    {
+        "symbol": "COREUSDT",
+        "bid_price": "2.8069",
+        "ask_price": "2.808",
+        "volume": 5965565.736085,
+        "link": "https://www.okx.com/ua/trade-spot/core-USDT"
+    },
+    {
+        "symbol": "QOMUSDT",
+        "bid_price": "0.0000000709",
+        "ask_price": "0.0000000711",
+        "volume": 194117.6214880119,
+        "link": "https://www.okx.com/ua/trade-spot/qom-USDT"
+    },
+    {
+        "symbol": "JSTUSDT",
+        "bid_price": "0.02654",
+        "ask_price": "0.02655",
+        "volume": 1378742.9394292943,
+        "link": "https://www.okx.com/ua/trade-spot/jst-USDT"
+    },
+    {
+        "symbol": "FAIRUSDT",
+        "bid_price": "0.001552",
+        "ask_price": "0.001557",
+        "volume": 123846.62588469427,
+        "link": "https://www.okx.com/ua/trade-spot/fair-USDT"
+    },
+    {
+        "symbol": "1INCHUSDT",
+        "bid_price": "0.5032",
+        "ask_price": "0.5033",
+        "volume": 1652701.2354661806,
+        "link": "https://www.okx.com/ua/trade-spot/1inch-USDT"
+    },
+    {
+        "symbol": "PERPUSDT",
+        "bid_price": "1.001",
+        "ask_price": "1.002",
+        "volume": 2106017.346539973,
+        "link": "https://www.okx.com/ua/trade-spot/perp-USDT"
+    },
+    {
+        "symbol": "ROADUSDT",
+        "bid_price": "0.000807",
+        "ask_price": "0.000808",
+        "volume": 138718.27597245382,
+        "link": "https://www.okx.com/ua/trade-spot/road-USDT"
+    },
+    {
+        "symbol": "PSTUSDT",
+        "bid_price": "0.01082",
+        "ask_price": "0.01093",
+        "volume": 118930.47635154358,
+        "link": "https://www.okx.com/ua/trade-spot/pst-USDT"
+    },
+    {
+        "symbol": "PCIUSDT",
+        "bid_price": "0.241",
+        "ask_price": "0.2429",
+        "volume": 47355.022569,
+        "link": "https://www.okx.com/ua/trade-spot/pci-USDT"
+    },
+    {
+        "symbol": "ZKSUSDT",
+        "bid_price": "0.0659",
+        "ask_price": "0.066",
+        "volume": 74555.5921676125,
+        "link": "https://www.okx.com/ua/trade-spot/zks-USDT"
+    },
+    {
+        "symbol": "NEARUSDT",
+        "bid_price": "1.972",
+        "ask_price": "1.973",
+        "volume": 3838027.698775074,
+        "link": "https://www.okx.com/ua/trade-spot/near-USDT"
+    },
+    {
+        "symbol": "ANTUSDT",
+        "bid_price": "2.334",
+        "ask_price": "2.337",
+        "volume": 276775.938553996,
+        "link": "https://www.okx.com/ua/trade-spot/ant-USDT"
+    },
+    {
+        "symbol": "PPTUSDT",
+        "bid_price": "0.1069",
+        "ask_price": "0.1073",
+        "volume": 53325.7588110456,
+        "link": "https://www.okx.com/ua/trade-spot/ppt-USDT"
+    },
+    {
+        "symbol": "XETAUSDT",
+        "bid_price": "0.05087",
+        "ask_price": "0.05118",
+        "volume": 57245.445853361,
+        "link": "https://www.okx.com/ua/trade-spot/xeta-USDT"
+    },
+    {
+        "symbol": "BORINGUSDT",
+        "bid_price": "0.00329",
+        "ask_price": "0.00331",
+        "volume": 82213.37343090525,
+        "link": "https://www.okx.com/ua/trade-spot/boring-USDT"
+    },
+    {
+        "symbol": "DEPUSDT",
+        "bid_price": "0.00404",
+        "ask_price": "0.00405",
+        "volume": 3736352.4878372718,
+        "link": "https://www.okx.com/ua/trade-spot/dep-USDT"
+    },
+    {
+        "symbol": "AKITAUSDT",
+        "bid_price": "0.0000002109",
+        "ask_price": "0.000000211",
+        "volume": 187245.8879973785,
+        "link": "https://www.okx.com/ua/trade-spot/akita-USDT"
+    },
+    {
+        "symbol": "JFIUSDT",
+        "bid_price": "38.1",
+        "ask_price": "38.16",
+        "volume": 128917.37449036,
+        "link": "https://www.okx.com/ua/trade-spot/jfi-USDT"
+    },
+    {
+        "symbol": "ONEUSDT",
+        "bid_price": "0.01862",
+        "ask_price": "0.01863",
+        "volume": 268238.9354021861,
+        "link": "https://www.okx.com/ua/trade-spot/one-USDT"
+    },
+    {
+        "symbol": "MKRUSDT",
+        "bid_price": "908",
+        "ask_price": "908.4",
+        "volume": 2071003.006453759,
+        "link": "https://www.okx.com/ua/trade-spot/mkr-USDT"
+    },
+    {
+        "symbol": "LITHUSDT",
+        "bid_price": "0.000932",
+        "ask_price": "0.000936",
+        "volume": 44840.44902893528,
+        "link": "https://www.okx.com/ua/trade-spot/lith-USDT"
+    },
+    {
+        "symbol": "FLOKIUSDT",
+        "bid_price": "0.000043597",
+        "ask_price": "0.000043599",
+        "volume": 8932661.485646673,
+        "link": "https://www.okx.com/ua/trade-spot/floki-USDT"
+    },
+    {
+        "symbol": "GALFTUSDT",
+        "bid_price": "4.951",
+        "ask_price": "4.99",
+        "volume": 178338.4332138,
+        "link": "https://www.okx.com/ua/trade-spot/galft-USDT"
+    },
+    {
+        "symbol": "KP3RUSDT",
+        "bid_price": "86.21",
+        "ask_price": "86.32",
+        "volume": 107398.13070839,
+        "link": "https://www.okx.com/ua/trade-spot/kp3r-USDT"
+    },
+    {
+        "symbol": "GALAUSDT",
+        "bid_price": "0.03717",
+        "ask_price": "0.03719",
+        "volume": 6043502.421254608,
+        "link": "https://www.okx.com/ua/trade-spot/gala-USDT"
+    },
+    {
+        "symbol": "AVAXUSDT",
+        "bid_price": "16.04",
+        "ask_price": "16.06",
+        "volume": 3391551.87418439,
+        "link": "https://www.okx.com/ua/trade-spot/avax-USDT"
+    },
+    {
+        "symbol": "MASKUSDT",
+        "bid_price": "3.782",
+        "ask_price": "3.785",
+        "volume": 48669054.959281094,
+        "link": "https://www.okx.com/ua/trade-spot/mask-USDT"
+    },
+    {
+        "symbol": "MCOUSDT",
+        "bid_price": "3.5",
+        "ask_price": "3.54",
+        "volume": 233609.86939009,
+        "link": "https://www.okx.com/ua/trade-spot/mco-USDT"
+    },
+    {
+        "symbol": "GLMRUSDT",
+        "bid_price": "0.3885",
+        "ask_price": "0.389",
+        "volume": 748777.120825909,
+        "link": "https://www.okx.com/ua/trade-spot/glmr-USDT"
+    },
+    {
+        "symbol": "STXUSDT",
+        "bid_price": "0.67",
+        "ask_price": "0.6707",
+        "volume": 6070925.908041547,
+        "link": "https://www.okx.com/ua/trade-spot/stx-USDT"
+    }
+]
